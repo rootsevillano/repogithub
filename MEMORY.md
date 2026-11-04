@@ -129,13 +129,14 @@ type Entry = {
 ## 5. Registro de cambios
 
 - **2026-11-04** — Inspección de `archivos/` (10 .txt + 2 .jpeg), taxonomía y arquitectura propuestas, `MEMORY.md` inicializado.
-- **2026-11-04** — Propuesta aprobada. Implementado: scaffold Vite/React/TS, esquema zod, ingesta con reparación de codificación, 612 entradas en `/data`, 54 recursos + prompt extraídos de las imágenes, feed/buscador/filtros/detalle, panel de edición local, validación y workflow de GitHub Pages. Verificado en navegador: búsqueda, ficha, edición → escritura en JSON → recarga, re-ingesta conserva la edición, layout móvil sin scroll horizontal. Sin commits todavía.
+- **2026-11-04** — Propuesta aprobada. Implementado: scaffold Vite/React/TS, esquema zod, ingesta con reparación de codificación, 612 entradas en `/data`, 54 recursos + prompt extraídos de las imágenes, feed/buscador/filtros/detalle, panel de edición local, validación y workflow de GitHub Pages. Verificado en navegador: búsqueda, ficha, edición → escritura en JSON → recarga, re-ingesta conserva la edición, layout móvil sin scroll horizontal. Commit 5f27836 en main.
+- **2026-11-04** — GitHub Pages activado (build_type: workflow). Despliegue OK: https://rootsevillano.github.io/repogithub/ (verificado en navegador, modo sólo lectura).
 
 ## 6. Estado y próximos pasos
 
-**Estado:** MVP funcional en local (`npm run dev` → http://127.0.0.1:5173). Pendiente de commit/push y de activar Pages.
+**Estado:** MVP publicado en https://rootsevillano.github.io/repogithub/ · edición local con `npm run dev`.
 
-1. Commit + push; activar GitHub Pages (Source: GitHub Actions).
+1. (Hecho) Commit + push y GitHub Pages activado.
 2. Curar las 80 entradas `review` (filtro "Incluir pendientes de revisión" en el feed): añadir descripciones, resolver `lnkd.in`.
 3. Reescribir en tono neutro los títulos tipo clickbait de `prompts`/`conceptos` (p. ej. "ÚLTIMA HORA: …").
 4. Opcional: dividir los packs de prompts en prompts individuales copiables.
