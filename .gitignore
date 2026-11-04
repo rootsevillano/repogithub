@@ -1,13 +1,6 @@
-# Intermedios regenerables con tools/gis/extract_catastro_buildings.py
-data/processed/*
-!data/processed/.gitkeep
+archivos/
+# Ignorar todos los archivos con extensión .md
+AGENTE.md
 
-__pycache__/
-
-# Dependencias del visor
-node_modules/
-app/dist/
-
-# Capa lógica y map-packs para WorldOpen: regenerables; el map-pack se publica como Release (WorldOpen D7)
-data/export/logic/
-data/export/mappack/
+# Excluir README.md (no ignorarlo)
+!README.md
