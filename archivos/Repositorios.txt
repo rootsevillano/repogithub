@@ -1,0 +1,3054 @@
+pi
+Una API unificada de LLM con bucles de agentes, soporte multi-proveedor y una TUI integrada para crear tu propio agente de codificación.
+https://github.com/earendil-works/pi
+
+9. claude-video
+Pasa una URL de video a Claude y extrae automáticamente fotogramas, transcribe audio y analiza videos largos.
+https://github.com/bradautomates/claude-video
+
+10. DesktopCommanderMCP
+Dale a Claude acceso completo a la terminal y al sistema de archivos a través de MCP para editar archivos y ejecutar comandos sin un IDE.
+https://github.com/wonderwhy-er/DesktopCommanderMCP
+
+
+
+
+
+
+🚨PUEDES USAR CLAUDE CODE GRATIS!
+Un loco creó un repositorio en GitHub para usar Claude code completamente GRATIS y PARA SIEMPRE.
+Su método: Redirige todo el tráfico automáticamente a 10 proveedores gratuitos como DeepSeek y Kimi.
+Tardas 5 minutos en configurarlo.
+Ya tiene más de 40.000 estrellas en GitHub.
+Dejo el enlace al repo en los comentarios👇🏻
+https://github.com/alishahryar1/free-claude-code
+
+
+
+🚨 HAN CREADO UNA ALTERNATIVA OPEN SOURCE A CLAUDE DESIGN
+Se llama Open Design y convierte tus agentes de IA en un auténtico estudio de diseño local. 🎨
+→Sin depender de una sola IA.
+→Sin encerrarte en una plataforma.
+→Open source y local-first.
+Esto es lo que puedes hacer:
+→ Crear prototipos web, desktop y mobile
+→ Generar landing pages y dashboards
+→ Crear presentaciones, imágenes y vídeos
+→ Usar sistemas de diseño de marcas reales
+→ Exportar a HTML, PDF, PPTX y MP4
+→ Conectar Claude Code, Codex, Cursor, Gemini y muchos más
+Lo más interesante:
+Tu coding agent se convierte en tu diseñador. 
+Es como juntar un agente de programación + Figma + un sistema de diseño en una sola herramienta.
+Y todo está en GitHub.
+De esos proyectos que parecen pequeños hasta que te das cuenta de TODO lo que pueden hacer.
+https://github.com/nexu-io/open-design
+
+
+
+
+Repositorio con cientos de herramientas de seguridad para IA en un repositorio open source.
+Muestran técnicas y herramientas para poner a prueba sistemas de IA:
+↳ Frameworks de jailbreak para LLMs
+↳ Testers de prompt injection
+↳ Agentes de red team para IA
+↳ Herramientas de extracción de modelos
+↳ Vectores de ataque a la supply chain
+↳ Pentesting automatizado para aplicaciones con IA
+Las MISMAS herramientas que usan los equipos de seguridad para defender sistemas.
+Ahora están disponibles para cualquiera.
+https://github.com/scadastrangelove/awesome-ai-security-tools
+
+
+
+
+OpenCut
+Un editor de vídeo abierto, construido con una arquitectura modular basada en plugins.
+Sin marcas de agua.
+Sin cuotas mensuales.
+Sin funciones bloqueadas.
+Instalarlo es bastante sencillo:
+→ Clona el repositorio de GitHub
+→ Instala las dependencias
+→ Ejecuta la versión clásica, que ya está disponible
+→ Prueba la nueva versión en new .opencut .app
+https://github.com/OpenCut-app/OpenCut
+
+
+
+
+Con un solo comando puedes encontrar todas las cuentas de un usuario en Internet.
+Han creado una herramienta llamada Sherlock que permite localizar perfiles asociados a un mismo nombre de usuario en más de 400 plataformas.
+Esto es lo que incluye:
+→ Búsqueda de usuarios con un solo comando
+→ Consulta de varios nombres de usuario al mismo tiempo
+→ Exportación de resultados en TXT, CSV y Excel
+→ Filtros para buscar únicamente en las plataformas que te interesan
+→ Guardado automático de los resultados
+Lo más interesante:
+Es una herramienta muy utilizada para investigaciones OSINT, análisis de huella digital, ciberseguridad e inteligencia de amenazas.
+Ya supera las 82.400 estrellas en GitHub, es completamente gratuita y open-source.
+https://github.com/sherlock-project/sherlock
+
+
+
+Existe un clon open source de Claude Design y es completamente gratis.
+​Se llama Open Design.
+​Lo que te permite hacer:
+• Diseñar UI/UX a partir de prompts simples
+• Pasar de idea a prototipo. funcional en segundos.
+• Automatizar workflows sin pagar suscripciones ni límites.
+​Para devs, indie hackers y creadores de contenido.
+https://github.com/nexu-io/open-design
+
+
+
+
+
+Se llama LightOnOCR-2-1B, tiene 1.000 millones de parámetros y convierte documentos desordenados en texto limpio y estructurado: PDFs, Documentos escaneados, Fotografías, Tablas complejas, Formularios, Recibos, Ecuaciones matemáticas, Artículos científicos, Diseños con varias columnas...
+Y no utiliza la típica cadena llena de herramientas separadas, es un modelo visual end-to-end.
+Recibe la imagen del documento y genera directamente el contenido en el orden correcto.
+Lo sorprendente es su tamaño, solo tiene 1B parámetros, pero sus creadores aseguran que alcanza resultados de estado del arte en OlmOCR-Bench, siendo aproximadamente 9 veces más pequeño que modelos anteriores de referencia.
+También es mucho más rápido:
+→ 3,3 veces más rápido que Chandra OCR
+→ 1,7 veces más rápido que OlmOCR
+→ 5 veces más rápido que dots.ocr
+→ 1,73 veces más rápido que DeepSeekOCR
+Puedes ejecutarlo localmente, el proyecto tiene licencia Apache 2.0, admite fine-tuning con LoRA y ya supera las 322.000 descargas en un mes en Hugging Face.
+https://github.com/TheAwaken1/LightOnOCR-2-1B-Pinokio
+
+
+
+
+
+¡Esta herramienta es increíble!
+Edita tus videos por completo… y lo mejor es que es gratuita.
+A través de ella puedes:
+Eliminar el audio original del video.
+Transcribir el audio a texto.
+Traducir el contenido a más de 100 idiomas.
+Clonar la voz del hablante original.
+Se llama Voice-Pro.
+Y funciona localmente en tu dispositivo (Local), lo que significa que tus datos se quedan contigo, y es completamente gratuita.
+https://github.com/abus-aikorea/voice-pro
+
+
+
+
+
+Desarrolladores chinos acaban de soltar en abierto una herramienta que genera videos de personas hablando de forma hiperrealista… ¡con solo una foto!
+Mientras las plataformas de avatares IA te cobran suscripción mensuales carísimas,
+esta es 100% gratis y de código abierto.
+Solo subes una imagen.
+Añades un audio.
+Y te escupe un video hablado que puede durar varios minutos… y se ve brutal.
+Lo más loco no es solo la calidad.
+Es lo fácil que se ha vuelto.
+Cualquiera puede crear ahora mismo videos que hace poco necesitaban software profesional o un equipo de producción completo.
+El ritmo de la IA está volviendo loco a todo el mundo.
+Dejo el repo abajo por si quieres ver cómo funciona.
+https://github.com/meituan-longcat/LongCat-Video
+
+
+
+
+10 repositorios de GitHub tan buenos que probablemente no deberían ser gratuitos.
+
+1. OmniRoute
+Un solo endpoint. 231 proveedores de IA. Más de 50 proveedores de nivel gratuito.
+Conecta Claude Code, Codex, Cursor y Cline a Claude, GPT y Gemini de forma gratuita.
+Comprime tokens en un 15–95% con fallback automático si un proveedor falla.
+GitHub:
+https://github.com/diegosouzapw/OmniRoute
+
+2. OfficeCLI
+La primera suite de Office construida para agentes de IA.
+Controla Word, Excel y PowerPoint desde una sola línea de comandos.
+Sin instalación de Microsoft Office. Sin dependencias. Solo un binario.
+GitHub:
+https://github.com/iOfficeAI/OfficeCLI
+
+3. System Prompts Leaks
+Prompts de sistema filtrados de Claude, GPT, Gemini, Grok, Cursor, Copilot y más.
+Actualizados regularmente.
+GitHub:
+https://github.com/asgeirtj/system_prompts_leaks
+
+4. OpenCut
+Una alternativa de código abierto a CapCut que se ejecuta en tu navegador.
+Sin cuenta. Sin telemetría. Sin suscripción.
+GitHub:
+https://github.com/OpenCut-app/OpenCut
+
+5. AI Job Search
+Un agente impulsado por Claude Code que aplica a trabajos por ti.
+Analiza ofertas, adapta tu currículum, escribe cartas de presentación y prepara preguntas de entrevista.
+GitHub:
+https://github.com/MadsLorentzen/AI-Job-Search
+
+6. Meetily
+Una herramienta completamente local de transcripción y resumen de reuniones impulsada por Whisper y Ollama.
+Construida en Rust.
+GitHub:
+https://github.com/zaid-maker/meetily
+
+7. Vibe-Trading
+Usa lenguaje natural y agentes de IA para construir y ejecutar estrategias de trading.
+GitHub:
+https://github.com/HKUDS/Vibe-Trading
+
+8. Strix
+Un escáner de vulnerabilidades de código abierto impulsado por IA.
+Encuentra y ayuda a corregir problemas de seguridad antes de que lo hagan los atacantes.
+GitHub:
+https://github.com/usestrix/strix
+
+9. Superpower
+Un espacio de trabajo de IA autoalojado con más de 250k estrellas en GitHub.
+GitHub:
+https://github.com/superpowerlabs/superpower
+
+
+
+
+
+¿buscando una alternativa a ElevenLabs que sea gratuita y se ejecute en tu propio equipo? 
+te presento VoiceBox. 
+esta herramienta corre 100% en local (garantizando que tus datos no salgan de tu PC) y ofrece características brutales para creadores de contenido, podcasters y desarrolladores:
+clonación ultrarrápida: Solo necesitas unos segundos de muestra de audio.
+multilingüe: Soporte para 23 idiomas.
+flexibilidad: 5 motores TTS diferentes + efectos de audio.
+edición vanzada: Interfaz tipo DAW con línea de tiempo, perfecta para montar conversaciones o episodios completos.
+la adopción de este tipo de herramientas de código abierto va a ser masiva.
+
+https://github.com/jamiepine/voicebox
+
+
+
+
+📊 Aprende Ciencia de Datos e IA con Microsoft GRATIS ahora 
+
+4 repositorios con todo el contenido:
+→ Data Science For Beginners			https://github.com/microsoft/Data-Science-For-Beginners
+→ Generative AI For Beginners			https://github.com/microsoft/generative-ai-for-beginners
+→ ML For Beginners						https://github.com/microsoft/ml-for-beginners
+→ AI For Beginners						https://github.com/microsoft/ai-for-beginners
+
+
+
+Este repo es una joya: tutoriales crear agentes de IA. Listos para producción y con casos de uso reales. Todo el código disponible y explica cómo desplegarlos:
+https://github.com/NirDiamant/agents-towards-production
+
+
+
+
+
+CyberSentinel AI: 33 herramientas de seguridad con Claude y GPT
+Plataforma de ciberseguridad de código abierto diseñada para el análisis autónomo de seguridad
+https://github.com/3sk1nt4n/cybersentinel-ai
+
+
+
+
+aquí te dejo 10 repos de Github que pueden ayudarte a generar dinero mientras duermes🙇🏻‍♂️
+
+1) AutoHedge: https://github.com/The-Swarm-Corporation/AutoHedge 
+2) Vibe - trading: https://github.com/HKUDS/Vibe-Trading 
+3) Claude Ads: https://github.com/AgriciDaniel/claude-ads 
+4) Tporank: https://github.com/nowork-studio/NotFair 
+5) Fincept Terminal: https://github.com/Fincept-Corporation/FinceptTerminal
+6) Agentic Inbox: https://github.com/cloudflare/agentic-inbox
+7) Claw Router: https://github.com/BlockRunAI/ClawRouter 
+8) Comofox Browser: https://github.com/jo-inc/camofox-browser 
+9) Hyperframes: https://github.com/heygen-com/hyperframes 
+10) Open Higgsfield AI: https://github.com/Anil-matcha/Open-Generative-AI 
+
+
+
+
+🚨 EL MEJOR SKILL PARA CLAUDE.
+Ahora puedes usar Claude todo el día sin agotar el límite de tokens.
+Este skill genera el PROMPT PERFECTO para cualquier IA:
+Más de 8.5k estrellas en GitHub, gratis y open source. Retención completa del contexto y la memoria. 
+No tendrás que volver a intentarlo para obtener una respuesta que deberías haber obtenido al primer intento.
+Funciona con ChatGPT, Claude Code, Gemini, MiniMax, Perplexity, Midjourney y cualquier herramienta de IA que le añadas.
+Así es cómo funciona:
+- Prompt Master ejecuta un proceso estructurado en cada solicitud:
+1. Detecta la herramienta de destino: determina para qué sistema de IA es la solicitud y la dirige automáticamente al enfoque correcto.
+2. Extrae 9 dimensiones de la intención: tarea, entrada, salida, restricciones, contexto, audiencia, memoria, criterios de éxito y ejemplos.
+3. Formula preguntas aclaratorias específicas: un máximo de 3 preguntas si falta información crítica, nunca más.
+4. Dirige al marco de trabajo adecuado: selecciona y aplica automáticamente la arquitectura de solicitud correcta, sin mostrarla al usuario.
+5. Aplica únicamente técnicas seguras: asignación de roles, ejemplos con pocos ejemplos, estructura XML, anclajes de referencia y bloqueo de memoria según sea necesario.
+6. Realiza una auditoría de eficiencia de tokens: elimina todas las palabras que no modifican el resultado.
+7. Entrega la solicitud: un bloque limpio y copiable con una breve nota estratégica de una línea.
+Repo: https://github.com/nidhinjs/prompt-master
+
+
+
+
+Los 10 repositorios de IA que más han subido esta semana en GitHub:
+
+1. headroom
+Comprime bloques de salida de herramientas, logs, archivos y RAG antes de pasarlos a la IA. Incluso reduciendo los tokens en un 60-95%, las respuestas no cambian. Se puede usar como biblioteca, proxy o servidor MCP.
+https://github.com/chopratejas/headroom
+
+2. hermes-agent
+Agente de IA autorregenerativo que se vuelve más inteligente cuanto más se usa (de Nous Research). Crea sus propias habilidades, retiene memoria entre sesiones y es compatible con más de 200 modelos, así como integraciones con Telegram y Slack.
+https://github.com/NousResearch/hermes-agent
+
+3. ECC
+Mejora de forma integral entornos de agentes como Claude Code, Cursor y Codex. Empaqueta habilidades, memoria y seguridad en uno solo, con 64 agentes + 261 habilidades incluidas.
+https://github.com/affaan-m/ECC
+
+4. codegraph
+Grafica el código primero en un grafo de conocimiento para que la IA no tenga que buscar archivos cada vez. En benchmarks, reduce tokens en un 47% promedio y llamadas a herramientas en un 58%, con funcionamiento completamente local.
+https://github.com/colbymchenry/codegraph
+
+5. last30days-skill
+Investiga transversalmente Reddit, X, YouTube, Hacker News y la web en cualquier tema, y resume con evidencia. Habilidad para agentes de IA que prioriza información con mayor repercusión.
+https://github.com/mvanhorn/last30days-skill
+
+6. MoneyPrinterTurbo
+Introduce una palabra clave y genera un video corto completo. Crea guion, materiales, subtítulos y BGM automáticamente; soporta formatos verticales 9:16 y horizontales 16:9.
+https://github.com/harry0703/MoneyPrinterTurbo
+
+7. VoxCPM
+Motor de síntesis de voz (lectura en voz alta) compatible con múltiples idiomas. Desde diseño de voces hasta imitaciones idénticas a la persona real.
+https://github.com/OpenBMB/VoxCPM
+
+8. Agent-Reach
+CLI que da a los agentes de IA "ojos" para navegar por internet. Lee transversalmente X, Reddit, YouTube, GitHub, Bilibili y Xiaohongshu, y funciona sin cargos por claves API.
+https://github.com/Panniantong/Agent-Reach
+
+9. Open-LLM-VTuber
+VTuber con el que puedes conversar usando tu modelo de IA y voz favoritos. Soporta manos libres, interrupciones en el habla y rostros Live2D que se mueven localmente.
+https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
+
+10. PaddleOCR
+Convierte PDFs e imágenes en datos estructurados que la IA puede manejar directamente. Kit de herramientas OCR ligero y compatible con más de 100 idiomas.
+https://github.com/PADDLEPADDLE/PADDLEOCR
+
+
+Finalmente encontré una herramienta de código abierto que puede reemplazar a Wireshark.
+Sniffnet, con 37.000 estrellas en GitHub, ha convertido el monitoreo de red en algo que hasta un usuario común puede entender.
+La primera reacción de muchas personas al abrir Wireshark es:
+No lo entiendo, lo cierro directamente.
+Pero Sniffnet es completamente diferente.
+Muestra en tiempo real el tráfico de subida y bajada, hosts conectados, dominios visitados, ubicación geográfica de IP, e incluso te permite ver qué software está conectándose a escondidas. Soporta filtrado de tráfico, importación y exportación de PCAP, y monitoreo de múltiples tarjetas de red.
+Lo más importante es que la interfaz es extremadamente cómoda.
+No necesitas estudiar reglas de captura de paquetes, ni aprender comandos complejos; al abrirlo, ves inmediatamente con quién está comunicándose tu computadora. Muchos usuarios lo usan directamente como una alternativa gratuita a GlassWire. (Windows Central￼)
+Compatible con Windows, macOS y Linux, escrito en Rust, con un consumo de recursos mínimo. (GitHub￼)
+Para quienes suelen experimentar con proxies, NAS, Docker o servidores, esta herramienta es absolutamente imprescindible en cualquier instalación.
+https://github.com/GyulyVGC/sniffnet
+
+
+
+
+👋 ADIOS Adobe Acrobat Pro
+👋 ADIOS PDF Expert
+
+No pagues por editar PDFs.
+
+Stirling PDF es GRATIS y lo hace todo:
+
+- unir PDFs
+- dividirlos
+- comprimirlos
+- convertirlos
+- firmarlos
+- censurar información
+- OCR
+- reorganizar páginas
+- añadir/quitar contraseñas
+
+https://github.com/Stirling-Tools/Stirling-PDF
+
+
+
+👋🏼ADIÓS a pagar OCR para leer PDFs!
+Estás mandando TODOS tus PDFs a un servicio de OCR.
+Y más de la mitad NO lo necesitan.
+Firecrawl ha soltado pdf-inspector:
+Una librería en Rust que mira el PDF en 20 milisegundos y te dice si hace falta OCR o no.
+→ Si tiene texto: lo extrae en local en 150 ms y ya está
+→ Si está escaneado: lo mandas a OCR
+Y no es todo o nada. 
+Te devuelve la lista exacta de páginas que necesitan OCR, para que mandes tres páginas en vez del documento entero.
+Además te lo convierte a Markdown limpio, detectando solo:
+→ Titulares por tamaño de fuente
+→ Tablas (incluidas las financieras y las que siguen en la página siguiente)
+→ Bloques de código por fuente monoespaciada
+→ Listas, negritas, cursivas y enlaces
+→ Columnas tipo periódico en el orden correcto
+→ Palabras partidas con guión al final de línea
+En su benchmark contra 200 PDFs le gana a pymupdf4llm y markitdown, y hace el corpus entero en 0,47 segundos frente a los 17 de pymupdf4llm.
+Sin modelos de IA.
+Sin servicios externos.
+Y va desde Python, Node, Rust, CLI y hasta en el navegador con WebAssembly.
+https://github.com/firecrawl/pdf-inspector
+
+
+
+
+
+Conviértete en Científico de Datos GRATIS
+
+No necesitas un bootcamp costoso para comenzar tu viaje en ciencia de datos.
+
+Aquí hay recursos de GitHub para ayudarte a pasar de principiante → Científico de Datos listo para el trabajo 👇
+
+1. Aprendizaje Basado en Proyectos
+   https://github.com/practical-tutorials/project-based-learning
+
+2. Ejercicios Básicos de Python
+   https://github.com/realpython/python-basics-exercises
+
+3. Machine Learning Casero
+   https://github.com/trekhleb/homemade-machine-learning
+
+4. Estadística para Machine Learning
+   https://github.com/PacktPublishing/Statistics-for-Machine-Learning
+
+5. Pandas
+   https://github.com/pandas-dev/pandas
+
+6. Hojas de Trucos de Matplotlib
+   https://github.com/matplotlib/cheatsheets
+
+7. Machine Learning Impresionante
+   https://github.com/josephmisiti/awesome-machine-learning
+
+8. Machine Learning Práctico
+   https://github.com/ageron/handson-ml3
+
+9. Deep Learning Impresionante
+   https://github.com/ChristosChristofidis/awesome-deep-learning
+
+10. ML para Principiantes
+    https://github.com/microsoft/ML-For-Beginners
+
+11. +500 Proyectos de IA & ML
+    https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+12. Piensa en Estadística
+    https://github.com/AllenDowney/ThinkStats2
+
+13. Data Engineering Zoomcamp
+    https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+14. Base de Datos SQL Chinook
+    https://github.com/lerocha/chinook-database
+
+15. Hoja de Ruta del Científico de Datos
+    https://github.com/MrMimic/data-scientist-roadmap
+
+16. Preguntas de Entrevista para ML & Ciencia de Datos
+    https://github.com/andrewekhalel/MLQuestions
+
+Aprende Python → Estadística → Análisis de Datos → ML → Proyectos.
+
+Luego construye un portafolio y comienza a postularte. 🚀
+
+
+
+
+
+
+🚨 ¡LA LOCURA MÁS GRANDE DEL AÑO! 🔥
+Cancelé mi suscripción a Higgsfield en el acto.
+Un repo GRATIS con casi 8K estrellas acaba de soltar un estudio completo de vídeo con IA que corre 100% en tu PC.
+Funciona con solo 6GB de VRAM… ¡hasta en GPUs viejas!
+Incluye Wan 2.2, LTX-2, Hunyuan Video y Flux integrados.
+Cero subidas a la nube, cero suscripciones, cero marcas de agua.
+Cómo lo montas en 3 pasos:
+Clonas el repo
+Ejecutas el instalador de un solo clic
+Abres el navegador y generas
+No vas a encontrar nada GRATUITO mejor que esto en todo 2026.
+¡Comparte ya antes de que explote!
+https://github.com/deepbeepmeep/Wan2GP
+
+
+
+🚨 Este es el mejor bot de IA para reuniones:
+👋 NO MÁS OTTER
+👋 NO MÁS FIREFLIES
+👋 NO MÁS GRANOLA
+Mantén tu PRIVACIDAD GRATIS.
+Utiliza Meetily, un repo open-source.
+Puede:
+- Grabar tus reuniones.
+- Transcribir automáticamente todo lo que se dice.
+- Crear resúmenes de la conversación.
+- Ejecutar modelos como Whisper y Ollama.
+- Mantener tus grabaciones y datos en tu propio ordenador.
+Te dejo el repositorio abajo: 👇
+https://github.com/Zackriya-Solutions/meetily
+
+
+
+
+La mayoría de las personas usan los marcadores de X como un cajón digital de trastos.
+Miles de publicaciones guardadas.
+Casi ninguna encontrada de nuevo.
+Siftly convierte ese desorden en algo realmente útil:
+Marcadores de X → IA → base de conocimientos buscable → mapa mental interactivo
+Extrae entidades, comprende imágenes, genera etiquetas semánticas, categoriza publicaciones y te permite buscar tus marcadores por significado.
+Lo mejor:
+Se queda en tu máquina.
+Código abierto.
+Autohospedado.
+Sin suscripción.
+Sin almacenamiento en la nube.
+Esto es lo que los marcadores de X deberían haber sido desde el primer día.
+https://github.com/viperrcrypto/Siftly
+
+
+
+
+OpenWiki — Setup a Privacy-First for Enterprises
+https://regolo.ai/openwiki-setup-a-privacy-first-for-enterprises/?twclid=22m8vq9ko63kuknxk6dh5q57gd
+
+
+
+🚨 Acaban de resolver uno de los mayores problemas de Claude Code.
+Han creado Graft, una herramienta que evita que el agente relea tu proyecto en cada tarea y reduce drásticamente el consumo de tokens, llamadas y tiempo.
+Es gratis, open-source y funciona completamente en local.
+Aquí te explico cómo funciona 👇
+
+1/ ¿Qué hace exactamente Graft?
+Graft crea un mapa vivo de tu repositorio para que Claude Code y otros agentes entiendan la arquitectura antes de empezar a trabajar.
+En lugar de releer archivos una y otra vez, genera nodos con resúmenes, relaciones, dependencias y fragmentos clave del código, y los mantiene sincronizados cuando el proyecto cambia.
+En 162 ejecuciones controladas consiguió reducir un 42% los tokens, un 46% las llamadas a herramientas, un 60% el tiempo y un 32% el coste, manteniendo la misma corrección.
+
+2/ ¿Cómo funciona?
+→ Analiza la estructura del proyecto y construye un grafo del código
+→ Genera una ficha en Markdown para cada parte relevante del sistema
+→ Guarda resúmenes, dependencias, archivos fuente y relaciones entre componentes
+→ Se integra con Claude Code, Cursor, Codex, Gemini, Copilot y otros agentes
+
+3/ ¿Cómo instalarlo?
+→ Ejecuta `npx @nanonets/graft init` dentro de tu proyecto
+→ Graft detecta los agentes que utilizas y te permite elegir cuáles quieres conectar
+→ En Claude Code añade su skill, servidor MCP, hooks y una barra de estado en tiempo real
+→ Si quieres resúmenes más profundos generados por un LLM, ejecuta `graft build --deep`
+
+https://github.com/nanonets/graft
+
+
+
+
+🚨ESTO ES LO MÁS CERCA QUE ESTÁS DE TENER UNA IMPRESORA DE DINERO (Y ES COMPLETAMENTE GRATIS)
+Un desarrollador chino acaba de soltar en GitHub una herramienta open source que ya supera las 100.000 estrellas.
+Se llama MoneyPrinterTurbo.
+Y es, literalmente, una máquina de crear videos listos para publicar en TikTok, Reels y YouTube Shorts sin que tú hagas casi nada.
+
+Cómo funciona (y por qué está rompiendo internet):
+1. Le das un tema o keyword  
+2. La IA genera el guion completo  
+3. Crea la locución automática  
+4. Genera subtítulos  
+5. Busca y coloca el material visual  
+6. Edita todo y te entrega el video terminado  
+
+Todo en un solo flujo. En minutos.
+Antes tenías que usar 5 o 6 herramientas distintas (cada una cobrando y robándote tiempo).  
+Ahora lo tienes TODO unificado, gratis e ilimitado.
+
+Los creadores que ya lo están usando están sacando entre 6.000 y 10.000 dólares al mes solo con Shorts y Reels.
+La diferencia es brutal:  
+Ellos pagan suscripciones.  
+Tú no pagas ni un centavo.
+
+https://github.com/harry0703/MoneyPrinterTurbo
+
+
+
+
+1/ public-apis
+456.000 estrellas - Más de 1.500 API gratuitas de todas las categorías, desde meteorología hasta finanzas y juegos, todas documentadas.
+https://github.com/public-apis/public-apis
+
+2/ awesome-selfhosted
+312.000 estrellas - Alternativas autoalojadas a Notion, Google Fotos, Zapier y docenas de suscripciones de pago.
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+3/ ollama
+178.000 estrellas: ejecuta Llama, Mistral y DeepSeek localmente con un solo comando. Sin cargos por API ni límites de uso.
+https://github.com/ollama/ollama
+
+4/ immich
+110.000 estrellas - Copia de seguridad de fotos y vídeos autogestionada con reconocimiento facial. Cancela tu plan de almacenamiento de Google Fotos.
+https://github.com/immich-app/immich
+
+5/ strapi
+73.000 estrellas - CMS headless de código abierto, genera una API completa a partir de tu modelo de contenido en minutos. Sin factura de Contentful.
+https://github.com/strapi/strapi
+
+6/ appwrite
+57.000 estrellas - Backend como servicio completo, autoalojado. Autenticación, base de datos, funciones, almacenamiento. A un paso de obtener ingresos con Firebase.
+https://github.com/appwrite/appwrite
+
+7/ novu
+39.000 estrellas - Infraestructura de notificaciones para correo electrónico, SMS, notificaciones push y notificaciones dentro de la aplicación, todo en una sola API. Reemplaza los planes de pago de OneSignal.
+https://github.com/novuhq/novu
+
+8/ ToolJet
+38.000 estrellas - Creador de herramientas interno con función de arrastrar y soltar, conectado a cualquier base de datos o API. Ya no se cobran las licencias de Retool.
+https://github.com/ToolJet/ToolJet
+
+9/ medusa
+36.000 estrellas - full ecommerce backend, open source. Skip Shopify Plus fees entirely on your next vibe-coded store.
+https://github.com/medusajs/medusa
+
+10/ Outline
+40.000 estrellas - Wiki y documentación de equipo rápidas y limpias. Reemplaza el plan de equipo de Confluence y Notion.
+https://github.com/outline/outline
+
+
+
+
+
+
+OmniRoute
+Un gateway de IA gratuito, con licencia MIT, que te proporciona un único punto de acceso para 340 proveedores y más de 1.200 modelos.
+Soporta Claude Code, Codex, Cursor, Cline, Copilot y más, con conmutación por error consciente de cuotas y compresión de tokens.
+https://github.com/diegosouzapw/OmniRoute
+
+Monitor Mundial
+Un panel de inteligencia global en tiempo real para rastrear noticias, eventos geopolíticos, infraestructura y riesgos emergentes desde una sola interfaz.
+Útil para cualquiera que esté construyendo conciencia situacional, investigación o flujos de trabajo de monitoreo.
+https://github.com/koala73/worldmonitor
+
+Router de Habilidades Inverso
+Un enrutador de habilidades impulsado por IA para ingeniería inversa, pruebas de penetración autorizadas y investigación de seguridad.
+Puede enrutar tareas, inicializar herramientas bajo demanda y construir una base de conocimientos que se auto-mejora a través de clientes como Claude Code, Cursor, Kiro y Cline.
+https://github.com/zhaoxuya520/reverse-skill
+
+SEO Abierto
+Una alternativa de código abierto a Semrush y Ahrefs.
+Está diseñado para desarrolladores, especialistas en marketing y fundadores que desean analizar la visibilidad en búsquedas, palabras clave, competidores y rendimiento SEO sin depender completamente de plataformas cerradas.
+https://github.com/every-app/open-seo
+
+Habilidades
+Una colección práctica de habilidades de agentes del propio directorio .agents de Matt Pocock.
+En lugar de indicaciones genéricas, se enfoca en flujos de trabajo reutilizables diseñados para tareas reales de ingeniería.
+https://github.com/mattpocock/skills
+
+Libro a Habilidad
+Convierte cualquier PDF de libro técnico en una habilidad de Claude Code.
+Convierte material técnico de formato largo en algo que tu agente de codificación pueda estudiar, consultar y usar mientras trabajas.
+https://github.com/virgiliojr94/book-to-skill
+
+Orca
+Un entorno de desarrollo de agentes para ejecutar una flota de agentes de codificación en paralelo.
+Funciona en entornos de escritorio, móviles y VPS, y te permite usar agentes de codificación compatibles con tus propias suscripciones.
+https://github.com/stablyai/orca
+
+DeepTutor
+Un sistema de código abierto para tutoría de IA personalizada y de por vida.
+Está diseñado para adaptarse al aprendiz con el tiempo en lugar de tratar cada sesión como una conversación nueva.
+https://github.com/HKUDS/DeepTutor
+
+
+
+
+5. ComfyUI
+⭐ 106K+ estrellas
+http://github.com/comfyanonymous/ComfyUI
+Generación de imágenes con IA en tu ordenador. Control total sobre cada paso del proceso.
+Sistema de nodos visuales donde conectas modelos, samplers, upscalers. Poder absoluto sobre la generación.
+Sustituye: Midjourney (120€/año) para uso local.
+
+7. OfficeCLI
+http://github.com/iOfficeAI/OfficeCLI
+Suite de Office para agentes de IA. Lee, edita y automatiza Word, Excel y PowerPoint.
+Un solo binario. Sin tener Office instalado. Sin licencias. Tu agente de IA crea presentaciones, edita hojas de cálculo y genera documentos.
+
+
+¡DeepSeek hace de código abierto su Agent Harness!
+144.000 estrellas en 4 días.
+Todo lo cambias a base de plugins:
+El modelo, las tools, el sandbox… hasta la UI.
+Compatible con DeepSeek, Claude, GPT, Gemini…
+→ https://github.com/deepseek-ai/deepseek-harness
+
+
+
+
+Te comparto 6 repos de AI Agents que estan explotando en github
+
+1. Agency agents — https://github.com/msitarzewski/agency-agents
+Agencia de IA completa con 232 sub agentes especializados en 16 areas
+
+2. Codebase memory mcp — https://github.com/DeusData/codebase-memory-mcp
+Convierte todo tu codebase en un knowledge graph ultra rapido. Soporta 158 lenguajes, reduce tokens mas del 99% y responde en milisegundos
+
+3. OpenMontage — https://github.com/calesthio/OpenMontage
+Convierte tu agente de coding en un estudio completo de produccion de videos. Planificacion, guion, assets, edicion y renderizado con solo prompts
+
+4. Agent-Reach — https://github.com/Panniantong/Agent-Reach
+Dale ojos a tu agente para navegar internet. Lee y busca en X, Reddit, YouTube, GitHub y mas. Todo gratis sin pagar APIs
+
+5. Orca — https://github.com/stablyai/orca
+Gestiona y ejecuta multiples agentes de coding en paralelo
+
+6. OmniRoute — https://github.com/diegosouzapw/OmniRoute
+Gateway gratuito que une 237 proveedores de IA (+90 gratis) en un solo endpoint. Reduce el consumo de tokens hasta un 95%
+
+
+
+
+1. https://github.com/microsoft/markitdown
+Convierte PDFs, Office, HTML e imágenes en markdown perfecto para alimentar cualquier IA.
+Microsoft lo abrió al público después de usarlo internamente.
+Empiezas con documentos sucios, terminas con datos que tu LLM puede leer.
+
+8. https://github.com/Genymobile/scrcpy
+Controla cualquier Android desde tu PC y automatiza apps que solo existen en móvil.
+130k+ estrellas.
+Acceso directo a plataformas mobile-only sin limitaciones.
+
+9. https://github.com/lwthiker/curl-impersonate
+Curl que imita perfectamente el fingerprint de navegadores reales (Chrome, Safari, Firefox).
+Tus requests parecen completamente humanos.
+El truco de bajo nivel que APIs caras cobran por usar. Open source.
+
+
+
+Converts, resizes, and edits video files entirely within the browser using ffmpeg-webCLI.
+https://github.com/tejaswigowda/ffmpeg-webCLI
+
+
+
+
+
+Herramienta que traduce y dobla el video completo de forma casi automática
+Si tienes un video en un idioma y quieres publicarlo para una audiencia global, esta herramienta te ahorra un montón de trabajo.
+Se llama KrillinAI, y su idea es que hace casi toda la cadena de trabajo de principio a fin.
+Empieza descargando el video, luego convierte el habla en texto, después lo traduce al idioma que elijas, y luego usa la conversión de texto a voz para hacer el doblaje del video en el nuevo idioma.
+Y soporta más de 100 idiomas, lo que la hace útil para creadores de contenido o empresas que quieren publicar el mismo video en varios países sin tener que reproducirlo manualmente cada vez.
+O sea, en vez de usar un programa para la transcripción, otro servicio para la traducción, y un tercero para el audio, te junta todos los pasos en un solo flujo.
+https://github.com/krillinai/KrillinAI
+
+
+
+🔥 Más de 50 proyectos de IA de código abierto listos para probar y desarrollar  
+Generación de imágenes y video, edición de imágenes, avatares, herramientas de escritura y más en un solo lugar  
+Con despliegue directo en Vercel  
+GitHub: https://github.com/Anil-matcha/awesome-generative-ai-apps
+
+
+
+
+Analiza nombres de usuario en más de 840 plataformas utilizando heurísticas de IA para detectar perfiles y extraer datos de perfil.
+https://github.com/arxhr007/Alienojo
+
+
+
+
+
+
+?? DeepSeek acaba de cargarse la industria de los agentes de programación.
+Ha liberado DeepSeek Harness, un framework open-source donde prácticamente todo funciona como un plugin: modelo, tools, sandbox, interfaz e incluso el loop del agente.
+Es gratis, open-source y ya supera las 160k stars en GitHub.
+Aquí te explico cómo funciona ??
+
+1/ ¿Qué es exactamente DeepSeek Harness?
+Es una herramienta para crear tu propio agente de programación sin tener que construir toda la infraestructura desde cero.
+En lugar de utilizar un sistema cerrado como Claude Code o Codex, te da una base sobre la que puedes decidir qué modelo utiliza, qué herramientas tiene disponibles, dónde ejecuta el código y cómo interactúas con él.
+Básicamente, DeepSeek te da las piezas para montar un agente adaptado exactamente a lo que necesitas.
+
+2/ ¿Cómo funciona?
+? Puedes cambiar entre DeepSeek, Claude, GPT y otros proveedores
+? Las tools se registran y sustituyen como plugins
+? El sandbox y el acceso al sistema son intercambiables
+? Incluso el agent loop, las sesiones y la interfaz pueden modificarse
+? Puedes añadir nuevas capacidades sin tocar el núcleo del proyecto
+
+3/ ¿Cómo instalarlo?
+Solo necesitas tener Node.js instalado.
+? Ejecuta `npx 
+@deepseek
+-ai/dsh web`
+? Se abrirá la interfaz local en `127.0.0.1:3080`
+? Añade tu proveedor y API key desde Settings ? Models
+? Selecciona el repositorio donde quieres trabajar
+? Crea una sesión y empieza a utilizar el agente
+https://github.com/deepseek-ai/deepseek-harness
+
+
+
+
+
+🚨 55,000 ESTRELLAS Y SIGUE SIENDO COMPLETAMENTE GRATIS.
+NI DE COÑA ESTO NO ES UN SUEÑO.
+Strix acaba de alcanzar 55,731 estrellas en GitHub (+10k estrellas en 1 semana)
+> equipo multiagente que hackea como un atacante real, no como un escáner
+> cada hallazgo se prueba con un PoC real, sin falsos positivos
+> resolvió el 96% de los desafíos web de XBEN por unos $3 cada uno
+> panel local en vivo con gráfico de agentes, hallazgos y control
+Solo objetivos autorizados, esta cosa realmente rompe cosas para probar que están rotas.
+
+https://github.com/usestrix/strix
+
+
+
+
+🐱 Extensión del navegador que hace que las páginas web trabajen automáticamente según tus ideas
+5K estrellas en GitHub
+Quienes están acostumbrados a los scripts de Tampermonkey saben lo conveniente que es: saltar automáticamente los anuncios, descargas masivas, agregar un botón que la página originalmente no tiene. Pero el gestor de scripts en sí siempre ha sido una preocupación oculta: los permisos son demasiado amplios y no está muy claro qué scripts se ejecutan en segundo plano una vez instalados.
+ScriptCat es un gestor de scripts de usuario de código abierto y nacional, compatible con los scripts de Tampermonkey; esa colección original se puede transferir directamente y usar tal cual. Lo que hace extra en comparación con los gestores de scripts convencionales es la capa de scripts en segundo plano y ejecución programada: los scripts no esperan a que abras una página específica para activarse, sino que pueden ejecutarse por sí solos según un plan; también soporta sincronización en la nube y suscripciones de scripts, por lo que cambiar de computadora no requiere reinstalar todo.
+En cuanto a seguridad, ejecuta los scripts en un entorno aislado, y los permisos deben solicitarse explícitamente, no se otorgan todos de inmediato al instalar. El editor integrado incluye resaltado de sintaxis, autocompletado inteligente y verificación con ESLint, así que al escribir tus propios scripts no necesitas cambiar de editor constantemente.
+Está disponible en las tiendas de Chrome, Edge y Firefox, donde las versiones de Chrome y Edge incluyen ediciones estable y beta. Licencia GPLv3, y la documentación está en seis idiomas: simplificado, tradicional, chino, inglés, japonés y ruso.
+Las páginas web las hacen otros, pero cómo usarlas puede depender de ti.
+https://github.com/scriptscat/scriptcat
+
+
+
+
+Este repositorio de GitHub te da 979 APIs listas para usar para descargar vídeos, extraer metadatos, generar transcripciones y analizar contenido de YouTube, TikTok, Instagram, Facebook y mucho más. 🎥
+https://github.com/cporter202/video-scraping-apis
+
+
+
+🚨 NINTENDO MATO TODOS LOS EMULADORES DE SWITCH... PERO NO PUDO MATAR ESTO
+En 2024 Nintendo declaro la guerra
+Yuzu pago $2.4 millones y desaparecio
+Ryujinx fue borrado de GitHub de la noche a la mañana  
+Nintendo mando mas de 8.500 DMCA para eliminar forks
+Para 2026 ya habian cobrado 6 millones de dolares en demandas contra emuladores
+Pero un desarrollador llamado Zurdi hizo algo diferente
+En marzo de 2023 (un año antes de la guerra) creo RomM
+No es un emulador 
+Es un gestor de ROMs self-hosted que:
+- Escanea tus juegos legales
+- Descarga metadatos, caratulas y logros automaticamente
+- Te deja jugar directamente desde el navegador
+https://github.com/rommapp/romm
+
+
+
+
+
+un dev subió a github el repo de skills que usa claude para manejar toda una operación de contenido en linkedin, instagram, x y youtube desde un solo sistema.
+> clona tu voz a partir de tus propios textos
+> genera posts, ganchos e ideas cruzando pilares x formatos
+> mide cada borrador contra lo que ya te funcionó antes
+> convierte un reel viral en uno con tu estilo
+> transforma tus métricas en recomendaciones accionables
+resultado: una agencia de contenido entera, gratis, instalable en un comando.
+esto cambia el juego para quien pagaba cursos de "cómo crecer en redes sociales" para hacer exactamente esto.
+https://github.com/charlie947/social-media-skills
+
+
+
+🚨 ADIÓS A LA EDICIÓN DE VIDEO
+Alguien acaba de crear una herramienta de edición de video gratuita para Claude Code... y es una locura.
+Literalmente solo tienes que soltar tu material sin procesar + archivos en una carpeta.
+Eso es todo.
+Se encarga de TODO:
+•Corta los clips
+•Elimina las palabras de relleno
+•Añade subtítulos
+•Aplica corrección de color y filtros
+•Maneja animaciones
+•Renderiza el video final
+Sin línea de tiempo. Sin edición manual. Sin rodeos.
+Honestamente, esto va más allá de herramientas como Remotion.
+No solo te ayuda a crear videos… hace la edición por ti.
+El proyecto es open source en GitHub.
+Se llama Video Use.
+https://github.com/browser-use/video-use
+
+
+
+Certimate is an open-source self-hosted tool providing a visual interface for managing SSL certificate issuance, deployment, and renewal.
+https://x.com/tom_doerr/status/2094019728784101677
+
+
+
+
+10 Repositorios de GitHub para Creadores de IA que Deberías Conocer
+Me metí en otro agujero de conejo de GitHub.
+Encontré estos 10 proyectos de código abierto que están haciendo cosas realmente interesantes alrededor de IA + creación de contenido.
+
+1. MoneyPrinterTurbo
+Crea videos cortos automáticamente con guiones generados por IA, subtítulos y visuales.
+🔗 https://github.com/harry0703/MoneyPrinterTurbo
+
+2. Video-LLaMA
+Explora cómo los modelos de IA multimodal pueden entender y trabajar con contenido de video.
+🔗 https://github.com/DAMO-NLP-SG/Video-LLaMA
+
+3. Whisper
+Reconocimiento de voz de código abierto de OpenAI para convertir audio en texto.
+🔗 https://github.com/openai/whisper
+
+4. Kokoro
+Un modelo ligero de texto a voz de código abierto para generar voces de sonido natural.
+🔗 https://github.com/hexgrad/kokoro
+
+5. MuseTalk
+Tecnología de sincronización labial en tiempo real de alta calidad impulsada por IA.
+🔗 https://github.com/TMElyralab/MuseTalk
+
+6. SadTalker
+Genera videos de cabezas parlantes a partir de una sola imagen de retrato y audio.
+🔗 https://github.com/OpenTalker/SadTalker
+
+7. AnimateDiff
+Genera videos animados agregando movimiento a la generación de imágenes basada en difusión.
+🔗 https://github.com/guoyww/AnimateDiff
+
+8. FaceFusion
+Un kit de herramientas de código abierto para manipulación facial y procesamiento de video construido con técnicas modernas de IA.
+🔗 https://github.com/facefusion/facefusion
+
+9. ComfyUI-Manager
+Un ecosistema de extensiones para gestionar y expandir flujos de trabajo y nodos personalizados de ComfyUI.
+🔗 https://github.com/Comfy-Org/ComfyUI-Manager
+
+10. Stable Video Diffusion
+Un proyecto de investigación de código abierto para generar video a partir de imágenes usando modelos de difusión.
+🔗 https://github.com/Stability-AI/generative-models
+
+
+
+
+CONVERTÍ A CLAUDE EN UNA EMPRESA COMPLETA
+> 0 empleados
+> 42 habilidades
+> 7 departamentos
+> 1 instancia de claude
+cada departamento es real, cada habilidad se instala directo desde los enlaces, no son prompts sueltos ni wrappers, es una estructura completa funcionando sobre un solo modelo
+Desarrolladores: 
+
+Superpoderes → http://github.com/obra/superpowers
+Context7 → http://github.com/upstash/context7
+Creador de Habilidades → http://github.com/anthropics/skills (carpeta skill-creator)
+Constructor de MCP → http://github.com/anthropics/skills (carpeta mcp-builder)
+Pruebas de Webapp → http://github.com/anthropics/skills (carpeta webapp-testing)
+Claude-Mem → http://github.com/thedotmack/claude-mem
+
+Diseñadores:
+
+UI UX Pro Max → http://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+Gusto (Taste) → http://github.com/Leonxlnx/taste-skill
+Diseño Frontend → http://github.com/Leonxlnx/taste-skill
+Transiciones → http://github.com/Jakubantalik/transitions.dev
+Artefactos Web → http://github.com/anthropics/skills (carpeta web-artifacts-builder)
+Guías de Marca → http://github.com/anthropics/skills (carpeta brand-guidelines)
+
+Marketing:
+45 habilidades para redacción, SEO, imanes de leads y campañas
+→ http://github.com/coreyhaines31/marketingskills
+
+Redes Sociales:
+17 habilidades para publicaciones, Reels, miniaturas y flujos de contenido
+→ http://github.com/charlie947/social-media-skills
+
+Finanzas:
+8 habilidades para estados financieros, conciliaciones y auditorías
+→ http://claude.com/plugins/finance
+
+Pequeñas Empresas:
+31 habilidades para flujo de caja, nómina, facturación y operaciones
+→ https://claude.com/plugins/small-business
+
+Legal:
+9 habilidades para contratos, NDAs, revisiones y cumplimiento
+Consíguelas aquí
+→ http://claude.com/plugins/legal
+
+https://x.com/silvanrec/status/2090280285623464099
+
+
+
+
+Si tienes que pagar por generar voces, quizás ya no haya otra opción más que esta.
+VoiceStudio es un software gratuito que te permite hacer todo lo que se puede con ElevenLabs, pero solo desde tu computadora. ★12 mil.
+・Incluye 16 tipos de motores de síntesis de voz y 11 tipos de motores de transcripción de texto
+・Compatible con 646 idiomas, y puedes clonar voces y doblar videos todo en uno
+・No requiere registro de cuenta ni generación de claves, funciona en Mac/Windows/Linux
+Lo más grande, en mi opinión, es que te liberas de las suscripciones mensuales y el cobro por uso.
+El código abierto está aquí 👇
+https://github.com/debpalash/VoiceStudio
+
+
+
+
+Convierte los Mensajes Guardados de Telegram y los canales en un espacio de trabajo de archivos local-first para organizar, transmitir y sincronizar archivos.
+https://github.com/caamer20/Telegram-Drive
+
+
+
+
+
+Imagina que editas el video con inteligencia artificial momento a momento, sin esperar a que termine el procesamiento completo del video.
+JoyAI-Video-Edit es un proyecto de código abierto que te permite editar videos con comandos de texto: cambiar el fondo, el estilo, los elementos e incluso la ropa, durante la reproducción del video.
+https://github.com/jd-opensource/JoyAI-Video-Edit
+
+
+
+https://x.com/Ryrenz/status/2095678736641171927
+📽️ ¡Explosivo! VideoCaptioner cubre todo el flujo de trabajo de subtítulos de video, desde la transcripción, segmentación, corrección hasta traducción e incrustación, todo con un solo comando.
+En GitHub tiene 15,000 estrellas, más de 1,300 forks, y hasta crearon una Claude Code Skill especial para invocarlo directamente desde Claude Code.
+Poner subtítulos a un video uno mismo es un trabajo puramente físico: primero corres reconocimiento de voz, el texto que sale no tiene puntuación, las pausas están todas revueltas, hay que segmentar manualmente; los nombres propios salen mal y hay que corregirlos uno por uno; si quieres una versión bilingüe, toca pasar otra ronda de traducción. VideoCaptioner une todos estos pasos en una sola línea: después del reconocimiento, lo pasa directamente a un modelo grande para segmentar y corregir, luego lo traduce al idioma objetivo de paso, y al final lo incrusta en el video.
+El motor de reconocimiento lo eliges tú: faster-whisper o whisper-cpp para correr localmente, o puedes conectar las APIs de Bijian y Jianying; para traducir, además del modelo grande, puedes usar Bing o Google. Hay interfaz de línea de comandos y gráfica de escritorio, la prioridad de configuración es: parámetros de línea de comandos primero, luego variables de entorno, archivo de config, y valores por defecto; al procesar en lote, puedes cambiar parámetros temporalmente sin tocar el archivo de config.
+El curro de subtítulos antes te robaba una tarde entera para una hora de video, ahora puedes liberar tiempo para hacer otras cosas.
+
+
+
+
+¡He encontrado un tesoro! ¡Descubrí dos proyectos de GitHub de nivel divino!
+¡Perfectos para hacer videos de explicación de productos, charlas de conocimiento y marketing empresarial!
+Estos dos juntos pueden formar un Agente de Video IA completo.
+1️⃣ video-talkcraft, convierte un guion de voz en off + doblaje en un video de explicación dinámica
+https://github.com/Vincentwei1021/video-talkcraft
+2️⃣ video-shotcraft, ideal para convertir capturas de productos, páginas web o interfaces de software en un video promocional con movimientos de cámara, ritmo y efectos de sonido
+https://github.com/Vincentwei1021/video-shotcraft
+Estos dos combinados permiten crear directamente un video completo de reseña de producto IA / promoción SaaS / introducción a un proyecto de GitHub:
+Al inicio, usa tomas de producto de alta calidad para captar la atención
+↓
+En el medio, inserta la voz en off explicando qué problema resuelve exactamente este producto
+↓
+Luego, intercala interfaces reales, demos de funciones, datos y capturas de pantalla
+↓
+Finalmente, continúa con la voz en off resumiendo opiniones + llamada a la acción
+video-shotcraft se encarga de hacer que el producto luzca genial
+video-talkcraft se encarga de explicar las cosas claramente
+Ahorras escribir guiones, grabar audio, buscar material, hacer storyboards, editar, agregar subtítulos, crear efectos de movimiento y añadir efectos de sonido
+Ahora, estos dos Skills se pueden pasar directamente a Codex / Claude Code, y ya se puede automatizar la mayor parte de la cadena de producción
+Además, ambos usan Remotion en el fondo, así que en teoría se pueden encapsular aún más hacia arriba
+¡Incluso creo que se podría hacer una tercera capa de Skill, mucho más lista para usar!
+Le das un enlace de GitHub / sitio web del producto
+→ Lee el producto automáticamente
+→ Escribe un guion de 60 segundos
+→ Decide automáticamente dónde va la voz en off
+→ Dónde van las tomas de producto
+→ Y al final te da directamente un video terminado
+
+
+
+No necesitas entregar tu investigación a Google para usar NotebookLM.
+Existe una versión de código abierto que se ejecuta completamente en tu propia máquina. Sin nube. Sin dependencia de Gemini.
+Se llama Open Notebook. Más de 30,000 estrellas en GitHub. Licencia MIT.
+Arrastra tus PDFs, páginas web, enlaces de YouTube, audio. Chatea con ellos. Genera podcasts a partir de ellos. Cada archivo se queda en tu laptop.
+NotebookLM te ata a Gemini y envía todo lo que subes a Google. Open Notebook hace lo contrario:
+→ Se ejecuta 100% local con Ollama. Sin clave API. Sin facturas.
+→ Funciona con más de 18 proveedores de modelos, no solo uno
+→ Podcasts con hasta 4 locutores. NotebookLM te da 2.
+→ Búsqueda vectorial completa en todo lo que agregas
+→ API REST, para que puedas automatizar todo el proceso
+Un solo comando para empezar:
+docker compose up -d
+Tu investigación. Tu máquina. Nadie observando.
+100% Código abierto.
+
+
+
+
+🚨 China acaba de lanzar un empleado de IA que trabaja 24/7.
+Es completamente gratis y se ejecuta directamente en tu ordenador.
+Se llama DeerFlow.
+→ Investiga y organiza información de forma
+autónoma
+→ Escribe у ejecuta código
+→ Crea presentaciones, vídeos e imágenes
+→ Automatiza tareas complejas de varios pasos
+→ Funciona con modelos locales o en la nube
+→ Utiliza entornos aislados para ejecutar tareas de forma segura
+Ya supera las 80k stars en GitHub, es completamente open-source y cuenta con licencia MIT.
+https://github.com/bytedance/deer-flow
+
+
+
+
+¡Ojo a esto para ahorrar tokens!
+Intercepta comandos de terminal y comprime la salida ANTES de llegar al modelo.
+✓-70% de ahorro
+✓ Funciona automáticamente
+✓ Claude Code, Cursor, Copilot, Codex…
+Se llama RTK y es Open Source:
+→ https://github.com/rtk-ai/rtk
+
+
+
+
+10 REPOSITORIOS PARA GENERAR DINERO MIENTRAS DUERMES (PASIVAMENTE)
+
+1. Toprank 
+https://github.com/nowork-studio/toprank
+
+2. AutoHedge 
+https://github.com/The-Swarm-Corporation/AutoHedge
+
+3. Camofox Browser 
+https://github.com/jo-inc/camofox-browser 
+
+4. Open Higgsfield AI 
+https://github.com/Anil-matcha/Open-Higgsfield-AI 
+
+5. ClawRouter 
+https://github.com/mksglu/context-mode 
+
+6. Agentic Inbox 
+https://github.com/cloudflare/agentic-inbox 
+
+7. Fincept Terminal 
+https://github.com/Fincept-Corporation/FinceptTerminal 
+
+8. Claude Ads 
+https://github.com/AgriciDaniel/claude-ads
+
+9. Vibe-Trading 
+https://github.com/HKUDS/Vibe-Trading 
+
+10. Hyperframes
+https://github.com/heygen-com/hyperframes
+
+
+
+20 proyectos útiles de GitHub para un sistema que captura fuentes, conecta ideas, recuerda el contexto y ayuda a los agentes a actuar sobre él
+
+tu segundo cerebro debería volverse más agudo después de cada sesión
+
+CAPTURA LA ENTRADA
+01 Chubby Skills
+▸ https://github.com/chubbyguan/chubbyskills
+02 OpenWiki
+▸ https://github.com/kdsz001/OpenWiki
+03 Agent Second Brain
+▸ https://github.com/smixs/agent-second-brain
+04 DocMason
+▸ https://github.com/JetXu-LLM/DocMason
+05 DocsAgent
+▸ https://github.com/docsagent/docsagent
+
+CONECTA LAS IDEAS
+06 claude-obsidian
+▸ https://github.com/AgriciDaniel/claude-obsidian
+07 SwarmVault
+▸ https://github.com/swarmclawai/swarmvault
+08 sage-wiki
+▸ https://github.com/xoai/sage-wiki
+09 Vault Curate
+▸ https://github.com/notoriouslab/vault-curate
+10 COG Second Brain
+▸ https://github.com/huytieu/COG-second-brain
+
+RECuerda LO QUE IMPORTA
+11 Hindsight
+▸ https://github.com/vectorize-io/hindsight
+12 memU
+▸ https://github.com/NevaMind-AI/memU
+13 TencentDB Agent Memory
+▸ https://github.com/TencentCloud/TencentDB-Agent-Memory
+14 agentmemory
+▸ https://github.com/rohitg00/agentmemory
+15 OpenViking
+▸ https://github.com/volcengine/OpenViking
+
+PONLO A TRABAJAR
+16 Open Second Brain
+▸ https://github.com/itechmeat/open-second-brain
+17 Second Brain Cloudflare
+▸ https://github.com/rahilp/second-brain-cloudflare
+18 makerskills
+▸ https://github.com/coreyhaines31/makerskills
+19 Row-Bot
+▸ https://github.com/siddsachar/row-bot
+20 MateClaw
+▸ https://github.com/mateaix/mateclaw
+
+
+Escanea correos electrónicos y nombres de usuario en más de 715 plataformas para mapear huellas digitales y verificar registros de cuentas
+https://github.com/kaifcodec/user-scanner
+
+
+
+
+5 REPOSITORIOS DE AGENTES DE IA EXPLOTANDO EN GITHUB AHORA MISMO.
+
+JUNTOS PUEDEN REEMPLAZAR PARTES DE UNA AGENCIA, ESTUDIO DE VIDEO Y EQUIPO DE DESARROLLO:
+
+1.⁠ ⁠AGENTES DE AGENCIA — 307 ESPECIALISTAS EN IA EN 20 ÁREAS
+   ⁠ https://github.com/msitarzewski/agency-agents ⁠
+
+2.⁠ ⁠AGENT-REACH — DA A TU AGENTE ACCESO A X, REDDIT, YOUTUBE Y GITHUB
+   ⁠ https://github.com/Panniantong/Agent-Reach ⁠
+
+3.⁠ ⁠ORCA — EJECUTA CODEX, CLAUDE CODE Y OPENCODE CODO CON CODO
+   ⁠ https://github.com/stablyai/orca ⁠
+
+4.⁠ ⁠OPENMONTAGE — CONVIERTE A TU AGENTE DE CODIFICACIÓN EN UN ESTUDIO DE VIDEO
+   ⁠ https://github.com/calesthio/OpenMontage ⁠
+
+5.⁠ ⁠CODEBASE MEMORY MCP — EVITA QUE TU AGENTE RELEA TODO EL CODEBASE
+   ⁠ https://github.com/DeusData/codebase-memory-mcp ⁠
+
+DEJA DE EJECUTAR UN SOLO AGENTE. EMPIEZA A GESTIONAR UNA FLOTA.
+
+
+
+
+
+¡Adiós a la edición de video!
+
+Alguien acaba de desarrollar una herramienta gratuita para editar videos que funciona con Claude Code... y el asunto es una locura.
+
+Literalmente, todo lo que tienes que hacer es poner el material en bruto + los archivos dentro de una carpeta.
+
+La herramienta se encarga de todo:
+
+• Corta los clips  
+• Elimina palabras innecesarias y repeticiones  
+• Añade la traducción  
+• Aplica corrección de color y filtros  
+• Maneja efectos y movimientos  
+• Renderiza el video final  
+
+El proyecto es de código abierto en GitHub.  
+
+Se llama Video Use.  
+https://github.com/browser-use/video-use
+
+
+
+
+
+SubdomainX | Subdomain enum all-in-one
+
+26 fuentes OSINT + brute force + permutaciones + takeover.
+
+Un comando, pipeline completo.
+
+https://github.com/elementalsouls/SubdomainX
+
+
+
+
+
+
+
+Este repositorio podría hacerte prescindir de la mayoría de los sitios web de PDF que usas.
+
+Fusión, división, compresión, conversión, OCR, firma y edición…
+Y todo esto lo tienes gratis, sin subir tus archivos a sitios extraños.
+
+Alcanzó 92 mil estrellas en GitHub.
+El proyecto se llama Stirling PDF, y es uno de los proyectos de PDF más famosos en GitHub.
+
+Tiene más de 50 herramientas para PDF, entre ellas:
+
+• Fusión y división de archivos
+• Compresión de PDF
+• Conversión desde y hacia formatos diferentes
+• OCR para archivos con imágenes
+• Eliminación y reordenación de páginas
+• Adición de firmas
+• Ocultación de información sensible (Redact)
+• Edición de archivos PDF
+• Adición de marcas de agua
+• Rotación y recorte de páginas
+• Protección del archivo con contraseña
+• Eliminación de la contraseña
+• Y muchas más
+
+La característica que más me gustó es que puedes ejecutarlo en tu dispositivo o servidor, y por lo tanto no necesitas subir archivos sensibles a sitios web de PDF externos. El proyecto mismo menciona que permite procesar los archivos sin enviarlos a servicios externos.
+
+Y tiene una aplicación de escritorio, una interfaz en el navegador y ejecución self-hosted.
+
+Soporta más de 40 idiomas.
+
+La forma más fácil de ejecutarlo es usando Docker:
+
+docker run -p 8080:8080 http://docker.stirlingpdf.com/stirlingtools/stirling-pdf
+
+Y después abre:
+
+http://localhost:8080
+
+Actualmente ha alcanzado más de 92.8K estrellas y 9.1K forks en GitHub.
+
+El proyecto es Open-Core, y la versión autoalojada incluye la mayor parte de las herramientas de PDF.
+
+La fuente:
+https://github.com/Stirling-Tools/Stirling-PDF
+
+
+
+
+
+
+
+GoBackup: un backup que configuras una vez y dejas correr años
+
+La mayoría de los scripts de backup empiezan bien y terminan olvidados, rotos o dependiendo de un runtime que nadie quiere mantener. GoBackup nació precisamente para evitar eso.
+
+Es un único binario en Go, sin dependencias. Hace dump de tus bases de datos, archiva archivos, comprime, opcionalmente cifra y los envía a casi cualquier almacenamiento en la nube. 
+
+Lo programas con cron y se olvida de que existe.
+
+Soporta de serie MySQL, PostgreSQL, Redis, MongoDB, SQLite, SQL Server, InfluxDB, MariaDB, etcd y Firebird. En destino: local, FTP, SFTP, SCP, S3 y compatibles (GCS, Azure Blob, Backblaze B2, Cloudflare R2, DigitalOcean Spaces, MinIO, Aliyun OSS, Tencent COS, Qiniu, WebDAV y más).
+
+Trae daemon con horarios por modelo, UI web para revisar backups, notificaciones por email, webhook, Discord, Slack, Telegram y otros canales, hooks before/after y recarga de configuración en caliente. 
+
+Todo se configura en un YAML con interpolación de variables de entorno.
+
+La ventaja no es la lista de features. Es que no hay Ruby ni Python debajo que haya que parchear. Un binario. Lo instalas, lo dejas y sigue funcionando. Hay instancias que llevan años haciendo backups diarios por céntimos al mes.
+
+Eso sí: ninguna herramienta te ahorra probar una restauración. 
+
+Un backup que nunca has restaurado no es un plan de recuperación, es una esperanza. Programa un drill de vez en cuando.
+
+https://github.com/gobackup/gobackup
+
+
+
+
+
+
+
+
+
+Si necesitas hacer OSINT sobre una cuenta de Instagram y extraer hasta el último detalle oculto, esta herramienta es una navaja suiza que tienes que conocer.
+
+Osintgram automatiza el análisis forense de cualquier perfil público para desenterrar información clave en segundos:
+
+• Datos de contacto: descubre el número de teléfono y correos electrónicos vinculados al objetivo.
+
+• Auditoría de audiencia: analiza hábitos de publicación, comentarios, seguidores y métricas de interacción.
+
+• Integración con IA: conecta modelos inteligentes para agilizar y procesar todo el flujo de recolección de inteligencia.
+
+Ya sea para auditorías de seguridad, pentesting o investigación de fuentes abiertas, te ahorra horas de trabajo manual.
+
+Te dejo el repositorio y los detalles completos abajo en los comentarios 
+
+https://github.com/Datalux/Osintgram
+
+
+
+
+
+
+CyberStrike | AI agent open source para pentesting
+
+13+ agentes · 7.600+ skills · 150+ proveedores LLM.
+
+Solo uso autorizado.
+
+https://github.com/CyberStrikeus/CyberStrike
+
+
+
+
+
+
+ Herramienta gratuita que transforma un dispositivo Android TV de una interfaz llena de anuncios y recomendaciones a un dispositivo limpio del que tienes control total.
+
+Android TV Toolkit es una aplicación de Windows con una interfaz gráfica simple.
+
+Elimina el bloatware de TCL y Google, borra la lista de recomendaciones de Google TV y permite instalar aplicaciones APK directamente en el dispositivo.
+
+Todo esto sin escribir ningún comando ADB manualmente.
+
+Funciona con dispositivos TCL, Onn y Nvidia Shield, y también soporta Chromecast with Google TV mediante Wireless Debugging.
+
+De código abierto completo bajo licencia MIT,
+https://github.com/seun-novodev/android-tv-debloat-toolkit
+
+
+
+
+
+DeepSeek Harness disponible en Windows y macOS!
+
+Alternativa open source de la app de Claude y ChatGPT para trabajar en tu ordenador.
+
+✓ Todo es un plugin. 100% configurable
+✓ Usa cualquier modelo de IA (local o API)
+
+→ https://deepseek.com/harness/
+
+
+
+
+
+
+este stack de contexto de IA se está volviendo jodidamente peligroso
+
+6 repos de GitHub para darles a los agentes los archivos correctos en lugar de volcar todo el codebase en el contexto
+
+01 Context7
+▸ https://github.com/upstash/context7
+→ documentación fresca directamente dentro del agente
+
+02 Serena
+▸ https://github.com/oraios/serena
+→ recuperación y edición de código semántico
+
+DESCUBRIR
+
+03 Repomix
+▸ https://github.com/yamadashy/repomix
+→ empaquetar un repositorio entero en un contexto amigable para IA
+
+LEER
+
+04 Docling
+▸ https://github.com/docling-project/docling
+→ documentos → contexto estructurado legible por máquina
+
+CONECTAR
+
+05 Cognee
+▸ https://github.com/topoteretes/cognee
+→ archivos + datos → conocimiento conectado
+
+ENTREGAR
+
+06 RAGFlow
+▸ https://github.com/infiniflow/ragflow
+→ recuperar la evidencia que realmente pertenece al prompt
+
+el pipeline:
+
+descubrir → leer → conectar → clasificar → empaquetar → entregar
+
+pueden existir 18 archivos
+
+el agente puede necesitar solo 4
+
+esa es la parte que la gente sigue pasando por alto con las ventanas de contexto largas
+
+más contexto no es automáticamente mejor
+
+el verdadero truco es saber qué merece entrar en el contexto en absoluto
+
+
+
+
+
+
+
+Convierte bases de código complejas en diagramas de arquitectura claros usando Claude Code.
+
+https://github.com/oh-my-mermaid/oh-my-mermaid
+
+
+
+
+
+
+
+
+
+Hoy te recomiendo un proyecto de código abierto explosivo: https://github.com/morluto/rea
+
+Este proyecto puede analizar cualquier software o página que desees, descompilar el binario y luego, mediante el método MCP, informarle al AI. Solo necesitas usar lenguaje natural para decirle al AI qué funcionalidad quieres replicar, y él analizará automáticamente y te ayudará a recrear esa funcionalidad.
+
+A través del protocolo MCP, conecta al AI Agent con herramientas de análisis inverso como Hopper, Ghidra, IDA Pro, etc. Soporta el análisis de programas binarios nativos, aplicaciones de escritorio, JavaScript, Electron, .NET, APK de Android y comportamientos web.
+
+Valor central: Permite que el AI no solo lea código fuente, sino que también entienda cómo funcionan los softwares sin código fuente.
+
+
+
+
+
+
+el kit de ingeniería inversa propio de la NSA está disponible gratis en GitHub.
+
+5 repositorios de seguridad de código abierto para entender qué hacen tus apps y qué has dejado expuesto:
+
+1.⁠ ⁠Sherlock  
+encuentra perfiles públicos que coincidan con tu nombre de usuario en diferentes plataformas.
+
+⁠ https://github.com/sherlock-project/sherlock ⁠
+
+2.⁠ ⁠Ghidra  
+el marco de ingeniería inversa de la NSA para desarmar software compilado e inspeccionar cómo funciona.
+
+⁠ https://github.com/NationalSecurityAgency/ghidra ⁠
+
+3.⁠ ⁠mitmproxy  
+inspecciona el tráfico web de tus apps y dispositivos.
+
+⁠ https://github.com/mitmproxy/mitmproxy ⁠
+
+4.⁠ ⁠TruffleHog  
+escanea tu historial de Git en busca de claves API expuestas, contraseñas y otros secretos.
+
+⁠ https://github.com/trufflesecurity/trufflehog ⁠
+
+5.⁠ ⁠ESP32 Marauder  
+herramientas de auditoría de Wi-Fi y Bluetooth que se ejecutan en hardware ESP32.
+
+⁠ https://github.com/justcallmekoko/ESP32Marauder ⁠
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Los agentes de IA se están volviendo jodidamente peligrosos con datos reales
+
+9 repos de GitHub para construir un sistema GPT 6 Astra que pueda explorar bases de datos, escribir SQL, ejecutar análisis y convertir números crudos en decisiones
+
+01 Vanna
+▸ https://github.com/vanna-ai/vanna
+→ preguntas en lenguaje natural en consultas SQL
+
+DARLE ACCESO A LA IA A LOS DATOS
+
+02 DB-GPT
+▸ https://github.com/eosphoros-ai/DB-GPT
+→ construir aplicaciones de IA alrededor de bases de datos privadas
+
+03 MindsDB
+▸ https://github.com/mindsdb/mindsdb
+→ conectar flujos de trabajo de IA a datos empresariales
+
+HACER QUE LOS DATOS SEAN USABLES
+
+04 DuckDB
+▸ https://github.com/duckdb/duckdb
+→ ejecutar SQL analítico directamente en archivos locales
+
+05 Polars
+▸ https://github.com/pola-rs/polars
+→ procesar grandes conjuntos de datos con operaciones rápidas de DataFrame
+
+06 DataFusion
+▸ https://github.com/apache/datafusion
+→ construir motores de consultas SQL personalizados
+
+CONVERTIR EL ANÁLISIS EN ACCIÓN
+
+07 PandasAI
+▸ https://github.com/sinaptik-ai/pandas-ai
+→ hacer preguntas sobre conjuntos de datos en lenguaje natural
+
+08 Evidence
+▸ https://github.com/evidence-dev/evidence
+→ convertir consultas SQL en informes interactivos
+
+09 Metabase
+▸ https://github.com/metabase/metabase
+→ explorar métricas y construir paneles
+
+la arquitectura:
+
+pregunta → esquema → SQL → consulta → validar → analizar → visualizar → decisión
+
+3 construcciones que vale la pena robar:
+
+finanzas: Vanna → DuckDB → Evidence
+negocios: MindsDB → Polars → Metabase
+investigación: DB-GPT → DataFusion → PandasAI
+
+aquí está lo que hace esto interesante
+
+la mayoría de los agentes de IA pueden explicar tu negocio
+
+muy pocos pueden inspeccionar realmente los números detrás de él
+
+GPT 6 Astra + el stack correcto de GitHub cambia lo que puedes construir
+
+
+
+
+
+
+Potencia a los agentes de IA con 132 herramientas MCP para inteligencia global en tiempo real en más de 30 dominios.
+
+https://github.com/marc-shade/world-intel-mcp
+
+
+
+
+GitHub está realmente en un nivel crítico
+El mundo de los agentes de IA está empezando a cambiar
+Basta con un solo modelo de IA potente para
+
+construir todo un sistema autónomo
+La clave la tienen
+
+10 repositorios de código abierto
+
+Todos los 10 están aquí👇　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+01. LangGraph
+
+https://github.com/langchain-ai/langgraph
+
+→ Integración y control de agentes de IA que mantienen estado
+
+02. PydanticAI
+
+https://github.com/pydantic/pydantic-ai
+
+→ Agentes tipados + salida estructurada
+
+【Construir la capa de control】
+
+03. Mastra
+
+https://github.com/mastra-ai/mastra
+
+→ Agentes de IA + flujos de trabajo + memoria
+
+04. Agno
+
+https://github.com/agno-agi/agno
+
+→ Sistema multiagente para coordinar múltiples agentes de IA
+
+【Dar contexto a la IA】
+
+05. Cognee
+
+https://github.com/topoteretes/cognee
+
+→ Convertir datos en conocimiento y usarlo como memoria de los agentes de IA
+
+06. Graphiti
+
+https://github.com/getzep/graphiti
+
+→ Gestionar conocimiento que cambia con el tiempo
+
+【Hacer que la IA opere la computadora】
+
+07. Browser Use
+
+https://github.com/browser-use/browser-use
+
+→ Los agentes de IA operan directamente en sitios web
+
+08. E2B
+
+https://github.com/e2b-dev/E2B
+
+→ Entorno de ejecución independiente para que la IA realice procesos
+
+【Hacer que los agentes de IA funcionen de manera estable】
+
+09. Langfuse
+
+https://github.com/langfuse/langfuse
+
+→ Seguimiento del historial de ejecución + evaluación + visualización de acciones
+
+10. DeepEval
+
+https://github.com/confident-ai/deepeval
+
+→ Probar el comportamiento de los agentes de IA antes de implementarlos en producción
+
+Y lo importante es la arquitectura general
+
+Modelo → Contexto → Plan → Memoria → Herramientas → Ejecución → Evaluación → Reintento
+
+Este es el gran cambio que está ocurriendo ahora en GitHub
+
+Lo que están creando los excelentes proyectos de código abierto
+
+no es simplemente un nuevo chatbot
+
+Están construyendo alrededor del modelo
+
+todas las estructuras necesarias para que el modelo de IA funcione de manera autónoma
+
+En otras palabras, hemos entrado en una era en la que no se trata solo del rendimiento del modelo de IA en sí
+
+sino de crear los sistemas que lo rodean
+
+
+
+
+
+
+
+Esta herramienta gratuita de video con IA tiene más de 62,000 estrellas en GitHub
+
+El proyecto de código abierto permite que los agentes de IA creen videos, demostraciones de productos, animaciones de sitios web y gráficos en movimiento sin una suscripción paga.
+
+Repo: https://github.com/remotion-dev/remotion
+
+
+
+
+
+Traducido del inglés
+Un ingeniero de software senior de código abierto escondiéndose detrás de /code.
+
+Lee el repositorio. Planifica. Escribe. Ejecuta las verificaciones. Arregla lo que se rompe. Verifica el resultado.
+
+Mercury Code se siente como uno de esos proyectos que encuentras justo antes de que todos empiecen a hablar de él.
+https://github.com/cosmicstack-labs/mercury-agent
+
+
+
+
+
+Es increíblemente ridículo, este tipo es un verdadero genio.
+
+El número uno de la lista de tendencias de GitHub, con 38.000 estrellas, el AI de síntesis de voz «VoxCPM2», ha causado un revuelo total en el extranjero; las voces que genera son imposibles de distinguir si son reales o falsas.
+
+1️⃣ Solo escribe una línea como "voz femenina serena de los 30 años" y te la sintetiza al instante
+2️⃣ Sube un pequeño fragmento de audio y te replica al 100% hasta los tics del habla y el ritmo
+3️⃣ Calidad de audio de nivel estudio de grabación a 48kHz, con licencia Apache 2.0, úsalo comercialmente como quieras
+
+https://github.com/OpenBMB/VoxCPM
+
+
+
+
+
+
+
+
+🛡️📱🔬 apk-reverse | Skill de agente que pone gates a la ingeniería inversa de APKs
+
+Los agentes suelen leer todo, asentir y luego razonar desde cero, repitiendo fallos caros.
+
+Para red teamers y analistas que usan agentes en análisis autorizados o CTFs.
+github.com/newliver666/apk-reverse
+
+
+
+
+
+El Grupo Ant justo ha abierto el código de un gran modelo OCR llamado PolyOCR-Venus; solo tira una captura de pantalla, un contrato o una tabla, y directamente te da texto estructurado listo para usar.
+
+El equipo creador es GuangJian del Grupo Ant, y viene con un informe técnico completo; el modelo tiene dos tamaños, 2B y 9B, basado en el tronco principal de lenguaje visual de Qwen3.5.
+
+Antes, para hacer reconocimiento de documentos, tenías que armar un flujo de varios pasos: primero reconocer el texto, luego correr un análisis de layout por separado, y después escribir un montón de reglas para extraer los campos; si te topabas con texto mixto chino-inglés o vertical, todo se volvía un lío de entrada. PolyOCR-Venus usa una sola interfaz de instrucción; reconocimiento, localización, análisis de documentos, extracción de información y conversión multilingüe, todo se resuelve diciendo en una frase qué quieres.
+
+Los resultados también son de los que se dejan ver: el 9B saca 91.57 en OmniDocBench v1.6, mientras que el Qwen3.5-9B del mismo tamaño llega a 89.49; si primero usas un modelo de layout para delimitar regiones y orden de lectura y luego se lo pasas para que lo parseé por bloques, sube a 95.48.
+
+Hay un punto que hay que aclarar: por ahora, en el repositorio solo está el código de evaluación y el informe técnico; los pesos del modelo y el código de entrenamiento todavía no se han soltado, así que si quieres correrlo localmente ya mismo, guárdalo en favoritos y espera.
+
+Convertir escaneos en datos estructurados está pasando de armar tuberías complicadas a solo hacer una pregunta.
+https://github.com/inclusionAI/PolyOCR-Venus
+
+
+
+
+
+stá causando revuelo en el extranjero... Se puede usar 100% gratis...
+
+--> 🎬 Ha salido un programa de edición de video open source casi idéntico a 'Premiere Pro'.
+
+⭐️ Solo han pasado 8 días desde su lanzamiento... y ya tiene ¡9.2k estrellas en GitHub! ⭐️
+ 
+Se llama FilmCraft.
+
+Sorprendentemente, es un programa creado desde cero en lenguaje Rust. 
+
+Ha recreado al máximo el UI de Premiere Pro, el estilo de edición e incluso los atajos de teclado, por lo que está armando un gran alboroto en el extranjero.
+
+Por supuesto, al ser open source, no hay cuota de suscripción y todo el código fuente está completamente disponible.
+
+Las funciones implementadas son...
+
+1. Línea de tiempo y herramientas de edición similares a Premiere Pro
+
+2. Edición de cortes de video, efectos de transición, fotogramas clave
+
+3. Corrección de color profesional y mezcla de audio
+
+4. Creación de subtítulos y exportación de video
+
+5. Soporte para Windows, macOS, Linux
+
+¡Pero hay algo aún más impresionante!
+
+Incluso soporta MCP, por lo que agentes de IA como ClaudeCode pueden editar videos directamente.
+
+¡Admite más de 650 comandos para que la IA pueda cortar videos, corregir colores, ajustar audio e incluso exportar el video final!
+
+GitHub:
+https://github.com/storytold/filmcraft
+
+
+
+
+
+
+
+
+
+Hermanos, un consejo por la cara de Dios y a tu gusto:
+
+Si quieres algo ordenado o estás perdido, especialmente en proyectos grandes, te recomiendo una herramienta que llamo el filósofo de las habilidades.  
+@mattpocockuk
+  
+Sus habilidades son las de mayor evaluación en GitHub y todas están en el Top 10. Toma una sola llamada grilling/ y al inicio de cualquier proyecto ponla y dale solo la punta de la idea. Te hará preguntas como en una entrevista, tú eliges las respuestas y basándose en ellas saca otras preguntas y así hasta que lleguen a lo que quieres exactamente, y después te pide permiso para empezar la implementación.
+290K estrellas en GitHub para las habilidades de Claude Code que un ingeniero usa todos los días.
+
+Matt Pocock las creó para solucionar las formas más comunes en que fallan los agentes de codificación:
+
+→ /grill-me: el agente te entrevista antes de escribir nada, para que construya lo que realmente querías decir
+→ /tdd: escribe primero una prueba que falla, luego el código que la aprueba
+→ /diagnosing-bugs: un bucle de depuración disciplinado, paso a paso
+→ /grill-with-docs: crea un glosario compartido para tu proyecto, para que el agente deje de usar 20 palabras donde basta con 1
+
+Instala en Claude Code:
+claude plugin install mattpocock-skills@claude-plugins-official
+
+Luego ejecuta /setup-matt-pocock-skills una vez por repositorio.
+
+https://github.com/mattpocock/skills
+
+
+
+
+
+
+🚨 ¡REVOLUCIÓN DE MONTAJ AUTOMÁTICO!
+
+El proyecto de código abierto OpenMontage, que automatiza todo el proceso de producción de video con una sola línea de comando, está causando furor en GitHub.
+
+Las capacidades revolucionarias que ofrece la inteligencia artificial:
+
+→ Con un solo comando, entrega un paquete completo que incluye guion, selección de imágenes, narración, subtítulos y edición.
+→ Revolución en el análisis de la competencia: cuando le das un video que te gusta, analiza su ritmo y estructura para crear un esquema de producción personalizado para ti.
+→ Transforma por completo el flujo de trabajo de los creadores y editores de videos cortos (Shorts/Reels/TikTok).
+
+¡Una herramienta increíble que se ha colocado en la cima de las listas de tendencias diarias en el mundo del código abierto!
+https://github.com/calesthio/OpenMontage
+
+
+
+
+
+La base de conocimiento no debería realizar una búsqueda desde cero en cada pregunta. El LLM Wiki en GitHub, enfocado en permitir que la IA organice gradualmente materiales dispersos en un Wiki que crece de manera continua.
+
+Sus puntos destacados:
+
+① Construcción de grafos de conocimiento con señales multinivel, para que las asociaciones de contenido tengan una base más sólida
+② Uso de detección de comunidades Louvain para descubrir conexiones entre conocimientos y vacíos potenciales
+③ Extensión de Chrome para recopilar contenido de páginas web con un solo clic
+④ Soporte para Obsidian, con interfaz de tres columnas que facilita la gestión y navegación
+
+No se trata solo de almacenar materiales, sino de hacer que el conocimiento se acumule continuamente y se conecte entre sí.
+https://github.com/deepseek-ai/DeepInfer
+
+
+
+
+
+Presentando Indra, un modelo OCR de 1M de parámetros:
+
+- 49 páginas/s en CPU, 11x más rápido que PaddleOCR y 17x Tesseract
+- Los supera en texto de OmniParseBench (41.3 vs 35.8 y 19.3)
+- Cajas delimitadoras completas de diseño y líneas
+Get it here:
+
+Model - https://huggingface.co/datalab-to/indra-ocr
+Code - https://github.com/datalab-to/indra  
+Blog post - https://datalab.to/blog/indra-ocr
+
+
+
+
+Otra vez descubro un proyecto open source rarísimo llamado Repowise, que puede indexar todo tu repositorio de código en un mapa que la IA puede consultar, para que Claude Code deje de revolver como loco por todo el repositorio buscando archivos.
+
+En GitHub tiene 7672 estrellas, el repositorio se creó a finales de marzo, y últimamente casi sacan una versión por semana, de v0.52 a v0.56 todas apiñadas en septiembre y octubre.
+
+Normalmente, cuando le pides a la IA que modifique un trozo de código viejo, primero tiene que hacer un grep por todo el repositorio, leer un montón de archivos irrelevantes, y en la salida todo son «voy a echar un vistazo a este archivo». Lo que hace Repowise es indexar de antemano en tu máquina local la estructura del código, el grafo de llamadas, el historial de Git, las pruebas y la documentación, y luego exponerlo a través de MCP para que herramientas como Claude Code, Codex o Cursor lo consulten; el agente pregunta directamente al índice lo que necesita. El proyecto ha hecho pruebas emparejadas en 43 issues de Django, y para el mismo trabajo la cantidad de salida se reduce un 31.6%.
+
+Lo más práctico es ese sistema de puntuación de salud del código: 53 detectores le dan a cada archivo una puntuación de 1 a 10, y además señalan qué bloques tienen el mayor riesgo si los cambias y cuáles son código muerto. El grafo, los riesgos y el grado de salud son todo cálculos determinísticos, sin una sola llamada a un modelo grande, y no hace falta configurar ninguna API key.
+
+Hacer que la IA entienda tu repositorio es más efectivo que cambiarle por un modelo más grande.
+
+https://github.com/repowise-dev/repowise
+
+
+
+
+
+
+Tu agente de codificación con IA podría no funcionar de la misma manera nunca más
+
+Este proyecto gratuito de GitHub con más de 290K estrellas proporciona a Claude Code, Codex y Cursor flujos de trabajo estructurados para planificar, codificar, probar y revisar el trabajo utilizando agentes de IA especializados
+
+Es como darle a tu agente de codificación todo un equipo de ingeniería de software
+
+Repo: https://github.com/obra/superpowers
+
+
+
+
+
+10 habilidades gratuitas de Claude Code que todo constructor debería instalar ahora mismo (la mayoría de la gente no sabe que estas existen):
+
+1.) Habilidad Playwright: 
+Claude abre tu app en un navegador, hace clic a través de ella y la prueba
+http://github.com/lackeyjb/playwright-skill
+
+2.) Habilidad iOS Simulator: 
+Claude construye, ejecuta y hace clic a través de tu app de iOS por su cuenta
+http://github.com/conorluddy/ios-simulator-skill
+
+3.) Habilidades n8n: 
+Claude construye automatizaciones n8n que realmente funcionan a la primera
+http://github.com/czlonkowski/n8n-skills
+
+4.) Habilidades Jezweb: 
+patrones actualizados de Cloudflare, React y Tailwind v4, para no más código obsoleto
+http://github.com/jezweb/claude-skills
+
+5.) Habilidades Trail of Bits: 
+auditorías de seguridad de una firma de seguridad líder, ejecutadas en tu propio código
+http://github.com/trailofbits/skills
+
+6.) Habilidades Jeffallan: 
+67 habilidades especializadas que cubren toda tu pila tecnológica
+http://github.com/Jeffallan/claude-skills
+
+7.) Agentes wshobson: 
+un mercado de plugins donde instalas solo lo que necesitas
+http://github.com/wshobson/agents
+
+8.) UI/UX Pro Max: 
+hace que la interfaz de Claude se vea diseñada, no genérica
+http://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+
+9.) Superpoderes: 
+hace que Claude planifique, pruebe y depure como un ingeniero senior
+http://github.com/obra/superpowers
+
+10.) Creador de Habilidades (por Anthropic): 
+convierte cualquier flujo de trabajo que repites en tu propia habilidad
+http://github.com/anthropics/skills/tree/main/skills/skill-creator
+
+
+
+
+¡GitHub arrasa con 9.7K estrellas! Alguien creó un radar de noticias con IA que te ayuda a excavar directamente información de alto valor de toda la red.
+
+1. Agrega múltiples fuentes de información como X, Telegram, Reddit, GitHub, Hacker News, RSS, etc.
+
+2. La IA filtra automáticamente, puntúa, elimina duplicados y deja solo el contenido realmente valioso que merece la pena leer.
+
+3. Genera automáticamente resúmenes diarios en chino e inglés, y además complementa con contexto de eventos y discusiones de los usuarios.
+
+GitHub: ⁠ https://github.com/Thysrael/Horizon
+
+
+
+
+
+10 REPOSITORIOS DE GITHUB PARA CONVERTIR LA WEB PÚBLICA EN DATOS ÚTILES.
+
+1. Firecrawl — convierte sitios web en datos listos para IA.
+   Explora páginas web y convierte el contenido en Markdown limpio para flujos de trabajo de búsqueda e IA.
+
+http://github.com/firecrawl/firecrawl
+
+2. Oxylabs Web API MCP — busca, extrae y estructura datos web en vivo.
+   Conecta agentes de IA a herramientas de búsqueda y raspado web a través de MCP. Particularmente relevante para investigación de mercado, inteligencia competitiva y flujos de trabajo de investigación web automatizada.
+
+http://github.com/oxylabs/web-api-mcp
+
+3. ScrapeGraphAI — describe los datos que necesitas.
+   Usa flujos de trabajo impulsados por LLM para extraer información de sitios web.
+
+http://github.com/ScrapeGraphAI/Scrapegraph-ai
+
+4. Crawl4AI — exploración diseñada para tuberías de IA.
+   Convierte páginas web en contenido estructurado y amigable para LLM.
+
+http://github.com/unclecode/crawl4ai
+
+5. Newspaper4k — extrae artículos de noticias automáticamente.
+   Recupera texto de artículos, metadatos e información útil de URLs de noticias.
+
+http://github.com/AndyTheFactory/newspaper4k
+
+6. Beautiful Soup — haz que los datos HTML sean más fáciles de trabajar.
+   Analiza páginas web y extrae elementos específicos con Python.
+
+http://github.com/wention/BeautifulSoup4
+
+7. Extruct — extrae datos estructurados de sitios web.
+   Analiza formatos de metadatos incrustados como JSON-LD, Microdata y Open Graph.
+
+http://github.com/scrapinghub/extruct
+
+8. Pricefy — explora el monitoreo de precios de productos.
+   Investiga herramientas y flujos de trabajo para rastrear precios en tiendas en línea.
+
+http://github.com/pricefy/pricefy
+
+9. Pandas — convierte datos recolectados en insights.
+   Limpia, transforma y analiza conjuntos de datos tabulares con Python.
+
+http://github.com/pandas-dev/pandas
+
+10. DuckDB — analiza datos sin una base de datos pesada.
+    Consulta grandes conjuntos de datos localmente usando un motor SQL analítico eficiente.
+
+http://github.com/duckdb/duckdb
+
+
+
+
+¡JODIDO GitHub está repleto de cosas gratuitas que casi nadie usa!
+
+top 10 repos que están explotando este mes, de los más simples a los más técnicos:
+
+cosas que cualquiera puede usar
+
+1. Compositor: una alternativa gratuita y de código abierto a Photoshop para Mac (8.8K)
+http://github.com/robbietilton/Compositor
+
+2. image-blaster: arrastra una imagen regular en Claude y la convierte en un mundo 3D completo (6.2K)
+http://github.com/neilsonnn/image-blaster
+
+3. Agent-Reach: le da a tu IA ojos en toda la internet. Lee y busca en Twitter, Reddit, YouTube y GitHub con un solo comando, sin APIs de pago (8.9K)
+http://github.com/Panniantong/Agent-Reach
+
+4. financial-services by Anthropic: flujos de trabajo financieros listos para Claude, análisis de datos e informes sin empezar de cero. #1 en el trending semanal de GitHub (38K)
+http://github.com/anthropics/financial-services
+
+5. orca: ejecuta una flota entera de agentes en paralelo (Claude Code, Codex, Cursor) en tus suscripciones existentes y gestiona desde tu teléfono (80K)
+http://github.com/stablyai/orca
+
+6. universal-modder: Claude Code modifica casi cualquier juego de PC. Descomprime los archivos, genera arte, 3D y sonido, y prueba el mod en el juego mismo (5.6K)
+http://github.com/rehan-remade/universal-modder
+
+para hacer que Claude Code funcione mejor
+
+7. claude-code-templates: plantillas de configuración listas más un dashboard que muestra qué está haciendo realmente el agente en tu proyecto (32K)
+http://github.com/davila7/claude-code-templates
+
+8. security-audit-skill by Cloudflare: una auditoría de seguridad de código multi-etapa donde cada vulnerabilidad encontrada se verifica doblemente, no solo "parece bien" (22K)
+http://github.com/cloudflare/security-audit-skill
+
+9. hindsight: memoria de agente que aprende. Recuerda sesiones pasadas y se construye sobre ellas en lugar de empezar de cero cada vez (38K)
+http://github.com/vectorize-io/hindsight
+
+10. CLI-Anything: hace que cualquier software sea "nativo de agentes". Envuelve herramientas de línea de comandos para que los agentes puedan encontrarlas y llamarlas de manera confiable por su cuenta (51K)
+http://github.com/HKUDS/CLI-Anything
+
+
+
+
+
+ESTO ES UNA PUTA MINA DE ORO
+
+el mejor truco de REA que casi nadie usa todavía.
+
+La idea: REA desarma la app, Jev conserva solo lo que está probado, y un fresco Opus 5.5 reconstruye la función solo a partir de eso.
+
+Nada se copia y ninguna suposición entra en el código, porque el constructor nunca ve el original, solo la spec que Jev aprobó.
+
+Solo conectas REA así:
+
+npx rea-agents setup
+
+aquí está la división:
+
+→ REA lee la función hasta el binario y escribe cada regla en SPEC.md
+→ Jev verifica cada regla contra la evidencia de REA y devuelve cualquier cosa no probada
+→ una sesión fresca de Opus 5.5 recibe solo SPEC.md y reconstruye la función
+→ Haiku 5.5 ejecuta las pruebas contra 3 versiones intencionalmente rotas
+
+Opus solo aparece en tres momentos:
+
+→ reconstruyendo desde la spec aprobada
+→ las verificaciones que Jev marca como poco claras
+→ aprobando antes de que nada se envíe
+
+REA lee. Jev juzga. Opus reconstruye.
+
+Esa es la regla de sala limpia en una línea: el modelo que vio el original nunca escribe el código, y el modelo que escribe el código nunca ve el original.
+
+el árbol completo
+> REA lee la app y escribe SPEC.md con evidencia para cada regla
+> Jev aprueba o devuelve cada regla
+> Opus 5.5 reconstruye desde el SPEC.md aprobado en una sesión fresca
+> Haiku 5.5 ejecuta las pruebas y las 3 versiones rotas
+> Jev ruta las verificaciones poco claras de vuelta a Opus
+> /goal sigue hasta que todas las 3 versiones rotas fallen
+
+pega el árbol y este prompt en Claude Code ↓
+
+"Configura una reconstrucción de sala limpia alrededor de este árbol:
+1. Usa REA para investigar [FEATURE] en [APP]. Escribe cada comportamiento y regla en SPEC.md, cada una con la evidencia que REA encontró.
+2. Envía cada regla a Jev. Cualquier regla sin evidencia vuelve a REA.
+3. Inicia una sesión fresca con solo SPEC.md. Reconstruye la función en Opus 5.5 sin abrir el original.
+4. Escribe pruebas en Haiku 5.5 más 3 versiones intencionalmente rotas. Usa /goal hasta que la reconstrucción pase y todas las 3 versiones rotas fallen.
+Muéstrame primero SPEC.md. Nada se construye hasta que yo diga adelante."
+
+↳ https://github.com/morluto/rea
+
+
+
+
+
+DEJA DE QUEMAR TU LÍMITE DE OPUS 5.5 POR NADA
+
+estos 8 repos cortan lo que Claude lee, escribe y relee. copia la lista antes de tu próxima sesión larga:
+
+headroom: reduce la salida de herramientas, logs y archivos antes de que lleguen al modelo, y mantiene los originales para que Claude pueda recuperarlos cuando los necesite. 75k estrellas
+http://github.com/headroomlabs-ai/headroom
+
+claude-context: búsqueda semántica sobre todo tu código base, para que Claude obtenga los fragmentos relevantes y no lea archivos enteros para encontrarlos. 12k estrellas
+http://github.com/zilliztech/claude-context
+
+lean-ctx: una capa local que comprime lecturas de archivos y salida de shell. un archivo que Claude ya leyó cuesta alrededor de 13 tokens la segunda vez. 3.8k estrellas
+http://github.com/yvgude/lean-ctx
+
+openwolf: ganchos que mantienen un índice del proyecto y notas de sesión, para que Claude omita archivos que ya leyó y no pierda su trabajo en la compactación. 2.1k estrellas
+http://github.com/cytostack/openwolf
+
+claude-token-efficient: un CLAUDE.md que mantiene las respuestas cortas. nada que instalar, y la salida es del lado de $20 por millón de Opus 5.5. 6.1k estrellas
+http://github.com/drona23/claude-token-efficient
+
+jcodemunch-mcp: indexa el repo una vez, luego Claude pide una función y obtiene solo esa. afirma un 95% menos de lectura de código. 2.5k estrellas
+http://github.com/jgravelle/jcodemunch-mcp
+
+ccusage: lee tus logs locales de Claude Code y muestra tokens y costo por día y por sesión. 19k estrellas
+http://github.com/ryoppippi/ccusage
+
+Claude-Code-Usage-Monitor: barras de uso en vivo y un pronóstico de cuándo alcanzarás tu límite. 8.6k estrellas
+http://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+
+ninguno de ellos hace que Opus sea mejor. cada uno solo evita que pague por tokens que no necesitaba
+
+empieza con los últimos dos: ve a dónde va realmente tu límite, luego elige dos herramientas de las de arriba. la configuración completa con scripts está en el artículo
+
+
+
+
+
+jo, lectores de ebooks: hay una herramienta de código abierto llamada zlib que te permite meter Z-Library directamente en la línea de comandos, sin ni siquiera abrir la web.
+
+Buscar libros, descargarlos, revisar el historial de descargas, ver el cupo diario, enviar a Kindle, todo se resuelve en la terminal, y soporta proxies y dominios personalizados.
+
+Lo más práctico: ya está integrada con Claude Code y Codex, así que solo le dices al Agent “ayúdame a buscar ‘The Pragmatic Programmer’, descárgalo y envíalo a Kindle” y listo.
+https://github.com/madler/zlib
+
+
+
+
+
+
+
+sta es la Biblia de Recursos de Código de Claude.
+
+54 herramientas.
+Agentes. Servidores MCP. Habilidades. Automatización.
+La mayoría de las personas aún no han descubierto este conjunto.
+
+Aquí está la versión curada (3 mejores enlaces por sección) 👇
+
+🟦 OFICIAL
+
+• http://code.claude.com/docs — Documentos de Código de Claude
+• http://lnkd.in/eBZZGsMx — Servidores MCP oficiales
+• http://lnkd.in/ekUBf8a6 — Certificación gratuita
+
+🟧 DIRECTORIOS
+
+• http://ecc.tools — Todo sobre Código de Claude
+• http://lnkd.in/ebE2iDvV — Lista de MCP
+• http://lnkd.in/emQbMwbG — Más de 50 MCP
+
+🟨 SERVIDORES MCP
+
+• http://lnkd.in/eMC5dUqR — Automatización de navegador
+• http://lnkd.in/eESCpJPv — Base de datos + autenticación
+• http://github.com/Dokploy/mcp — Despliegue de aplicaciones
+
+🟩 HABILIDADES
+
+• http://lnkd.in/eppbgRaK — Control de navegador
+• http://lnkd.in/ejAPia8C — Flujo de trabajo completo de desarrollo
+• http://github.com/tadaspetra/loop — Tareas recurrentes
+
+🟪 MULTIPLEXORES
+
+• http://cmux.com — Terminal de agente
+• http://gmux.sh — Orquestar agentes
+• http://github.com/coder/mux — Desarrollo paralelo
+
+🟥 MARCO DE TRABAJO DE AGENTES
+
+• http://github.com/HKUDS/ClawTeam — Coordinación multiagente
+• http://lnkd.in/eJPYijMk — Colaboración de agentes
+• http://lnkd.in/eMt3sS7N — Agentes de NousResearch
+
+⚙️ AUTOMATIZACIÓN
+
+• http://lnkd.in/e9sarX3R — Flujos de trabajo en código
+• http://openlogs.dev — Monitorear agentes
+• http://lnkd.in/eDKBPrPU — Infraestructura autoalojada
+
+📚 ARTÍCULOS
+
+• http://lnkd.in/e9gfhHhm — Mejores herramientas CLI
+• http://lnkd.in/ePCzNw5w — Principales servidores MCP
+• http://lnkd.in/eAJCnpbD — Agentes paralelos
+
+Esto es básicamente el mapa del ecosistema de Código de Claude.
+
+Apréndelo ahora → estás temprano
+Ignóralo → estás tarde
+
+Guarda este marcador. Lo necesitarás..
+
+Si te encantaría ver más contenido como este, no olvides seguir  para más magia de IA.
+
+calude_code_resource_bible.jpeg
+
+
+
+
+
+
+Acabamos de abrir el código de Topview 3D Builder 🎬
+
+Deja de jugar a la lotería de la IA. Empieza a construir el plano.
+
+Describe una escena en ChatGPT, Claude o cualquier agente de IA, o sube una imagen de referencia, y obtén un set 3D editable.
+
+Coloca tus personajes, accesorios y cámara. Fija la composición, las relaciones espaciales y los trayectos de movimiento antes de generar un solo fotograma.
+
+Luego exporta el fotograma o la animación a Topview, o llévalo a cualquier modelo de video de IA que te guste para la generación de video.
+
+Tu escena, tu cámara, tu decisión. Ahora abierto para todos.
+https://github.com/topviewai/topview-3d-builder
+
+
+
+
+
+
+
+
+
+
+GitHub está ocultando algunas herramientas de edición de video con IA absolutamente LOCAS.
+
+Estos repositorios de código abierto pueden convertir horas de edición aburrida en minutos de trabajo.
+
+10 repositorios potentes de GitHub que todo creador debería guardar:
+
+1. OpenChatCut
+
+Edita videos charlando. Deja que la IA ajuste clips, transiciones, subtítulos, efectos y audio mientras mantienes la línea de tiempo completamente editable.
+
+https://github.com/0xsline/OpenChatCut
+
+2. FireRed-OpenStoryline
+
+Describe la edición que quieres. Corta y reordena el material, elimina palabras de relleno y limpia oraciones repetidas mediante instrucciones en lenguaje natural.
+
+https://github.com/FireRedTeam/FireRed-OpenStoryline
+
+3. AutoClip
+
+Convierte podcasts largos, entrevistas y lecciones en clips cortos con selecciones destacadas por IA, subtítulos, portadas y texto para publicación.
+
+https://github.com/zhouxiaoka/autoclip
+
+4. Herk Edit Kit
+
+Dale habilidades de edición de código a Codex o Claude para cortar silencios muertos, encontrar errores, agregar subtítulos, organizar B-roll y construir gráficos en movimiento.
+
+https://github.com/nateherkai/herk-edit-kit
+
+5. AutoSubs
+
+Genera subtítulos localmente, identifica hablantes y envía subtítulos a DaVinci Resolve, Premiere Pro o After Effects.
+
+https://github.com/tmoroney/auto-subs
+
+6. StoryToolkitAI
+
+Busca tu material por significado, encuentra momentos relevantes y arma selecciones de historia que puedes exportar a tu software de edición.
+
+https://github.com/octimot/StoryToolkitAI
+
+7. FunClip
+
+Corta videos seleccionando palabras del guion. Elige pasajes o hablantes, luego exporta el material coincidente con subtítulos.
+
+https://github.com/modelscope/FunClip
+
+8. NarratoAI
+
+Crea ediciones de comentario a partir de material existente con guionización asistida por IA, corte automático, voces en off y generación de subtítulos.
+
+https://github.com/linyqh/NarratoAI
+
+9. BackgroundRemover
+
+Elimina fondos de videos con IA. Exporta material transparente, reemplaza fondos o procesa una carpeta entera mediante la línea de comandos.
+
+https://github.com/nadermx/backgroundremover
+
+10. LatentSync
+
+Coincide movimientos de boca con diálogo de reemplazo o audio doblado usando el modelo de sincronización labial de ByteDance. Requiere una GPU capaz.
+
+https://github.com/bytedance/LatentSync
+
+
+
+
+
+
+CÓDIGO TRUCO REAL PARA LOS INTERESADOS EN INGENIERÍA INVERSA 🔓🔥
+
+Un desarrollador está recopilando todos los casos en los que agentes de inteligencia artificial descomponen software y hardware en sus partes, y el número ya ha alcanzado los 286.
+
+De estos, 119 se realizaron con **REA**, la herramienta MCP de código abierto que otorga capacidades reales de ingeniería inversa a agentes como Claude Code y Codex.
+
+Aquí hay algunos destacados de la lista:
+→ **67 Juegos:** Desde archivos DOS antiguos hasta Modern Warfare 2 decompilado por 17 agentes.
+→ **64 Dispositivos y Hardware:** Incluyendo firmwares de productos de dispositivos inteligentes controlables desde la barra de menú de Mac, como inodoros inteligentes.
+→ **128 Aplicaciones de Escritorio y Móviles:** Software popular reconstruido o abierto.
+→ **27 Algoritmos:** Algoritmos propietarios recuperados directamente de archivos binarios.
+
+Cada registro indica qué herramienta se usó, si el resultado fue verificado o no, y la lista se actualiza 6 veces al día.
+
+¿Cómo funciona un proceso típico de REA?
+→ REA se conecta a tu agente de codificación como un MCP.
+→ El agente mapea el archivo binario y encuentra las funciones.
+→ Las trazas de tiempo de ejecución verifican qué hace cada función.
+→ El agente reconstruye la función como nuevo código y la prueba comparándola con el original.
+
+Pega esto en Claude Code:
+> "Instala el MCP de ingeniería inversa REA. Elige una pequeña aplicación que posea, mapea su binario, rastrea la función detrás de una característica y reconstruye esa característica como un script independiente con una prueba que lo compare con el original. Muéstrame primero el plan, sin ediciones hasta que diga adelante."
+
+GitHub: https://github.com/songshikang0111/awesome-REA-cases
+
+
+
+
+
+1.829 juegos clásicos han sido reconstruidos por fans para ejecutarse de forma nativa en PCs modernos.
+
+Awesome Decomp Games rastrea 2.118 proyectos que desarmaron juegos antiguos y los reconstruyeron, calificados y actualizados diariamente:
+
+→ Zelda: Ocarina of Time en PC a 60 fps en pantalla panorámica, con un randomizador y mods
+→ Majora's Mask recompilado con ultrawide y altas tasas de fotogramas
+→ Super Mario 64 con co-op online para hasta 16 jugadores
+→ Sonic Unleashed de Xbox 360, Star Fox 64 y cientos más
+→ 42 juegos que puedes jugar directamente en tu navegador
+
+La mayoría de los proyectos necesitan archivos de una copia del juego que poseas. La lista solo enlaza a código fuente, nunca a archivos de juego.
+https://github.com/SubmitGame/awesome-decomp-games
+
+
+
+
+
+Demasiado impresionante, el TRELLIS.2 de Microsoft. Convierte un plano directamente en un activo 3D listo para usar.
+
+En GitHub tiene 12 mil estrellas, más de mil cuatrocientos forks, hay un paper detrás (arXiv 2512.14692), y han liberado los pesos del modelo de 4 mil millones de parámetros junto con una demo en línea.
+
+Los que trabajan en 3D lo saben bien: antes, para modelar con una imagen de referencia, tenías que construir la forma base, coser la topología a mano, rellenar UVs, y luego aplicar texturas capa por capa; no era raro pasar un día entero en un solo prop. TRELLIS.2 usa una estructura de voxels dispersos llamada O-Voxel, que genera directamente superficies abiertas, geometrías no manifold, estructuras cerradas internas, sin necesidad de conversiones destructivas previas; lo que sale trae materiales PBR completos, con rugosidad, metalicidad, transparencia incluidos, y el renderizado con efectos de transparencia no requiere retoques.
+
+La velocidad está bien documentada: en H100, resolución 512³ toma unos 3 segundos, 1024³ unos 17 segundos, 1536³ unos 60 segundos. El umbral no lo esconden: por ahora solo probado en Linux, la GPU necesita al menos 24GB de VRAM, validado en A100 y H100.
+
+El modelo y el código están liberados bajo licencia MIT, un nivel de generosidad que no se ve todos los días.
+https://github.com/microsoft/TRELLIS.2
+
+
+
+
+
+ ¿Quieres replicar la función de alguna App en tu teléfono? Ahora solo arrastra el paquete de instalación aquí y pregúntale directamente a Claude.
+
+Hace 5 días, una persona abrió el código de Eleven, convirtiendo una herramienta profesional de ingeniería inversa en un software de escritorio para "desarmar Apps junto con IA", gratis:
+
+1️⃣ Todo se puede desarmar: Apps de Mac / iOS, exe de Windows, programas de Linux, APK de Android; hasta los núcleos de GPU CUDA y archivos de modelos GGUF se pueden abrir
+2️⃣ Usa tus Agents existentes: Se integra con Claude, Codex, Gemini, Cursor, OpenCode; selecciona unas líneas de código descompilado y presiona ⌘L para preguntar "¿qué hace esto?", la respuesta se expande directamente debajo del código
+3️⃣ Con una frase sencilla lo encuentras: Incluye guiones como "encuentra el código de conexión a red", "sigue el botón hasta su implementación", "busca la validación de autorización"; el Agent revisa funciones, renombra y escribe comentarios por su cuenta
+4️⃣ ¿No entiendes el pseudocódigo? Haz que reescriba la función en Python, Rust, Go u otros 10 idiomas
+5️⃣ Todos los cambios los apruebas tú: Las correcciones del Agent son solo sugerencias; al aceptarlas, se escriben en una copia, sin tocar ni un byte del archivo original
+
+💡 En Mac se instala con un comando, en Windows hay una versión de PowerShell. En el fondo usa Ghidra / Rizin; la primera ejecución lo instala automáticamente.
+
+https://github.com/Zfinix/eleven
+
+
+
+
+
+
+10 repositorios de GitHub de la semana de Claude Opus 5.5, desde gráficos en movimiento hasta juegos completos
+
+1. PDoomVideo: el video musical P(doom) de Opus 5.5, cada fotograma en código (1.5k estrellas)
+http://github.com/JohnHeibel/PDoomVideo
+
+2. awesome-opus5-5-videos: 475 videos virales de Opus 5.5 con sus prompts (1k estrellas)
+http://github.com/yihui-dev/awesome-opus5-5-videos
+
+3. tidewater: un juego de pesca WebGPU construido con Opus 5.5 (988 estrellas)
+http://github.com/dgreenheck/tidewater
+
+4. claude-opus-5-5-demo: tres juegos web 3D, un prompt cada uno (937 estrellas)
+http://github.com/riba2534/claude-opus-5-5-demo
+
+5. lemo-opuscar: 43 estilos de película, cada uno un cortometraje hecho en código (650 estrellas)
+http://github.com/lemomo-ai/lemo-opuscar
+
+6. ClaudeAnimationBase: kit de inicio para animación de caricatura pintada a mano (606 estrellas)
+http://github.com/JohnHeibel/ClaudeAnimationBase
+
+7. awesome-opus-5-5-videos: guía vinculada a la fuente para más de 1,000 videos (360 estrellas)
+http://github.com/athemeroy/awesome-opus-5-5-videos
+
+8. shipvideo: pega una URL, Opus 5.5 escribe un video de lanzamiento HTML (223 estrellas)
+http://github.com/diggerhq/shipvideo
+
+9. motion-graphics-music-video-skill: canción adentro, video de gráficos en movimiento afuera (71 estrellas)
+http://github.com/makevoid/motion-graphics-music-video-skill
+
+10. opus-video-skills: una habilidad de Claude Code por estilo de video (36 estrellas)
+http://github.com/tuzhechen2005/opus-video-skills
+
+
+
+
+
+GitHub es una MINA DE ORO para desarrolladores de juegos con IA.
+
+Seleccioné 10 repositorios open-source potentes que hacen ridículamente más fácil construir juegos 3D con Claude Code y Codex.
+
+Guarda estos antes de tu próximo proyecto:
+
+1. Gamedev Agent Skills
+
+Dale a Claude Code y Codex habilidades reutilizables de desarrollo de juegos para motores que incluyen Godot, Unity, Unreal y Three.js.
+
+https://github.com/gamedev-skills/awesome-gamedev-agent-skills
+
+2. MCP Unity
+
+Conecta tu agente de codificación a Unity. Crea escenas, modifica objetos, asigna materiales, ejecuta pruebas y lee errores de consola a través de prompts.
+
+https://github.com/CoderGamester/mcp-unity
+
+3. Godot MCP
+
+Deja que tu asistente de IA cree escenas, agregue nodos, ejecute proyectos de Godot e inspeccione la salida de depuración mientras construyes tu juego.
+
+https://github.com/Coding-Solo/godot-mcp
+
+4. TripoSR
+
+Convierte una sola imagen en un modelo 3D. Útil para prototipar accesorios y explorar assets antes de refinarlos para tu juego.
+
+https://github.com/VAST-AI-Research/TripoSR
+
+5. Drei
+
+Herramientas listas para usar con React Three Fiber: controles de cámara, entornos, cielos, sombras y carga de modelos para juegos 3D basados en navegador.
+
+https://github.com/pmndrs/drei
+
+6. React Three Rapier
+
+Agrega física a juegos de React Three Fiber, incluyendo cuerpos rígidos, detección de colisiones y articulaciones, sin tener que escribir un motor de física tú mismo.
+
+https://github.com/pmndrs/react-three-rapier
+
+7. Yuka
+
+Construye comportamiento de NPC con dirección, búsqueda de caminos, percepción y decisiones impulsadas por estados. Dale a tus personajes más que hacer que solo estar parados.
+
+https://github.com/Mugen87/yuka
+
+8. Three.quarks
+
+Construye efectos de partículas para juegos de Three.js, desde chispas y humo hasta rastros mágicos. Incluye un editor visual para diseñar efectos.
+
+https://github.com/Alchemist0823/three.quarks
+
+9. React Postprocessing
+
+Dale un upgrade visual a escenas de React Three Fiber con efectos de bloom, profundidad de campo, ruido y viñeta.
+
+https://github.com/pmndrs/react-postprocessing
+
+10. Colyseus
+
+Construye funciones multijugador con salas, emparejamiento, reconexiones y sincronización automática del estado del juego entre tu servidor y los jugadores.
+
+https://github.com/colyseus/colyseus
+
+
+
+
+
+
+
+¡Dios mío! El modelo no se mueve, ¡pero la puntuación de rendimiento sube 11.5 puntos! Google abre el código de Harness² para que tu Agent realice optimización RSI, ¡cuanto más lo cambies, más fuerte se vuelve!
+
+Antes, un Agent usaba un conjunto de configuración hasta la muerte. Ahora Google ha abierto el código de Harness², permitiendo que la IA optimice por sí misma las indicaciones, herramientas, memoria y habilidades; los pesos del modelo ni siquiera necesitan tocarse.
+
+Los dos puntos más potentes:
+1️⃣Se modifica a sí mismo, sin necesidad de respuestas correctas
+Ante una nueva tarea, el Agent genera automáticamente múltiples versiones de configuración, las ejecuta para comparar efectos y sintetiza directamente un conjunto más fuerte. Todo el proceso no requiere respuestas estándar ni puntuación manual.
+
+2️⃣Cuanto más se usa, más fuerte se vuelve, la experiencia se lleva directamente
+Al completar una tarea, las configuraciones útiles y las lecciones se conservan. La siguiente tarea parte directamente de la base anterior para seguir optimizando, ¡se vuelve más inteligente con cada ejecución!
+
+En pruebas de tareas reales como oficina, legal, etc., una ronda ya supera claramente la versión original; después de múltiples rondas, el máximo aumento es de 11.5 puntos.
+
+Pasos para empezar en 3:
+1️⃣Clonar: git clone https://github.com/google-research/harness2.git
+
+2️⃣Instalar: uv venv --python 3.12 .venv && source .venv/bin/activate && uv pip install -e '.[render]'
+
+3️⃣Ejecutar demo: harness2-demo --output runs/demo --k 2
+
+Si quieres que tu propio Agent también se vuelva más fuerte cuanto más lo uses, ¡puedes empezar ahora mismo!
+
+Repositorio: https://github.com/google-research/harness2
+
+
+
+
+
+"La edición de video local" está oficialmente muerta 🤯
+
+VideoSOS trae más de 100 modelos de IA a un solo espacio de trabajo de edición de video basado en navegador.
+
+- Genera videos con Veo 3.1
+- Crea imágenes con FLUX e Imagen 4
+- Usa Gemini 2.5 Flash para tareas de IA
+
+Una sola interfaz para tu flujo de trabajo. El procesamiento depende del modelo y proveedor que conectes.
+
+100% de código abierto.
+https://github.com/timoncool/videosos
+
+
+
+
+
+¡joder santo cielo!, alguien acaba de mapear más de 12.000 productos cerrados que puedes ingenierizar inversamente hoy 
+
+coches, hogares inteligentes, impresoras, clientes de IA, firmware, formatos de archivo y servicios en línea muertos, y la mayoría de los constructores no tienen idea de que es gratis
+
+el lanzamiento:
+
+→ http://github.com/alexgaoth/awesome-reverse-engineered (28 ★ · 2 forks · 12,877 projects)
+el índice en sí: cada entrada verificada a través de la API de GitHub para licencia, estrellas y estado, actualizado cada noche, con una habilidad lista para tu agente de IA
+
+→ descompilaciones de juegos (3.040 projects)
+descompilaciones, recompilaciones, emuladores y motores restaurados, desde shadPS4 y RPCS3 hasta OpenRA
+
+→ dispositivos, IoT y hardware (3.029 projects)
+control local para hogares inteligentes, impresoras y wearables sin la nube del proveedor
+
+→ clientes de API no oficiales (904 projects)
+clientes abiertos para plataformas que nunca lanzaron una API pública
+
+→ herramientas de IA y clientes LLM (739 projects)
+clientes de IA reconstruidos, definiciones de herramientas y adaptadores compatibles con OpenAI para servicios de IA cerrados
+
+→ coches (520 projects)
+asistencia al conductor abierta, APIs de vehículos y sistemas en el coche, incluido openpilot
+
+→ firmware y embebido (472 projects)
+firmware personalizado y código embebido para dispositivos cuyos fabricantes dejaron de actualizar
+
+→ formatos de archivo (436 projects)
+lectores y analizadores para formatos cerrados como PSD y DWG
+
+→ protocolos de red (422 projects)
+implementaciones abiertas de protocolos que nunca se documentaron
+
+→ revivals de servicios en línea (173 projects)
+servidores de reemplazo para juegos y servicios que fueron cerrados
+
+la fórmula:
+
+busca en el índice → clona lo que ya existe → deja que REA invierta la pieza faltante → lanza
+
+
+
+
+
+
+
+REA
+https://x.com/Gyome1_/status/2111774069783720195
+
+
+
+
+¡Joder! Hermanos y hermanas, si queréis usar Opus 5.5 para hacer vídeos, tenéis que guardar estos 8 repositorios de GitHub.
+
+1. awesome-opus5-5-videos（aprox. 7100 estrellas）
+La mayor colección de vídeos virales hasta ahora, cada uno con las palabras clave detrás.
+https://github.com/yihui-dev/awesome-opus5-5-videos
+
+2. lemo-opuscar（aprox. 4400 estrellas）
+Una skill de Claude Code, una vez instalada, elige un estilo y crea cortos de código puro, 51 estilos a elegir.
+https://github.com/lemomo-ai/lemo-opuscar
+
+3. pdoom-video（aprox. 3000 estrellas）
+Un proyecto completo de un MV de karaoke con letras, se puede renderizar en 4K60 localmente.
+https://github.com/mexicat/pdoom-video
+
+4. PDoomVideo（aprox. 2300 estrellas）
+El código fuente de otro MV de la misma canción, compáralo con el número 3 para desmontarlo, es muy interesante.
+https://github.com/JohnHeibel/PDoomVideo
+
+5. mg-styles-15（aprox. 1400 estrellas）
+15 estilos de animación MG, incluye el vídeo final, las palabras clave y el código fuente.
+https://github.com/Vincentwei1021/mg-styles-15
+
+6. ClaudeAnimationBase（aprox. 1300 estrellas）
+Paquete de inicio para animaciones de personajes de dibujos animados a mano, con 31 expresiones incluidas.
+https://github.com/JohnHeibel/ClaudeAnimationBase
+
+7. awesome-claude-5-5-videos（aprox. 560 estrellas）
+Colección de flujos de trabajo de vídeo, cada caso indica la fuente, hay 301 de Opus.
+https://github.com/athemeroy/awesome-claude-5-5-videos
+
+8. opus-video-prompts（aprox. 510 estrellas）
+Casos en chino, con palabras clave listas para copiar y pegar.
+https://github.com/joeseesun/opus-video-prompts
+
+
+
+
+
+Si quieres que Claude Code te ayude a hacer un juego 3D, no lo hagas empezar desde cero escribiendo física y efectos de partículas a mano; gasta demasiados tokens y el resultado es mediocre.
+
+Tras revisar un montón, seleccioné 10 bibliotecas gratuitas y de código abierto de GitHub. Instálalas y el tiempo para hacer un prototipo se reduce drásticamente.
+
+Las dividí en tres grupos según su uso; al leerlas sabrás cuál instalar.
+
+**Primer grupo: Para que la IA opere directamente el motor de juego**
+
+1. **Gamedev Agent Skills**: Instala de una vez 74 habilidades de desarrollo de juegos; leerá los archivos del proyecto, detectará si usas Godot, Unity o three.js, y activará las habilidades correspondientes. Un solo comando lo instala: `npx skills add gamedev-skills/awesome-gamedev-agent-skills`  
+   http://github.com/gamedev-skills/awesome-gamedev-agent-skills
+
+2. **MCP Unity**: Claude arma escenas directamente en el editor de Unity, modifica objetos, aplica materiales y revisa errores en la consola. Requiere Unity 6 o superior.  
+   http://github.com/CoderGamester/mcp-unity
+
+3. **Godot MCP**: Lo mismo pero en Godot: crea escenas, añade nodos, ejecuta el proyecto y lee la salida de depuración.  
+   http://github.com/Coding-Solo/godot-mcp
+
+**Segundo grupo: Para crear materiales**
+
+4. **TripoSR**: Genera un modelo 3D a partir de una sola imagen; es perfecto para prototipos de props. Necesita una GPU NVIDIA con unos 6 GB de VRAM.  
+   http://github.com/VAST-AI-Research/TripoSR
+
+**Tercer grupo: Piezas listas para juegos 3D web (three.js y React Three Fiber)**
+
+5. **Drei**: Controles de cámara, cielos, sombras, carga de modelos; todo en componentes listos para usar.  
+   http://github.com/pmndrs/drei
+
+6. **React Three Rapier**: Cuerpos rígidos, colisiones, articulaciones; olvídate de escribir un motor de física tú mismo.  
+   http://github.com/pmndrs/react-three-rapier
+
+7. **Yuka**: Búsqueda de caminos para NPCs, percepción y máquinas de estados.  
+   http://github.com/Mugen87/yuka
+
+8. **three.quarks**: Efectos de partículas como chispas, humo o estelas mágicas.  
+   http://github.com/Alchemist0823/three.quarks
+
+9. **React Postprocessing**: Deslumbramiento, profundidad de campo, grano; aquí está la diferencia entre un render cutre y uno pro.  
+   http://github.com/pmndrs/react-postprocessing
+
+10. **Colyseus**: Multijugador online; maneja salas, emparejamientos y reconexiones por desconexión.  
+    http://github.com/colyseus/colyseus
+
+Haz cuentas: Los 10 son de licencia MIT o Apache, sin necesidad de API keys extra; los últimos 6 son paquetes npm normales, y Claude puede codificar siguiéndoles la documentación. El único gasto es la suscripción a Claude o Codex que ya estás pagando.
+
+Para empezar, solo tres pasos: Instala primero Gamedev Agent Skills; luego haz que Claude use Drei y Rapier para montar una escena simple con movimiento y colisiones; por último, añade Postprocessing y three.quarks, y el aspecto visual sube de nivel al instante.
+
+
+
+
+
+
+
+uedes ejecutar tu propio espacio de trabajo para construir y ejecutar agentes de IA, en tu máquina o en la nube, y es de código abierto:
+
+- Construye, despliega y monitorea agentes y flujos de trabajo de manera visual
+- Más de 270 integraciones y todos los LLM principales en un solo lugar
+- No se necesita código; comienza con npx sim-setup en localhost
+https://github.com/simstudioai/sim
+
+
+
+
+
+
+¡MALDICIÓN! ESTOS 10 REPOSITORIOS DE GITHUB PUEDEN CONVERTIR LA IA EN UN PODEROSO ASISTENTE DE INVESTIGACIÓN.
+
+Imagina una IA que busca en la web, lee páginas, extrae información útil y construye informes de investigación detallados para ti.
+
+Estos 10 repositorios de código abierto pueden ayudarte a construirla:
+
+1. GPT Researcher
+
+Automatiza la investigación y genera informes detallados.
+
+https://github.com/assafelovic/gpt-researcher
+
+2. Tavily MCP
+
+Proporciona a los agentes de IA herramientas potentes de búsqueda y recuperación web.
+
+https://github.com/tavily-ai/tavily-mcp
+
+3. Oxylabs Web API MCP
+
+Agrega búsqueda web y extracción de datos a los flujos de trabajo de IA.
+
+https://github.com/oxylabs/web-api-mcp
+
+4. web-retrieval-mcp
+
+Recupera información de páginas web en múltiples pasos.
+
+https://github.com/VelvetSP/web-retrieval-mcp
+
+5. LlamaIndex
+
+Conecta LLMs a fuentes de datos externas.
+
+https://github.com/run-llama/llama_index
+
+6. Haystack
+
+Construye búsqueda, RAG y pipelines impulsados por IA.
+
+https://github.com/deepset-ai/haystack
+
+7. RAGFlow
+
+Crea aplicaciones de IA que trabajen con conocimiento y documentos.
+
+https://github.com/infiniflow/ragflow
+
+8. Docling 
+
+Convierte documentos en datos estructurados listos para IA.
+
+https://github.com/docling-project/docling
+
+9. SearXNG
+
+Construye tu propio motor de metabúsqueda autoalojado.
+
+https://github.com/searxng/searxng
+
+10. Crawl4AI
+
+Explora sitios web y extrae contenido para aplicaciones de IA.
+
+https://github.com/unclecode/crawl4ai
+
+El objetivo no es solo hacer que la IA genere respuestas.
+
+Se trata de ayudarla a encontrar mejores fuentes, procesar información y entregar investigaciones más útiles.
+
+Guarda esta lista si estás construyendo agentes de IA. 🔖
+
+
+
+
+
+
+Encontré un proyecto de código abierto que puede convertir directamente videos de movimientos de personas reales en animaciones de personajes 3D.
+
+Motion2MixamoRig extrae movimientos de videos de cuerpo completo de una sola persona, los transfiere a personajes de Mixamo, y después de exportar en GLB, aún se puede editar en Blender / Unity.
+
+Me importa más este GLB: no es solo un video para ver, sino material que se puede seguir usando para animaciones de juegos.
+https://github.com/MaxLiu22/Motion2MixamoRig
+
+
+
+
+
+Es demasiado fluido, Ming-3.0-tts puede clonar una voz directamente con un segmento de audio de referencia, y además se puede controlar cómo leer con una sola frase.
+
+El inclusionAI, de Ant Group, se abrió al código abierto ayer. En la lista de síntesis de voz de octubre de Artificial Analysis, la estabilidad de pronunciación de Ming-3.0-tts se llevó el primer lugar en la tabla general, con una precisión del 93.2%, y el control de timbre es el número uno entre los modelos de código abierto.
+
+Al hacer doblaje y contenido de audio, lo más molesto no es que el timbre no suene parecido, sino que lea mal. Si expandir o no las abreviaturas, si leer los modelos y números exactamente sin errores, antes solo se podía probar frase por frase, detectar el problema y volver a modificar el texto. Ming-3.0-tts obtuvo 96.5% y 90.6% en estos dos aspectos, ambos primeros en la lista, ahorrando así varias rondas de pruebas y errores.
+
+Además, integra 14 etiquetas de subidiomas, cosas como risas o suspiros se pueden escribir directamente en el texto y salen; aparte del chino, inglés, alemán, español, francés, coreano y japonés, también puede hablar en dialecto de Sichuan y cantonés. Lo que se lanzó es un modelo denso de 0.5B y un modelo de expertos mixtos tiny con un total de 7.9B parámetros y activación de 1.3B, este último incluso puede generar diálogos multi-persona según el guion. El informe técnico aún no se ha publicado, pero el código de inferencia y la tabla de evaluación están en el repositorio.
+
+Leer con precisión es, en realidad, la parte más difícil de la síntesis de 
+https://github.com/inclusionAI/Ming-3.0-tts
+
+
+
+
+
+
+¡Convierte documentos en datos aptos para agentes!
+
+OXR es un modelo de análisis de documentos de código abierto de 1.3 mil millones de parámetros que transforma PDFs e imágenes de documentos en Markdown o JSON estructurados.
+
+En lugar de extraer solo texto, reconoce 13 elementos de documentos diferentes, incluyendo tablas, fórmulas, figuras, bloques de código, notas al pie y estructuras químicas, al mismo tiempo que preserva el orden de lectura y las coordenadas de diseño.
+
+Eso hace que la salida sea mucho más útil para RAG y agentes, donde saber qué dice el texto es solo una parte del problema. También necesitas saber qué es una tabla, dónde pertenece una fórmula, qué pie de figura corresponde a qué figura y cómo se debe leer realmente el documento.
+
+La parte técnica que me pareció interesante es cómo se post-entrenó OXR.
+
+Utiliza un bucle de auto-mejora recursiva donde OXR primero analiza documentos sin etiquetar, luego un VLM general revisa las salidas en busca de errores e incertidumbre.
+
+Las discrepancias en múltiples ejecuciones de OXR ayudan a identificar ejemplos inciertos, esos fallos se agrupan por causa y el VLM genera datos de entrenamiento dirigidos para la siguiente ronda.
+
+Así, en lugar de etiquetar manualmente nuevos datos para cada iteración, los propios fallos de análisis del modelo ayudan a decidir en qué debería entrenarse a continuación.
+
+La arquitectura también es diferente de la tubería de análisis habitual.
+
+El análisis de diseño permanece independiente y modular, mientras que el reconocimiento y el orden de lectura consciente del contenido se ejecutan en paralelo dentro del modelo principal. Eso significa que los equipos pueden reemplazar el modelo de diseño por su propia estructura de documentos sin reemplazar el resto de OXR.
+
+Y los resultados son sólidos para un modelo de 1.3 mil millones de parámetros.
+
+OXR ocupa el #1 en olmOCR-Bench, OmniDocBench y DocParsingBench. En la prueba de velocidad reportada de 100 páginas en una sola RTX PRO 6000, OXR terminó en aproximadamente 101 segundos frente a 161 segundos para DeepSeek-OCR-2.
+
+El modelo completo es de código abierto.
+https://github.com/SoMarkAI/OXR
+
+
+
+
+
+
+📱🕵️⚡ NombreHUNT | OSINT de números con 35+ módulos y 250+ plataformas
+
+Cuando el único dato es un teléfono, necesitas inteligencia completa y rápida.
+https://github.com/sylhetyhackvenger/NombreHUNT
+
+
+
+
+
+4 días 1500 estrellas: Colección de prompts inversos REA
+
+REA-Prompts es la colección de prompts complementaria de REA: copia y pega para usar, cubre completamente funciones de seguimiento, extracción de protocolos y portabilidad de juegos. Un buen prompt maximiza la eficiencia de la ingeniería inversa. Recordatorio: solo analiza software propio o autorizado. 1502 estrellas.
+
+¿Jugadores de ingeniería inversa: lo haces a mano, o copias de la colección?
+https://github.com/JoasASantos/REA-Prompts
+
+
+
+
+Descubrí dos proyectos de GitHub de nivel divino, ¡el AI en los videos promocionales es increíble!
+
+Últimamente descubrí dos proyectos de código abierto especialmente ideales para hacer videos de explicación de productos, divulgación de conocimiento y marketing empresarial.
+
+¡Incluso creo que, al combinarlos, se podría crear un agente de video AI que genere automáticamente videos promocionales de productos!
+
+Sin necesidad de escribir guiones uno mismo, grabar audio, buscar material, hacer storyboards, editar, ¡e incluso los efectos de movimiento y sonoros se pueden dejar en manos del AI!
+
+1️⃣ video-talkcraft: Haz que el AI explique las cosas de forma clara
+
+GitHub: http://github.com/Vincentwei1021/video-talkcraft
+
+Convierte un guion de voz en off + doblaje en un video de explicación dinámica.
+
+Ideal para:
+
+* Reseñas de productos, explicaciones de conocimiento
+* Introducciones a herramientas AI
+* Propaganda empresarial, videos de cursos
+
+2️⃣ video-shotcraft: Haz que el AI haga que los productos se vean geniales
+
+GitHub: http://github.com/Vincentwei1021/video-shotcraft
+
+Convierte capturas de pantalla de productos, páginas web o interfaces de software en videos promocionales con movimientos de cámara, ritmo y efectos de sonido.
+
+Ya no se trata solo de unir capturas de pantalla de forma simple, sino de convertir la interfaz de software en la verdadera protagonista del video.
+
+
+
+
+
+
+ACABAN DE LIBERAR GRATIS UN HACKER CON IA QUE ATACA TU APP CADA VEZ QUE SUBES UNA RELEASE
+Ya va por más de 48.000 estrellas en GitHub.
+Y no te da una lista de "posibles fallos". Te enseña por dónde entra.
+Se llama Shannon y es un pentester con IA open source.
+Lo apuntas a tu app e intenta romperla como lo haría un hacker de verdad.
+Lo que hace:
+→ Usa exploits reales, no suposiciones
+→ Si no consigue explotar un fallo, no lo reporta
+→ Lo metes en GitHub Actions o GitLab CI y se ejecuta solo en cada release
+→ Te entrega un informe PDF profesional listo para pasar al cliente o al equipo
+→ Y exporta en SARIF para que los fallos aparezcan directamente en tus herramientas de desarrollo
+Los tests te dicen si tu app funciona.
+Esto te dice si alguien puede entrar.
+Antes, un pentest era algo que se hacía de vez en cuando.
+Ahora tu app pasa por uno cada vez que la actualizas.
+Open source. Funciona con el modelo que ya usas.
+Repo en el primer comentario 👇
+https://github.com/KeygraphHQ/shannon
+
+
+
+
+¡No gastes más dinero en comprar generadores de video con IA! En GitHub hay 5 proyectos que te permiten crear videos de alta calidad directamente con código. Perfectos para divulgación de conocimiento, compartir tecnología y demostraciones de productos.
+
+1️⃣ HyperFrames (HeyGen de código abierto)
+
+Con una sola frase, haz que la IA escriba animaciones en HTML, renderiza fotograma a fotograma para garantizar consistencia en la imagen, ideal para la producción automatizada de videos.
+
+🔗 https://github.com/heygen-com/hyperframes
+
+2️⃣ Remotion
+
+El clásico framework de desarrollo de video que convierte componentes de React directamente en imágenes, soporta vista previa en tiempo real en el navegador, di adiós a los renders repetitivos.
+
+🔗 https://github.com/remotion-dev/remotion
+
+3️⃣ Manim (versión comunitaria)
+
+Motor de animaciones matemáticas en Python, con soporte nativo para LaTeX, excelente para derivaciones de fórmulas y divulgación científica.
+
+🔗 https://github.com/ManimCommunity/manim
+
+4️⃣ remotion-video-skill
+
+Empaqueta habilidades de código Claude para doblaje con IA, subtítulos y líneas de tiempo de escenas, desde el guion hasta el video en un solo flujo.
+
+🔗 https://github.com/wshuyi/remotion-video-skill
+
+5️⃣ video-shotcraft
+
+Incluye 124 tarjetas de recetas de tomas y 150 ejemplos de tomas, para que los videos de IA digan adiós a la "sensación de PPT" y creen animaciones más naturales y con un toque cinematográfico.
+
+🔗 https://github.com/Vincentwei1021/video-shotcraft
+
+¡Sin suscripciones caras de generación de video, puedes crear animaciones profesionales con código!
+
+
+
+
+Un agente de IA de código abierto que investiga, programa y crea, y que ya suma decenas de miles de estrellas.
+
+Se llama DeerFlow y ya tiene más de 84.000 estrellas en GitHub.
+
+Así funciona:
+> Es un "SuperAgent" de ByteDance para tareas largas, de minutos a horas
+> Investiga, escribe y ejecuta código y crea presentaciones, vídeos e imágenes
+> Usa sandboxes, memoria, herramientas, skills y subagentes
+> Licencia MIT, escrito en Python, funciona con modelos locales o en la nube
+> Ojo: necesita Python, Node y normalmente Docker, no es de "descargar y listo"
+https://github.com/bytedance/deer-flow
+
+
+
+
+
+Cada vez que tengo una idea, la lanzo a Claude Code y dejo que la habilidad de Lluvia de Ideas entre en acción
+
+Empezamos iterando a través de preguntas, explorando diferentes enfoques, discutiendo compensaciones y refinando la idea
+
+La habilidad me ayuda a aclarar requisitos, desglosar el diseño y validar cada parte antes de documentar el enfoque final
+
+Al final, tengo una imagen mucho más clara de lo que realmente quiero construir, antes de escribir una sola línea de código
+
+Instalar:
+npx claude-code-templates@latest --skill development/brainstorming
+https://aitmpl.com/component/skill/development/brainstorming
+
+
+
+
+
+GITHUB ESTÁ REALMENTE LOCO AHORA MISMO.
+
+Puedes construir una fábrica completa de contenido con IA sin contratar un equipo.
+
+Aquí hay 10 repositorios de código abierto que vale la pena revisar:
+
+1. OpenCreator
+
+Dale a Codex un espacio de trabajo de creación para escribir guiones, generar imágenes, crear voces en off, traducir videos y editar contenido.
+
+http://github.com/krillinai/Open…
+
+2. Social Media Research Skills
+
+Usa Claude Code o Codex para investigar publicaciones virales, analizar competidores, extraer comentarios y obtener ganchos de transcripciones de videos.
+
+http://github.com/ScrapeCreators…
+
+3. Local Deep Research
+
+Convierte cualquier tema en un informe de investigación detallado usando búsquedas web, tus documentos y modelos de IA locales o en la nube.
+
+http://github.com/LearningCircui…
+
+4. FLUX.2
+
+Genera y edita imágenes para miniaturas, publicaciones en redes sociales y campañas de marketing. Los modelos Klein 4B tienen pesos con licencia Apache.
+
+http://github.com/black-forest-l…
+
+5. Kokoro
+
+Convierte guiones escritos en voces en off con IA usando un modelo compacto de texto a voz con pesos abiertos.
+
+http://github.com/hexgrad/kokoro
+
+6. ACE-Step 1.5
+
+Genera música a partir de indicaciones de texto, crea instrumentales y regenera secciones de audio específicas. Puede ejecutarse localmente en hardware compatible.
+
+http://github.com/ace-step/ACE-S…
+
+7. Short Video Factory
+
+Crea lotes de videos cortos a partir de indicaciones y tu material de video, con guiones generados por IA, voces en off, edición y subtítulos.
+
+http://github.com/YILS-LIN/short…
+
+8. AI YouTube Shorts Generator
+
+Convierte videos largos de YouTube en Shorts verticales con resúmenes seleccionados por IA, transcripciones y recorte automático.
+
+http://github.com/Anil-matcha/AI…
+
+9. Podcastfy
+
+Convierte material fuente en conversaciones de podcast generadas por IA, personaliza el diálogo y produce audio en múltiples idiomas.
+
+http://github.com/souzatharsis/p…
+
+10. Social Media Agent
+
+Convierte una URL en publicaciones de X y LinkedIn, revisa y edita los borradores, luego prográmalos a través de un flujo de trabajo de agente de IA.
+
+http://github.com/langchain-ai/s…
+
+Investigación, escritura, visuales, voces en off, música, edición de video y distribución.
+
+Puedes automatizar casi todas las etapas de la creación de contenido con las herramientas adecuadas.

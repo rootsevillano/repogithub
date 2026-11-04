@@ -1,0 +1,958 @@
+https://regolo.ai/openwiki-setup-a-privacy-first-for-enterprises/?twclid=2kjeeuieuytw9xczgyn415pnx
+
+
+OWASP CVE Lite CLI: nueva herramienta de escaneo de vulnerabilidades
+CVE Lite CLI es un esc¨¢ner de vulnerabilidades gratuito y de c¨®digo abierto, reconocido oficialmente como un proyecto de la incubadora de OWASP
+https://blog.elhacker.net/2026/06/owasp-cve-lite-cli-nueva-herramienta-de.html
+https://cybersecuritynews.com/owasp-cve-lite-cli-tool/
+
+
+
+
+
+
+
+radarr, 
+sonarr, 
+prowlarr, 
+seerr.
+
+conecta a tu instancia de 
+radarr, 
+sonarr y 
+jellyfin/plex y te va mostrando que nuevos lanzamientos hay por categoria, plataforma y vos ahi haces el request. Tambien tiene la busqueda unificada para series, peliculas y anime.
+Ese request despues lo pasa por detras a quien corresponda.
+Lo bueno es que podes hacerle una cuenta a tu se?ora o con quien compartas y pueden hacer requests que podes dejar aprobados automaticamente o que despues vos aprobas para que pasen y se bajen automaticamente.
+A nosotros en casa lo que mas nos sirve es que nos va diciendo que nuevos lanzamientos hay y buscar cosas para ver por plataforma.
+Prowlarr es basicamente jackett pero para el arr stack (conecta a 
+lidarr y 
+readarr tambien).
+https://x.com/PeladoNerd/status/2062891899979960589
+
+
+
+
+
+Gitmind.com/es/ ??Convierte documentos y videos de YouTube en mapa mental
+http://Beautiful.ai ??Crea presentaciones con dise?o profesional usando IA
+http://Openlibrary.org ??Descarga libros y textos en idiomas extranjeros
+Reccloud.com/es/ ??Transcribe grabaciones a texto al instante
+http://Neal.fun ??Mini-juegos para desconectar un rato
+
+
+
+
+1. Sales
+
+- Ada
+- Drift
+- Attio
+- Gong
+- Explee
+- Cognism
+- Salesforce
+
+2. Design & Website
+
+- Canva
+- Lindy AI
+- Leonardo
+- Ideogram
+- Adobe Firefly
+- MidJourney v7
+- Microsoft Designer
+
+3. Productivity & Knowledge
+
+- Otter AI
+- Notion AI
+- ChatGPT-5
+- Perplexity Pro
+- Zapier Agents
+- Claude Opus 4.1
+- BeforeSunset AI
+
+4. Programming
+
+- Tabnine
+- Replit AI
+- Zencoder
+- Blackbox AI
+- Graphite Dev
+- GitHub Copilot
+- Sourcegraph Cody
+
+5. Video Creation
+
+- Pika 2.2
+- Kling 2.1
+- Hailuo AI
+- Higgsfield
+- Google Veo 3
+- Runway Gen-4
+
+6. Marketing
+
+- Jasper
+- Copy ai
+- Beehiiv
+- Typefully
+- MakeUGC
+- Surfer SEO
+
+Video
+https://www.blackmagicdesign.com/es/products/davinciresolve
+
+
+
+
+10 carpetas para automatizar todo con indicaciones que convierten a @Bot Grok en un equipo de trabajo completo (2026)
+
+Grok Bot + Slack | Grok Bot + Salesforce | Grok Bot + Gmail | Grok Bot + X : todo esto se creó utilizando estas indicaciones.
+Con estos 10 bots/mensajes, conviertes tu@Bot(Grok Bot de xAI) pasó de ser un simple chatbot a un departamento autónomo completo para operaciones, marketing, productividad y soporte.
+No se trata de indicaciones ordinarias: son configuraciones avanzadas que dotan a Grok Bot de su propio ordenador en la nube, le permiten iniciar sesión en tus herramientas reales, trabajar las 24 horas del día, los 7 días de la semana y entregar el trabajo terminado.
+Probado en proyectos reales: tras su implementación, la velocidad de iteración aumenta de 3 a 4 veces, las correcciones manuales se reducen al mínimo y la calidad del producto final mejora tanto que la demanda de servicios se dispara. Pasas de ser un usuario común de IA a un especialista de alto valor que ofrece resultados de nivel profesional en mucho menos tiempo.
+Las 10 indicaciones que se convierten@Boten un equipo completo
+1. Asesor de bots
+El metabot. Su única función es crear y gestionar todos tus demás bots. Te entrevista, diseña instrucciones, horarios y conexiones, y mantiene una lista actualizada. Nunca borra nada sin tu permiso.
+Ideal para iniciar y ampliar tu flota.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí cuya única función sea crear y administrar mis otros bots. Configúralo: cuando describa algo que quiero automatizar, me entrevistará, redactará las instrucciones, el cronograma y las conexiones del nuevo bot, y lo creará; cuando un bot existente sea ruidoso o no cumpla con su objetivo, ajustará las instrucciones; y mantendrá un registro de lo que ejecuto y para qué sirve cada bot. Nunca eliminará un bot sin mi autorización. Pregúntame qué bots ya tengo y qué intento obtener de ellos, que diseñe su primer bot conmigo y luego lo guarde.
+
+Basado en este tuit de@petergyang:https://x.com/petergyang/status/2089401696946634801
+2. Jefe de Gabinete
+Él es quien prioriza todo. Canaliza el trabajo hacia los bots especializados, mantiene una lista actualizada de los proyectos en curso y te envía un informe diario sobre las decisiones humanas pendientes.
+Conecta Slack + Notion + Linear.
+Indicación (copiar y pegar):
+Crea un nuevo bot para que actúe como mi jefe de gabinete, siempre activo. Guíame para conectar Slack, Notion y Linear, y luego configúralo: todo te llegará primero, dirige el trabajo al bot especializado adecuado, mantén una lista actualizada de las tareas en curso y publica un recordatorio diario sobre lo que requiere una decisión humana. Pregúntame qué bots especializados ya utilizo y en qué canal debo publicar, y luego guarda la configuración.
+
+Basado en este tuit de@ericzakariasson:https://x.com/ericzakariasson/status/2087258914060664902
+3. SEO Improver
+Cada dos semanas revisa las páginas que pierden impresiones o que se encuentran en la página 2, reescribe los títulos y la metaetiqueta, corrige los enlaces internos y abre una solicitud de extracción para que la revises.
+GitHub + DataForSEO + Search Console.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí. Explícame cómo conectar GitHub, DataForSEO y Google Search Console, y luego prográmalo cada dos semanas: busca páginas que pierden impresiones o que aparecen en la segunda página, reescribe los títulos y metadatos, corrige los enlaces internos y abre una solicitud de extracción que revisaré antes de fusionarla. Pídeme el repositorio y el directorio de contenido, haz una prueba y luego guarda la programación.
+
+Basado en este tuit Aportado por@elie2222
+4. Informe diario
+De lunes a viernes a las 7 de la mañana, te envía un mensaje con tus llamadas en orden, con quién te vas a reunir y por qué, cualquier cambio ocurrido durante la noche y lo único que necesitas preparar.
+Calendario de Google + Slack.
+Indicación (copiar y pegar):
+Configúrame un nuevo bot. Explícame cómo conectar mi Calendario de Google y Slack, luego prográmalo para que se ejecute todos los días laborables a las 7:00 a. m. y me envíe un mensaje: mis llamadas en orden, con quién me reuniré y por qué, cualquier cambio durante la noche y lo único que debo preparar. Pregúntame lo que necesites, muéstrame una prueba y luego guárdalo como un bot que pueda editar más tarde.
+
+Basado en este tuit Aportado por@elie2222:
+5. Bandeja de entrada de Marie Kondo
+Limpia tu bandeja de entrada: archiva el correo basura, te da de baja de lo que nunca abres y encuentra todas las suscripciones de pago en tus recibos para que puedas cancelar lo que ya no te entusiasma.
+Todo con tu aprobación previa. Gmail.
+Indicación (copiar y pegar):
+Crea un nuevo bot para que sea mi Marie Kondo digital. Guíame para conectar Gmail y luego configúralo: limpia mi bandeja de entrada (archiva lo innecesario y cancela las suscripciones a lo que nunca abro) y encuentra todas las suscripciones de pago en mis recibos para que pueda ver en qué gasto y cancelar lo que ya no me interesa. Muéstrame la lista completa de lo que quiere archivar, cancelar y dar de baja antes de que haga nada. Pregúntame qué es sagrado, haz la primera limpieza conmigo presente y luego guárdala para que se ejecute periódicamente.
+
+Basado en este tuit de@petergyang:https://x.com/petergyang/status/2089401696946634801
+6. Alerta temprana de abandono de clientes
+Previsión diaria del estado de la cuenta. Va más allá del número de usuarios: detecta a los usuarios avanzados que se dan de baja, los cambios en el tono del soporte y te avisa con antelación con recomendaciones.
+Salesforce + PostHog + Slack.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí con una programación diaria para pronosticar el estado de las cuentas. Explícame cómo conectar Salesforce, PostHog y Slack, y luego configúralo: analiza más allá de las cifras principales los puestos inactivos, los usuarios avanzados que se van y los cambios en el tono del soporte, e infórmame con anticipación cuando una cuenta se desvíe y qué harías al respecto. Pregúntame qué significa un uso saludable para cada plan, realiza una prueba retrospectiva con tres cuentas que perdimos y luego guárdalo.
+
+Basado en este tuit de@ericzakariasson:https://x.com/ericzakariasson/status/2087258914060664902
+7. Coach de crecimiento de cuentas
+Analiza tu nicho y tus publicaciones recientes en X, propone un calendario constante de contenido original, identifica cuentas más importantes con las que interactuar de forma genuina y te indica en qué debes centrarte.
+Solo X.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí que pueda activar para el crecimiento de la cuenta, en su propio chat dedicado. Guíame para conectar X y luego configúralo: revisa mi nicho y mis publicaciones recientes, sugiere un calendario constante de ideas originales, imágenes y preguntas que generen respuestas, identifica cuentas más grandes relevantes con las que interactuar de forma genuina, realiza un seguimiento de qué temas y formatos funcionan y recomienda en qué centrarme. Pregúntame sobre mi tema principal, audiencia, tono, frecuencia de publicación y límites de interacción, redacta el primer borrador de publicaciones y respuestas para mi aprobación antes de publicar nada, y luego guárdalo para una revisión semanal de planificación.
+
+Basado en este tuit de@ElonMusk:https://x.com/elonmusk/status/2089719862880780588
+8. Estratega X
+Piensa a largo plazo en X. Analiza las interacciones, te dice con quién vale la pena entablar relaciones reales, qué temas de contenido se ajustan a tu experiencia y las oportunidades que de otro modo te perderías.
+Solo ofrece consejos; nunca publica ni responde por ti.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí que piense a largo plazo en X, independiente de mis bots de respuesta y artículos. Guíame para conectar X y luego configúralo: observa mis interacciones y las cuentas a mi alrededor e informa sobre a quién vale la pena prestar más atención, cómo convertir interacciones casuales en relaciones reales, qué temas de contenido se ajustan a mi perfil y oportunidades que de otro modo me perdería. Solo me aconseja; nunca responde ni publica por mí. Pregúntame sobre mi perfil y qué espero de X, envíame un memorándum estratégico para que pueda ver si me muestra personas que habría pasado por alto y luego guárdalo.
+
+Basado en este tuit de@kevinace:https://x.com/kevinace/status/2089074419175977004
+9. Recopilador de contexto de marketing
+Crea y mantiene un resumen completo y dinámico de todas tus actividades de marketing: productos, posicionamiento, público objetivo, tono de marca, campañas anteriores, métricas, comentarios de ventas… actualizado automáticamente.
+Gmail + Slack + Notion + GA + HubSpot + Google Ads.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí en su propio chat dedicado que cree un resumen de contexto completo y actualizado para mis decisiones de marketing. Guíame para conectar Gmail, Slack, Notion, Google Analytics, HubSpot y Google Ads, luego configúralo para recopilar y organizar los antecedentes de mi empresa, productos, posicionamiento, clientes, audiencias, objetivos, ofertas, voz de marca, campañas anteriores, datos de rendimiento, comentarios de ventas, restricciones y experimentos activos de esas fuentes, señalando lagunas o información contradictoria, y manteniendo el contexto actualizado con datos en tiempo real según un cronograma que yo elija. Pregúntame qué fuentes y detalles comerciales son autorizados, qué información es sensible, qué métricas y canales son más importantes, con qué frecuencia actualizar y qué decisiones quiero que el contexto respalde. Realiza una primera recopilación supervisada y permíteme revisar y corregir el resumen de contexto resultante antes de guardarlo, luego guárdalo como un bot.
+
+Basado en este tuit de@codyschneider:https://x.com/codyschneider/status/2089759262171967951
+10. Primer oficial
+El único bot con el que te comunicas. Gestiona las solicitudes sencillas por sí mismo y delega las más complejas a otros bots o agentes (Cursor, etc.), supervisa, verifica y te envía todas las actualizaciones y la respuesta final en un lenguaje claro.
+El orquestador supremo.
+Indicación (copiar y pegar):
+Configura un nuevo bot para mí llamado Firstmate en su propio chat dedicado, el único agente con el que hablo. Guíame en la configuración en Grok y la conexión de Cursor Cloud Agents para el trabajo de desarrollo delegado, luego configúralo: maneja tú mismo las solicitudes simples cuando toman una sola llamada de herramienta, y envía cualquier cosa más grande a un bot compañero de equipo apropiado o agente nativo, supervisa el trabajo, verifica el resultado y envíame cada actualización y respuesta final en lenguaje claro. Mantén un registro de las tareas delegadas, recupérate de forma transparente cuando un agente o herramienta falle, y mejora continuamente el flujo de trabajo de delegación a partir de mis comentarios. Pregúntame qué tipos de trabajo quiero que se manejen directamente, qué se debe delegar, qué compañeros de equipo o herramientas están disponibles y qué controles de calidad son importantes, ejecuta una pequeña delegación supervisada como prueba, luego guárdala.
+
+Basado en este tuit de@kunchenguid:https://x.com/kunchenguid/status/2089792928092963234
+Cómo funcionan realmente estas "habilidades" de Grok Bot
+Se trata de indicaciones que Grok Bot carga progresivamente. Cada una es un archivo Markdown con instrucciones e integraciones. Grok Bot tiene su propio servidor en la nube, inicia sesión en tus herramientas como si fueras un humano y funciona de forma autónoma (con tu aprobación en los pasos críticos).
+Puedes instalarlos de dos maneras:
+Copia la indicación anterior y pégala en@Bot.
+Combinaciones que ofrecen resultados a nivel de agencia.
+Proyecto web/de marketing completo ? Recopilador de contexto de marketing + Optimizador SEO + Entrenador de crecimiento de cuentas + Estratega X
+Operaciones de la empresa ? Jefe de Gabinete + Alerta Temprana de Rotación de Clientes + Informe Diario
+Productividad personal extrema ? Bot Advisor + Bandeja de entrada Marie Kondo + Firstmate
+Flota completa ? Bot Advisor + Bot Fleet Auditor + todo lo demás
+Buenas prácticas (agosto de 2026)
+Siempre empieza con Bot Advisor . Es la meta-habilidad más poderosa.
+Combina varios bots en el mismo hilo para que colaboren.
+Utiliza horarios (diarios, semanales) y deja que funcionen mientras duermes.
+Solicita siempre ensayos generales y la aprobación humana en los primeros ciclos.
+El verdadero poder se manifiesta cuando se tienen entre 5 y 10 robots trabajando en paralelo.
+Limitaciones honestas
+Para obtener el mejor rendimiento, se requieren planes de pago de Grok Bot (que incluyen su propia máquina).
+Las indicaciones oficiales y de la comunidad son estables, pero aún se encuentra en fase beta temprana.
+Los proyectos críticos aún requieren supervisión humana.
+El cuello de botella se desplaza de las "indicaciones para la redacción" a la "calidad del sistema + memoria + herramientas".
+Recursos oficiales
+Página oficial de Grok Bot:x.ai/bot
+API pública para consultar todos los bots
+Estas 10 indicaciones (y las más de 150 que hay en el directorio) convierten@Boten algo que otros aún no pueden imaginar.
+Pruébalo hoy mismo y verás la diferencia.
+Si deseas combinaciones más específicas o un paquete personalizado para tu caso de uso (agencia, SaaS, personal, etc.), solo dímelo y lo prepararé.
+
+
+
+https://x.com/petergyang/status/2089401696946634801
+youtube.com/watch?v=MkVcHbviYOw&feature=youtu.be
+
+
+
+
+
+
+?? Extensión del navegador que hace que las páginas web trabajen automáticamente según tus ideas
+https://x.com/Ryrenz/status/2090242916941762699
+https://github.com/scriptscat/scriptcat
+
+
+
+
+
+Localiza cámaras IP abiertas en todo el mundo mediante el raspado combinado de directorios y dorking de la deep web con verificación de transmisiones en vivo y enriquecimiento de GeoIP.
+https://github.com/Y0oshi/Project-Eyes-On
+
+
+
+
+Antes de compartir una imagen o un video, es posible que tu información esté oculta dentro del archivo.
+ExifCleaner elimina los datos EXIF y los metadatos con facilidad, y permite procesar cientos de archivos de una sola vez, funcionando localmente en Mac, Windows y Linux.
+De código abierto y gratuito.
+https://github.com/szTheory/exifcleaner
+
+
+
+
+Instala más de 160 habilidades listas para producción para Claude Code, Cursor y Codex, que abarcan DevOps, seguridad e infraestructura.
+https://github.com/BagelHole/DevOps-Security-Agent-Skills
+
+
+
+?? ¡¿Qué es esto?! ????
+OpenShorts convierte un solo prompt en videos de YouTube Shorts y TikTok listos para usar, con:
+??? Locución de voz
+?? Subtítulos animados
+?? Montaje completo
+?? Gratis
+Y lo más potente:
+? Sin suscripciones
+? Sin marcas de agua
+? Código abierto completo
+Un solo prompt ? Video listo para publicar.
+https://github.com/mutonby/openshorts
+
+
+
+CHINA ACABA DE LANZAR UN EMPLEADO DE IA QUE TRABAJA 24/7
+Es completamente gratis y se ejecuta en tu propio ordenador
+Se llama DeerFlow
+No es un chatbot cualquiera
+Es un super agente open source
+? Investiga a fondo cualquier tema (busca, resume y organiza informacion)
+? Escribe y ejecuta codigo
+? Crea presentaciones
+? Genera videos e imagenes
+? Automatiza tareas complejas de varios pasos
+? Usa sub-agentes en paralelo
+? Trabaja dentro de sandboxes aislados
+Tiene memoria a largo plazo
+Funciona con modelos locales o en la nube
+Y es 100% open source
+Estamos entrando en una era donde la IA no solo responde preguntas 
+Hace el trabajo
+https://github.com/bytedance/deer-flow
+
+
+todos gratis. todos de código abierto. guarda esto para después.
+
+1. Recordly — el estudio de pantalla gratuito.
+   Grabador de pantalla de código abierto con autozoom, cursor suave, superposición de webcam, fondos estilizados y demos pulidos sin un editor de video. (AGPL-3.0)
+   https://github.com/webadderallorg/Recordly
+
+2. Stirling PDF — tu kit de herramientas completo para PDF.
+   Autoalojado. Fusiona, divide, firma, redacta, OCR, convierte, comprime, 50+ herramientas. Se ejecuta localmente, por lo que nada sale de tu máquina. (MIT)
+   https://github.com/Stirling-Tools/Stirling-PDF
+
+3. PhotoGIMP — convierte GIMP en Photoshop.
+   Atajos de Photoshop, diseño y pantalla de inicio parcheados sobre GIMP 3+.
+   https://github.com/Diolinux/PhotoGIMP
+
+4. Open Notebook — NotebookLM autoalojado.
+   Arrastra PDFs, URLs y enlaces de YouTube. Chatea con ellos, resúmelos e incluso genera podcasts. Soporta 18+ proveedores de IA. (MIT)
+   https://github.com/lfnovo/open-notebook
+
+5. Odysseus — el espacio de trabajo de IA autoalojado de PewDiePie.
+   Chat, agentes, investigación profunda, documentos, correo electrónico, memoria y más. Primero local, tu hardware, tus datos. (MIT)
+   https://github.com/odysseus-dev/odysseus
+
+6. FreeDomain — nombres de dominio gratuitos para todos.
+   Registra un dominio, apúntalo a Cloudflare o cualquier proveedor de DNS, y lanza tu sitio sin pagar por el dominio. (AGPL-3.0)
+   https://github.com/DigitalPlatDev/FreeDomain
+
+7. HyperFrames — escribe HTML, renderiza videos.
+   El motor de código abierto de HeyGen que convierte animaciones HTML/CSS en videos MP4 determinísticos. Construido para agentes de IA. (Apache-2.0)
+   https://github.com/heygen-com/hyperframes
+
+8. Web-to-App — convierte cualquier sitio web en una app de Android.
+   WebView configurable, firma de APK e incluso runtimes de Node.js, PHP y Python. No se requiere compilación remota.
+   https://github.com/shiaho777/web-to-app
+
+9. Reclip — descargador de video y audio autoalojado.
+   Descarga videos de YouTube, TikTok, X, Instagram y 1000+ otros sitios como MP4 o MP3 usando yt-dlp.
+https://github.com/averygan/reclip
+
+10. Excalidraw — la pizarra infinita.
+    Reemplaza Miro, FigJam y Lucidchart con diagramas dibujados a mano, wireframes, colaboración en tiempo real y cifrado de extremo a extremo. 120k+ estrellas en GitHub. (MIT)
+https://github.com/excalidraw/excalidraw
+
+
+
+
+SearchPhone es una herramienta OSINT que realiza búsquedas paralelas de números de teléfono a través de múltiples APIs y genera informes automáticos en JSON y PDF.
+- Valida números y obtiene información de la red operadora a través de Numverify.
+- Busca simultáneamente en Google, DuckDuckGo, Reddit y código de GitHub.
+- Verifica contra la base de datos de inteligencia de infostealer de Hudson Rock.
+- Requiere solo tres claves API gratuitas; no se necesita clave para Hudson Rock.
+https://www.opensourceprojects.dev/post/searchphone
+
+
+
+
+
+ESTO ES UN PALANTIR GRATIS Y SE INSTALA EN UN SOLO COMANDO.
+se llama OSIRIS.
+abres un globo 3D en tu navegador y ves, en tiempo real:
+? +10.000 aviones en el aire
+? +2.000 satélites
+? cámaras CCTV de todo el mundo
+? incendios, terremotos, tráfico marítimo
+? 13 zonas de conflicto activas
+todo en una sola pantalla.
+y no se queda ahí.
+trae un toolkit OSINT dentro:
+port scanner, DNS, WHOIS, análisis de dominios.
+Palantir cuesta millones.
+esto es:
+? open source
+? MIT
+? docker compose up
+? listo
+la mayoría de fuentes funcionan sin meter ni una API key.
+por qué te importa:
+el tipo de inteligencia que antes solo tenían gobiernos...
+ahora la levantas tú en tu portátil en 5 minutos.
+ideal para periodismo, seguridad o verificación.
+https://github.com/simplifaisoul/osiris
+
+
+
+Combina varios archivos PDF, imágenes y carpetas en un solo archivo.
+https://github.com/AlexandrosGounis/pdfx
+
+
+
+
+HAN LANZADO UN GROK BOT 100% GRATIS
+Grok Bot es una locura: puede navegar por Internet, usar tu ordenador y ejecutar tareas completas por ti.
+El problema: cuesta mínimo $30/mes.
+Por eso han lanzado OpenBot, una alternativa open source que corre directamente en tu máquina.
+Y puede hacer todo lo que hace Grok Bot:
+? Automatizar procesos completos de principio a fin
+? Navegar por Internet y usar un navegador real
+? Manejar tu ordenador y sus archivos
+? Ejecutar comandos y utilizar herramientas MCP
+? Coordinarse con otros agentes para repartir tareas
+? Dejarte tomar el control cuando una tarea necesita intervención humana
+Le das un trabajo y puede encargarse de todo el workflow, usando herramientas y agentes diferentes para llevarlo hasta el final.
+Y todo corre en tu propia infraestructura sin coste.
+https://github.com/CopilotKit/openbot
+
+
+
+¿Necesitas eliminar el fondo de las imágenes rápidamente?
+rembg es una herramienta de código abierto que elimina el fondo, y funciona como CLI o biblioteca de Python o servidor HTTP o Docker.
+Adecuada para el procesamiento individual o lotes grandes de imágenes.
+https://github.com/danielgatis/rembg
+
+
+
+Registra en tiempo real las historias de Instagram, las ediciones de biografía y los cambios de seguidores. - Alertas instantáneas ante cualquier cambio en el perfil - Paneles visuales que muestran el historial de seguimiento - Fácil configuración con Python o Docker
+https://www.opensourceprojects.dev/post/instagram-monitor
+
+
+
+
+
+??? Demasiado potente: introduce un dominio y automáticamente escanea todos los activos de esa empresa expuestos en la red pública.
+En GitHub tiene 21.000 estrellas, es de código abierto bajo licencia MIT, con más de doscientos módulos.
+Para hacer un inventario de activos o una autoevaluación de seguridad, antes tenías que encadenar manualmente un montón de herramientas: primero enumerar subdominios, luego consultar DNS, después escanear puertos, capturar banners, y al final organizar manualmente los resultados en una tabla. SpiderFoot automatiza todo esto en una línea de producción; los módulos se comunican mediante un sistema de publicación y suscripción para pasarse datos entre sí. Un dominio descubierto por un módulo se convierte automáticamente en la entrada del siguiente, y al final puedes exportar directamente a CSV o JSON.
+Además, incluye un motor de reglas de correlación escrito en YAML que une automáticamente pistas dispersas en una sola conclusión. También puedes integrar herramientas externas como Nmap, WhatWeb o CMSeeK para que corran junto con él.
+La herramienta en sí es neutral; decidir a quién escanear y si tienes autorización para hacerlo es responsabilidad del usuario.
+https://github.com/smicallef/spiderfoot
+
+
+
+
+Imagina que editas el video con inteligencia artificial momento a momento, sin esperar a que termine el procesamiento completo del video.
+JoyAI-Video-Edit es un proyecto de código abierto que te permite editar videos con comandos de texto: cambiar el fondo, el estilo, los elementos e incluso la ropa, durante la reproducción del video.
+https://github.com/jd-opensource/JoyAI-Video-Edit
+
+
+
+Instala Ollama, Open WebUI, n8n y ComfyUI para ejecutar inferencias de modelos locales y administrar flujos de trabajo de IA privados.
+https://github.com/Osmantic/ODS
+
+
+
+El proyecto que les traigo esta noche es un ElevenLabs... pero local y en 646 idiomas.
+[VoiceStudio]
+Es el estudio de voz open source que la está rompiendo:
+? clona una voz con ~3 segundos
+? voice design (género, edad, acento, pitch, emoción)
+? dobla un video / YouTube
+? dictado + transcripción
+? audiolibros con capítulos y loudness
+? API tipo OpenAI en localhost:3900
+? MCP para que tu agente hable con TU voz
+Antes se llamaba OmniVoice-Studio.
+Ahora es un producto: catálogo de motores, workers GPU remotos, widget de dictado.
+Si haces cursos, ads, podcasts o agentes que te queman tu budget con cada carácter de TTS, esta es tu respuesta
+https://github.com/debpalash/VoiceStudio
+
+
+
+
+NO DIGAS A NADIE QUE TE DIJE ESTO:
+ALGUIEN HA METIDO UN HACKER CON IA ENTERO EN TU PROPIO PORTÁTIL ??
+Sin nube. Sin API. 
+Sin que salga un solo dato de tu máquina.
+METATRON es un asistente de pentesting que corre 100% en local.
+Le das una IP o un dominio y hace el trabajo de reconocimiento solo:
+? Lanza nmap, whois, whatweb, curl, dig y nikto
+? Le pasa TODO el resultado a un modelo de IA que corre en tu equipo con Ollama
+? La IA analiza el objetivo, señala los puntos débiles y busca los CVE
+? Puede pedir más herramientas a mitad del análisis, sola
+? Y lo guarda todo en una base de datos con historial completo
+? Con informes exportables en PDF y HTML
+Corre sobre Parrot OS, en Python, con el modelo por Ollama.
+3.200 ?. 658 forks. MIT.
+?? úsalo SOLO sobre sistemas tuyos o con permiso escrito. Escanear lo que no es tuyo es delito. 
+Para montarte un laboratorio y aprender ciberseguridad es una joya. 
+https://github.com/sooryathejas/METATRON
+
+
+
+?? Tu ordenador Windows tiene más de 200 servicios ejecutándose en segundo plano ahora mismo.
+Muchos consumen recursos, recopilan datos y mantienen activadas funciones que probablemente nunca hayas utilizado.
+Alguien se cansó y creó una herramienta gratuita para solucionar este problema.
+Se llama optimizerDuck y permite limpiar Windows 10 y 11, eliminar bloatware y desactivar gran parte de las funciones que afectan al rendimiento y la privacidad.
+Esto es lo que incluye:
+? Más de 35 ajustes para rendimiento, privacidad, batería y sistema
+? Control de más de 200 servicios con etiquetas según su nivel de riesgo
+? Eliminación de bloatware con vista previa antes de borrar nada
+? Optimizaciones específicas para GPUs AMD, NVIDIA e Intel
+? Posibilidad de revertir los cambios si algo no sale como esperabas
+Y aquí está una de las mejores partes:
+Antes de modificar el sistema, te obliga a crear un punto de restauración y genera automáticamente archivos para deshacer cada cambio.
+Sin instalador, sin anuncios, sin telemetría y sin versiones premium.
+Es completamente gratuita, open-source y funciona incluso sin conexión a Internet.
+https://github.com/itsfatduck/optimizerDuck
+
+
+
+SSHDESK permite utilizar el escritorio gráfico de un ordenador remoto directamente dentro del terminal con soporte para ratón y teclado. Realiza toda la comunicación a través de una única conexión SSH, sin necesidad de VNC/RDP ni puertos adicionales.
+https://github.com/rylena/sshdesk
+
+
+
+
+ 7 proyectos de código abierto que son demasiado interesantes para estar tan callados:
+
+1. DeepTutor — Aprendizaje personalizado impulsado por IA
+https://github.com/HKUDS/DeepTutor
+
+2. OpenViking — Base de datos de contexto para agentes de IA
+https://github.com/volcengine/OpenViking
+
+3. Headroom — Reduce el contexto de LLM sin perder información útil
+https://github.com/chopratejas/headroom
+
+4. AI Hedge Fund — Análisis de mercado multiagente
+https://github.com/virattt/ai-hedge-fund
+
+5. Khoj — Segundo cerebro de IA autoalojado
+https://github.com/khoj-ai/khoj
+
+6. Letta — Agentes de IA con memoria persistente
+https://github.com/letta-ai/letta
+
+7. Open WebUI — Interfaz autoalojada para modelos de IA
+https://github.com/open-webui/open-webui
+
+
+
+
+Deja de alquilar un chatbot y llamarlo el cerebro de tu empresa.
+Utopia es el primer modelo de mundo empresarial de código abierto que he visto que realmente trata el conocimiento como un sistema, no como una vibra.
+Es autoalojado, de código abierto y construido alrededor de la única pregunta que todas las demás bases de conocimiento ignoran: cuándo.
+Cada hecho en él lleva una fecha de inicio y una fecha de fin. Nada se sobrescribe. Cuando algo cambia, la corrección cierra la versión antigua y abre una nueva. El historial permanece intacto.
+Así que el grafo ya no es una instantánea. Es una grabación que puedes rebobinar.
+Arrastras una línea de tiempo en la pantalla y ves cómo todo se redibuja para mostrar qué era verdad en esa fecha. Quién poseía qué. Qué decía la política antes de que cambiara. Todo ello, reproducible.
+Y cada hecho apunta de vuelta a la oración exacta de la que proviene. Nada entra sin un recibo.
+Aquí está la parte que me conquistó.
+Todo el sistema es un solo binario y una base de datos Postgres. Eso es todo. Sin Elasticsearch, sin servicio de vectores separado y sin cola de mensajes. La mayoría de las pilas RAG son seis servicios unidos con cinta adhesiva. Esto son dos. Incluso se ejecuta completamente sin conexión en una red aislada con cualquier modelo que desees.
+https://github.com/deeplethe/utopia
+
+
+
+
+
+¡Buenas noticias para todos los editores y diseñadores de video, ¡y malas para la competencia! ??????
+¡El proyecto de código abierto video-use está causando furor con 22,371 estrellas en GitHub!
+¡Conectar la herramienta con el modelo Grok te da un editor de video con IA completamente local y gratuito que funciona directamente en tu dispositivo!
+https://github.com/browser-use/video-use
+
+
+
+
+¿No te has dado cuenta de que a nadie le gusta manejar manualmente un montón de documentos de oficina con formatos tan variados?
+El equipo de Firecrawl desarrolló la librería anydoc en Rust para resolver directamente este dolor de cabeza: convierte de un solo clic 14 formatos comunes de oficina como Word, PPT, Excel, PDF, etc., todos en un Markdown limpio y ordenado.
+La velocidad es su arma secreta: un documento promedio se procesa en solo 4.7 milisegundos, y sin importar el formato de entrada, la estructura del Markdown de salida es altamente uniforme, lista para usarse directamente con modelos grandes sin ningún obstáculo.
+En cuanto a pruebas de rendimiento, es aún más impresionante: compatible con las 14 formatos, su puntuación general deja atrás con creces a herramientas de conversión tradicionales como LibreOffice o Pandoc.
+Es un proyecto de código abierto, que puedes desplegar completamente en tu propio servidor, usarlo gratis y con una relación calidad-precio altísima.
+https://github.com/firecrawl/anydoc
+
+
+
+
+
+
+https://github.com/xyTom/snippai
+
+
+
+
+
+
+?? Impactante, el proyecto de código abierto Khoj puede convertir todos los documentos acumulados en tu computadora en una IA que responde a cualquier pregunta al instante.
+En GitHub tiene 37.000 estrellas, puedes alojarlo tú mismo, también usar la versión en la nube directamente, e incluso hay un esquema híbrido de local más nube.
+Buscar información suele ser así: rebuscar en la biblioteca de Obsidian, hojear PDFs, hojear Notion; si no recuerdas la palabra clave, solo puedes ir deslizando página por página, y al final terminas rindiéndote y buscando de nuevo en internet. Khoj elimina este paso: solo haz una pregunta, y él busca en tus propios documentos y en internet al mismo tiempo, luego te escribe la respuesta.
+Soporta bastantes formatos de lectura: PDF, Markdown, Notion, Word y Org-mode, todos funcionan. La entrada no es exigente con el lugar: navegador, plugin de Obsidian, Emacs, app de escritorio, móvil; hasta puedes chatear por WhatsApp. En cuanto a modelos, conecta tanto locales como online: Llama, Qwen, Gemma, Mistral, y GPT, Claude, Gemini, DeepSeek, elige el que quieras; si no quieres que los documentos salgan de tu máquina, cuelga un modelo local.
+Además, puedes configurar agentes inteligentes tú mismo: define su rango de conocimiento, establece roles y herramientas disponibles, haz que ejecute investigaciones programadas y te envíe resúmenes y notificaciones. La búsqueda semántica, generación de imágenes, voz, todo eso también está incluido.
+La palabra "segundo cerebro" se ha gritado durante muchos años; esta vez es de verdad el tipo que puede responder cuando le preguntas.
+https://github.com/khoj-ai/khoj
+
+
+
+
+
+Los libros se acumulan cada vez más, ¿por qué no montarte tu propia biblioteca digital de verdad, una que sea completamente tuya?
+Últimamente vi un proyecto de código abierto llamado BookOrbit, diseñado específicamente para la gestión de lecturas en autoalojamiento. Puedes centralizar ebooks, PDF, cómics y audiolibros, y leerlos directamente desde el navegador.
+?? Completado automático de información de libros
+?? Sincronización de progreso en Kobo / KOReader / web
+?? Estadísticas de lectura, mapa de calor, seguimiento de objetivos
+???????? Multiusuario + OIDC/SSO
+?? Soporte para OPDS, Send-to-Kindle
+Se despliega con Docker, y tú controlas tu biblioteca y datos de lectura. Los fans de NAS y los lectores empedernidos pueden guardarlo para investigarlo.
+https://github.com/bookorbit/bookorbit
+
+
+
+
+
+L0p4Map monitorea redes locales utilizando descubrimiento ARP de alta velocidad e integración con nmap para construir un grafo de topología interactivo en tiempo real de los dispositivos conectados mientras observa pasivamente la actividad de nuevos hosts.
+https://github.com/HaxL0p4/L0p4Map
+
+
+
+
+1. Vero
+Agente de codificación con IA que intenta verificar el código generado usando Lean 4.
+https://github.com/sunblaze-ucb/vero
+
+2. Agentor
+Añade soporte A2A, descubrimiento de agentes, streaming y compartición de artefactos a tus agentes de IA.
+https://github.com/CelestoAI/agentor
+
+3. Sky-Agent
+Un framework ligero para construir tu propio superagente de IA con herramientas, memoria y archivos.
+https://github.com/arteemg/sky-agent
+
+4. PageIndex
+Un enfoque basado en razonamiento para RAG que ayuda a los agentes a navegar documentos largos.
+https://github.com/VectifyAI/PageIndex
+
+5. Semantica
+Infraestructura basada en grafos para conectar entidades, relaciones y contexto en sistemas de IA.
+https://github.com/HKUDS/semantica
+
+6. NanoBot
+Un agente de IA autoalojado ligero con memoria, herramientas, MCP, WebUI y flujos de trabajo multiagente.
+https://github.com/HKUDS/nanobot
+
+7. Learn Claude Code
+Recrea un agente al estilo de Claude Code desde cero y aprende cómo funcionan realmente los agentes de codificación.
+https://github.com/shareAI-lab/learn-claude-code
+
+8. Agent-Reach
+Da acceso a los agentes de IA a fuentes como GitHub, YouTube, Reddit, X y más.
+https://github.com/Panniantong/Agent-Reach
+
+9. Book-to-Skill
+Convierte PDFs de libros técnicos en habilidades utilizables de Claude Code para tu flujo de trabajo de codificación.
+https://github.com/virgiliojr94/book-to-skill
+
+10. ExploitGym
+Un entorno para probar agentes de IA en tareas reales de explotación de software.
+https://github.com/sunblaze-ucb/exploitgym
+
+
+
+
+
+??????? bandwhich | Ancho de banda por proceso y conexión en la terminal
+¿Quién está consumiendo tu red ahora?
+bandwhich te lo dice al momento: por proceso, por conexión y por IP o hostname remoto.
+https://github.com/imsnif/bandwhich
+
+
+
+Ejecuta una inferencia de Kimi K3 con 2,78 billones de parámetros en una sola CPU con 8,24 GB de RAM, sin GPU, BLAS ni framework.
+https://github.com/FareedKhan-dev/kimi-k3-in-c
+
+
+
+
+???????? Oryx | eBPF sniffing con TUI en Linux
+Tráfico de red bajo control sin salir de la terminal.
+Oryx captura en tiempo real con eBPF, muestra estadísticas completas, métricas y permite filtrar con fuzzy search.
+https://github.com/pythops/oryx
+
+
+
+
+
+Hermanos, en esta pista de la producción de videos con IA, de verdad que ya no puedo seguir el ritmo.
+Acabo de toparme con un proyecto de código abierto llamado OpenMontage, que ya se ha colado en el primer puesto del hot list del día en GitHub. No es que te ayude a editar, es que directamente no necesitas mover un dedo: le tiras una frase en lenguaje humano, y te genera el guion, los materiales, la narración, los subtítulos y el video final completo.
+Lo más brutal es que, si le metes un video que te gusta, desarma la estructura y el ritmo del de otros, y te arma un esquema de producción nuevo a medida.
+Al verlo, la primera reacción: entonces, ¿para qué carajo aprendo a editar? Los que hacen videos cortos deberían echarle un ojo a esta cosa.
+https://github.com/calesthio/OpenMontage
+
+
+
+
+¡Qué delicia! WeKnora, el proyecto de código abierto de Tencent, puede convertir los documentos de la empresa dispersos en Feishu, Notion y Yuque en una base de conocimientos a la que se le puede preguntar directamente.
+WeKnora ya tiene 22.000 estrellas en GitHub, más de 3.200 forks, más de 700 issues abiertos, y el 3 de septiembre acaba de lanzar la versión v0.8.0, a menos de un mes de la anterior. Ya hay gente que ha hecho una versión de desarrollo secundaria basada en él, específicamente para mejorar el OCR de escaneos y la extracción de tablas.
+En el equipo, para encontrar un documento de procesos, antes había que ir y venir entre Feishu, Yuque y GitLab, y una vez encontrado, había que leerlo completo desde el principio y resumirlo uno mismo.
+Después de integrarlo, basta con hacer preguntas directamente: para preguntas simples, usa búsqueda para respuestas rápidas; para las complejas, se las pasa al agente para que busque en la base de conocimientos, use herramientas MCP, busque en internet y luego te organice las conclusiones; también puede activar el modo Wiki para refinar un montón de documentos en páginas de conocimiento enlazadas entre sí y que se mantienen solas. El sistema de preguntas y respuestas se integra directamente en WeCom, Feishu y Slack, para que los colegas no tengan que cambiar de herramienta.
+El modelo se puede cambiar entre más de veinte opciones como DeepSeek, Tongyi Qianwen, Ollama, etc., y se puede desplegar en local o en la nube privada, con licencia MIT de código abierto.
+Por fin, los documentos de la empresa dejan de estar acumulando polvo en la nube.
+https://github.com/Tencent/WeKnora
+
+
+
+
+Para quienes se sienten perdidos ante un enorme código por primera vez, ¿por dónde empezar a leer? ??
+Understand-Anything, ??aprox. 83.000.
+Un OSS que convierte la visión general del código en un «grafo de conocimiento explorable».
+Lo que puede hacer es ??
+·Visualizar las conexiones entre archivos/funciones/clases
+·Seguir las dependencias para entender la estructura
+·Buscar en el grafo y hacer preguntas sobre las partes que te interesan
+·Compatible con Claude Code/Codex/Cursor, etc.
+Reduce los casos de «funciona, pero no entiendo cómo».
+Ideal para comprender el código en un nuevo entorno de trabajo o para captar el código generado por IA.
+https://github.com/Egonex-AI/Understand-Anything
+
+
+
+
+¡Quién puede resistir esto!
+
+Estos 10 repositorios, una vez que los conozcas, será difícil volver a pagar cuotas mensuales.
+
+1.Cobalt
+Pega enlaces de TikTok, Instagram, X, YouTube, Reddit, y recupera los archivos. Sin marcas de agua, sin páginas de anuncios. Revisa tú mismo los términos de la plataforma.
+https://github.com/imputnet/cobalt
+
+2.SearXNG
+Un buscador que montas tú mismo. Busca en Google, Bing y más de cien motores a la vez. No guarda lo que buscas.
+https://github.com/searxng/searxng
+
+3.Reactive Resume
+Montas y descargas tu currículum tú mismo. No te obliga a ser miembro para pulsar el botón de descarga.
+https://github.com/reactive-resume/reactive-resume
+
+4. http://changedetection.io
+Te notifica cuando una página web cambia. Bajadas de precio, ofertas de empleo, cambios en sitios de la competencia: todo al alcance.
+https://github.com/dgtlmoon/changedetection.io
+
+5.Suwayomi
+Lectura de cómics en tu propio servidor. Tú controlas las fuentes y el cliente. Solo lees lo que tienes permiso para leer.
+https://github.com/Suwayomi/Suwayomi-Server
+
+6.LibreTranslate
+Traducciones que corren en tu propio ordenador. No pasa por interfaces de Google, no cobra por palabra.
+https://github.com/LibreTranslate/LibreTranslate
+
+7.gallery-dl
+Galerías de imágenes, cuentas, archivos: todo con un solo comando. Los metadatos se mantienen intactos.
+https://github.com/mikf/gallery-dl
+
+8.ArchiveBox
+Guarda enlaces como páginas completas, PDF o capturas. Si la página original da 404, aún puedes abrirla localmente.
+https://github.com/ArchiveBox/ArchiveBox
+
+9.LocalSend
+Transmite archivos entre Windows, Mac, Linux, Android e iOS. Usa la red local, sin límites de tamaño.
+https://github.com/localsend/localsend
+
+10.Vaultwarden
+El servidor de Bitwarden montado por ti mismo. Los clientes oficiales se conectan sin problemas. Soporta archivos adjuntos y llaves de hardware.
+https://github.com/dani-garcia/vaultwarden
+
+Descargas, búsquedas, currículos, vigilancia de páginas, traducciones, archivos, transmisión de archivos, gestor de contraseñas.
+
+
+
+
+
+Dale a tu agente de IA ojos para ver todo internet gratis
+Leer y buscar
+- Twitter,
+- Reddit,
+- YouTube.
+- GitHub,
+- Bilibili,
+- XiaoHongShu
+Un solo CLI, cero tarifas de API.
+https://github.com/Panniantong/agent-reach
+
+
+
+
+
+Herramienta que te permite entender cualquier proyecto de programación en cuestión de minutos:
+**Understand Anything** analiza el proyecto completo utilizando agentes de inteligencia artificial, y lo convierte en un mapa de conocimiento interactivo que te muestra:
+• Los archivos
+• Las funciones
+• Las clases
+• Las dependencias
+• Y cómo cada parte está conectada con las demás
+Y después puedes buscar dentro del proyecto y preguntar sobre cualquier parte del código en lenguaje natural.
+Muy útil si recibes un proyecto enorme y no sabes por dónde empezar.
+https://github.com/Egonex-AI/Understand-Anything
+
+
+
+
+
+
+
+CapCut, Pixverse, Higgsfield y los demás se basan en plantillas,
+@hypitai
+ hace algo diferente:
+un motor de flujos de trabajo (workflow) para que los agentes escriban videos.
+El problema de las plantillas lo entienden quienes las han usado:
+prompts fijos con uno o dos slots para cambiar caras o sujetos; la creatividad queda encerrada en el diseño del autor de la plantilla;
+los videos resultantes son todos parecidos, y cuando el modelo se actualiza, las plantillas se quedan obsoletas rápido.
+Los modelos de generación de video son buenos en atmósferas y movimientos de cámara simples, pero no en cosas precisas como «cortar en el segundo 1.5, mantener el rostro centrado en una imagen en imagen» con múltiples componentes sincronizados.
+Pero quienes hacen marketing de contenidos lo saben bien:
+los videos virales son una combinación de material real, edición precisa, efectos en el momento justo y anclajes temporales.
+@hypitai
+ es ingeniería inversa de contenidos virales:
+Le das un video exitoso, lo descompone en un workflow estructurado, marca el esqueleto que no se puede tocar, los slots intercambiables (personajes, diálogos, imágenes de producto, etc.) y anclajes temporales precisos hasta el frame.
+Ejecuta el workflow en lote con 200 variantes,
+el juicio de «dónde cortar en qué frame, qué piezas no se pueden cambiar» se vuelve cada vez más valioso
+debería hacer que todos tus modelos trabajen en el workflow.
+Y lo más práctico para desarrolladores son tres puntos:
+1?? Abierto (open source).
+Scripts SVML, hojas de estilos SVS, runtime, proveedor local;
+El código fuente del video es texto, se puede meter en git, hacer diff, forkar workflows de otros y cambiar slots para generar videos
+2?? Gratis.
+Las skills y el núcleo open source no cuestan dinero,
+el login no cuesta dinero
+ver previews mock en el workbench tampoco cuesta dinero
+3?? BYOK.
+Puedes usar modelos alojados en HypiHub o traer tu propia clave
+4?? Instalación fácil:
+Instálalo en Claude Code o Codex con un comando: npx skills add hypit-ai/hypit -g, luego /hypit clone this video: <ruta local o enlace al video>
+https://github.com/hypit-ai/hypit
+
+
+
+
+ENCONTRÉ 3 HERRAMIENTAS OSINT QUE DESEO HABER CONOCIDO HACE AÑOS  
+Estas pueden hacer el trabajo de OSINT ridículamente más fácil.
+y todo GRATIS para usar 
+osintsearch —> Dale un nombre de usuario, correo electrónico o número de teléfono y busca en cientos de plataformas cuentas públicas coincidentes, incluso detectando cuentas que usan nombres diferentes mediante coincidencia de fotos de perfil.
+power-pwn —> Encuentra agentes de IA expuestos en línea y verifica si están conectados a datos de la empresa.
+worldmonitor — > Un tablero de inteligencia global en vivo que muestra lo que está sucediendo en el mundo en tiempo real — y puedes ejecutarlo tú mismo.
+Herramientas diferentes.
+Casos de uso diferentes.
+Mismo objetivo: encontrar información más rápido.
+Si estás en OSINT, ciberseguridad o investigación de seguridad,  
+osintsearch.org
+https://github.com/koala73/worldmonitor
+https://github.com/mbrg/power-pwn
+
+
+
+
+
+??????? SentinelRecon | Recon cloud automatizado con risk scoring real
+Enumera S3, EC2, IAM, VMs y Storage en AWS, Azure y GCP.
+Detecta misconfigs de cifrado, acceso público, MFA y más.
+https://x.com/EsGeeks/status/2099937939237028142
+
+
+
+
+
+OneTerm es una herramienta gratuita que permite a las empresas controlar quién puede acceder a sus servidores internos, registrar todo lo que hacen y reproducir esas sesiones más tarde para investigar problemas.
+https://github.com/veops/oneterm
+
+
+
+
+
+UN CHINO FILTRÓ LA FORMA MÁS FÁCIL DE HACER DINERO
+y acaba de publicar gratis lo que otros estan cobrando $300
+se llama AutoClip. le pegas el link de un vídeo y te devuelve los cortes ya montados, con título viral incluido, sin tocar el ratón.
+esto es lo que hace solo:
+? descarga el vídeo y los subtítulos
+? lee la transcripción entera y saca el guion
+? detecta dónde empieza y acaba cada tema
+? puntúa cada trozo del 1 al 10
+? corta solo los que valen la pena
+? le pone título a cada uno
+? agrupa los que van juntos en un pack
+siete pasos. tú solo pegas el link.
+un podcast de 2 horas se convierte en 15 cortes verticales listos para subir. tiktok, shorts, reels y x, los cuatro pagan por views.
+interfaz web con progreso en tiempo real. funciona con youtube, bilibili o archivo local: docker-compose up -d y listo.
+6.300 estrellas, 1.200 forks, licencia MIT.
+resultado: lo que antes costaba 300 dólares por vídeo ahora es gratis y corre en tu propia máquina.
+esto cambia el juego para cualquiera que viva de cortar contenido largo.
+https://github.com/zhouxiaoka/autoclip
+
+
+
+
+Escanea correos electrónicos y nombres de usuario en más de 715 plataformas para mapear huellas digitales y verificar registros de cuentas
+https://github.com/kaifcodec/user-scanner
+
+
+
+https://x.com/Jouhatsu_ai/status/2108553959753314314
+
+
+
+
+??? Anthropic lanza OSS Scanner: escáner gratuito de vulnerabilidades para proyectos open source con Claude Mythos. Reportes automáticos sin revisión humana. Solo para maintainers elegibles vía PR. 
+https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source
+
+
+
+
+https://x.com/Solvaix/status/2083614624423796738
+
+
+
+
+Les recuerdo que tienen una maravillosa guía de Opencode V2 por aquí:
+
+? Desde cero: instalación y uso
+? Configurar modelos (incluso locales)
+? Skills, MCP y CLI
+? Comandos personalizados
+
+https://ai.manz.dev/learn/setup/opencode/
+
+
+
+
+
+API para extraer datos de cualquier web, incluso con CAPTCHA o que bloquean bots
+
+/scrape: parsea la página
+/crawl: rastrea y sigue enlaces
+/search: busca en tiempo real
+/map: lista las URLs
+
+10K reqs/mes gratis y sin poner tarjeta:
+? https://midu.link/decodo
+
+
+
+
+He creado 3 plugins para mejorar Claude Code
+
+? Image Preview: muestra las imágenes al hacer hover
+? Sub Meter: puedes ver en todo momento tu consumo
+? Commit: sube tus cambios sin peligro usando Haiku
+
+Los uso en mi día a día:
+? https://betterclaude.dev
+
+
+
+
+
+
+
+
+DeepSeek V4.1 Flash 1017 y GLM 5.3 Flash GRATIS ??
+
+sin tarjeta ni nada, solo inicia sesión y obtienes 10M de tokens de regalo
+
+lo que obtienes:
+
+- deepseek v4.1 flash 1017 gratis
+- glm 5.3 flash gratis
+- glm 5.3 flash sin censura también, barato
+
+> Compatible con OpenAI y Anthropic, funciona en Cursor también
+
+pruébalo: http://larprouter.com/r/909ABC3B25
+
+
+
+
+
+
+Traducido del inglés
+Busca en varios orígenes curados de torrents a la vez desde tu terminal y descarga lo que elijas, sin nada que configurar.
+https://github.com/baairon/torlink
+
+
+
+
+
+Porque por ahí cae alguno y te dice "bajate qbittorrent e instalale los plugins".
+https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins
+
+
+
+
+
+Se acabó la era de meses modelando en 3D y diseñando entornos. Encontré un repositorio de código abierto fantástico que solo requiere subir un video y lo convierte al instante en un entorno de juego jugable e interactivo. Ser un equipo de desarrollo de una sola persona ya no es un capital, sino encontrar la herramienta de inteligencia artificial adecuada. Guárdenlo para más tarde, lo van a necesitar sin duda.
+https://x.com/himmetagadev/status/2116148330929549602

@@ -1,0 +1,365 @@
+Conviértete en Científico de Datos GRATIS
+No necesitas un bootcamp costoso para comenzar tu viaje en ciencia de datos.
+Aquí hay recursos de GitHub para ayudarte a pasar de principiante → Científico de Datos listo para el trabajo 👇
+
+1. Aprendizaje Basado en Proyectos
+   https://github.com/practical-tutorials/project-based-learning
+
+2. Ejercicios Básicos de Python
+   https://github.com/realpython/python-basics-exercises
+
+3. Machine Learning Casero
+   https://github.com/trekhleb/homemade-machine-learning
+
+4. Estadística para Machine Learning
+   https://github.com/PacktPublishing/Statistics-for-Machine-Learning
+
+5. Pandas
+   https://github.com/pandas-dev/pandas
+
+6. Hojas de Trucos de Matplotlib
+   https://github.com/matplotlib/cheatsheets
+
+7. Machine Learning Impresionante
+   https://github.com/josephmisiti/awesome-machine-learning
+
+8. Machine Learning Práctico
+   https://github.com/ageron/handson-ml3
+
+9. Deep Learning Impresionante
+   https://github.com/ChristosChristofidis/awesome-deep-learning
+
+10. ML para Principiantes
+    https://github.com/microsoft/ML-For-Beginners
+
+11. +500 Proyectos de IA & ML
+    https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+12. Piensa en Estadística
+    https://github.com/AllenDowney/ThinkStats2
+
+13. Data Engineering Zoomcamp
+    https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+14. Base de Datos SQL Chinook
+    https://github.com/lerocha/chinook-database
+
+15. Hoja de Ruta del Científico de Datos
+    https://github.com/MrMimic/data-scientist-roadmap
+
+16. Preguntas de Entrevista para ML & Ciencia de Datos
+    https://github.com/andrewekhalel/MLQuestions
+	
+	
+	
+	
+	
+	
+Aprende Ingeniería de Arneses 🚀
+
+Encontré este excelente curso de código abierto por Walking Labs, que cubre 14 conferencias y 8 proyectos prácticos sobre la construcción de agentes de codificación con IA más confiables.
+
+Qué hay dentro:
+→ Instrucciones para agentes (AGENTS.md / CLAUDE.md)
+→ Gestión de contexto y memoria persistente
+→ Continuidad multi-sesión y seguimiento de estado
+→ Límites de tareas y control de alcance
+→ Pruebas, verificación y observabilidad
+→ Bucles de agentes automatizados y flujos de trabajo
+→ Orquestación multi-agente e ingeniería de grafos
+
+Los proyectos prácticos te guían paso a paso para construir un arnés de agente completo, comparando la ejecución solo con prompts con flujos de trabajo estructurados.
+
+También incluye plantillas listas para usar, scripts de verificación y una habilidad de creador de arneses.
+
+Perfecto para desarrolladores que trabajan con Claude Code, Codex y otros agentes de codificación con IA que quieran entender la ingeniería detrás de la ejecución confiable de agentes.
+
+Completamente gratis.
+
+Aquí está el Repositorio de GitHub: https://github.com/walkinglabs/learn-harness-engineering
+
+
+
+
+
+
+
+
+ESTO ES UNA PUTA MINA DE ORO
+
+Anthropic acaba de compartir el truco más afilado para Claude Code
+
+La idea: dejar que Opus 5.5 escriba el plan como un script, y arremeter con el nuevo Haiku 5.5 en paralelo
+
+Barridos masivos con cero consumo de Opus: el script mantiene el bucle y Opus solo ve el diff final
+
+Solo lanzas Claude Code así:
+
+claude --model opus --effort ultracode
+
+aquí está la división:
+
+→ Opus 5.5 convierte tu objetivo en un script de flujo de trabajo ejecutable
+→ Haiku 5.5 arremete contra cada archivo en paralelo a 340 tok/s para extraer candidatos
+→ Sonnet 5.5 parchea cada corrección y verifica hallazgos cruzados en su propia copia aislada
+→ dejas de quemar contexto de Opus en cientos de transcripciones de agentes
+
+Opus solo aparece en tres momentos:
+
+→ autorizando el script de flujo de trabajo antes de la ejecución
+→ leyendo hallazgos verificados después de que termine el arremetimiento
+→ firmando antes de que nada se envíe a git
+
+Opus planea · Haiku escanea · Sonnet envía
+
+La ingeniería JEV es el mismo movimiento una capa abajo: los forks que no necesitan pensador (qué archivo, qué herramienta, reintentar o parar) van a JEV en milisegundos, y los grandes modelos solo ven los que se bifurcan
+
+el árbol completo
+> Opus 5.5 ejecuta la sesión principal y escribe workflow.js
+> pipeline() despliega el nuevo Haiku 5.5 para auditar cada archivo
+> parallel() validadores de esquema eliminan falsos positivos en V8
+> Sonnet 5.5 parchea cada corrección en un worktree aislado
+> verify verifica cruzado todos los diffs antes de reportar
+> Opus 5.5 lee solo lo que sobrevivió a la verificación
+> JEV enruta micro-forks en milisegundos
+
+pega el árbol y este prompt en Claude Code ↓
+
+"Reconstruye mi setup de Claude Code alrededor de este árbol:
+1. Ejecuta la sesión principal en Opus 5.5 con ultracode activado
+2. En cada flujo de trabajo, ejecuta etapas de escaneo de solo lectura en el nuevo Haiku 5.5 y etapas de edición en Sonnet 5.5, cada edición en su propia copia aislada
+3. Agrega una regla a CLAUDE.md: cada hallazgo obtiene un agente verificador independiente antes de reportarse, y los bucles de corrección se detienen después de dos rondas sin progreso
+4. Enruta forks determinísticos rápidos (elección de herramienta, selección de ruta, reintentos) a través de JEV
+Muéstrame cada cambio como un diff primero, sin ediciones hasta que diga go"
+https://code.claude.com/docs/en/workflows
+
+
+
+
+
+
+
+
+DEJA DE PERDER HORAS INTENTANDO DESCIFRAR QUÉ APRENDER EN IA.
+
+He reunido una hoja de ruta práctica con videos, repositorios de GitHub, guías, libros, artículos de investigación y cursos.
+
+VIDEOS:
+1. Introducción a LLM — http://youtube.com/watch?v=zjkBMF…
+2. LLM desde Cero — http://youtube.com/watch?v=9vM4p9…
+3. Resumen de IA Agentic (Stanford) — http://youtube.com/watch?v=kJLiOG…
+4. Construyendo y Evaluando Agentes — http://youtube.com/watch?v=d5EltX…
+5. Construyendo Agentes Efectivos — http://youtube.com/watch?v=D7_ipD…
+6. Construyendo Agentes con MCP — http://youtube.com/watch?v=kQmXtr…
+7. Construyendo un Agente desde Cero — http://youtube.com/watch?v=xzXdLR…
+8. Agentes Philo — http://youtube.com/playlist?list=…
+
+REPOSITORIOS DE GITHUB:
+1. Agentes GenAI — http://github.com/nirdiamant/Gen…
+2. Agentes de IA de Microsoft para Principiantes — http://github.com/microsoft/ai-a…
+3. Guía de Ingeniería de Prompts — http://github.com/dair-ai/Prompt…
+4. Modelos de Lenguaje Grandes Prácticos — http://github.com/HandsOnLLM/Han…
+5. Agentes GenAI — http://github.com/NirDiamant/Gen…
+6. Hecho con ML — http://github.com/GokuMohandas/M…
+7. Ingeniería de IA Práctica — http://github.com/Sumanth077/Han…
+8. Guía Impresionante de IA Generativa — http://github.com/aishwaryanr/aw…
+9. Diseñando Sistemas de Aprendizaje Automático — http://github.com/chiphuyen/dmls…
+10. Aprendizaje Automático para Principiantes — http://github.com/microsoft/ML-F…
+11. Curso de LLM — http://github.com/mlabonne/llm-c…
+
+GUÍAS:
+1. Libro Blanco de Agentes de Google — http://kaggle.com/whitepaper-age…
+2. Compañero de Agentes de Google — http://kaggle.com/whitepaper-age…
+3. Construyendo Agentes Efectivos por Anthropic — http://anthropic.com/engineering/bu…
+4. Prácticas de Codificación Agentic con Claude Code — http://code.claude.com/docs/en/best-p…
+5. Guía Práctica de OpenAI para Construir Agentes — http://cdn.openai.com/business-guide…
+
+LIBROS:
+1. Entendiendo el Aprendizaje Profundo — http://udlbook.github.io/udlbook/
+2. Construyendo un LLM desde Cero — http://manning.com/books/build-a-…
+3. El Manual de Ingeniería de LLM — http://oreilly.com/library/view/l…
+4. Agentes de IA: La Guía Definitiva — http://oreilly.com/library/view/a…
+5. Construyendo Aplicaciones con Agentes de IA — http://oreilly.com/library/view/b…
+6. Agentes de IA con MCP — http://oreilly.com/library/view/a…
+7. Ingeniería de IA — http://oreilly.com/library/view/a…
+
+ARTÍCULOS DE INVESTIGACIÓN:
+1. ReAct — http://arxiv.org/abs/2210.03629
+2. Agentes Generativos — http://arxiv.org/abs/2304.03442
+3. Toolformer — http://proceedings.neurips.cc/paper_files/pa…
+4. Prompting de Cadena de Pensamiento — http://arxiv.org/pdf/2201.11903
+
+CURSOS:
+1. Curso de Agentes de Hugging Face — http://huggingface.co/learn/agents-c…
+2. MCP con Anthropic — http://deeplearning.ai/courses/mcp-bu…
+3. Construyendo Bases de Datos Vectoriales con Pinecone — http://deeplearning.ai/courses/buildi…
+4. Bases de Datos Vectoriales: De Embeddings a Apps — http://deeplearning.ai/courses/vector…
+5. Memoria de Agentes — http://deeplearning.ai/courses/llms-a…
+
+Sin búsquedas interminables.
+Sin sobrecarga de información.
+Solo recursos que realmente puedes usar. 🔖
+
+Tu conjunto de habilidades futuras en IA vendrá de construir de manera consistente, experimentar y aprender.
+
+
+
+
+
+
+
+
+
+https://x.com/0xCodila/status/2109623431763292649
+
+
+
+
+
+Aprende Ingeniería de Harness GRATIS 🚀
+
+14 conferencias + 8 proyectos prácticos que cubren:
+→ Memoria y contexto de agentes
+→ Pruebas y verificación
+→ Flujos de trabajo multiagente
+→ Agentes de codificación de IA confiables
+
+GitHub: https://github.com/walkinglabs/learning-harness-engineering
+
+
+
+https://x.com/xmyttle/status/2110736923626979677
+
+
+https://x.com/0xCodila/status/2109623431763292649
+
+
+
+
+
+
+20 habilidades de Blender 5.2 que proporcionan a los agentes de IA un flujo de trabajo real de producción en 3D
+
+El repositorio cubre toda la tubería:
+> modelado + escultura
+> retopología + UVs
+> materiales PBR + horneado
+> nodos de geometría
+> rigging + animación
+> renderizado
+> exportación a Roblox, Unity, Unreal y Godot
+
+Las habilidades están diseñadas para agentes como Claude Code, Codex, Cursor, Gemini CLI, Copilot y OpenCode.
+
+También hay una habilidad de QA que verifica cosas como z-fighting, partes flotantes, normales defectuosas y problemas de UV antes de que un activo se considere terminado.
+
+La parte útil aquí es que proporciona a los agentes de codificación un proceso repetible en Blender en lugar de obligarlos a improvisar con bpy cada vez.
+
+https://github.com/EL4CTEO/blender-skills
+
+
+
+
+
+
+En general, cada uno de ustedes está imaginando esto a su manera.
+https://github.com/google-research/harness2
+
+
+
+
+
+Crear VÍDEOS con IA sin abrir un editor ya es posible
+
+HeyGen ha liberado HyperFrames y es 100% open source
+
+Describes el vídeo ➜ la IA lo monta en HTML ➜ lo exporta en MP4
+
+✓ Transiciones / subtítulos / gráficos
+✓ Sin pagar por render
+
+➜ https://github.com/heygen-com/hyperframes
+
+
+
+
+
+
+
+
+DEJA DE PERDER HORAS INTENTANDO APRENDER REA.
+
+El equipo de REA ha reunido una hoja de ruta práctica con tutoriales, investigaciones reales, repositorios de GitHub, libros, artículos de investigación y cursos gratuitos.
+
+EMPIEZA AQUÍ:
+
+1. Repositorio Oficial de REA  https://github.com/morluto/rea
+2. Sitio Web Oficial de REA  https://rea.tools
+3. Instalación y Configuración de Agentes  https://github.com/morluto/rea/blob/main/docs/installation.md
+4. Tu Primera Investigación de REA  https://rea.tools/first-investigation/
+5. Guías de REA  https://rea.tools/guides/
+6. Prompts Guiados de MCP  https://github.com/morluto/rea/blob/main/docs/mcp-prompts.md
+
+Instala: npx rea-agents@latest setup
+
+MIRA Y SIGUE EL PASO A PASO:
+
+1. Cómo Usar REA Para Clonar Cualquier Software En Minutos — https://youtube.com/watch?v=FnB9tHKBJXQ
+2. Tutorial de REA + Pi Coding Agent  https://datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial
+3. Tutorial de Ghidra para Principiantes  https://youtube.com/watch?v=OFAxXXcLXbc
+4. Frida para Ingeniería Inversa en Android  https://youtube.com/watch?v=GHh9P-Dyq1w
+5. http://pwn.college Ingeniería Inversa  https://pwn.college/intro-re-pwn~5933fc84/reversing/
+6. Malware Unicorn RE101 https://malwareunicorn.org/workshops/re101
+
+INVESTIGACIONES REALES DE REA:
+
+1. Exportación de Notas  https://rea.tools/first-investigation/
+2. Portapapeles de Notion  https://rea.tools/showcase/notion/
+3. Reconstrucción de DX-Ball  https://rea.tools/showcase/dx-ball/
+4. Aegis APK  https://rea.tools/showcase/aegis/
+5. Patrones de Balas de TH04  https://rea.tools/showcase/th04/
+
+REPOSITORIOS DE GITHUB:
+
+1. REA  https://github.com/morluto/rea
+2. Awesome Reverse Engineering  https://github.com/morluto/awesome-reverse-engineering
+3. REA Gems  https://github.com/sqwu/rea-gems
+4. Awesome Reverse-Engineered  https://github.com/alexgaoth/awesome-reverse-engineered
+5. Ghidra  https://github.com/NationalSecurityAgency/ghidra
+6. JADX  https://github.com/skylot/jadx
+7. Frida  https://github.com/frida/frida
+8. ILSpy  https://github.com/icsharpcode/ILSpy
+9. x64dbg  https://github.com/x64dbg/x64dbg
+
+LIBROS:
+
+1. The Ghidra Book, 2nd Edition  https://nostarch.com/ghidra-book-2e
+2. Reverse Engineering for Beginners  https://go.yurichev.com
+3. Practical Binary Analysis  https://nostarch.com/binaryanalysis/
+4. Practical Malware Analysis  https://nostarch.com/malware
+5. The Android Malware Handbook https://nostarch.com/androidmalwarehandbook
+6. Reversing: Secrets of Reverse Engineering  https://wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering-p-9780764574818
+
+ARTÍCULOS DE INVESTIGACIÓN:
+
+1. LLM4Decompile  https://arxiv.org/abs/2403.05286
+2. AutoDecompiler  https://arxiv.org/abs/2606.16162
+3. SALT4Decompile  https://arxiv.org/abs/2509.14646
+4. Decomperson  https://usenix.org/conference/usenixsecurity22/presentation/burk
+5. DIRTY  https://usenix.org/system/files/sec22-chen-qibin.pdf
+6. Automatically Attacking Software RE Agents  https://arxiv.org/abs/2605.30667
+7. Does Reverse Engineering Need a Bigger Model?  https://rea.tools/blog/reverse-engineering-models/
+
+CURSOS GRATUITOS Y PRÁCTICA:
+
+1. OpenSecurityTraining2: x86-64 Assembly  https://p.ost2.fyi/courses/course-v1%3AOpenSecurityTraining2%2BArch1001_x86-64_Asm%2B2021_v1/about
+2. http://pwn.college: Reverse Engineering  https://pwn.college/intro-re-pwn~5933fc84/reversing/
+3. http://pwn.college: Reversing Hell https://pwn.college/reversing-hell/
+4. Malware Unicorn RE101  https://malwareunicorn.org/workshops/re101
+5. Nightmare https://github.com/guyinatuxedo/nightmare
+6. RPISEC Modern Binary Exploitation  https://github.com/RPISEC/MBE
+7. OWASP Mobile Application Security  https://mas.owasp.org
+
+MEJOR ORDEN PARA APRENDER:
+
+instala REA → Exportación de Notas → Notion → binario CTF → Aegis APK → DX-Ball → luego Ghidra, ensamblador y artículos

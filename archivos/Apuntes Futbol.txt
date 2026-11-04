@@ -1,0 +1,103 @@
+⚽ Cómo analizar a un jugador como un scout profesional
+No es solo ver si juega bien.
+Es entender decisiones, contexto y potencial.
+Hilo 🧵👇
+
+1️⃣ No mires solo acciones aisladas
+Un gol o una asistencia no bastan.
+Analiza patrones:
+👉 Qué repite
+👉 Cómo resuelve
+👉 Qué decisiones toma
+
+2️⃣ El contexto lo cambia todo
+No es lo mismo destacar en:
+• Bloque bajo
+• Posesión
+• Transición
+• Alta presión
+Evalúa según el modelo de juego.
+
+3️⃣ Mira sin balón
+Muchos solo observan cuando toca el balón.
+Pero el scouting real analiza:
+👉 Movimientos
+👉 Vigilancias
+👉 Ocupación de espacios
+👉 Timing
+
+4️⃣ Evalúa la toma de decisiones
+¿Juega rápido o precipitado?
+¿Elige bien bajo presión?
+La técnica importa…
+la decisión aún más.
+
+5️⃣ Diferencia presente vs potencial
+No preguntes solo:
+“¿Es bueno?”
+Pregunta:
+👉 ¿Qué puede llegar a ser?
+
+6️⃣ Observa el físico… con contexto
+Velocidad, duelos, resistencia.
+Pero siempre según posición y función.
+No todos necesitan lo mismo.
+
+7️⃣ Clave final
+Un scout no busca highlights.
+Busca comportamientos repetibles que transfieran al alto nivel.
+
+
+
+
+
+🏆 Para mis amigos futboleros, con cariño.
+📁 Para el fan
+Las 48 selecciones agrupadas por confederación y los 12 grupos oficiales. Subes fotos y videos directo desde el navegador con drag-and-drop. Cada gol, cada gesto, cada camiseta queda fichado al jugador. En tu disco. Forever.
+🎯 Para el técnico
+Pizarra táctica 3D reglamentaria FIFA (105 × 68 m) construida en WebGL con Three.js. Fichas con drag físico suave, formaciones independientes para Local y Visita (6 presets), modo perspectiva 3D o cenital con auto-fit al rotar. Encima, un overlay de dibujo: lápiz, flechas curvas con efecto aerodinámico y marching ants animados, goma. Toca el "blip de radar" en una flecha para ciclar convex / flat / concave. Drag de la punta o la base para redirigirla.
+🎬 Para presentar
+Modo Marquesina: una proyección full-screen dentro de la app con 7 transiciones cinematográficas (ken burns, blur pull, whip pan…) sobre fondo del trofeo del Mundial en efecto cromo vectorizado. Recorre toda la media de un equipo y la entrega con calidad broadcast.
+🔧 Lo técnico
+React 19 + TypeScript strict + Vite 7. Three.js + react-three-fiber para 3D. Chakra UI v3 + glassmorphism. Zustand para estado. PWA instalable con offline-first. Bilingüe ES/EN. 27 tests unitarios + 12 e2e con Playwright. CI completo con lint + typecheck + tests + bundle budgets + Lighthouse. Branch protection en main. Licencia MIT.
+No lo voy a deployar. Lo dejo abierto en GitHub para los creadores que quieran bajarlo y armar su propio contenido del Mundial sin depender de plataformas. Clonas, `npm install`, `npm run dev`, listo.
+Si lo usas para crear algo, mándame screenshot — me hace el día.
+
+https://github.com/leit0cl/xpendia-mundial-2026
+
+
+SoccerData es una biblioteca de Python que extrae datos de fútbol de plataformas como FBref, WhoScored, Understat y Club Elo hacia DataFrames de Pandas.
+https://github.com/probberechts/soccerdata
+
+
+IMPORTANTE estudiar este enlace
+https://getbruin.com/docs/ingestr/supported-sources/platforms.html#sports-games-and-public-data
+
+https://getbruin.com/docs/ingestr/supported-sources/api-football.html
+https://getbruin.com/docs/ingestr/supported-sources/balldontlie.html
+https://getbruin.com/docs/ingestr/supported-sources/espn.html
+https://getbruin.com/docs/ingestr/supported-sources/football-data-org.html
+
+
+
+
+Para la temporada 26/27 estaré haciendo seguimiento con estas apps de todas las ligas:
+- Scorely (http://escorely.app) Ya en marcha con datos de la 26/27 aunque con algunos cambios. 11s, listados, alertas, oportunidades de mercado, convocatorias, etc. Muy útil para procesos iniciales de scouting a partir del rating de jugadores
+- Tikidata. Es la evolución de FifaPhy (https://fifaphy.vercel.app) que pudistéis disfrutar en el mundial pero para ligas. Evidentemente sin datos físicos, pero todo el resto de análisis. La tengo al 50%, ya os compartiré acceso.
+- PenaltiLab. Un centro de análisis de penaltis (tiradores y porteros con más de 150k partidos analizados y cerca de 60k penaltis de cientos de competiciones. Está al 95%. En cuanto la tenga os la comparto pero espero que sea en un par de días. Quiero dejarla fetén. 
+
+Otras herramientas que voy a trabajar:
+- AerialLab: Es una herramienta dedicada al análisis de los duelos aéreos. Un duelo aéreo tiene muchos contextos, y en esta web vamos a desgranarlos todos. Está al 5%. En mi TL podéis buscar cuando hablo de esto. 
+- GoalkeeperLab: Dedicada al portero con balón. Hay muchas métricas que definen a un portero en función de lo que para. Aquí vamos a ver al portero con balón desde los principios de juego, apoyos, circulaciones, entre centrales, hombre libre, etc. Tengo mucho hecho de análisis que hice para clubes pero toca montarlo a nivel web. 
+- TheStrikerLab: Web dedicada a los delanteros desde el punto de vista de los principios de juego, descargas, apoyos por dentro/fuera, etc. Igual que los porteros mucho avanzado a nivel teórico de análisis que ya he hecho, pero toca llevarlo a web. 
+
+
+
+
+https://x.com/AlexBodner_/status/2090882781794468005
+
+
+
+
+
+

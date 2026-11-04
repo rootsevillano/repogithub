@@ -1,0 +1,36 @@
+***** topic:soccer-analytics topic:computer-vision stars:>50
+
+https://github.com/Mostafa-Nafie/Football-Object-Detection
+https://github.com/roboflow/sports
+https://github.com/mradovic38/football-analysis
+
+
+***** topic:football-data topic:tracking-data language:Python
+***** topic:soccernet OR topic:action-spotting
+
+0 resultados
+
+
+***** Catálogo exhaustivo de librerías, conjuntos de datos y cuadernos de análisis.
+https://github.com/eddwebster/football_analytics
+
+
+***** Compilación de artículos académicos con código asociado para visión computacional y modelos tácticos.
+https://github.com/avijit9/awesome-computer-vision-in-sports
+https://github.com/AtomScott/awesome-sports-analytics
+
+
+***** Cliente en Python para extraer datos agregados de FBref, Transfermarkt, WhoScored, ClubElo y Understat de múltiples ligas.
+https://github.com/probberechts/soccerdata
+
+
+***** Datos de eventos gratuitos a nivel de coordenadas (pases, tiros, presiones).
+https://github.com/hudl/open-data
+
+
+***** Generación de radares de percentiles de jugadores, mapas de calor, redes de pases y matrices de pases progresivos.
+https://github.com/andrewRowlinson/mplsoccer
+
+
+***** Estandarizador de datos espaciales y de eventos entre distintos proveedores (Opta, StatsBomb, Wyscout, ChyronHego).
+https://github.com/pySport/kloppy
