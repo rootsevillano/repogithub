@@ -1,4 +1,0 @@
-https://github.com/jamiepine/voicebox
-https://github.com/voicepowered-ai/VoicePoweredAI_Spanish_v1
-https://github.com/coqui-ai/TTS
-https://github.com/corentinj/real-time-voice-cloning
