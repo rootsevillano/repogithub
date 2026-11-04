@@ -7616,12 +7616,12 @@
     "id": "gh-langchain-ai-s",
     "type": "repo",
     "title": "Social Media Agent",
-    "summary": "Convierte una URL en publicaciones de X y LinkedIn, revisa y edita los borradores, luego prográmalos a través de un flujo de trabajo de agente de IA. Investigación, escritura, visuales, voces en off, música, edición de video y distribución.",
-    "body": "10. Social Media Agent\n\nConvierte una URL en publicaciones de X y LinkedIn, revisa y edita los borradores, luego prográmalos a través de un flujo de trabajo de agente de IA.\n\nhttp://github.com/langchain-ai/s…\n\nInvestigación, escritura, visuales, voces en off, música, edición de video y distribución.\n\nPuedes automatizar casi todas las etapas de la creación de contenido con las herramientas adecuadas.",
-    "url": "https://github.com/langchain-ai/s",
+    "summary": "social-media-agent es un agente autónomo de código abierto desarrollado por LangChain que extrae contenido de un enlace web (URL) para redactar y programar publicaciones para X (Twitter) y LinkedIn. Incorpora un flujo human-in-the-loop (HITL) que permite a una persona revisar, editar o aprobar el borrador antes de que se publique.",
+    "body": "Este proyecto está construido principalmente sobre LangGraph y TypeScript/Node.js. Su propósito es automatizar el ciclo de creación de contenido para redes sociales a partir de fuentes externas:\n\n1. Ingesta y extracción de datos: Recibe una URL (artículos de blog, repositorios de GitHub o vídeos de YouTube) y raspa el contenido relevante.\n2. Generación con LLM: Procesa el texto extraído y genera propuestas de publicaciones optimizadas para los formatos y estilos de Twitter y LinkedIn.\n3. Flujo de supervisión humana (Human-in-the-loop): A través de herramientas como Agent Inbox o LangSmith Studio, el agente interrumpe su ejecución para que un humano valide el texto, haga correcciones manuales o rechace la publicación.\n4. Programación y publicación: Gestiona la autenticación con las plataformas sociales para programar o publicar directamente en los perfiles personales o de empresa.\n\n¿Es totalmente gratuito o requiere pagos y suscripciones?El código fuente del repositorio es 100 % gratuito y de código abierto, pero no es una aplicación de uso gratuito sin costes externos. Para que funcione en la práctica, depende de varias APIs y servicios de terceros que requieren claves y saldo o suscripciones de pago:\n\n- Modelos de Inteligencia Artificial (De pago por uso):\n-- Requiere por defecto una clave de Anthropic (ANTHROPIC_API_KEY) para generar los textos. Anthropic cobra por tokens consumidos (debes añadir saldo a tu cuenta).\n-- Si utilizas la función para procesar vídeos de YouTube, se apoya en Google Vertex AI, que también factura por uso en Google Cloud tras agotar los créditos de prueba.\n\n- Extracción web y raspado:\n-- Utiliza Firecrawl (FIRECRAWL_API_KEY) para scrapear las páginas. Dispone de un nivel gratuito inicial para pruebas, pero exige planes de pago si se supera la cuota de peticiones.\n\n- Autenticación y publicación en redes:\n-- Emplea Arcade (ARCADE_API_KEY) para gestionar la autorización y programación en Twitter y LinkedIn.\n-- Cuentas de desarrollador en redes sociales (por ejemplo, Twitter/X Developer API, cuyo acceso de escritura suele requerir planes específicos).\n\n- Almacenamiento y Observabilidad:\n-- LangSmith / LangGraph: Ofrece un plan gratuito para desarrollo local (hasta 5.000 trazas mensuales), por lo que para pruebas locales no requiere pago.\n-- Supabase: Ofrece capa gratuita para guardar imágenes/archivos en la nube.\n\nNo necesitas pagar una suscripción fija al creador del repositorio, pero sí necesitarás pagar por el consumo de las APIs de IA (como Anthropic) y posiblemente por servicios auxiliares según el volumen de publicaciones que generes.",
+    "url": "https://github.com/langchain-ai/social-media-agent",
     "github": {
       "owner": "langchain-ai",
-      "repo": "s"
+      "repo": "social-media-agent"
     },
     "category": "repos",
     "subcategory": "agentes-ia",
@@ -7637,7 +7637,7 @@
     },
     "status": "active",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-04T21:07:45.402Z"
   },
   {
     "id": "claude-code-resource-bible",
