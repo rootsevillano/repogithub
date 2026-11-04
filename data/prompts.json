@@ -1,0 +1,386 @@
+[
+  {
+    "id": "prompt-7-ajustes-de-notebooklm-que-lo-vuelven-muchisimo-m-1gqfw",
+    "type": "prompt",
+    "title": "7 ajustes de NotebookLM que lo vuelven muchísimo más útil",
+    "summary": "La mayoría sube documentos, hace una pregunta, recibe una respuesta, cierra la pestaña. Pero NotebookLM tiene funciones que mucha gente pasa por alto. Y cambian bastante la experiencia. 1.",
+    "body": "7 ajustes de NotebookLM que lo vuelven muchísimo más útil 👇\nLa mayoría sube documentos, hace una pregunta, recibe una respuesta, cierra la pestaña.\n\nPero NotebookLM tiene funciones que mucha gente pasa por alto.\nY cambian bastante la experiencia.\n1. Audio interactivo\nNo uses el podcast generado por IA solo como si fuera Spotify.\nActiva el modo interactivo.\nPuedes entrar en la conversación, interrumpir a los presentadores, hacer preguntas de seguimiento y pedir que profundicen en una parte concreta.\nEjemplo: \n“Deteneos en esta idea y explicadla con un ejemplo práctico.”\nO:\n“¿Qué implicaciones tendría esto para una empresa pequeña?”\nDe repente, el audio deja de ser un resumen pasivo.\nSe convierte en una tutoría hablada.\n\n2. Comprime fuentes para liberar espacio\nSi tu cuaderno empieza a llenarse de documentos, puedes condensar información.\nFlujo práctico:\n1. Sube varias fuentes.\n2. Pide a NotebookLM un resumen profundo y estructurado.\n3. Guarda esa respuesta como nota.\n4. Convierte esa nota en fuente.\n5. Elimina fuentes antiguas si ya no las necesitas.\nNo es perfecto para todo.\nPero sirve cuando tienes muchos documentos repetidos, informes largos o materiales que quieres reducir a una “fuente maestra”.\nEjemplo: 10 PDFs sobre un tema → 1 resumen estructurado → nueva fuente principal.\n\n3. Personaliza los resúmenes en vídeo\nCuando generes un resumen en vídeo, no tienes que quedarte con el estilo por defecto.\nPuedes orientar el resultado con instrucciones visuales.\nEjemplos:\n“Estilo presentación ejecutiva, fondo oscuro, poco texto y tono premium.”\n“Diseño limpio para estudiantes, colores suaves y ejemplos visuales.”\n“Formato clase rápida, con diapositivas simples y conceptos destacados.”\nEsto convierte un resumen normal en algo más presentable para clases, equipos, formaciones o contenido.\n\n4. Revisa solo una parte, no todo\nSi una diapositiva, sección o respuesta generada no te convence, no hace falta rehacerlo todo desde cero.\nPide una mejora concreta.\nEjemplos:\n“Convierte esta parte en una tabla comparativa.”\n“Haz esta explicación más simple.”\n“Añade un ejemplo aplicado a marketing.”\n“Reduce esta sección a 3 ideas clave.”\nLa clave es no pedir:\n“Mejóralo.”\nPide exactamente qué quieres cambiar.\n\n5. Activa el modo Guía de Aprendizaje\nNotebookLM no tiene por qué ser solo un buscador dentro de tus documentos.\nPuedes usarlo como tutor.\nEn vez de pedir respuestas directas, pídele que actúe como guía de aprendizaje.\nEjemplo: “Explícame este tema paso a paso. Hazme preguntas para comprobar si lo estoy entendiendo y no avances hasta que responda bien.”\nAsí deja de darte solo resúmenes.\nEmpieza a ayudarte a estudiar.\nMuy útil para exámenes, papers, manuales técnicos, clases, libros, documentación interna.\n\n6. Cambia el formato del audio\nEl audio tipo podcast está bien, pero no siempre es el formato más útil.\nPuedes pedir enfoques distintos según lo que necesites.\nEjemplos:\nResumen breve\n“Dame una versión corta para entender lo esencial en 5 minutos.”\nCrítica\n“Detecta puntos débiles, lagunas, contradicciones o partes poco convincentes.”\nDebate\n“Presenta dos posturas opuestas sobre este tema y defiende cada una.”\nClase\n“Explícalo como si fuera una lección para alguien que empieza desde cero.”\nEl mismo documento puede darte aprendizajes muy distintos según el formato.\n\n7. Busca directamente desde Drive\nNo hace falta descargar documentos para luego volver a subirlos.\nPuedes añadir archivos desde Google Drive y trabajar con ellos dentro del cuaderno.\nEsto es especialmente útil para:\nGoogle Docs, PDFs, presentaciones, informes, apuntes, documentación de trabajo, material de clientes.\nEjemplo: tienes una carpeta llena de informes.\nEn vez de copiar y pegar todo, añades las fuentes desde Drive y le preguntas:\n“¿Cuáles son los puntos comunes entre estos documentos?”\nO:\n“Crea una guía de estudio basada solo en estas fuentes.”",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "video",
+      "audio",
+      "diseno",
+      "notebooklm",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Apuntes Tecnologia.txt",
+      "line": 235
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-este-plugin-de-chrome-es-una-joya-1kt9d",
+    "type": "prompt",
+    "title": "Este plugin de Chrome es UNA JOYA",
+    "summary": "Hace ingeniería inversa de cualquier imagen que encuentres en Internet. Analiza cualquier imagen y la convierte en un prompt detallado. Después puedes copiar ese prompt y utilizarlo en herramientas de generación de imágenes.",
+    "body": "Este plugin de Chrome es UNA JOYA.\nHace ingeniería inversa de cualquier imagen que encuentres en Internet.\nAnaliza cualquier imagen y la convierte en un prompt detallado. Después puedes copiar ese prompt y utilizarlo en herramientas de generación de imágenes.\nSolo tienes que hacer clic derecho sobre ella y analizará:\n→ El estilo visual \n→ La composición \n→ La iluminación \n→ Los colores \n→ Los materiales \n→ El ambiente \n→ Los detalles del sujeto\nDespués convierte todo ese análisis en un prompt detallado que puedes copiar y utilizar en tu generador de imágenes favorito.\nTambién permite seleccionar únicamente una zona de la pantalla y generar el prompt en varios idiomas o en formato JSON.\nFunciona de dos maneras:\n• Haciendo clic derecho sobre cualquier imagen.\n• Seleccionando una zona concreta de una página mediante una captura.\nPerfecto para descubrir cómo se creó una imagen y replicar su dirección visual.\nBúscalo en promptcard net",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [],
+    "source": {
+      "file": "Apuntes Tecnologia.txt",
+      "line": 352
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-la-biblioteca-de-prompts-open-source-mas-grande-de-1ymoq",
+    "type": "prompt",
+    "title": "La biblioteca de prompts open source más grande del mundo y es GRATIS",
+    "summary": "prompts chat (antes Awesome ChatGPT Prompts) es una colección seleccionada de prompts que funciona con ChatGPT, Claude, Gemini y mucho más.",
+    "body": "La biblioteca de prompts open source más grande del mundo y es GRATIS.\nprompts chat (antes Awesome ChatGPT Prompts) es una colección seleccionada de prompts que funciona con ChatGPT, Claude, Gemini y mucho más.\n> Más de 167k estrellas en GitHub, mencionada por Harvard y Columbia\n> Funciona como CLI, servidor MCP o plugin de Claude Code\n> Puedes alojar tu propia versión privada con branding y autenticación personalizados\n100% GRATIS. Open Source.\nhttps://github.com/f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "llm",
+      "linux",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Apuntes Tecnologia.txt",
+      "line": 589
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-7-prompts-que-disenan-editan-y-programan-contenido-153pr",
+    "type": "prompt",
+    "title": "7 prompts que diseñan, editan y programan contenido gratis",
+    "summary": "1. El estratega maestro de contenido “Analiza mi nicho, mi público y mis objetivos. Crea un calendario de contenido para 30 días con formatos variados (reels, carruseles, hilos, emails) y enfocado en retención y conversión.” 2.",
+    "body": "7 prompts que diseñan, editan y programan contenido gratis.\n\n-1. El estratega maestro de contenido\n“Analiza mi nicho, mi público y mis objetivos. Crea un calendario de contenido para 30 días con formatos variados (reels, carruseles, hilos, emails) y enfocado en retención y conversión.”\n\n-2. El generador de ideas virales\n“Dame 20 ideas de contenido con alto potencial viral para mi sector [especifica nicho]. Usa patrones de contenido emocional, educativo y polarizante. Incluye hooks y CTA’s.”\n\n-3. El guionista invisible\n“Escribe un guion de 60 segundos al estilo [elige: Alex Hormozi / Alí Abdaal / GrithFilms]. Estructura: gancho – desarrollo – cierre – llamada a la acción.”\n\n-4. El diseñador de visuales sin Canva\n“Genera conceptos visuales y prompts para crear miniaturas, carruseles o clips con estilo profesional. Describe colores, tipografías y composición según la psicología del público.”\n\n-5. El editor inteligente\n“Transfórmame este texto o guion en un formato visual optimizado para reels o shorts. Divide en subtítulos, inserta cortes de ritmo y resalta frases clave.”\n\n-6. El programador 24/7\n“Crea un plan de publicación automática para Instagram, TikTok, LinkedIn y YouTube Shorts. Indica días, horas y tipo de contenido según mis datos o audiencia.”\n\n-. El analista post-lanzamiento\n\n“Simula el comportamiento de un analista de contenido.\nEvalúa mis publicaciones pasadas y genera un informe con patrones de lo que más retiene, genera clics y comentarios.”",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [
+      "video",
+      "gratis",
+      "marketing"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 1
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-elimina-canva-elimina-capcut-jsh7p",
+    "type": "prompt",
+    "title": "ELIMINA CANVA. ELIMINA CAPCUT",
+    "summary": "Yo uso ChatGPT para crear, diseñar, editar y programar 30 días de contenido en 2 horas. Aquí tienes 6 prompts que reemplazan ambos: 1. El Generador de Conceptos de Diseño “Crea 10 conceptos de diseño de contenido para mi nicho [insertar].",
+    "body": "ELIMINA CANVA. ELIMINA CAPCUT.\nYo uso ChatGPT para crear, diseñar, editar y programar 30 días de contenido en 2 horas.\nAquí tienes 6 prompts que reemplazan ambos:\n\n1. El Generador de Conceptos de Diseño\n“Crea 10 conceptos de diseño de contenido para mi nicho [insertar]. Describe el layout, estilo de color, tipografía, espacios y jerarquía visual. Incluye instrucciones de exportación para que ChatGPT genere los diseños finales.”\n\n2. El Prompt de Gráfico Listo para Publicar\n“Genera un gráfico limpio y moderno basado en esta idea [pegar texto]. Incluye encabezado, subtítulo, estructura del layout, espaciado y un estilo visual coherente con mi marca.”\n\n3. Del Guion al Plan de Edición de Video\n“Convierte este guion [pegar] en un plan de edición plano por plano. Incluye visuales, timing, transiciones, subtítulos, ritmo y elementos en pantalla para un video de 15–30 segundos.”\n\n4. El Prompt de Auto-Caption + Formato\n“Crea captions perfectos para la plataforma para este post [pegar contenido]. Incluye:\n• gancho fuerte\n• cuerpo del texto\n• CTA\n• conjunto de hashtags\nTono: [tu tono]. Mantenlo conciso y humano.”\n\n5. El Programador de Contenido de 30 Días\n“Crea un calendario completo de publicaciones de 30 días para mi nicho. Incluye:\n• tipo de publicación\n• prompt de diseño\n• prompt de video/edición\n• prompt de caption\n• horario recomendado de publicación\nEnfócate en consistencia + engagement.”",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [
+      "video",
+      "diseno",
+      "llm"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 29
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-aqui-tienes-7-prompts-de-gemini-para-aprender-cual-16kgj",
+    "type": "prompt",
+    "title": "Aquí tienes 7 prompts de Gemini para aprender cualquier cosa 10 veces más rápido",
+    "summary": "1. Método de Aprendizaje Feynman \"Enséñame [inserta el tema] en lenguaje sencillo como si se lo explicaras a un principiante. Luego, pídeme que lo explique con mis propias palabras y señala las lagunas en mi comprensión.\" 2.",
+    "body": "Aquí tienes 7 prompts de Gemini para aprender cualquier cosa 10 veces más rápido\n1. Método de Aprendizaje Feynman\n\"Enséñame [inserta el tema] en lenguaje sencillo como si se lo explicaras a un principiante. Luego, pídeme que lo explique con mis propias palabras y señala las lagunas en mi comprensión.\"\n\n2. Desglose desde Primeros Principios\n\"Actúa como un instructor experto. Desglosa [inserta tema] en sus bloques de construcción más fundamentales utilizando el pensamiento desde primeros principios para que entienda la lógica central en lugar de memorizar hechos superficiales.\"\n\n3. Entrenador de Recuerdo Activo \n\"Después de enseñar [insertar tema], hazme un cuestionario con preguntas desafiantes que me obliguen a recordar la información sin mirar las notas, luego evalúa mis respuestas con correcciones detalladas.\"\n\n4. Programa de Repetición Espaciada \n\"Crea un programa de repetición espaciada para la revisión en el aprendizaje de [insertar tema], incluyendo qué revisar diariamente, semanalmente y mensualmente para que la información pase de la memoria a corto plazo a la retención a largo plazo.\"\n\n5. Resumen Inteligente de Conocimiento\n\"Resume [inserta tema] en marcos claros, modelos mentales y estructuras simplificadas para que la información más importante sea más fácil de recordar y aplicar.\"\n\n6. Plan de Aceleración del Aprendizaje\n\"Crea un mapa de ruta de aprendizaje para dominar [inserta habilidad] que incluya etapas, hitos y puntos de control para que siempre sepa qué aprender a continuación sin perder tiempo.\"\n\n7. Evaluación de Debilidades \n\"Hazme preguntas diagnósticas sobre [inserta tema] para identificar mis áreas más débiles, malentendidos o puntos ciegos, y recomienda mejoras específicas.\"",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "llm",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 64
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-no-necesitas-leer-50-pdfs-12ti4",
+    "type": "prompt",
+    "title": "No necesitas leer 50 PDFs",
+    "summary": "Necesitas procesarlos con NotebookLM y luego pensar con Claude. Aquí tienes 8 prompts que comprimen 200 horas de investigación en una sola tarde de Viernes: Prompt 1: Usa NotebookLM para ingerir la información y luego dale a Claude la…",
+    "body": "No necesitas leer 50 PDFs.  \nNecesitas procesarlos con NotebookLM y luego pensar con Claude.  \nAquí tienes 8 prompts que comprimen 200 horas de investigación en una sola tarde de Viernes:  \n\nPrompt 1:\n Usa NotebookLM para ingerir la información y luego dale a Claude la verdadera pregunta.  \nLa mayoría de la gente hace sus preguntas difíciles directamente a NotebookLM y obtiene respuestas superficiales.  \nLa jugada inteligente: usar NotebookLM como bibliotecario y Claude como analista:  \nAcabo de usar NotebookLM para extraer lo siguiente de [X FUENTES]: [PEGA RESÚMENES, PUNTOS CLAVE O EXTRACTOS DE NOTEBOOKLM]  \nContexto de lo que estoy intentando resolver:  \n- La decisión que estoy intentando tomar: [DESCRIBE] - Lo que ya sé: [LISTA] \n- Lo que estoy intentando aprender: [PREGUNTA] \n- La presión de tiempo: [PLAZO]  Ahora haz lo que NotebookLM no puede hacer: piensa conmigo.  \n1. Los 3 insights más importantes escondidos en estos extractos (no temas — INSIGHTS)  \n2. El argumento que estas fuentes están construyendo colectivamente — aunque ninguna lo diga explícitamente  \n3. Las contradicciones entre fuentes que debería resolver  \n4. El punto ciego — qué FALTA en esta investigación y debería buscar después  \n5. El insight que cambia mi decisión  \n6. La síntesis en 3 frases que podría compartir con un stakeholder inteligente  \n7. La única pregunta de seguimiento que vale la pena introducir después en NotebookLM  \nNotebookLM me dio la biblioteca. \nAhora ayúdame a pensar.\n\nPrompt 2: \nConvierte 50 fuentes de investigación en una tesis coherente.  \nLa mayoría de investigaciones mueren como notas dispersas.  \nEl 1% las convierte en una tesis defendible que puedes sostener en una reunión:  \nActúa como un consultor senior de estrategia que construye tesis defendibles a partir de investigación desordenada.  \nEsto es lo que he extraído de NotebookLM a partir de [X FUENTES]: [PEGA EXTRACTOS CLAVE]  \nMi hipótesis de trabajo: [LO QUE PIENSO ACTUALMENTE] \nLa decisión que esto respalda: [DECISIÓN]  Constrúyeme una tesis de investigación:  \n1. La TESIS CENTRAL en una frase defendible  \n2. Las 3 pruebas más sólidas A FAVOR  \n3. Las 2 pruebas más sólidas EN CONTRA (steelman)  4. El argumento que haría un escéptico inteligente  \n5. Mi respuesta a ese escéptico  \n6. El “nivel de confianza” con el que debería sostener esta tesis (60% / 80% / 95%)  \n7. El dato que necesitaría para cambiar mi postura  \n8. Un resumen ejecutivo de 3 párrafos que podría enviar a un CEO  \nNo me hagas sonar seguro. Hazme sonar acertado.\n\nPrompt 3: \nExtrae los modelos mentales ocultos en cada libro.  La mayoría de lectores extraen datos. \nEl 1% extrae modelos mentales reutilizables:\nEres un curador de modelos mentales que ha leído más de 1.000 libros de negocios y desarrollo personal, y ha extraído los frameworks subyacentes de cada uno.  \nAcabo de terminar [NOMBRE DEL LIBRO] (o he usado NotebookLM para digerirlo).  \nEste es el resumen que produjo NotebookLM: [PEGAR]  Extrae la estructura profunda:  \n1. El MODELO MENTAL CENTRAL que el autor está enseñando (aunque nunca lo nombre)  \n2. El framework de 3-5 pasos oculto dentro del libro  \n3. La creencia contraria en el corazón del libro  \n4. Las condiciones en las que este modelo funciona — y cuándo no  \n5. Los otros libros o pensadores que comparten este modelo (aunque no lo digan)  \n6. Cómo podría aplicar este modelo ESTA SEMANA en mi trabajo  \n7. Una chuleta de “caso de uso” en 1 frase que pueda consultar para siempre  Los datos se olvidan. \nLos modelos mentales se acumulan. Muéstrame el activo compuesto.\n\nPrompt 4: \nConvierte horas de transcripciones de reuniones en decisiones reales.  \nLa mayoría de profesionales pierden horas en reuniones y nunca extraen acciones reales. \nEste prompt lo soluciona usando NotebookLM como transcriptor:  \nActúa como un jefe de gabinete senior que asiste a reuniones y las convierte en próximas acciones claras.  \nAquí está el resumen de NotebookLM de [NOMBRE DE LA REUNIÓN / TRANSCRIPCIÓN DE LA LLAMADA]: [PEGAR] \n Procesa esta reunión por mí:  \n1. Las 3 DECISIONES que realmente se tomaron  \n2. Las decisiones que se EVITARON (a menudo más importantes)  \n3. Los “compromisos suaves” que la gente hizo sin darse cuenta  \n4. Las acciones que YO debo realizar — con fechas límite  \n5. Las acciones sobre las que debo hacer seguimiento con otros  \n6. La tensión no resuelta que vale la pena abordar antes de la próxima reunión  \n7. Las preguntas que debería hacer ANTES de la próxima reunión para evitar perder otra hora  \n8. Un email resumen de 4 frases que pueda enviar a los asistentes  \nLa mayoría de reuniones producen notas. Los profesionales producen DECISIONES.\n\nPrompt 5: \nUsa los resúmenes de audio de NotebookLM como disparadores de ideas \n— luego construye con Claude.  \nLos resúmenes de audio de NotebookLM son excelentes para ingerir información. \nSon terribles para actuar.  \nEste prompt cierra esa brecha:  Acabo de escuchar un resumen de audio de NotebookLM sobre [TEMA], generado a partir de [FUENTES]. \nLos puntos clave que cubrió: [PEGAR O DESCRIBIR]  Lo que me pareció más interesante: \n[LISTA 2-3 COSAS]  Lo que me sorprendió: [DESCRIBIR]  \nDónde sigo sintiéndome confundido: [DESCRIBIR]  Ahora ayúdame a USAR esta información:  \n1. El insight más accionable de este audio  \n2. Un experimento específico que pueda ejecutar ESTA SEMANA para probarlo  \n3. La pregunta de seguimiento que vale la pena investigar a fondo después  \n4. Una pieza corta de contenido que podría publicar basada en lo que aprendí (hook + 3 puntos)  \n5. El modelo mental incrustado en este material que debería recordar para siempre  \n6. Cómo esto cambia (si es que cambia) lo que estoy trabajando actualmente  \n7. Una “acción de 10 minutos” que pueda hacer ahora mismo  \nEscuchar sin actuar es solo consumo. Ayúdame a convertirlo.\n\nPrompt 6: \nConstruye tu propia experiencia en un dominio desde cero en 30 días.  No necesitas un título universitario para convertirte en experto en algo.  \nNecesitas NotebookLM como libro de texto + Claude como tutor:  Eres un experto senior en [CAMPO] diseñando un plan intensivo de aprendizaje de 30 días para mí.  \nMi nivel actual: [LO QUE YA SÉ — SÉ HONESTO]  Por qué quiero aprender esto: [RAZÓN]  \nHoras por semana que puedo dedicar: [X]  El nivel de profundidad que necesito: [CULTURA GENERAL / CONOCIMIENTO PRÁCTICO / NIVEL EXPERTO]\n  Diseña mi plan de especialización de 30 días:  \n1. Los 10 documentos fundamentales que debería introducir en NotebookLM (libros, papers, informes, conferencias)  \n2. Los 5 principales referentes de este campo cuyo trabajo DEBO estudiar  \n3. Un calendario semanal de lectura + síntesis  \n4. Prompts específicos para Claude que debería usar DESPUÉS de cada sesión de ingestión (para convertir lectura en pensamiento)  \n5. Los 3 conceptos que debería dominar antes de avanzar  \n6. Una “prueba de conocimiento” que pueda pedirle a Claude al final de cada semana  \n7. El insight o framework distintivo que debería haber desarrollado para el Día 30  \nNotebookLM es la biblioteca. Claude es el tutor.  Constrúyeme el plan de estudios.\n\nPrompt 7: \nDetecta el humo y los sesgos en cualquier fuente de investigación.  \nEl mayor error en investigación: confiar en todo lo que NotebookLM ingiere. \n Este prompt convierte a Claude en tu mirada crítica:  Actúa como un metodólogo de investigación que enseña a estudiantes de posgrado a identificar sesgos, evidencia débil y humo en cualquier fuente. \nAquí tienes una fuente que extraje mediante NotebookLM:  [PEGAR RESUMEN / AFIRMACIONES CLAVE]  Tipo de fuente original: [LIBRO / ESTUDIO / ARTÍCULO / PODCAST / INFORME]  Autor u organización: \n[NOMBRE]  Haz un análisis crítico:  \n1. El probable SESGO del autor (institucional, ideológico, financiero, metodológico)  \n2. La afirmación más fuerte — ¿la evidencia es realmente sólida o solo está formulada con confianza?  3. La afirmación más débil — ¿qué le falta a la evidencia?  \n4. Las “omisiones convenientes” — ¿qué podría contradecir su tesis y no incluyó?  \n5. Los problemas metodológicos (tamaño de muestra, sesgo de selección, actualidad, etc.)  \n6. Las 3 fuentes de seguimiento que debería leer para triangular  \n7. Una puntuación de confianza (1-10) sobre cuánto debería confiar en esta fuente \nLa mayoría de errores de investigación vienen de confiar demasiado en una sola fuente. \nAyúdame a triangular.\n\nPrompt 8: \nLa auditoría semanal del conocimiento.  La mayoría de trabajadores del conocimiento consumen más de lo que sintetizan.  \nEste prompt es tu revisión de investigación del domingo:  \nEres mi estratega personal de investigación ejecutando mi auditoría semanal de conocimiento.  Entradas de esta semana:  \n* Fuentes que ingerí en NotebookLM: [LISTA] * Horas dedicadas a consumir contenido: [X] \n* Decisiones o proyectos que esta investigación apoya: [LISTA] * Insights de los que estoy orgulloso: [LISTA] \n* Cosas que leí pero ya olvidé: [LISTA] * Temas que estoy evitando aprender: [LISTA]  \nEjecuta mi auditoría semanal completa:  \n1. El insight de esta semana que vale la pena recordar dentro de 6 meses  \n2. La pieza de contenido que no valió el tiempo invertido  \n3. Dónde estoy consumiendo en lugar de pensar  \n4. Dónde estoy pensando pero no ACTUANDO sobre lo que aprendí  \n5. La “deuda de conocimiento” — temas en los que llevo tiempo queriendo profundizar pero aún no lo hago  \n6. El único tema de seguimiento que vale la pena ingerir la próxima semana  \n7. Una “carta de mi yo más inteligente dentro de 6 meses” — ¿qué me gustaría priorizar aprender?  \nLa mayoría de la gente lee más. Los profesionales sintetizan más. Muéstrame la diferencia.",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "audio",
+      "seguridad",
+      "notebooklm",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 90
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-puedes-hacer-que-claude-trabaje-como-creador-de-co-jg05s",
+    "type": "prompt",
+    "title": "Puedes hacer que Claude trabaje como creador de contenido personal completo para ti... usando solo un prompt",
+    "summary": "Y este es el prompt que necesitas: 1. Haz que Claude piense como un creador de contenido profesional A partir de ahora, no eres un asistente de inteligencia artificial común, sino un creador de contenido profesional con 5 años de…",
+    "body": "Puedes hacer que Claude trabaje como creador de contenido personal completo para ti... usando solo un prompt.\nY este es el prompt que necesitas: 👇\n\n1. Haz que Claude piense como un creador de contenido profesional\nA partir de ahora, no eres un asistente de inteligencia artificial común, sino un creador de contenido profesional con 5 años de experiencia. Sabes cómo escribir contenido que atrae la atención y evita que las personas pasen por alto la publicación.\nCuando te dé cualquier tema, no proporciones una respuesta estereotipada o repetitiva, sino escribe como si hubieras investigado tú mismo y entendido el tema en profundidad.\nMi campo: [Escribe tu campo]\nEstilo de escritura: [Profesional / Simple / Sarcástico / Formal]\n\n2. Extrae ideas de contenido de los problemas del público\nQuiero que comprendas en profundidad los problemas e intereses de las personas en el campo [escribe el campo].\nCrea una lista que incluya 20 problemas o preguntas o creencias erróneas o algo que avergüence a la gente preguntar al respecto.\nDespués, transforma cada punto en una idea de contenido que haga que el lector diga:\n\"Esto es exactamente en lo que estaba pensando.\"\n\n3. Crea titulares que detengan el scroll\nTengo este tema:\n[Escribe el tema]\nCrea 5 titulares de apertura completamente diferentes:\n- Un titular impactante\n- Un titular que despierte curiosidad\n- Un titular basado en una historia\n- Un titular relatable con el que todos puedan identificarse\n- Un titular basado en números o resultados\nLuego, evalúa cuál de estos titulares tiene la mayor probabilidad de captar la atención y por qué.\n\n4. Crea contenido que mantenga al lector hasta el final\nConvierte esta idea en contenido que la gente lea hasta la última línea.\nLa idea:\n[Escribe la idea]\nHaz que la secuencia sea natural, como si estuvieras contándole una historia a un amigo, no un artículo formal.\nY al final, añade una pregunta o una frase que anime a la gente a comentar y discutir.\n\n5. Convierte una idea en varias publicaciones\nEste es uno de mis contenidos anteriores:\n[Pega el contenido]\nCrea 3 versiones nuevas con ángulos completamente diferentes, sin repetir las mismas frases ni el mismo estilo.\nQuiero probar qué ángulo puede lograr mayor alcance y engagement.\n\n6. Critica el contenido con honestidad\nLee este contenido:\n[Pega el contenido]\nLuego, dime con franqueza:\n- ¿Cuáles son las partes aburridas?\n- ¿Dónde dejará el lector de leer?\n- ¿Qué necesita mejorar?\n- ¿Cómo hago que el contenido genere más comentarios y participaciones?\n- ¿Cómo elevo la tasa de retención de lectura hasta el final?",
+    "category": "prompts",
+    "subcategory": "marketing",
+    "tags": [],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 230
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-notebooklm-ahora-puede-realizar-horas-de-investiga-zlnzs",
+    "type": "prompt",
+    "title": "NotebookLM ahora puede realizar horas de investigación, aprendizaje y trabajo de contenido de forma gratuita",
+    "summary": "La mayoría de las personas suben un documento y piden un resumen. Aquí hay 10 prompts que muestran lo que realmente hace: 1/ Obtén el panorama completo rápidamente \"Resume este documento en un lenguaje simple y claro.",
+    "body": "NotebookLM ahora puede realizar horas de investigación, aprendizaje y trabajo de contenido de forma gratuita.\nLa mayoría de las personas suben un documento y piden un resumen.\nAquí hay 10 prompts que muestran lo que realmente hace:\n\n1/ Obtén el panorama completo rápidamente\n\"Resume este documento en un lenguaje simple y claro. Extrae los puntos clave, las ideas principales y las conclusiones más importantes. Asume que nunca lo he leído antes y que tengo 5 minutos para entenderlo.\"\n\n2/ Convierte cualquier cosa en notas de estudio\n\"Convierte este contenido en notas de estudio estructuradas con encabezados claros, explicaciones breves y ejemplos donde sea útil. Escríbelo para alguien que es completamente nuevo en este tema.\"\n\n3/ Haz que responda tus preguntas\n\"Eres un experto en todo lo que hay dentro de este documento. Responde mis preguntas utilizando solo lo que está aquí. Si la respuesta no está en el documento, dímelo directamente en lugar de adivinar.\"\n\n4/ Explícalo como si estuvieras hablando con un humano\n\"Explica este tema en el lenguaje más simple posible. Elimina todo el argot técnico. Escríbelo como lo haría un amigo inteligente explicándoselo a alguien que no sabe nada del asunto, tomando un café.\"\n\n5/ Encuentra lo que Realmente Importa\n\"Repasa este documento completo y extrae solo las ideas más importantes, hechos y conclusiones. Ignora todo lo que sea información de fondo o relleno. Dame solo lo que necesito recordar.\"\n\n6/ Comparar dos documentos uno al lado del otro\n\"Estoy subiendo dos documentos. Compáralos directamente. Dime en qué están de acuerdo, en qué se contradicen entre sí y cuál es la diferencia más importante entre sus conclusiones.\"\n\n7/ Reescribe para un Público Real\n\"Reescribe este contenido para que sea atractivo, fácil de leer y accesible para cualquier persona en el mundo, sin importar su origen. Elimina todo lo que frene al lector.\"\n\n8/ Crea un plan de aprendizaje de 7 días\n\"Basándote únicamente en lo que hay en este documento, créame un plan de aprendizaje paso a paso de 7 días que me lleve desde principiante hasta una comprensión confiada de este tema. Dígame exactamente en qué enfocarme cada día.\"\n\n9/ Crear Tarjetas de Memoria para una Revisión Rápida\n\"Convierte la información más importante de este documento en tarjetas de memoria con preguntas y respuestas. Mantén cada pregunta específica y cada respuesta lo suficientemente corta como para memorizarla en menos de 30 segundos.\"\n\n10/ Reutilízalo en Contenido\n\"Toma este documento y conviértelo en tres cosas: una entrada corta de blog, un guion para video de YouTube y 5 ideas para publicaciones en redes sociales. Cada una debe funcionar como una pieza de contenido independiente que alguien realmente querría leer o ver.\"",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "video",
+      "notebooklm",
+      "gratis",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 283
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-convierte-cualquier-repositorio-en-un-prompt-para-zccjj",
+    "type": "prompt",
+    "title": "Convierte CUALQUIER repositorio en un prompt para COPIARLO",
+    "summary": "Si eres fan de la INGENIERÍA INVERSA, esto te interesa OJO: Un repositorio público siempre puedes clonarlo. Esto es muy útil cuando quieres adaptar el \"concepto\" detrás del repositorio.",
+    "body": "Convierte CUALQUIER repositorio en un prompt para COPIARLO.\nSi eres fan de la INGENIERÍA INVERSA, esto te interesa\nOJO: Un repositorio público siempre puedes clonarlo.\nEsto es muy útil cuando quieres adaptar el \"concepto\" detrás del repositorio.\nCopias la idea, y la visualización, y la adaptas a tu stack tecnológico.\nhttps://www.gitreverse.com/",
+    "url": "https://www.gitreverse.com/",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 319
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-ultima-hora-chatgpt-ahora-puede-crear-una-presenta-3zovg",
+    "type": "prompt",
+    "title": "ÚLTIMA HORA: ChatGPT ahora puede crear una presentación en 2 minutos",
+    "summary": "Aquí están los 7 prompts que deberías probar: 1. El Constructor Completo de Presentaciones “Actúa como un creador de presentaciones de clase mundial.",
+    "body": "🚨ÚLTIMA HORA: ChatGPT ahora puede crear una presentación en 2 minutos.\nAquí están los 7 prompts que deberías probar:￼\n\n1. El Constructor Completo de Presentaciones\n“Actúa como un creador de presentaciones de clase mundial. Crea una presentación completa, diapositiva por diapositiva, sobre el tema: [inserta tema]. Incluye diapositivas de título, puntos clave, ejemplos, datos, metáforas, sugerencias visuales y una llamada a la acción final. Estructúrala como una presentación de nivel TED con un flujo narrativo.”\n\n2. La Presentación de Investigación Profunda\n“Crear una presentación completa sobre [insertar tema] utilizando investigación profunda. Incluir estadísticas reales, estudios de caso, citas de expertos, perspectivas prácticas y ejemplos. Hacer que cada diapositiva sea educativa, atractiva y respaldada por fuentes creíbles. Proporcionar referencias al final.”\n\n3. La Presentación de Explicación Simplificada\n“Construye una presentación sobre [inserta el tema] diseñada para principiantes. Descompón conceptos complejos en explicaciones simples, analogías y lógica paso a paso. Haz que el contenido sea tan claro que incluso un niño de 10 años pueda entender el tema completo.”\n\n4. El Creador de Presentaciones de Pitch Empresarial\n“Crea una presentación completa de pitch al estilo de inversores para mi idea de negocio: [inserta idea]. Incluye problema, solución, tamaño del mercado, características del producto, modelo de negocio, ventaja competitiva, proyecciones financieras, diapositiva del equipo y guion de cierre del pitch.”\n\n5. La Maestría en Narración para Presentaciones\n“Crear una presentación completa sobre [insertar tema] utilizando la estructura de narración: Gancho → Conflicto → Viaje → Insight → Transformación → Llamado a la Acción. Hacer que las diapositivas sean emocionales, memorables y persuasivas. Agregar notas del orador con orientación para la entrega.”\n\n6. La Presentación Corporativa\n“Crear una presentación formal, al estilo corporativo, sobre [insertar tema]. Incluir un tono profesional, puntos de viñeta estructurados, gráficos, diagramas, análisis FODA, tendencias, pronósticos y recomendaciones respaldadas por datos. Hacerla adecuada para salas de juntas.”\n\n7. La presentación completa + combo de guion\n“Crea una presentación completamente lista sobre [inserta el tema], Y escribe un guion hablado completo que pueda leer mientras presento. Asegúrate de que el guion coincida con el tono, el ritmo y el flujo emocional de las diapositivas. Incluye pausas, énfasis, indicaciones de narración y instrucciones de entrega.”",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "llm",
+      "data-science",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 328
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-el-90-de-la-gente-usa-la-ia-para-tareas-simples-1s6s3",
+    "type": "prompt",
+    "title": "El 90% de la gente usa la IA para tareas simples",
+    "summary": "Yo la uso para análisis, investigación, edición, coaching, entrenador personal, abogado... RÓBAME ESTOS PROMPTS PARA SACARLE EL MÁXIMO PARTIDO A CLAUDE: 1.",
+    "body": "El 90% de la gente usa la IA para tareas simples. \nYo la uso para análisis, investigación, edición, coaching, entrenador personal, abogado...\nRÓBAME ESTOS PROMPTS PARA SACARLE EL MÁXIMO PARTIDO A CLAUDE:\n\n1. Profesor de Modelos Mentales\nLa diferencia entre memorizar información y entender de verdad. \n\"Actúa como profesor excepcional. Tema: [TEMA]. Mi nivel: [BÁSICO/INTERMEDIO]. Por qué quiero entenderlo: [CONTEXTO].\nEnséñame usando 3–5 modelos mentales. Para cada uno: nombre, idea principal en 2–3 frases, cómo aplica al tema, ejemplo concreto y error común al no usarlo.\nAl final: muéstrame cómo se relacionan entre sí y hazme una pregunta que solo podré responder si lo he entendido de verdad.\"\n\n2. Profesor Socrático\nEl método de aprendizaje más exigente y más efectivo que existe.\n\"Eres profesor socrático. No explicas — haces preguntas que me guían a descubrir la respuesta yo mismo.\nTema: [TEMA]. Mi objetivo: [QUÉ QUIERO ENTENDER]. Mi nivel: [LO QUE CREO SABER].\nReglas sin excepción: empieza con una sola pregunta sobre lo que creo, nunca des la respuesta directamente, si me equivoco no me corrijas — haz una pregunta que me haga darme cuenta, si te pido que expliques niégate y di '¿Cuál crees que podría ser la respuesta?', una sola pregunta por turno.\nLa sesión termina cuando pueda expresar la idea principal con mis propias palabras. Al final: sal del personaje y dime cuál era la idea hacia la que me guiabas y en qué momento demostré que la entendí.\"\n\n3. Abogado del Diablo\nPara salir de tu cámara de eco antes de tomar decisiones importantes. \n\"No estoy de acuerdo con esta postura: [TU POSICIÓN].\nMi opinión actual: [POR QUÉ DISCREPAS]\nConstruye el argumento más sólido posible a favor de la postura contraria. Estructura: idea fundamental, evidencia que la respalda, dónde es más débil mi punto de vista y el argumento más potente que un defensor brillante presentaría.\nReglas: sin contraargumentos, sin salvedades. Arguméntalo como si realmente lo creyeras.\"\n\n4. El Crítico Implacable\nEl mejor filtro antes de lanzar cualquier idea al mundo. \n\"Eres un crítico brillante e implacable. Tu única misión es destruir esta idea. No con cortesía. Encuentra cada fisura.\nMi idea: [DESCRIBE CON DETALLE]\nAnaliza desde cuatro ángulos: supuestos erróneos, riesgos de ejecución, realidad del mercado que estoy ignorando y el fallo fatal que podría acabar con todo.\nTermina con: 'El argumento más sólido en contra de esto en una sola frase:' — hazlo devastador.\"\n\n5. Clonador de Estilo de Escritura\nPara escalar tu contenido sin perder tu voz. \n\"Eres analista de estilo y ghostwriter. Aquí tienes 3 ejemplos de mi escritura: [EJEMPLO 1] [EJEMPLO 2] [EJEMPLO 3].\nPaso 1: Analiza mi estilo — ritmo, vocabulario, cómo inicio párrafos, cómo cierro ideas, qué nunca hago y qué me hace reconocible al instante.\nPaso 2: Escribe un [FORMATO] sobre [TEMA] con mi estilo exacto — tan fiel que pueda publicarlo sin editar.\"\n\n6. Editor Sin Filtros\nEl editor que nadie quiere tener pero todos necesitan. \n\"Eres el editor más exigente que he tenido. Sin ánimos, solo evaluación honesta.\nAquí mi borrador: [PEGA]\nEdítalo en 5 dimensiones: qué eliminar (cita y explica), qué ideas son vagas o sin fundamento, qué falta que el lector espera, si la estructura es correcta y cuál es el mayor problema único.\nLuego: escribe la versión editada. Elimina sin piedad. No añadas relleno para compensar.\"\n\n7. Tutor con Método Feynman\nPara aprender de verdad, no para parecer que sabes.\n\"Eres maestro que aplica la técnica Feynman: no pasas al siguiente concepto hasta que el anterior esté verdaderamente entendido.\nTema: [TEMA]. Mi nivel: [BÁSICO/INTERMEDIO]. Por qué quiero entenderlo: [OBJETIVO]. Cómo aprendo mejor: [ANALOGÍAS/EJEMPLOS/LÓGICA PASO A PASO].\nMétodo: empieza por el concepto más fundamental en lenguaje simple, hazme una pregunta de comprensión (no de memoria), espera mi respuesta, si entendí avanza, si no busca otra analogía — nunca repitas la misma explicación.\nAl final: pídeme que te explique el tema con mis propias palabras y dime qué acerté, qué omití y qué malinterpreté.\"\n\n8. Convertidor de Notas a Texto Final\nDe apuntes caóticos a texto publicable en un paso. \n\"Eres escritor y editor profesional. Tema: [TEMA]. Formato: [ARTÍCULO/POST/EMAIL]. Extensión: [PALABRAS]. Audiencia: [QUIÉN]. Tono: [FORMAL/CONVERSACIONAL]. Objetivo: [QUÉ DEBE PENSAR/HACER EL LECTOR].\nAquí mis notas: [PEGA]\nReglas: usa todas mis ideas sin eliminar ninguna, completa las transiciones, no inventes ideas nuevas, abre con un gancho y cierra con fuerza. Si algo no está claro, señálalo al final en lugar de adivinar.\"\n\n9. Simulador de Negociación Salarial\nPractica antes de la conversación real. Cada euro cuenta. \n\"Eres responsable de contratación en [TIPO DE EMPRESA]. Profesional, experimentado, proteges el presupuesto.\nEl puesto: [PUESTO]. Oferta actual: [OFERTA]. Mi objetivo: [LO QUE QUIERO]. Mi ventaja: [OFERTA COMPETIDORA/HABILIDAD ÚNICA]. Mi punto débil: [LAGUNA/SIN CONTRAOFERTA].\nNegocia conmigo de forma realista. Usa al menos 3 de estas objeciones reales: 'El presupuesto es fijo para este nivel', 'No sería justo para el equipo', 'Los datos del mercado sitúan este puesto en X', 'Podemos reconsiderarlo en 6 meses'. No cedas fácilmente.\nAl final: dime qué hice bien, qué argumento desperdicié y cuál fue mi mejor jugada.\"\n\n10. Entrevistador de Trabajo Realista\nLa mejor práctica antes de una entrevista importante. \n\"Eres entrevistador senior. Aquí la descripción del puesto: [PEGA]. Mi experiencia: [2–3 FRASES]. Tipo de entrevista: [CONDUCTUAL/TÉCNICA/CASO/MIXTA].\nDirige la entrevista. Una pregunta a la vez. Espera mi respuesta.\nTras cada respuesta: puntos fuertes, puntos débiles y qué debería haber dicho.\nCubre: motivación, experiencia relevante en formato STAR, manejo de un reto específico, estilo de trabajo, pregunta técnica y una pregunta inesperada.\nAl final: valoración global, decisión de contratación (sí/no/quizás) y el factor que más influyó.\"\n\n11. Adaptador de CV por Puesto\nUn CV genérico pierde contra uno adaptado. Siempre. \n\"Eres redactor profesional de currículums. Aquí mi CV actual: [PEGA]. Aquí 3 descripciones de puestos: [PUESTO 1] [PUESTO 2] [PUESTO 3].\nPara cada puesto: reordena los puntos por relevancia, reescribe usando el lenguaje exacto de la oferta, ajusta el titular/resumen y minimiza la experiencia irrelevante.\nReglas: sin inventar ni exagerar nada. Verbos de acción potentes. Cuantifica donde ya hay números.\nAl final: cuál se ajusta mejor y cuál presenta mayor discrepancia con mi perfil.\"\n\n12. Coach para Conversaciones Difíciles\nLa preparación que marca la diferencia entre una conversación que resuelve y una que empeora. \n\"Eres coach ejecutivo. Próximamente tengo una conversación difícil.\nCon quién: [ROL Y RELACIÓN]. Tema: [ASUNTO]. Contexto: [QUÉ LLEVÓ A ESTO]. Mi objetivo: [QUÉ QUIERO LOGRAR]. Mi temor: [LO QUE MÁS ME PREOCUPA]. Lo que NO debo hacer: [LÍNEAS ROJAS].\nDame: la frase de apertura exacta, las 3 respuestas más probables de la otra persona con mi respuesta a cada una, la trampa que probablemente caiga y la salida para cerrar la conversación con claridad sea cual sea el resultado.\nSi mi objetivo no es realista dado el contexto, dímelo antes de empezar.\"\n\n13. Reescritor de Perfil de LinkedIn\nTu titular de LinkedIn es tu primera impresión. La mayoría la desperdicia. \n\"Eres estratega de marca personal. Mi bio actual: [PEGA]. A qué me dedico: [EN LENGUAJE SIMPLE]. A quién quiero atraer: [CLIENTES/EMPLEADORES/COLABORADORES]. Mi mayor credencial: [RESULTADO/EMPRESA/CIFRA]. Qué me diferencia: [VENTAJA ÚNICA].\nEscribe 5 versiones de titular y resumen (máx. 300 caracteres): autorizada, conversacional, basada en resultados, ultra-específica para mi audiencia y minimalista (menos de 100 caracteres).\nProhibido: apasionado, orientado a resultados, innovador, dinámico, líder de opinión.\nAl final: cuál funcionará mejor para mi audiencia y por qué.\"\n\n14. Planificador de Comidas Personalizado\nPara comer bien sin improvisar cada día ni desperdiciar dinero. \n\"Eres nutricionista profesional. Elabora un plan de comidas real de 7 días que pueda seguir.\nMis datos: dieta [TIPO], alimentos que detesto [LISTA], objetivo calórico [CANTIDAD], proteínas diarias [CANTIDAD]g, tiempo máximo por comida [MINUTOS], nivel culinario [BÁSICO/INTERMEDIO], presupuesto semanal [CANTIDAD], comensales [NÚMERO].\nIncluye: desayuno/almuerzo/cena con calorías, proteínas y tiempo de prep. Reutiliza ingredientes para reducir desperdicio. Lista de la compra por secciones con cantidades. Guía de meal prep dominical. Coste total estimado.\"\n\n15. Lector de Contratos en Lenguaje Humano\nPara no firmar nada que no entiendas.\n\"Necesito entender este documento antes de firmarlo. No es asesoría legal — es comprensión para hablar con criterio con un abogado.\nTipo de documento: [CONTRATO/ARRENDAMIENTO/NDA/OTRO]. Documento: [PEGA].\nAnaliza: a qué me comprometo yo, a qué se comprometen ellos, las 3 cláusulas más arriesgadas para mí (cita y explica), qué hay de inusual o no estándar, qué falta que debería estar y las 5 preguntas concretas que debo hacer antes de firmar.\"\n\n16. Analista de Finanzas Personales\nLo que ningún blog de finanzas puede darte porque no conoce tus números.\n\"Eres analista de finanzas personales. Ingresos mensuales netos: [CANTIDAD]. Objetivo financiero principal: [FONDO EMERGENCIA/DEUDA/INVERSIÓN]. Plazo: [MESES/AÑOS]. Gastos fijos inamovibles: [LISTA].\nAquí mis gastos del mes pasado: [PEGA]\nDame: desglose por categorías con totales y % sobre ingresos, las 3 mayores fugas con cifras concretas vs. referencia razonable, quick wins que pueda recortar ya con ahorro mensual calculado, si mi objetivo es realista en el plazo dado y el único cambio de comportamiento que mayor impacto tendría este mes.\nCita mis cifras reales. Sin consejos genéricos.\"\n\n17. Planificador de Viaje Personalizado\nLa diferencia entre un viaje memorable y uno de Instagram que todos hacen igual\n\"Eres especialista en viajes con conocimiento real de [DESTINO]. Diseña un viaje para mí, no un itinerario turístico genérico.\nDestino: [DESTINO]. Fechas: [LLEGADA/SALIDA]. Grupo: [SOLO/PAREJA/FAMILIA]. Presupuesto: [CANTIDAD]. Estilo: [RELAJADO/INTENSO/GASTRONÓMICO/CULTURAL]. Detesto: [TRAMPAS TURÍSTICAS/MULTITUDES]. Me encanta: [COMIDA LOCAL/ARQUITECTURA/NATURALEZA].\nDame: itinerario día a día mañana/tarde/noche con lugares concretos y tiempos de desplazamiento realistas, qué reservar con antelación y cuándo, 3 joyas ocultas que los turistas se pierden, desglose de presupuesto diario y 2–3 lugares sobrevalorados que debo evitar según mi perfil.\"\n\n18. Traductor de Audiencias\nEl mismo mensaje, cinco versiones. Para saber cuál usar en cada contexto. \n\"Aquí mi texto original: [PEGA]\nReescríbelo para 5 audiencias distintas comprometiéndote completamente con cada una: el principiante (sin jerga, con analogías), el experto (sin básicos, terminología precisa), el escéptico (anticípate a su objeción), el periodista (titular + 2 frases noticiosas) y el ejecutivo (máximo 3 frases: qué es, por qué importa, qué hacer).\nAl final: dime cuál es la más difícil de redactar bien y por qué.\"\n\n19. Sintetizador de Múltiples Fuentes\nPara cuando tienes demasiada información y necesitas una sola respuesta clara. \n\"Eres analista de investigación sénior. Aquí tienes [NÚMERO] fuentes sobre [TEMA]: [PEGA TODAS].\nElabora una síntesis estructurada con: consenso principal entre fuentes, contradicciones clave, lagunas que ninguna cubre, la afirmación con mayor respaldo empírico y una conclusión práctica accionable.\nReglas: no resumas cada fuente por separado — sintetízalas. Señala qué fuente es más creíble y por qué. Marca como no verificado cualquier dato que aparezca en una sola fuente. Máximo 600 palabras.\"\n\n20. Diseñador de Plan de Aprendizaje de 30 Días\nLa diferencia entre aprender y practicar hasta dominar.\n\"Eres estratega de aprendizaje. Quiero dominar [HABILIDAD] en 30 días con un plan concreto, no una lista de lecturas.\nMi nivel: [BÁSICO/INTERMEDIO]. Tiempo diario disponible: [MINUTOS]. Días por semana: [NÚMERO]. Objetivo al día 30: [LO QUE QUIERO PODER HACER]. Método preferido: [VÍDEOS/PROYECTOS/MIXTO]. Recursos que ya tengo: [LISTA].\nDiseña 4 semanas: fundamentos, aplicación, profundidad y consolidación. Cada día una tarea específica (no 'estudia X' sino 'haz Y específicamente'). Checkpoints en los días 7, 14, 21 y 30 con prueba concreta. Regla: 80% práctica, 20% teoría. Cada semana termina con algo tangible producido.\"",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "video",
+      "audio",
+      "self-hosted",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 357
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-ultima-hora-notebooklm-ahora-puede-actuar-como-un-1ntd5",
+    "type": "prompt",
+    "title": "ÚLTIMA HORA: NotebookLM ahora puede actuar como un asistente de investigación personal de forma gratuita",
+    "summary": "Sube cualquier artículo, PDF, video o documento y usa estos 10 prompts para extraer todo lo que importa en minutos: 1/ Extraer lo que Realmente Importa \"Repasa cada fuente que subí y dame las 10 conclusiones más importantes en lenguaje…",
+    "body": "🚨 ÚLTIMA HORA: NotebookLM ahora puede actuar como un asistente de investigación personal de forma gratuita.\n\nSube cualquier artículo, PDF, video o documento y usa estos 10 prompts para extraer todo lo que importa en minutos:\n\n1/ Extraer lo que Realmente Importa\n\"Repasa cada fuente que subí y dame las 10 conclusiones más importantes en lenguaje simple y claro. Enfócate solo en ideas prácticas e insights que realmente pueda usar. Salta todo lo que sea fondo o relleno.\"\n\n2/ Explícalo como si no supiera nada\n\"Explícala esta información como si nunca hubiera oído hablar de este tema antes. Usa un lenguaje simple, ejemplos del mundo real y evita todo tipo de jerga. Si tienes que usar un término técnico, defínelo inmediatamente.\"\n\n3/ Encuentra los Patrones en Todo\n\"Analiza todas mis fuentes subidas en conjunto. Identifica los temas principales, las ideas recurrentes y los patrones que aparecen en múltiples fuentes. Dime por qué importa cada patrón y qué significa en la práctica.\"\n\n4/ Constrúyeme una Guía de Estudio\n\"Convierte todo lo que subí en una guía de estudio estructurada. Incluye un resumen de cada fuente, los conceptos clave que necesito entender, los hechos más importantes para recordar, y 10 preguntas de repaso que prueben una comprensión real.\"\n\n5/ Compara Cada Fuente Contra las Otras\n\"Compara los puntos de vista, argumentos y conclusiones entre todas mis fuentes subidas. Dime dónde están de acuerdo, dónde se contradicen entre sí, y qué perspectiva única aporta cada una que las demás no.\"\n\n6/ Convierte la Investigación en un Plan de Acción\n\"Basado en todo lo que hay en mis fuentes subidas, constrúyeme un plan de acción paso a paso que pueda comenzar a seguir esta semana. Enfócate solo en recomendaciones prácticas que estén directamente respaldadas por lo que está en los documentos.\"\n\n7/ Dime qué falta\n\"¿Cuáles son las preguntas importantes que no se responden en ninguna parte de mis fuentes cargadas? Identifica las lagunas en la información, señala cualquier cosa que parezca contradictoria o incompleta, y dime exactamente qué debo investigar a continuación para llenar esas lagunas.\"\n\n8/ Crear una hoja completa de preguntas y respuestas\n\"Genera 30 preguntas y respuestas basadas únicamente en lo que hay en mis fuentes subidas. Comienza con preguntas básicas de comprensión y aumenta gradualmente la dificultad hacia preguntas que requieran conectar ideas entre múltiples fuentes.\"\n\n9/ Reutilízalo en Contenido\n\"Usa todo en mis fuentes subidas para darme un esquema de publicación de blog, cinco ideas de publicaciones en redes sociales, un enfoque para boletín, y tres temas de video. Cada pieza de contenido debe basarse directamente en algo específico de las fuentes.\"\n\n10/ Dame el Resumen Ejecutivo de 5 Minutos\n\"Tengo 5 minutos. Dame un resumen conciso de todo en mis fuentes subidas, cubriendo las percepciones más importantes, los riesgos más grandes, las oportunidades más claras y tus tres principales recomendaciones. Nada que no necesite saber.\"",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "video",
+      "notebooklm",
+      "gratis",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 495
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-notebooklm-acaba-de-hacer-que-estudiar-investigar-ud179",
+    "type": "prompt",
+    "title": "NotebookLM acaba de hacer que estudiar, investigar y crear contenido sea injusto",
+    "summary": "La mayoría de las personas lo usan para resumir PDFs. Los usuarios avanzados lo convierten en un segundo cerebro. Aquí tienes 9 prompts premium de NotebookLM que no encontrarás en ningún otro lugar. 1.",
+    "body": "🚨 NotebookLM acaba de hacer que estudiar, investigar y crear contenido sea injusto.\nLa mayoría de las personas lo usan para resumir PDFs.\nLos usuarios avanzados lo convierten en un segundo cerebro.\nAquí tienes 9 prompts premium de NotebookLM que no encontrarás en ningún otro lugar. 👇\n\n1. Construye Mi Centro de Conocimiento Personal\nPrompt:\n\"Actúa como mi Arquitecto de Conocimiento Personal. Subiré [PDFs / Artículos de Investigación / Libros / Notas de Reuniones / Transcripciones de YouTube / Documentos]. Mi objetivo es [Aprendizaje / Investigación / Negocios / Examen / Escritura], mi experiencia es [Nivel de Experiencia], y mi plazo es [Cronograma]. Organiza todo en un sistema de conocimiento buscable, conecta conceptos relacionados, identifica temas recurrentes, resalta contradicciones, extrae ideas clave, crea resúmenes para diferentes niveles de conocimiento, sugiere recursos de seguimiento y haz preguntas siempre que un contexto adicional mejore el resultado final.\"\n\n2. Aprende cualquier materia como un profesor\nPrompt:\n\"Actúa como mi profesor universitario. Enséñame [Materia] utilizando únicamente las fuentes subidas. Mi nivel actual es [Principiante / Intermedio / Avanzado], mi estilo de aprendizaje es [Visual / Práctico / Lectura], mi objetivo es [Examen / Carrera / Personal], y el tiempo disponible para estudiar es [Horas]. Desglosa cada concepto en explicaciones simples, analogías del mundo real, cuestionarios, tarjetas de memoria, trucos de memoria, ejercicios prácticos y preguntas progresivamente más difíciles hasta que domine completamente el tema.\"\n\n3. Convertir Documentos en Perspectivas de Negocios\nPrompt:\n\"Actúa como un Analista de Negocios Senior. Analiza mis informes, presentaciones, hojas de cálculo y documentos subidos. Mi objetivo de negocio es [Goal], la industria es [Industry], el desafío actual es [Challenge], y la audiencia es [Audience]. Extrae tendencias, riesgos, oportunidades, información faltante, resúmenes ejecutivos, recomendaciones estratégicas, KPIs y pasos accionables siguientes con evidencia de soporte del material subido.\"\n\n4. Crear Contenido Premium a Partir de Una Fuente\nPrompt:\n\"Actúa como mi Estudio de Contenido de IA. Utilizando el material subido, crea contenido para [X Threads / YouTube / LinkedIn / Newsletter / Instagram / Blog]. Mi audiencia es [Audience], el estilo de escritura es [Tone], el objetivo es [Goal], y la CTA es [CTA]. Genera ideas originales, ganchos virales, ángulos de narración, FAQs, series de contenido, visuales y múltiples formatos de contenido sin perder el significado original.\"\n\n5. Construye un Informe de Investigación de Nivel Experto\nPrompt:\n\"Actúa como mi Director de Investigación. Subiré múltiples documentos sobre [Tema]. Mi objetivo de investigación es [Objetivo], la profundidad requerida es [Básica / Detallada / Experta], la audiencia objetivo es [Audiencia], y el resultado esperado es [Decisión / Informe / Presentación]. Compara fuentes, identifica acuerdos y conflictos, evalúa la calidad de la evidencia, descubre insights ocultos, resume hallazgos clave y produce un informe de investigación profesional con recomendaciones prácticas.\"\n\n6. Prepárame Para Cualquier Examen\nPrompt:\n\"Actúa como mi Entrenador de Preparación para Exámenes. Basado en el material de estudio subido, crea un plan de estudio personalizado para [Exam]. Mi nivel actual de preparación es [Level], el tiempo disponible para estudiar es [Hours], la fecha del examen es [Date], y las áreas débiles son [Weak Topics]. Genera horarios de repaso, preguntas de práctica, exámenes simulados, tarjetas de memoria, ayudas mnemotécnicas, preguntas probables del examen y puntos de control de progreso.\"\n\n7. Construye Mi Presentación Automáticamente\nPrompt:\n\"Actúa como mi Consultor de Presentaciones. Utilizando los documentos subidos, crea una presentación de nivel ejecutivo. Mi audiencia es [Audience], el objetivo de la presentación es [Goal], la duración es [Time], el estilo de habla es [Formal / Casual], y el resultado deseado es [Decision / Approval / Education]. Genera la estructura de las diapositivas, puntos clave de discusión, flujo narrativo, visuales a incluir, notas para el orador y preguntas anticipadas de la audiencia.\"\n\n8. Convertir Notas En Un Sistema Completo\nPrompt:\n\"Actúa como mi Experto en Gestión del Conocimiento. Organiza mis notas subidas en un sistema de aprendizaje conectado. Agrupa ideas similares, construye mapas conceptuales, identifica conocimientos faltantes, recomienda prioridades de aprendizaje, genera planes de revisión, crea resúmenes, explica conceptos difíciles de manera simple y mejora continuamente la base de conocimientos cada vez que suba nuevo material.\"\n\n9. Crear Mi Asistente de Investigación de IA Permanente\nPrompt:\n\"Conviértete en mi Socio de Investigación Permanente de NotebookLM. Cada vez que suba nuevos documentos, conéctalos automáticamente con el conocimiento previo, identifica patrones, detecta inconsistencias, genera mejores preguntas, recomienda direcciones de investigación más profundas, resume qué ha cambiado y mejora continuamente mi base de conocimiento personal basada en mis objetivos a largo plazo [Goals], profesión [Profession] e intereses [Topics].\"",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "audio",
+      "notebooklm",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 530
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-urgente-claude-puede-construirte-un-canal-completo-tiiu4",
+    "type": "prompt",
+    "title": "URGENTE: Claude puede construirte un canal completo de YouTube desde cero como una agencia de creadores",
+    "summary": "Aquí tienes 7 prompts para pasar de cero a monetizado en 90 días: 1/9 1/ Encuentra Tu Nicho \"Analiza los principales nichos de YouTube con alto CPM, baja competencia y fuerte demanda perenne.",
+    "body": "🚨 URGENTE: Claude puede construirte un canal completo de YouTube desde cero como una agencia de creadores trabajando exclusivamente para ti.\nAquí tienes 7 prompts para pasar de cero a monetizado en 90 días: 1/9\n\n1/ Encuentra Tu Nicho\n\"Analiza los principales nichos de YouTube con alto CPM, baja competencia y fuerte demanda perenne. Para cada uno, dame el CPM promedio, qué tan difícil es crear el contenido, vías de monetización más allá de AdSense, y un concepto de canal de 3 palabras que podría lanzar mañana.\"\n\n2/ Construye la Identidad de tu Canal\n\"Estoy iniciando un canal de YouTube sobre [nicho]. Crea una identidad completa para el canal que incluya 5 opciones de nombres, una frase publicitaria, un perfil de audiencia objetivo, 4 pilares de contenido y un ángulo único que me diferencie de todos los demás creadores en este espacio.\"\n\n3/ Planificar 90 días de contenido\n\"Crea un calendario de contenido de 90 días para un nuevo canal de YouTube en [niche]. Incluye 12 títulos de videos optimizados para búsquedas, un horario de subida realista, qué videos priorizar para SEO versus viralidad, y una progresión de contenido que construya autoridad con el tiempo.\"\n\n4/ Escribe el guion\n\"Escribe un guion completo de YouTube para [título del video]. Estructúralo así: un gancho en los primeros 30 segundos diseñado para detener el desplazamiento, agitación del problema, recorrido por la solución, 3 ideas clave, un llamado a la acción y un adelanto para el próximo video.\"\n\n5/ Clava el SEO y la Miniatura\n\"Para el video [título] dame 3 conceptos de miniatura con texto superpuesto, un título de YouTube de menos de 60 caracteres, una descripción completa con marcas de tiempo y palabras clave, 10 etiquetas, y dos variaciones A/B para la miniatura.\"\n\n6/ Construye la Pila de Monetización\n\"Tengo un canal de YouTube en [nicho] con [número] suscriptores. Constrúyeme un plan completo de monetización más allá de AdSense. Incluye oportunidades de afiliados, ideas de productos digitales, una plantilla de propuesta de patrocinio y un imán de leads para hacer crecer una lista de correos.\"\n\n7/ Reutiliza todo\n\"Toma este guion o transcripción de YouTube y conviértelo en un hilo de Threads, una publicación de LinkedIn, 3 ganchos para YouTube Shorts, un boletín por correo electrónico y una descripción de Pinterest. Luego dime qué plataformas priorizar según mi nicho. [pega el guion]\"",
+    "category": "prompts",
+    "subcategory": "marketing",
+    "tags": [
+      "video",
+      "audio",
+      "marketing"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 573
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-adios-capcut-1hw5u",
+    "type": "prompt",
+    "title": "ADIÓS CAPCUT",
+    "summary": "Gemini ahora puede escribir guiones y editar videos completos en minutos. Sin arrastrar líneas de tiempo. Sin cortes manuales. Sin bloqueos creativos. Aquí tienes 7 prompts para hacerlo realidad 🏽 1.",
+    "body": "ADIÓS CAPCUT 👋\nGemini ahora puede escribir guiones y editar videos completos en minutos.\nSin arrastrar líneas de tiempo. Sin cortes manuales. Sin bloqueos creativos.\nAquí tienes 7 prompts para hacerlo realidad 👇🏽\n\n1. El Plano de Edición\nActúa como un editor de video senior con más de 15 años de experiencia en edición de YouTube y documentales. Te proporcionaré una descripción del metraje en bruto—analízalo y crea un plano de edición claro y cronológico que lo transforme en un video pulido con alta retención. Especifica exactamente qué sucede en cada momento, incluyendo cortes, cambios de ritmo, reemplazos de B-roll y ajustes enfocados en la participación. Agrega orientación de audio como señales de música, transiciones y efectos de sonido para apoyar el flujo e impacto. Presenta la salida en una tabla con columnas: Marca de tiempo, Acción de edición o corte, B-roll/Visuales, Audio/SFX y Notas de edición. Manténlo preciso y accionable para que un editor pueda seguirlo paso a paso. Descripción del metraje: [Pega la descripción].\n\n2. Ingeniería Inversa del Estilo\nActúa como un editor de video maestro y analista de estilo visual. Analiza el video de referencia que proporciono y desglosa sus elementos principales de edición, incluyendo el ritmo, las transiciones, la duración de los planos, la corrección de color, el diseño de sonido, la música de fondo, el texto en pantalla y el ritmo visual general. Explica cómo estos elementos trabajan juntos para impulsar el engagement y apoyar la narración. Luego proporciona una guía clara, paso a paso, para recrear este estilo exacto para mi propio concepto de video, incluyendo recomendaciones prácticas para transiciones, temporización, corrección de color y diseño de audio de modo que el resultado final coincida con la misma energía y sensación. Mi concepto de video: [Insert concept]. Video de referencia: [Upload video].\n\n3. Optimización del Flujo del Guion\nActúa como un estratega de retención de contenido especializado en YouTube y videos de formato corto. Revisa el guion y analiza el ritmo, la claridad y el engagement. Identifica puntos débiles donde la energía disminuye, ocurre repetición o la atención del espectador puede desvanecerse, y reescribe el gancho y los primeros 10 segundos para que sean más atractivos y impulsados por la curiosidad. Luego, sugiere técnicas de edición precisas —como cortes rápidos, zooms, subtítulos, efectos de sonido, superposiciones e interrupciones de patrón— con orientación clara sobre dónde aplicarlas para maximizar la retención a lo largo del video. Audiencia objetivo: [Describe la audiencia]. Guion: [Pega el guion].\n\n4. Configuración de Exportación Técnica\nActúa como un supervisor de posproducción responsable de la entrega de calidad de transmisión. Basado en la plataforma y el estilo de contenido que proporcione, recomiende la configuración de exportación óptima para preservar la máxima calidad visual y de audio mientras se minimizan los problemas de compresión. Especifique la resolución ideal, la tasa de fotogramas, el códec, el rango de bitrate, el perfil de color y la configuración de audio, e incluya cualquier guía específica de la plataforma para asegurar que el video se cargue sin problemas y mantenga una calidad nítida después de la compresión. Plataforma: [Insertar plataforma]. Estilo de contenido: [Insertar estilo, p. ej., talking-head, vlog cinematográfico, tutorial].\n\n5. Triaje de Material Bruto\nActúa como un editor de video principal revisando material bruto para una producción profesional. Analiza el material subido e identifica los momentos más valiosos para la edición final, luego organiza tus hallazgos en tres categorías claras: Oro (tomas fuertes, momentos clave o visuales que deben conservarse), Recortes (secciones con silencios muertos, repeticiones, errores o relleno que deben eliminarse) y Pulido (áreas que pueden mejorarse con B-roll, subtítulos, gráficos o diseño de sonido para mejorar el ritmo o ocultar cortes). Incluye marcas de tiempo para cada elemento junto con explicaciones concisas para justificar tus recomendaciones. [Subir video].\n\n6. Revisión Final de Pulido\nActúa como un director creativo revisando un video casi terminado antes de su publicación. Evalúa el video desde la perspectiva de un espectador primerizo y califícalo de 10 en áreas clave: ritmo, balance de audio, claridad visual, gradación de color y narrativa. Luego identifica las tres mejoras de mayor impacto que elevarían notablemente la calidad final. Enfócate solo en cambios críticos y de alto impacto que mejoren la experiencia de visualización general antes de publicar. [Subir video].\n\n7. La auditoría de retención\nActúa como un analista de retención de audiencia especializado en el rendimiento de videos en línea. Revisa el video o guion proporcionado e identifica dónde es más probable que los espectadores pierdan interés o abandonen. Señala marcas de tiempo específicas, explica qué debilita el compromiso y sugiere correcciones dirigidas, como interrupciones de patrón, cortes más ajustados, inserciones de B-roll o ajustes de ritmo para mantener la atención alta. También crea tres ganchos alternativos de alta energía para los primeros 10 segundos, diseñados para maximizar la curiosidad y la retención. [Sube el video o pega el guion].",
+    "category": "prompts",
+    "subcategory": "estudio",
+    "tags": [
+      "video",
+      "audio",
+      "seguridad",
+      "diseno",
+      "llm",
+      "estudio"
+    ],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 601
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-pega-este-prompt-en-opus-5-5-y-haz-ingenieria-inve-dxaqr",
+    "type": "prompt",
+    "title": "Pega este Prompt en Opus 5.5 y haz ingeniería inversa de cualquier cosa de internet en minutos",
+    "summary": "https://x.com/humzaakhalid/status/2110255690560479496 ingenieria_inversa.jpeg",
+    "body": "Pega este Prompt en Opus 5.5 y haz ingeniería inversa de cualquier cosa de internet en minutos.\nhttps://x.com/humzaakhalid/status/2110255690560479496\ningenieria_inversa.jpeg",
+    "url": "https://x.com/humzaakhalid/status/2110255690560479496",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [],
+    "source": {
+      "file": "Prompts.txt",
+      "line": 631
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "prompt-ingenieria-inversa-rea",
+    "type": "prompt",
+    "title": "Prompt de ingeniería inversa con REA (Reverse Engineer Anything)",
+    "summary": "Prompt estructurado en XML para que un agente analice una funcionalidad de una app (binario, Electron, .NET, APK o web) con REA vía MCP, recoja evidencias y la reconstruya con código original y tests.",
+    "body": "<prompt>\n<role>\nAnalista experto en ingeniería inversa con IA: análisis de binarios, arquitectura de aplicaciones, observación en tiempo de ejecución e ingeniería de producto. Tiene acceso a REA (Reverse Engineer Anything) vía MCP para inspeccionar binarios nativos, apps JavaScript/Electron, ensamblados .NET, APKs de Android y webs, y puede escribir y probar código. Basado en evidencias, escéptico con las suposiciones.\n</role>\n\n<objective>\nElegir una app objetivo (herramienta de escritorio, app Electron, web, APK) y una funcionalidad. Trazar cómo funciona hasta el nivel de código con REA, separar comportamiento probado de suposiciones y reconstruir una versión limpia y original de esa funcionalidad para tu propio proyecto, con tests que demuestren que se comporta igual.\n</objective>\n\n<context>\n- REA MCP server (npx rea-agents setup; funciona con Claude Code, Codex, Cursor)\n- Análisis nativo con Hopper, Ghidra o IDA\n- Inspección estática de apps JavaScript/Electron y ensamblados .NET\n- Observación de navegador y capturas de red (HAR)\n- Entorno de programación para implementar y probar la reconstrucción\n</context>\n\n<research_process>\n1. Target Scoping — definir app, funcionalidad y qué significa \"reconstruir\"\n2. Setup & Readiness — instalar REA y elegir el proveedor adecuado\n3. Surface Mapping — módulos, imports, símbolos, strings, rutas e IPC\n4. Feature Tracing — seguir la funcionalidad desde el disparador de UI hasta la lógica\n5. Evidence Collection — pseudocódigo, referencias, rutas de fichero, llamadas de red\n6. Reconstruction — escribir código limpio y original a partir de lo encontrado\n7. Verification — probar tu versión contra la original con casos reales\n8. Final Report — cómo funciona, qué está probado y qué sigue siendo desconocido\n</research_process>\n\n<analysis_requirements>\nPor cada funcionalidad: explicación en una línea, cadena de llamadas completa (fichero, función, dirección), evidencia de cada afirmación, etiqueta de confianza (probado / probable / supuesto), formatos de datos y llamadas de red, casos límite y manejo de errores, e implementación limpia y comentada.\n</analysis_requirements>\n\n<guardrails>\n- Propiedad, autorización y licencias\n- Nunca saltarse licencias, DRM, autenticación o paywalls\n- No extraer secretos, claves ni datos de usuarios\n- El pseudocódigo puede estar mal: verificar antes de confiar\n- Interoperabilidad sí; clonar un producto no\n</guardrails>\n\n<output_format>\n1. Executive Summary  2. Target Profile  3. Feature Trace  4. Evidence Log\n5. Reconstruction  6. Verification Results  7. Build Plan  8. Unknowns & Limits\n</output_format>\n\n<rules>\n- Analiza solo software propio o para el que tengas autorización.\n- Nunca afirmes cómo funciona algo sin evidencia de REA.\n- Separa hechos de interpretaciones y etiqueta las suposiciones.\n- Escribe código original; la salida decompilada es solo referencia.\n- Sé honesto con las limitaciones y lo desconocido.\n</rules>\n\n<starter_prompt>\n\"Understand how [feature] works in [App], show me the evidence, and build a similar feature for my project.\"\nInstalar: npx rea-agents setup · Actualizar: npx rea-agents@latest setup\n</starter_prompt>\n</prompt>",
+    "url": "https://rea.tools",
+    "category": "prompts",
+    "subcategory": "desarrollo",
+    "tags": [
+      "ingenieria-inversa",
+      "mcp",
+      "agentes",
+      "claude-code",
+      "seguridad"
+    ],
+    "image": "images/ingenieria-inversa-prompt.jpeg",
+    "source": {
+      "file": "ingenieria_inversa.jpeg"
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  }
+]

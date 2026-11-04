@@ -1,6 +1,12 @@
 archivos/
 # Ignorar todos los archivos con extensión .md
 AGENTE.md
+INICIO.md
 
 # Excluir README.md (no ignorarlo)
 !README.md
+
+# Node / build
+node_modules/
+dist/
+*.log

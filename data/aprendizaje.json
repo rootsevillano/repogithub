@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "gh-practical-tutorials-project-based-learning",
+    "type": "course",
+    "title": "Aprendizaje Basado en Proyectos",
+    "summary": "Repositorio practical-tutorials/project-based-learning.",
+    "body": "1. Aprendizaje Basado en Proyectos\n   https://github.com/practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "github": {
+      "owner": "practical-tutorials",
+      "repo": "project-based-learning"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 5
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-realpython-python-basics-exercises",
+    "type": "course",
+    "title": "Ejercicios Básicos de Python",
+    "summary": "Repositorio realpython/python-basics-exercises.",
+    "body": "2. Ejercicios Básicos de Python\n   https://github.com/realpython/python-basics-exercises",
+    "url": "https://github.com/realpython/python-basics-exercises",
+    "github": {
+      "owner": "realpython",
+      "repo": "python-basics-exercises"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "python"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 8
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-trekhleb-homemade-machine-learning",
+    "type": "course",
+    "title": "Machine Learning Casero",
+    "summary": "Repositorio trekhleb/homemade-machine-learning.",
+    "body": "3. Machine Learning Casero\n   https://github.com/trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "github": {
+      "owner": "trekhleb",
+      "repo": "homemade-machine-learning"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 11
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-packtpublishing-statistics-for-machine-learning",
+    "type": "course",
+    "title": "Estadística para Machine Learning",
+    "summary": "Repositorio PacktPublishing/Statistics-for-Machine-Learning.",
+    "body": "4. Estadística para Machine Learning\n   https://github.com/PacktPublishing/Statistics-for-Machine-Learning",
+    "url": "https://github.com/PacktPublishing/Statistics-for-Machine-Learning",
+    "github": {
+      "owner": "PacktPublishing",
+      "repo": "Statistics-for-Machine-Learning"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "data-science",
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 14
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-pandas-dev-pandas",
+    "type": "course",
+    "title": "Pandas — convierte datos recolectados en insights.",
+    "summary": "Limpia, transforma y analiza conjuntos de datos tabulares con Python.",
+    "body": "9. Pandas — convierte datos recolectados en insights.\n   Limpia, transforma y analiza conjuntos de datos tabulares con Python.\n\nhttp://github.com/pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "github": {
+      "owner": "pandas-dev",
+      "repo": "pandas"
+    },
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [
+      "python"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 17
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-matplotlib-cheatsheets",
+    "type": "course",
+    "title": "Hojas de Trucos de Matplotlib",
+    "summary": "Repositorio matplotlib/cheatsheets.",
+    "body": "6. Hojas de Trucos de Matplotlib\n   https://github.com/matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "github": {
+      "owner": "matplotlib",
+      "repo": "cheatsheets"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 20
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-josephmisiti-awesome-machine-learning",
+    "type": "course",
+    "title": "Machine Learning Impresionante",
+    "summary": "Repositorio josephmisiti/awesome-machine-learning.",
+    "body": "7. Machine Learning Impresionante\n   https://github.com/josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "github": {
+      "owner": "josephmisiti",
+      "repo": "awesome-machine-learning"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 23
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-ageron-handson-ml3",
+    "type": "course",
+    "title": "Machine Learning Práctico",
+    "summary": "Repositorio ageron/handson-ml3.",
+    "body": "8. Machine Learning Práctico\n   https://github.com/ageron/handson-ml3",
+    "url": "https://github.com/ageron/handson-ml3",
+    "github": {
+      "owner": "ageron",
+      "repo": "handson-ml3"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 26
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-christoschristofidis-awesome-deep-learning",
+    "type": "course",
+    "title": "Deep Learning Impresionante",
+    "summary": "Repositorio ChristosChristofidis/awesome-deep-learning.",
+    "body": "9. Deep Learning Impresionante\n   https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "github": {
+      "owner": "ChristosChristofidis",
+      "repo": "awesome-deep-learning"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 29
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-microsoft-ml-for-beginners",
+    "type": "course",
+    "title": "ML para Principiantes",
+    "summary": "Repositorio microsoft/ML-For-Beginners.",
+    "body": "10. ML para Principiantes\n    https://github.com/microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "github": {
+      "owner": "microsoft",
+      "repo": "ML-For-Beginners"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 32
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-ashishpatel26-500-ai-machine-learning-deep-learning-computer-vision-nl",
+    "type": "course",
+    "title": "+500 Proyectos de IA & ML",
+    "summary": "Repositorio ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.",
+    "body": "11. +500 Proyectos de IA & ML\n    https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "github": {
+      "owner": "ashishpatel26",
+      "repo": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 35
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-allendowney-thinkstats2",
+    "type": "course",
+    "title": "Piensa en Estadística",
+    "summary": "Repositorio AllenDowney/ThinkStats2.",
+    "body": "12. Piensa en Estadística\n    https://github.com/AllenDowney/ThinkStats2",
+    "url": "https://github.com/AllenDowney/ThinkStats2",
+    "github": {
+      "owner": "AllenDowney",
+      "repo": "ThinkStats2"
+    },
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [
+      "data-science"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 38
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-datatalksclub-data-engineering-zoomcamp",
+    "type": "course",
+    "title": "Data Engineering Zoomcamp",
+    "summary": "Repositorio DataTalksClub/data-engineering-zoomcamp.",
+    "body": "13. Data Engineering Zoomcamp\n    https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "github": {
+      "owner": "DataTalksClub",
+      "repo": "data-engineering-zoomcamp"
+    },
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 41
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-lerocha-chinook-database",
+    "type": "course",
+    "title": "Base de Datos SQL Chinook",
+    "summary": "Repositorio lerocha/chinook-database.",
+    "body": "14. Base de Datos SQL Chinook\n    https://github.com/lerocha/chinook-database",
+    "url": "https://github.com/lerocha/chinook-database",
+    "github": {
+      "owner": "lerocha",
+      "repo": "chinook-database"
+    },
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 44
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mrmimic-data-scientist-roadmap",
+    "type": "course",
+    "title": "Hoja de Ruta del Científico de Datos",
+    "summary": "Repositorio MrMimic/data-scientist-roadmap.",
+    "body": "15. Hoja de Ruta del Científico de Datos\n    https://github.com/MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "github": {
+      "owner": "MrMimic",
+      "repo": "data-scientist-roadmap"
+    },
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 47
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-andrewekhalel-mlquestions",
+    "type": "course",
+    "title": "Preguntas de Entrevista para ML & Ciencia de Datos",
+    "summary": "Aprende Python → Estadística → Análisis de Datos → ML → Proyectos. Luego construye un portafolio y comienza a postularte.",
+    "body": "16. Preguntas de Entrevista para ML & Ciencia de Datos\n    https://github.com/andrewekhalel/MLQuestions",
+    "url": "https://github.com/andrewekhalel/MLQuestions",
+    "github": {
+      "owner": "andrewekhalel",
+      "repo": "MLQuestions"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "python",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 50
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-walkinglabs-learn-harness-engineering",
+    "type": "course",
+    "title": "Aprende Ingeniería de Arneses",
+    "summary": "Encontré este excelente curso de código abierto por Walking Labs, que cubre 14 conferencias y 8 proyectos prácticos sobre la construcción de agentes de codificación con IA más confiables.",
+    "body": "Aprende Ingeniería de Arneses 🚀\n\nEncontré este excelente curso de código abierto por Walking Labs, que cubre 14 conferencias y 8 proyectos prácticos sobre la construcción de agentes de codificación con IA más confiables.\n\nQué hay dentro:\n→ Instrucciones para agentes (AGENTS.md / CLAUDE.md)\n→ Gestión de contexto y memoria persistente\n→ Continuidad multi-sesión y seguimiento de estado\n→ Límites de tareas y control de alcance\n→ Pruebas, verificación y observabilidad\n→ Bucles de agentes automatizados y flujos de trabajo\n→ Orquestación multi-agente e ingeniería de grafos\n\nLos proyectos prácticos te guían paso a paso para construir un arnés de agente completo, comparando la ejecución solo con prompts con flujos de trabajo estructurados.\n\nTambién incluye plantillas listas para usar, scripts de verificación y una habilidad de creador de arneses.\n\nPerfecto para desarrolladores que trabajan con Claude Code, Codex y otros agentes de codificación con IA que quieran entender la ingeniería detrás de la ejecución confiable de agentes.\n\nCompletamente gratis.\n\nAquí está el Repositorio de GitHub: https://github.com/walkinglabs/learn-harness-engineering",
+    "url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "github": {
+      "owner": "walkinglabs",
+      "repo": "learn-harness-engineering"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "claude-code",
+      "agentes",
+      "gratis",
+      "open-source",
+      "automatizacion",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 58
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-ejecuta-la-sesion-principal-en-opus-5-5-con-ultrac-1vdzd",
+    "type": "course",
+    "title": "Ejecuta la sesión principal en Opus 5.5 con ultracode activado",
+    "summary": "2. En cada flujo de trabajo, ejecuta etapas de escaneo de solo lectura en el nuevo Haiku 5.5 y etapas de edición en Sonnet 5.5, cada edición en su propia copia aislada 3.",
+    "body": "1. Ejecuta la sesión principal en Opus 5.5 con ultracode activado\n2. En cada flujo de trabajo, ejecuta etapas de escaneo de solo lectura en el nuevo Haiku 5.5 y etapas de edición en Sonnet 5.5, cada edición en su propia copia aislada\n3. Agrega una regla a CLAUDE.md: cada hallazgo obtiene un agente verificador independiente antes de reportarse, y los bucles de corrección se detienen después de dos rondas sin progreso\n4. Enruta forks determinísticos rápidos (elección de herramienta, selección de ruta, reintentos) a través de JEV\nMuéstrame cada cambio como un diff primero, sin ediciones hasta que diga go\"\nhttps://code.claude.com/docs/en/workflows",
+    "url": "https://code.claude.com/docs/en/workflows",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 129
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-introduccion-a-llm-1i4fu",
+    "type": "course",
+    "title": "Introducción a LLM",
+    "summary": "Introducción a LLM",
+    "body": "1. Introducción a LLM — http://youtube.com/watch?v=zjkBMF…",
+    "url": "http://youtube.com/watch?v=zjkBMF",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "llm"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 148
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-llm-desde-cero-ez7o4",
+    "type": "course",
+    "title": "LLM desde Cero",
+    "summary": "LLM desde Cero",
+    "body": "2. LLM desde Cero — http://youtube.com/watch?v=9vM4p9…",
+    "url": "http://youtube.com/watch?v=9vM4p9",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "llm"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 149
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-resumen-de-ia-agentic-stanford-i3u37",
+    "type": "course",
+    "title": "Resumen de IA Agentic (Stanford)",
+    "summary": "Resumen de IA Agentic (Stanford)",
+    "body": "3. Resumen de IA Agentic (Stanford) — http://youtube.com/watch?v=kJLiOG…",
+    "url": "http://youtube.com/watch?v=kJLiOG",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 150
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-y-evaluando-agentes-tip21",
+    "type": "course",
+    "title": "Construyendo y Evaluando Agentes",
+    "summary": "Construyendo y Evaluando Agentes",
+    "body": "4. Construyendo y Evaluando Agentes — http://youtube.com/watch?v=d5EltX…",
+    "url": "http://youtube.com/watch?v=d5EltX",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 151
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-agentes-efectivos-zbccy",
+    "type": "course",
+    "title": "Construyendo Agentes Efectivos",
+    "summary": "Construyendo Agentes Efectivos",
+    "body": "5. Construyendo Agentes Efectivos — http://youtube.com/watch?v=D7_ipD…",
+    "url": "http://youtube.com/watch?v=D7_ipD",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 152
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-agentes-con-mcp-10p5s",
+    "type": "course",
+    "title": "Construyendo Agentes con MCP",
+    "summary": "Construyendo Agentes con MCP",
+    "body": "6. Construyendo Agentes con MCP — http://youtube.com/watch?v=kQmXtr…",
+    "url": "http://youtube.com/watch?v=kQmXtr",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "mcp",
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 153
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-un-agente-desde-cero-zssgj",
+    "type": "course",
+    "title": "Construyendo un Agente desde Cero",
+    "summary": "Construyendo un Agente desde Cero",
+    "body": "7. Construyendo un Agente desde Cero — http://youtube.com/watch?v=xzXdLR…",
+    "url": "http://youtube.com/watch?v=xzXdLR",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 154
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-agentes-philo-6ftld",
+    "type": "course",
+    "title": "Agentes Philo",
+    "summary": "REPOSITORIOS DE GITHUB:",
+    "body": "8. Agentes Philo — http://youtube.com/playlist?list=…\n\nREPOSITORIOS DE GITHUB:",
+    "url": "http://youtube.com/playlist?list=",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 155
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-nirdiamant-gen",
+    "type": "course",
+    "title": "Agentes GenAI",
+    "summary": "Repositorio nirdiamant/Gen.",
+    "body": "1. Agentes GenAI — http://github.com/nirdiamant/Gen…",
+    "url": "https://github.com/nirdiamant/Gen",
+    "github": {
+      "owner": "nirdiamant",
+      "repo": "Gen"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 158
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-microsoft-ai-a",
+    "type": "course",
+    "title": "Agentes de IA de Microsoft para Principiantes",
+    "summary": "Repositorio microsoft/ai-a.",
+    "body": "2. Agentes de IA de Microsoft para Principiantes — http://github.com/microsoft/ai-a…",
+    "url": "https://github.com/microsoft/ai-a",
+    "github": {
+      "owner": "microsoft",
+      "repo": "ai-a"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 159
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-dair-ai-prompt",
+    "type": "course",
+    "title": "Guía de Ingeniería de Prompts",
+    "summary": "Repositorio dair-ai/Prompt.",
+    "body": "3. Guía de Ingeniería de Prompts — http://github.com/dair-ai/Prompt…",
+    "url": "https://github.com/dair-ai/Prompt",
+    "github": {
+      "owner": "dair-ai",
+      "repo": "Prompt"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 160
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-handsonllm-han",
+    "type": "course",
+    "title": "Modelos de Lenguaje Grandes Prácticos",
+    "summary": "Repositorio HandsOnLLM/Han.",
+    "body": "4. Modelos de Lenguaje Grandes Prácticos — http://github.com/HandsOnLLM/Han…",
+    "url": "https://github.com/HandsOnLLM/Han",
+    "github": {
+      "owner": "HandsOnLLM",
+      "repo": "Han"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 161
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-gokumohandas-m",
+    "type": "course",
+    "title": "Hecho con ML",
+    "summary": "Repositorio GokuMohandas/M.",
+    "body": "6. Hecho con ML — http://github.com/GokuMohandas/M…",
+    "url": "https://github.com/GokuMohandas/M",
+    "github": {
+      "owner": "GokuMohandas",
+      "repo": "M"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 163
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sumanth077-han",
+    "type": "course",
+    "title": "Ingeniería de IA Práctica",
+    "summary": "Repositorio Sumanth077/Han.",
+    "body": "7. Ingeniería de IA Práctica — http://github.com/Sumanth077/Han…",
+    "url": "https://github.com/Sumanth077/Han",
+    "github": {
+      "owner": "Sumanth077",
+      "repo": "Han"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 164
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-aishwaryanr-aw",
+    "type": "course",
+    "title": "Guía Impresionante de IA Generativa",
+    "summary": "Repositorio aishwaryanr/aw.",
+    "body": "8. Guía Impresionante de IA Generativa — http://github.com/aishwaryanr/aw…",
+    "url": "https://github.com/aishwaryanr/aw",
+    "github": {
+      "owner": "aishwaryanr",
+      "repo": "aw"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 165
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-chiphuyen-dmls",
+    "type": "course",
+    "title": "Diseñando Sistemas de Aprendizaje Automático",
+    "summary": "Repositorio chiphuyen/dmls.",
+    "body": "9. Diseñando Sistemas de Aprendizaje Automático — http://github.com/chiphuyen/dmls…",
+    "url": "https://github.com/chiphuyen/dmls",
+    "github": {
+      "owner": "chiphuyen",
+      "repo": "dmls"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "machine-learning",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 166
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-microsoft-ml-f",
+    "type": "course",
+    "title": "Aprendizaje Automático para Principiantes",
+    "summary": "Repositorio microsoft/ML-F.",
+    "body": "10. Aprendizaje Automático para Principiantes — http://github.com/microsoft/ML-F…",
+    "url": "https://github.com/microsoft/ML-F",
+    "github": {
+      "owner": "microsoft",
+      "repo": "ML-F"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "machine-learning",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 167
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mlabonne-llm-c",
+    "type": "course",
+    "title": "Curso de LLM",
+    "summary": "GUÍAS:",
+    "body": "11. Curso de LLM — http://github.com/mlabonne/llm-c…\n\nGUÍAS:",
+    "url": "https://github.com/mlabonne/llm-c",
+    "github": {
+      "owner": "mlabonne",
+      "repo": "llm-c"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "llm",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 168
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-libro-blanco-de-agentes-de-google-1r20o",
+    "type": "course",
+    "title": "Libro Blanco de Agentes de Google",
+    "summary": "Libro Blanco de Agentes de Google",
+    "body": "1. Libro Blanco de Agentes de Google — http://kaggle.com/whitepaper-age…",
+    "url": "http://kaggle.com/whitepaper-age",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 171
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-agentes-efectivos-por-anthropic-1mna8",
+    "type": "course",
+    "title": "Construyendo Agentes Efectivos por Anthropic",
+    "summary": "Construyendo Agentes Efectivos por Anthropic",
+    "body": "3. Construyendo Agentes Efectivos por Anthropic — http://anthropic.com/engineering/bu…",
+    "url": "http://anthropic.com/engineering/bu",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "claude-code",
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 173
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-practicas-de-codificacion-agentic-con-claude-code-iir9k",
+    "type": "course",
+    "title": "Prácticas de Codificación Agentic con Claude Code",
+    "summary": "Prácticas de Codificación Agentic con Claude Code",
+    "body": "4. Prácticas de Codificación Agentic con Claude Code — http://code.claude.com/docs/en/best-p…",
+    "url": "http://code.claude.com/docs/en/best-p",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "claude-code",
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 174
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-guia-practica-de-openai-para-construir-agentes-1wt1c",
+    "type": "course",
+    "title": "Guía Práctica de OpenAI para Construir Agentes",
+    "summary": "LIBROS:",
+    "body": "5. Guía Práctica de OpenAI para Construir Agentes — http://cdn.openai.com/business-guide…\n\nLIBROS:",
+    "url": "http://cdn.openai.com/business-guide",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 175
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-entendiendo-el-aprendizaje-profundo-eebkx",
+    "type": "course",
+    "title": "Entendiendo el Aprendizaje Profundo",
+    "summary": "Entendiendo el Aprendizaje Profundo",
+    "body": "1. Entendiendo el Aprendizaje Profundo — http://udlbook.github.io/udlbook/",
+    "url": "http://udlbook.github.io/udlbook/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 178
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-un-llm-desde-cero-hwc3m",
+    "type": "course",
+    "title": "Construyendo un LLM desde Cero",
+    "summary": "Construyendo un LLM desde Cero",
+    "body": "2. Construyendo un LLM desde Cero — http://manning.com/books/build-a-…",
+    "url": "http://manning.com/books/build-a-",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "llm"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 179
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-el-manual-de-ingenieria-de-llm-8xeo5",
+    "type": "course",
+    "title": "El Manual de Ingeniería de LLM",
+    "summary": "El Manual de Ingeniería de LLM",
+    "body": "3. El Manual de Ingeniería de LLM — http://oreilly.com/library/view/l…",
+    "url": "http://oreilly.com/library/view/l",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "llm"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 180
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-agentes-de-ia-la-guia-definitiva-bzaas",
+    "type": "course",
+    "title": "Ingeniería de IA",
+    "summary": "ARTÍCULOS DE INVESTIGACIÓN:",
+    "body": "7. Ingeniería de IA — http://oreilly.com/library/view/a…\n\nARTÍCULOS DE INVESTIGACIÓN:",
+    "url": "http://oreilly.com/library/view/a",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes",
+      "mcp"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 181
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-aplicaciones-con-agentes-de-ia-ct93v",
+    "type": "course",
+    "title": "Construyendo Aplicaciones con Agentes de IA",
+    "summary": "Construyendo Aplicaciones con Agentes de IA",
+    "body": "5. Construyendo Aplicaciones con Agentes de IA — http://oreilly.com/library/view/b…",
+    "url": "http://oreilly.com/library/view/b",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 182
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-react-42mvf",
+    "type": "course",
+    "title": "ReAct",
+    "summary": "ReAct",
+    "body": "1. ReAct — http://arxiv.org/abs/2210.03629",
+    "url": "http://arxiv.org/abs/2210.03629",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "javascript"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 187
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-agentes-generativos-191mv",
+    "type": "course",
+    "title": "Agentes Generativos",
+    "summary": "Agentes Generativos",
+    "body": "2. Agentes Generativos — http://arxiv.org/abs/2304.03442",
+    "url": "http://arxiv.org/abs/2304.03442",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 188
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-toolformer-1lp5v",
+    "type": "course",
+    "title": "Toolformer",
+    "summary": "Toolformer",
+    "body": "3. Toolformer — http://proceedings.neurips.cc/paper_files/pa…",
+    "url": "http://proceedings.neurips.cc/paper_files/pa",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 189
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-prompting-de-cadena-de-pensamiento-b9yj0",
+    "type": "course",
+    "title": "Prompting de Cadena de Pensamiento",
+    "summary": "CURSOS:",
+    "body": "4. Prompting de Cadena de Pensamiento — http://arxiv.org/pdf/2201.11903\n\nCURSOS:",
+    "url": "http://arxiv.org/pdf/2201.11903",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 190
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-curso-de-agentes-de-hugging-face-16wii",
+    "type": "course",
+    "title": "Curso de Agentes de Hugging Face",
+    "summary": "Curso de Agentes de Hugging Face",
+    "body": "1. Curso de Agentes de Hugging Face — http://huggingface.co/learn/agents-c…",
+    "url": "http://huggingface.co/learn/agents-c",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "agentes",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 193
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-mcp-con-anthropic-1pv67",
+    "type": "course",
+    "title": "MCP con Anthropic",
+    "summary": "MCP con Anthropic",
+    "body": "2. MCP con Anthropic — http://deeplearning.ai/courses/mcp-bu…",
+    "url": "http://deeplearning.ai/courses/mcp-bu",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "claude-code",
+      "mcp"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 194
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-construyendo-bases-de-datos-vectoriales-con-pineco-121ug",
+    "type": "course",
+    "title": "Construyendo Bases de Datos Vectoriales con Pinecone",
+    "summary": "Construyendo Bases de Datos Vectoriales con Pinecone",
+    "body": "3. Construyendo Bases de Datos Vectoriales con Pinecone — http://deeplearning.ai/courses/buildi…",
+    "url": "http://deeplearning.ai/courses/buildi",
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [
+      "rag"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 195
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-bases-de-datos-vectoriales-de-embeddings-a-apps-1mk64",
+    "type": "course",
+    "title": "Bases de Datos Vectoriales: De Embeddings a Apps",
+    "summary": "Bases de Datos Vectoriales: De Embeddings a Apps",
+    "body": "4. Bases de Datos Vectoriales: De Embeddings a Apps — http://deeplearning.ai/courses/vector…",
+    "url": "http://deeplearning.ai/courses/vector",
+    "category": "aprendizaje",
+    "subcategory": "data-science",
+    "tags": [
+      "rag"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 196
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-memoria-de-agentes-qz3rh",
+    "type": "course",
+    "title": "Memoria de Agentes",
+    "summary": "Sin búsquedas interminables. Sin sobrecarga de información. Solo recursos que realmente puedes usar. Tu conjunto de habilidades futuras en IA vendrá de construir de manera consistente, experimentar y aprender.",
+    "body": "5. Memoria de Agentes — http://deeplearning.ai/courses/llms-a…\n\nSin búsquedas interminables.\nSin sobrecarga de información.\nSolo recursos que realmente puedes usar. 🔖\n\nTu conjunto de habilidades futuras en IA vendrá de construir de manera consistente, experimentar y aprender.",
+    "url": "http://deeplearning.ai/courses/llms-a",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 197
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-post-en-x-1qw6u",
+    "type": "course",
+    "title": "Post en X",
+    "summary": "Post en X",
+    "body": "https://x.com/0xCodila/status/2109623431763292649",
+    "url": "https://x.com/0xCodila/status/2109623431763292649",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 213
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-walkinglabs-learning-harness-engineering",
+    "type": "course",
+    "title": "Aprende Ingeniería de Harness GRATIS",
+    "summary": "14 conferencias + 8 proyectos prácticos que cubren: Memoria y contexto de agentes Pruebas y verificación Flujos de trabajo multiagente Agentes de codificación de IA confiables",
+    "body": "Aprende Ingeniería de Harness GRATIS 🚀\n\n14 conferencias + 8 proyectos prácticos que cubren:\n→ Memoria y contexto de agentes\n→ Pruebas y verificación\n→ Flujos de trabajo multiagente\n→ Agentes de codificación de IA confiables\n\nGitHub: https://github.com/walkinglabs/learning-harness-engineering",
+    "url": "https://github.com/walkinglabs/learning-harness-engineering",
+    "github": {
+      "owner": "walkinglabs",
+      "repo": "learning-harness-engineering"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "agentes",
+      "gratis",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 219
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-post-en-x-g3h17",
+    "type": "course",
+    "title": "Post en X",
+    "summary": "Post en X",
+    "body": "https://x.com/xmyttle/status/2110736923626979677",
+    "url": "https://x.com/xmyttle/status/2110736923626979677",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 231
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-el4cteo-blender-skills",
+    "type": "course",
+    "title": "Blender Skills",
+    "summary": "20 habilidades de Blender 5.2 que proporcionan a los agentes de IA un flujo de trabajo real de producción en 3D El repositorio cubre toda la tubería: modelado + escultura retopología + UVs materiales PBR + horneado nodos de geometría rigging + animación renderizado exportación a…",
+    "body": "20 habilidades de Blender 5.2 que proporcionan a los agentes de IA un flujo de trabajo real de producción en 3D\n\nEl repositorio cubre toda la tubería:\n> modelado + escultura\n> retopología + UVs\n> materiales PBR + horneado\n> nodos de geometría\n> rigging + animación\n> renderizado\n> exportación a Roblox, Unity, Unreal y Godot\n\nLas habilidades están diseñadas para agentes como Claude Code, Codex, Cursor, Gemini CLI, Copilot y OpenCode.\n\nTambién hay una habilidad de QA que verifica cosas como z-fighting, partes flotantes, normales defectuosas y problemas de UV antes de que un activo se considere terminado.\n\nLa parte útil aquí es que proporciona a los agentes de codificación un proceso repetible en Blender en lugar de obligarlos a improvisar con bpy cada vez.\n\nhttps://github.com/EL4CTEO/blender-skills",
+    "url": "https://github.com/EL4CTEO/blender-skills",
+    "github": {
+      "owner": "EL4CTEO",
+      "repo": "blender-skills"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "claude-code",
+      "agentes",
+      "llm",
+      "linux",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 241
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-google-research-harness2",
+    "type": "course",
+    "title": "Harness2",
+    "summary": "En general, cada uno de ustedes está imaginando esto a su manera.",
+    "body": "En general, cada uno de ustedes está imaginando esto a su manera.\nhttps://github.com/google-research/harness2",
+    "url": "https://github.com/google-research/harness2",
+    "github": {
+      "owner": "google-research",
+      "repo": "harness2"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes",
+      "python"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 265
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-heygen-com-hyperframes",
+    "type": "course",
+    "title": "Crear VÍDEOS con IA sin abrir un editor ya es posible",
+    "summary": "HeyGen ha liberado HyperFrames y es 100% open source Describes el vídeo ➜ la IA lo monta en HTML ➜ lo exporta en MP4 ✓ Transiciones / subtítulos / gráficos ✓ Sin pagar por render ➜",
+    "body": "Crear VÍDEOS con IA sin abrir un editor ya es posible\n\nHeyGen ha liberado HyperFrames y es 100% open source\n\nDescribes el vídeo ➜ la IA lo monta en HTML ➜ lo exporta en MP4\n\n✓ Transiciones / subtítulos / gráficos\n✓ Sin pagar por render\n\n➜ https://github.com/heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "github": {
+      "owner": "heygen-com",
+      "repo": "hyperframes"
+    },
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [
+      "video",
+      "open-source",
+      "automatizacion",
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 272
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-morluto-rea",
+    "type": "course",
+    "title": "Repositorio Oficial de REA",
+    "summary": "Instala: npx rea-agents@latest setup MIRA Y SIGUE EL PASO A PASO:",
+    "body": "1. Repositorio Oficial de REA  https://github.com/morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "github": {
+      "owner": "morluto",
+      "repo": "rea"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes",
+      "mcp",
+      "javascript",
+      "open-source"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 296
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-sitio-web-oficial-de-rea-g0jcp",
+    "type": "course",
+    "title": "Sitio Web Oficial de REA",
+    "summary": "Sitio Web Oficial de REA",
+    "body": "2. Sitio Web Oficial de REA  https://rea.tools",
+    "url": "https://rea.tools",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 297
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-tu-primera-investigacion-de-rea-1289o",
+    "type": "course",
+    "title": "Tu Primera Investigación de REA",
+    "summary": "Tu Primera Investigación de REA",
+    "body": "4. Tu Primera Investigación de REA  https://rea.tools/first-investigation/",
+    "url": "https://rea.tools/first-investigation/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 299
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-guias-de-rea-127qh",
+    "type": "course",
+    "title": "Guías de REA",
+    "summary": "Guías de REA",
+    "body": "5. Guías de REA  https://rea.tools/guides/",
+    "url": "https://rea.tools/guides/",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 300
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-como-usar-rea-para-clonar-cualquier-software-en-mi-chiie",
+    "type": "course",
+    "title": "Cómo Usar REA Para Clonar Cualquier Software En Minutos",
+    "summary": "Cómo Usar REA Para Clonar Cualquier Software En Minutos",
+    "body": "1. Cómo Usar REA Para Clonar Cualquier Software En Minutos — https://youtube.com/watch?v=FnB9tHKBJXQ",
+    "url": "https://youtube.com/watch?v=FnB9tHKBJXQ",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 307
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-tutorial-de-rea-pi-coding-agent-1mdcn",
+    "type": "course",
+    "title": "Tutorial de REA + Pi Coding Agent",
+    "summary": "Tutorial de REA + Pi Coding Agent",
+    "body": "2. Tutorial de REA + Pi Coding Agent  https://datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial",
+    "url": "https://datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 308
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-tutorial-de-ghidra-para-principiantes-1m0rx",
+    "type": "course",
+    "title": "Tutorial de Ghidra para Principiantes",
+    "summary": "Tutorial de Ghidra para Principiantes",
+    "body": "3. Tutorial de Ghidra para Principiantes  https://youtube.com/watch?v=OFAxXXcLXbc",
+    "url": "https://youtube.com/watch?v=OFAxXXcLXbc",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 309
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-frida-para-ingenieria-inversa-en-android-1y82a",
+    "type": "course",
+    "title": "Frida para Ingeniería Inversa en Android",
+    "summary": "Frida para Ingeniería Inversa en Android",
+    "body": "4. Frida para Ingeniería Inversa en Android  https://youtube.com/watch?v=GHh9P-Dyq1w",
+    "url": "https://youtube.com/watch?v=GHh9P-Dyq1w",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 310
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-ingenieria-inversa-dstir",
+    "type": "course",
+    "title": "Ingeniería Inversa",
+    "summary": "Reverse Engineering",
+    "body": "5. http://pwn.college Ingeniería Inversa  https://pwn.college/intro-re-pwn~5933fc84/reversing/",
+    "url": "http://pwn.college",
+    "links": [
+      {
+        "label": "pwn.college",
+        "url": "https://pwn.college/intro-re-pwn~5933fc84/reversing/"
+      },
+      {
+        "label": "pwn.college",
+        "url": "https://pwn.college/reversing-hell/"
+      }
+    ],
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 311
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-malware-unicorn-re101-181hv",
+    "type": "course",
+    "title": "Malware Unicorn RE101",
+    "summary": "INVESTIGACIONES REALES DE REA:",
+    "body": "6. Malware Unicorn RE101 https://malwareunicorn.org/workshops/re101\n\nINVESTIGACIONES REALES DE REA:",
+    "url": "https://malwareunicorn.org/workshops/re101",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "seguridad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 312
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-portapapeles-de-notion-120nr",
+    "type": "course",
+    "title": "Portapapeles de Notion",
+    "summary": "Portapapeles de Notion",
+    "body": "2. Portapapeles de Notion  https://rea.tools/showcase/notion/",
+    "url": "https://rea.tools/showcase/notion/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "productividad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 317
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-reconstruccion-de-dx-ball-1a7kp",
+    "type": "course",
+    "title": "Reconstrucción de DX-Ball",
+    "summary": "Reconstrucción de DX-Ball",
+    "body": "3. Reconstrucción de DX-Ball  https://rea.tools/showcase/dx-ball/",
+    "url": "https://rea.tools/showcase/dx-ball/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 318
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-aegis-apk-g95r4",
+    "type": "course",
+    "title": "Aegis APK",
+    "summary": "Aegis APK",
+    "body": "4. Aegis APK  https://rea.tools/showcase/aegis/",
+    "url": "https://rea.tools/showcase/aegis/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 319
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-patrones-de-balas-de-th04-4q2sg",
+    "type": "course",
+    "title": "Patrones de Balas de TH04",
+    "summary": "REPOSITORIOS DE GITHUB:",
+    "body": "5. Patrones de Balas de TH04  https://rea.tools/showcase/th04/\n\nREPOSITORIOS DE GITHUB:",
+    "url": "https://rea.tools/showcase/th04/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 320
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-morluto-awesome-reverse-engineering",
+    "type": "course",
+    "title": "Awesome Reverse Engineering",
+    "summary": "Repositorio morluto/awesome-reverse-engineering.",
+    "body": "2. Awesome Reverse Engineering  https://github.com/morluto/awesome-reverse-engineering",
+    "url": "https://github.com/morluto/awesome-reverse-engineering",
+    "github": {
+      "owner": "morluto",
+      "repo": "awesome-reverse-engineering"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 325
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sqwu-rea-gems",
+    "type": "course",
+    "title": "REA Gems",
+    "summary": "Repositorio sqwu/rea-gems.",
+    "body": "3. REA Gems  https://github.com/sqwu/rea-gems",
+    "url": "https://github.com/sqwu/rea-gems",
+    "github": {
+      "owner": "sqwu",
+      "repo": "rea-gems"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 326
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-alexgaoth-awesome-reverse-engineered",
+    "type": "course",
+    "title": "Awesome Reverse-Engineered",
+    "summary": "¡joder santo cielo!, alguien acaba de mapear más de 12.000 productos cerrados que puedes ingenierizar inversamente hoy coches, hogares inteligentes, impresoras, clientes de IA, firmware, formatos de archivo y servicios en línea muertos, y la mayoría de los constructores no…",
+    "body": "4. Awesome Reverse-Engineered  https://github.com/alexgaoth/awesome-reverse-engineered",
+    "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+    "github": {
+      "owner": "alexgaoth",
+      "repo": "awesome-reverse-engineered"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes",
+      "llm",
+      "gratis"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 327
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-nationalsecurityagency-ghidra",
+    "type": "course",
+    "title": "⁠ ⁠Ghidra",
+    "summary": "el marco de ingeniería inversa de la NSA para desarmar software compilado e inspeccionar cómo funciona.",
+    "body": "2.⁠ ⁠Ghidra  \nel marco de ingeniería inversa de la NSA para desarmar software compilado e inspeccionar cómo funciona.\n\n⁠ https://github.com/NationalSecurityAgency/ghidra ⁠",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "github": {
+      "owner": "NationalSecurityAgency",
+      "repo": "ghidra"
+    },
+    "category": "aprendizaje",
+    "subcategory": "ciberseguridad",
+    "tags": [
+      "seguridad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 328
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-skylot-jadx",
+    "type": "course",
+    "title": "JADX",
+    "summary": "Repositorio skylot/jadx.",
+    "url": "https://github.com/skylot/jadx",
+    "github": {
+      "owner": "skylot",
+      "repo": "jadx"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 329
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-frida-frida",
+    "type": "course",
+    "title": "Frida",
+    "summary": "Repositorio frida/frida.",
+    "url": "https://github.com/frida/frida",
+    "github": {
+      "owner": "frida",
+      "repo": "frida"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 330
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-icsharpcode-ilspy",
+    "type": "course",
+    "title": "ILSpy",
+    "summary": "Repositorio icsharpcode/ILSpy.",
+    "body": "8. ILSpy  https://github.com/icsharpcode/ILSpy",
+    "url": "https://github.com/icsharpcode/ILSpy",
+    "github": {
+      "owner": "icsharpcode",
+      "repo": "ILSpy"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 331
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-x64dbg-x64dbg",
+    "type": "course",
+    "title": "x64dbg",
+    "summary": "LIBROS:",
+    "body": "9. x64dbg  https://github.com/x64dbg/x64dbg\n\nLIBROS:",
+    "url": "https://github.com/x64dbg/x64dbg",
+    "github": {
+      "owner": "x64dbg",
+      "repo": "x64dbg"
+    },
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 332
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-the-ghidra-book-2nd-edition-1kw2q",
+    "type": "course",
+    "title": "The Ghidra Book, 2nd Edition",
+    "summary": "The Ghidra Book, 2nd Edition",
+    "body": "1. The Ghidra Book, 2nd Edition  https://nostarch.com/ghidra-book-2e",
+    "url": "https://nostarch.com/ghidra-book-2e",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 336
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-reverse-engineering-for-beginners-20w99",
+    "type": "course",
+    "title": "Reverse Engineering for Beginners",
+    "summary": "Reverse Engineering for Beginners",
+    "body": "2. Reverse Engineering for Beginners  https://go.yurichev.com",
+    "url": "https://go.yurichev.com",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 337
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-practical-binary-analysis-1ce7z",
+    "type": "course",
+    "title": "Practical Binary Analysis",
+    "summary": "Practical Binary Analysis",
+    "body": "3. Practical Binary Analysis  https://nostarch.com/binaryanalysis/",
+    "url": "https://nostarch.com/binaryanalysis/",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 338
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-practical-malware-analysis-16vvw",
+    "type": "course",
+    "title": "Practical Malware Analysis",
+    "summary": "Practical Malware Analysis",
+    "body": "4. Practical Malware Analysis  https://nostarch.com/malware",
+    "url": "https://nostarch.com/malware",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "seguridad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 339
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-the-android-malware-handbook-wsjuw",
+    "type": "course",
+    "title": "The Android Malware Handbook",
+    "summary": "The Android Malware Handbook",
+    "body": "5. The Android Malware Handbook https://nostarch.com/androidmalwarehandbook",
+    "url": "https://nostarch.com/androidmalwarehandbook",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "seguridad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 340
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-reversing-secrets-of-reverse-engineering-1ges6",
+    "type": "course",
+    "title": "Reversing: Secrets of Reverse Engineering",
+    "summary": "ARTÍCULOS DE INVESTIGACIÓN:",
+    "body": "6. Reversing: Secrets of Reverse Engineering  https://wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering-p-9780764574818\n\nARTÍCULOS DE INVESTIGACIÓN:",
+    "url": "https://wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering-p-9780764574818",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 341
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-llm4decompile-91br9",
+    "type": "course",
+    "title": "LLM4Decompile",
+    "summary": "LLM4Decompile",
+    "body": "1. LLM4Decompile  https://arxiv.org/abs/2403.05286",
+    "url": "https://arxiv.org/abs/2403.05286",
+    "category": "aprendizaje",
+    "subcategory": "machine-learning",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 345
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-autodecompiler-1n7j6",
+    "type": "course",
+    "title": "AutoDecompiler",
+    "summary": "AutoDecompiler",
+    "body": "2. AutoDecompiler  https://arxiv.org/abs/2606.16162",
+    "url": "https://arxiv.org/abs/2606.16162",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 346
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-salt4decompile-1fmx3",
+    "type": "course",
+    "title": "SALT4Decompile",
+    "summary": "SALT4Decompile",
+    "body": "3. SALT4Decompile  https://arxiv.org/abs/2509.14646",
+    "url": "https://arxiv.org/abs/2509.14646",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 347
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-decomperson-6qnbc",
+    "type": "course",
+    "title": "Decomperson",
+    "summary": "Decomperson",
+    "body": "4. Decomperson  https://usenix.org/conference/usenixsecurity22/presentation/burk",
+    "url": "https://usenix.org/conference/usenixsecurity22/presentation/burk",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 348
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-dirty-r62yr",
+    "type": "course",
+    "title": "DIRTY",
+    "summary": "DIRTY",
+    "body": "5. DIRTY  https://usenix.org/system/files/sec22-chen-qibin.pdf",
+    "url": "https://usenix.org/system/files/sec22-chen-qibin.pdf",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 349
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-automatically-attacking-software-re-agents-1yxz2",
+    "type": "course",
+    "title": "Automatically Attacking Software RE Agents",
+    "summary": "Automatically Attacking Software RE Agents",
+    "body": "6. Automatically Attacking Software RE Agents  https://arxiv.org/abs/2605.30667",
+    "url": "https://arxiv.org/abs/2605.30667",
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 350
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-does-reverse-engineering-need-a-bigger-model-1d9zf",
+    "type": "course",
+    "title": "Does Reverse Engineering Need a Bigger Model?",
+    "summary": "CURSOS GRATUITOS Y PRÁCTICA:",
+    "body": "7. Does Reverse Engineering Need a Bigger Model?  https://rea.tools/blog/reverse-engineering-models/\n\nCURSOS GRATUITOS Y PRÁCTICA:",
+    "url": "https://rea.tools/blog/reverse-engineering-models/",
+    "category": "aprendizaje",
+    "subcategory": "cursos-libros",
+    "tags": [
+      "gratis",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 351
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-opensecuritytraining2-x86-64-assembly-7p71s",
+    "type": "course",
+    "title": "OpenSecurityTraining2: x86-64 Assembly",
+    "summary": "OpenSecurityTraining2: x86-64 Assembly",
+    "body": "1. OpenSecurityTraining2: x86-64 Assembly  https://p.ost2.fyi/courses/course-v1%3AOpenSecurityTraining2%2BArch1001_x86-64_Asm%2B2021_v1/about",
+    "url": "https://p.ost2.fyi/courses/course-v1%3AOpenSecurityTraining2%2BArch1001_x86-64_Asm%2B2021_v1/about",
+    "category": "aprendizaje",
+    "subcategory": "ciberseguridad",
+    "tags": [
+      "seguridad"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 355
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-guyinatuxedo-nightmare",
+    "type": "course",
+    "title": "Nightmare",
+    "summary": "Repositorio guyinatuxedo/nightmare.",
+    "body": "5. Nightmare https://github.com/guyinatuxedo/nightmare",
+    "url": "https://github.com/guyinatuxedo/nightmare",
+    "github": {
+      "owner": "guyinatuxedo",
+      "repo": "nightmare"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 359
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-rpisec-mbe",
+    "type": "course",
+    "title": "RPISEC Modern Binary Exploitation",
+    "summary": "Repositorio RPISEC/MBE.",
+    "body": "6. RPISEC Modern Binary Exploitation  https://github.com/RPISEC/MBE",
+    "url": "https://github.com/RPISEC/MBE",
+    "github": {
+      "owner": "RPISEC",
+      "repo": "MBE"
+    },
+    "category": "aprendizaje",
+    "subcategory": "programacion",
+    "tags": [],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 360
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "course-owasp-mobile-application-security-1s736",
+    "type": "course",
+    "title": "OWASP Mobile Application Security",
+    "summary": "MEJOR ORDEN PARA APRENDER: instala REA → Exportación de Notas → Notion → binario CTF → Aegis APK → DX-Ball → luego Ghidra, ensamblador y artículos",
+    "body": "7. OWASP Mobile Application Security  https://mas.owasp.org\n\nMEJOR ORDEN PARA APRENDER:\n\ninstala REA → Exportación de Notas → Notion → binario CTF → Aegis APK → DX-Ball → luego Ghidra, ensamblador y artículos",
+    "url": "https://mas.owasp.org",
+    "category": "aprendizaje",
+    "subcategory": "ciberseguridad",
+    "tags": [
+      "seguridad",
+      "productividad",
+      "estudio"
+    ],
+    "source": {
+      "file": "Repositorios de conocimientos.txt",
+      "line": 361
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  }
+]

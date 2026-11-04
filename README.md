@@ -22,13 +22,36 @@ Portal web dinámico y base de conocimiento técnico para la recopilación, cate
 
 ```text
 repogithub/
-├── archivos/              # Archivos de origen (.txt, .jpeg)
-├── public/                # Recursos estáticos e imágenes procesadas
+├── archivos/              # Fuentes originales .txt/.jpeg (no se suben a git)
+├── data/                  # Datos normalizados: un JSON por categoría (fuente de verdad)
+├── public/images/         # Imágenes vinculadas a entradas
+├── scripts/               # ingest.ts (txt → JSON), curated.ts, validate.ts
 ├── src/
-│   ├── assets/            # Estilos y recursos gráficos
-│   ├── components/        # Componentes de UI (Cards, Feed, Search, Editor)
-│   ├── data/              # Datos normalizados (JSON / Content Collections)
-│   └── views/             # Vistas de la aplicación
+│   ├── components/        # EntryCard
+│   ├── lib/               # Esquema (zod), carga de datos, búsqueda
+│   └── views/             # Feed, ficha de detalle, editor
+├── vite-plugin-admin.ts   # API de edición local (sólo en dev)
 ├── MEMORY.md              # Registro de arquitectura, decisiones y estado del proyecto
 ├── package.json
 └── README.md
+```
+
+---
+
+## 🚀 Uso
+
+```bash
+npm install
+npm run dev        # http://127.0.0.1:5173 · incluye el panel de edición local
+```
+
+| Script | Qué hace |
+|---|---|
+| `npm run dev` | Servidor local con edición (botones «+ Nueva» / «✎ Editar»; guarda en `data/*.json`) |
+| `npm run ingest` | Reimporta `archivos/*.txt` → `data/*.json` (no toca entradas editadas a mano) |
+| `npm run validate` | Valida `data/*.json` contra el esquema |
+| `npm run build` | Genera el sitio estático en `dist/` |
+
+**Publicación:** cada push a `main` despliega en GitHub Pages (`.github/workflows/deploy.yml`). Activa *Settings → Pages → Source: GitHub Actions*. En la versión publicada, «Editar en GitHub» abre el JSON correspondiente.
+
+Detalles de arquitectura, esquema y estado: [`MEMORY.md`](MEMORY.md).

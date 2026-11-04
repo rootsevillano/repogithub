@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "tool-blog-elhacker-net-bwj1d",
+    "type": "tool",
+    "title": "blog.elhacker.net",
+    "summary": "OWASP CVE Lite CLI: nueva herramienta de escaneo de vulnerabilidades CVE Lite CLI es un escáner de vulnerabilidades gratuito y de código abierto, reconocido oficialmente como un proyecto de la incubadora de OWASP",
+    "body": "OWASP CVE Lite CLI: nueva herramienta de escaneo de vulnerabilidades\nCVE Lite CLI es un escáner de vulnerabilidades gratuito y de código abierto, reconocido oficialmente como un proyecto de la incubadora de OWASP\nhttps://blog.elhacker.net/2026/06/owasp-cve-lite-cli-nueva-herramienta-de.html\nhttps://cybersecuritynews.com/owasp-cve-lite-cli-tool/",
+    "url": "https://blog.elhacker.net/2026/06/owasp-cve-lite-cli-nueva-herramienta-de.html",
+    "links": [
+      {
+        "label": "cybersecuritynews.com",
+        "url": "https://cybersecuritynews.com/owasp-cve-lite-cli-tool/"
+      }
+    ],
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "seguridad",
+      "linux",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 4
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-radarr-1do4k",
+    "type": "note",
+    "title": "radarr,",
+    "summary": "sonarr, prowlarr, seerr. conecta a tu instancia de radarr, sonarr y jellyfin/plex y te va mostrando que nuevos lanzamientos hay por categoria, plataforma y vos ahi haces el request. Tambien tiene la busqueda unificada para series, peliculas y anime.",
+    "body": "radarr, \nsonarr, \nprowlarr, \nseerr.\n\nconecta a tu instancia de \nradarr, \nsonarr y \njellyfin/plex y te va mostrando que nuevos lanzamientos hay por categoria, plataforma y vos ahi haces el request. Tambien tiene la busqueda unificada para series, peliculas y anime.\nEse request despues lo pasa por detras a quien corresponda.\nLo bueno es que podes hacerle una cuenta a tu se?ora o con quien compartas y pueden hacer requests que podes dejar aprobados automaticamente o que despues vos aprobas para que pasen y se bajen automaticamente.\nA nosotros en casa lo que mas nos sirve es que nos va diciendo que nuevos lanzamientos hay y buscar cosas para ver por plataforma.\nProwlarr es basicamente jackett pero para el arr stack (conecta a \nlidarr y \nreadarr tambien).\nhttps://x.com/PeladoNerd/status/2062891899979960589",
+    "url": "https://x.com/PeladoNerd/status/2062891899979960589",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "self-hosted"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 15
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-gitmind-com-1ie5c",
+    "type": "tool",
+    "title": "Gitmind.com",
+    "summary": "Convierte documentos y videos de YouTube en mapa mental",
+    "url": "https://Gitmind.com/es/",
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 36
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-beautiful-ai-d7l6s",
+    "type": "tool",
+    "title": "beautiful.ai",
+    "summary": "Crea presentaciones con dise?o profesional usando IA",
+    "url": "http://Beautiful.ai",
+    "category": "herramientas",
+    "subcategory": "diseno",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 37
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-openlibrary-org-zh0pm",
+    "type": "tool",
+    "title": "openlibrary.org",
+    "summary": "Descarga libros y textos en idiomas extranjeros",
+    "url": "http://Openlibrary.org",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 38
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-reccloud-com-13zur",
+    "type": "tool",
+    "title": "Reccloud.com",
+    "summary": "Transcribe grabaciones a texto al instante",
+    "url": "https://Reccloud.com/es/",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "audio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 39
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-neal-fun-4a1zm",
+    "type": "tool",
+    "title": "neal.fun",
+    "summary": "Mini juegos para desconectar un rato",
+    "url": "http://Neal.fun",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 40
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-marketing-hf3cm",
+    "type": "tool",
+    "title": "Marketing",
+    "summary": "Jasper Copy ai Beehiiv Typefully MakeUGC Surfer SEO Video",
+    "body": "6. Marketing\n\n- Jasper\n- Copy ai\n- Beehiiv\n- Typefully\n- MakeUGC\n- Surfer SEO\n\nVideo\nhttps://www.blackmagicdesign.com/es/products/davinciresolve",
+    "url": "https://www.blackmagicdesign.com/es/products/davinciresolve",
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 94
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-asesor-de-bots-o5ik9",
+    "type": "note",
+    "title": "Asesor de bots",
+    "summary": "El metabot. Su única función es crear y gestionar todos tus demás bots. Te entrevista, diseña instrucciones, horarios y conexiones, y mantiene una lista actualizada. Nunca borra nada sin tu permiso. Ideal para iniciar y ampliar tu flota.",
+    "body": "1. Asesor de bots\nEl metabot. Su única función es crear y gestionar todos tus demás bots. Te entrevista, diseña instrucciones, horarios y conexiones, y mantiene una lista actualizada. Nunca borra nada sin tu permiso.\nIdeal para iniciar y ampliar tu flota.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí cuya única función sea crear y administrar mis otros bots. Configúralo: cuando describa algo que quiero automatizar, me entrevistará, redactará las instrucciones, el cronograma y las conexiones del nuevo bot, y lo creará; cuando un bot existente sea ruidoso o no cumpla con su objetivo, ajustará las instrucciones; y mantendrá un registro de lo que ejecuto y para qué sirve cada bot. Nunca eliminará un bot sin mi autorización. Pregúntame qué bots ya tengo y qué intento obtener de ellos, que diseñe su primer bot conmigo y luego lo guarde.\n\nBasado en este tuit de@petergyang:https://x.com/petergyang/status/2089401696946634801",
+    "url": "https://x.com/petergyang/status/2089401696946634801",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "automatizacion"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 116
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-jefe-de-gabinete-xiiej",
+    "type": "note",
+    "title": "Jefe de Gabinete",
+    "summary": "Él es quien prioriza todo. Canaliza el trabajo hacia los bots especializados, mantiene una lista actualizada de los proyectos en curso y te envía un informe diario sobre las decisiones humanas pendientes. Conecta Slack + Notion + Linear.",
+    "body": "2. Jefe de Gabinete\nÉl es quien prioriza todo. Canaliza el trabajo hacia los bots especializados, mantiene una lista actualizada de los proyectos en curso y te envía un informe diario sobre las decisiones humanas pendientes.\nConecta Slack + Notion + Linear.\nIndicación (copiar y pegar):\nCrea un nuevo bot para que actúe como mi jefe de gabinete, siempre activo. Guíame para conectar Slack, Notion y Linear, y luego configúralo: todo te llegará primero, dirige el trabajo al bot especializado adecuado, mantén una lista actualizada de las tareas en curso y publica un recordatorio diario sobre lo que requiere una decisión humana. Pregúntame qué bots especializados ya utilizo y en qué canal debo publicar, y luego guarda la configuración.\n\nBasado en este tuit de@ericzakariasson:https://x.com/ericzakariasson/status/2087258914060664902\n3. SEO Improver\nCada dos semanas revisa las páginas que pierden impresiones o que se encuentran en la página 2, reescribe los títulos y la metaetiqueta, corrige los enlaces internos y abre una solicitud de extracción para que la revises.\nGitHub + DataForSEO + Search Console.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí. Explícame cómo conectar GitHub, DataForSEO y Google Search Console, y luego prográmalo cada dos semanas: busca páginas que pierden impresiones o que aparecen en la segunda página, reescribe los títulos y metadatos, corrige los enlaces internos y abre una solicitud de extracción que revisaré antes de fusionarla. Pídeme el repositorio y el directorio de contenido, haz una prueba y luego guarda la programación.\n\nBasado en este tuit Aportado por@elie2222\n4. Informe diario\nDe lunes a viernes a las 7 de la mañana, te envía un mensaje con tus llamadas en orden, con quién te vas a reunir y por qué, cualquier cambio ocurrido durante la noche y lo único que necesitas preparar.\nCalendario de Google + Slack.\nIndicación (copiar y pegar):\nConfigúrame un nuevo bot. Explícame cómo conectar mi Calendario de Google y Slack, luego prográmalo para que se ejecute todos los días laborables a las 7:00 a. m. y me envíe un mensaje: mis llamadas en orden, con quién me reuniré y por qué, cualquier cambio durante la noche y lo único que debo preparar. Pregúntame lo que necesites, muéstrame una prueba y luego guárdalo como un bot que pueda editar más tarde.\n\nBasado en este tuit Aportado por@elie2222:",
+    "url": "https://x.com/ericzakariasson/status/2087258914060664902",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "productividad",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 123
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-coach-de-crecimiento-de-cuentas-113c5",
+    "type": "note",
+    "title": "Coach de crecimiento de cuentas",
+    "summary": "Analiza tu nicho y tus publicaciones recientes en X, propone un calendario constante de contenido original, identifica cuentas más importantes con las que interactuar de forma genuina y te indica en qué debes centrarte. Solo X.",
+    "body": "7. Coach de crecimiento de cuentas\nAnaliza tu nicho y tus publicaciones recientes en X, propone un calendario constante de contenido original, identifica cuentas más importantes con las que interactuar de forma genuina y te indica en qué debes centrarte.\nSolo X.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí que pueda activar para el crecimiento de la cuenta, en su propio chat dedicado. Guíame para conectar X y luego configúralo: revisa mi nicho y mis publicaciones recientes, sugiere un calendario constante de ideas originales, imágenes y preguntas que generen respuestas, identifica cuentas más grandes relevantes con las que interactuar de forma genuina, realiza un seguimiento de qué temas y formatos funcionan y recomienda en qué centrarme. Pregúntame sobre mi tema principal, audiencia, tono, frecuencia de publicación y límites de interacción, redacta el primer borrador de publicaciones y respuestas para mi aprobación antes de publicar nada, y luego guárdalo para una revisión semanal de planificación.\n\nBasado en este tuit de@ElonMusk:https://x.com/elonmusk/status/2089719862880780588",
+    "url": "https://x.com/elonmusk/status/2089719862880780588",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 158
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-estratega-x-1nn70",
+    "type": "note",
+    "title": "Estratega X",
+    "summary": "Piensa a largo plazo en X. Analiza las interacciones, te dice con quién vale la pena entablar relaciones reales, qué temas de contenido se ajustan a tu experiencia y las oportunidades que de otro modo te perderías. Solo ofrece consejos; nunca publica ni responde por ti.",
+    "body": "8. Estratega X\nPiensa a largo plazo en X. Analiza las interacciones, te dice con quién vale la pena entablar relaciones reales, qué temas de contenido se ajustan a tu experiencia y las oportunidades que de otro modo te perderías.\nSolo ofrece consejos; nunca publica ni responde por ti.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí que piense a largo plazo en X, independiente de mis bots de respuesta y artículos. Guíame para conectar X y luego configúralo: observa mis interacciones y las cuentas a mi alrededor e informa sobre a quién vale la pena prestar más atención, cómo convertir interacciones casuales en relaciones reales, qué temas de contenido se ajustan a mi perfil y oportunidades que de otro modo me perdería. Solo me aconseja; nunca responde ni publica por mí. Pregúntame sobre mi perfil y qué espero de X, envíame un memorándum estratégico para que pueda ver si me muestra personas que habría pasado por alto y luego guárdalo.\n\nBasado en este tuit de@kevinace:https://x.com/kevinace/status/2089074419175977004",
+    "url": "https://x.com/kevinace/status/2089074419175977004",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 165
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-recopilador-de-contexto-de-marketing-z2f42",
+    "type": "note",
+    "title": "Recopilador de contexto de marketing",
+    "summary": "Crea y mantiene un resumen completo y dinámico de todas tus actividades de marketing: productos, posicionamiento, público objetivo, tono de marca, campañas anteriores, métricas, comentarios de ventas… actualizado automáticamente.",
+    "body": "9. Recopilador de contexto de marketing\nCrea y mantiene un resumen completo y dinámico de todas tus actividades de marketing: productos, posicionamiento, público objetivo, tono de marca, campañas anteriores, métricas, comentarios de ventas… actualizado automáticamente.\nGmail + Slack + Notion + GA + HubSpot + Google Ads.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí en su propio chat dedicado que cree un resumen de contexto completo y actualizado para mis decisiones de marketing. Guíame para conectar Gmail, Slack, Notion, Google Analytics, HubSpot y Google Ads, luego configúralo para recopilar y organizar los antecedentes de mi empresa, productos, posicionamiento, clientes, audiencias, objetivos, ofertas, voz de marca, campañas anteriores, datos de rendimiento, comentarios de ventas, restricciones y experimentos activos de esas fuentes, señalando lagunas o información contradictoria, y manteniendo el contexto actualizado con datos en tiempo real según un cronograma que yo elija. Pregúntame qué fuentes y detalles comerciales son autorizados, qué información es sensible, qué métricas y canales son más importantes, con qué frecuencia actualizar y qué decisiones quiero que el contexto respalde. Realiza una primera recopilación supervisada y permíteme revisar y corregir el resumen de contexto resultante antes de guardarlo, luego guárdalo como un bot.\n\nBasado en este tuit de@codyschneider:https://x.com/codyschneider/status/2089759262171967951",
+    "url": "https://x.com/codyschneider/status/2089759262171967951",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "audio",
+      "data-science",
+      "productividad",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 172
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-primer-oficial-x968b",
+    "type": "note",
+    "title": "Primer oficial",
+    "summary": "El único bot con el que te comunicas. Gestiona las solicitudes sencillas por sí mismo y delega las más complejas a otros bots o agentes (Cursor, etc.), supervisa, verifica y te envía todas las actualizaciones y la respuesta final en un lenguaje claro. El orquestador supremo.",
+    "body": "10. Primer oficial\nEl único bot con el que te comunicas. Gestiona las solicitudes sencillas por sí mismo y delega las más complejas a otros bots o agentes (Cursor, etc.), supervisa, verifica y te envía todas las actualizaciones y la respuesta final en un lenguaje claro.\nEl orquestador supremo.\nIndicación (copiar y pegar):\nConfigura un nuevo bot para mí llamado Firstmate en su propio chat dedicado, el único agente con el que hablo. Guíame en la configuración en Grok y la conexión de Cursor Cloud Agents para el trabajo de desarrollo delegado, luego configúralo: maneja tú mismo las solicitudes simples cuando toman una sola llamada de herramienta, y envía cualquier cosa más grande a un bot compañero de equipo apropiado o agente nativo, supervisa el trabajo, verifica el resultado y envíame cada actualización y respuesta final en lenguaje claro. Mantén un registro de las tareas delegadas, recupérate de forma transparente cuando un agente o herramienta falle, y mejora continuamente el flujo de trabajo de delegación a partir de mis comentarios. Pregúntame qué tipos de trabajo quiero que se manejen directamente, qué se debe delegar, qué compañeros de equipo o herramientas están disponibles y qué controles de calidad son importantes, ejecuta una pequeña delegación supervisada como prueba, luego guárdala.\n\nBasado en este tuit de@kunchenguid:https://x.com/kunchenguid/status/2089792928092963234\nCómo funcionan realmente estas \"habilidades\" de Grok Bot\nSe trata de indicaciones que Grok Bot carga progresivamente. Cada una es un archivo Markdown con instrucciones e integraciones. Grok Bot tiene su propio servidor en la nube, inicia sesión en tus herramientas como si fueras un humano y funciona de forma autónoma (con tu aprobación en los pasos críticos).\nPuedes instalarlos de dos maneras:\nCopia la indicación anterior y pégala en@Bot.\nCombinaciones que ofrecen resultados a nivel de agencia.\nProyecto web/de marketing completo ? Recopilador de contexto de marketing + Optimizador SEO + Entrenador de crecimiento de cuentas + Estratega X\nOperaciones de la empresa ? Jefe de Gabinete + Alerta Temprana de Rotación de Clientes + Informe Diario\nProductividad personal extrema ? Bot Advisor + Bandeja de entrada Marie Kondo + Firstmate\nFlota completa ? Bot Advisor + Bot Fleet Auditor + todo lo demás\nBuenas prácticas (agosto de 2026)\nSiempre empieza con Bot Advisor . Es la meta-habilidad más poderosa.\nCombina varios bots en el mismo hilo para que colaboren.\nUtiliza horarios (diarios, semanales) y deja que funcionen mientras duermes.\nSolicita siempre ensayos generales y la aprobación humana en los primeros ciclos.\nEl verdadero poder se manifiesta cuando se tienen entre 5 y 10 robots trabajando en paralelo.\nLimitaciones honestas\nPara obtener el mejor rendimiento, se requieren planes de pago de Grok Bot (que incluyen su propia máquina).\nLas indicaciones oficiales y de la comunidad son estables, pero aún se encuentra en fase beta temprana.\nLos proyectos críticos aún requieren supervisión humana.\nEl cuello de botella se desplaza de las \"indicaciones para la redacción\" a la \"calidad del sistema + memoria + herramientas\".\nRecursos oficiales\nPágina oficial de Grok Bot:x.ai/bot\nAPI pública para consultar todos los bots\nEstas 10 indicaciones (y las más de 150 que hay en el directorio) convierten@Boten algo que otros aún no pueden imaginar.\nPruébalo hoy mismo y verás la diferencia.\nSi deseas combinaciones más específicas o un paquete personalizado para tu caso de uso (agencia, SaaS, personal, etc.), solo dímelo y lo prepararé.",
+    "url": "https://x.com/kunchenguid/status/2089792928092963234",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "agentes",
+      "llm",
+      "productividad",
+      "marketing",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 179
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-y0oshi-project-eyes-on",
+    "type": "repo",
+    "title": "Project Eyes On",
+    "summary": "Localiza cámaras IP abiertas en todo el mundo mediante el raspado combinado de directorios y dorking de la deep web con verificación de transmisiones en vivo y enriquecimiento de GeoIP.",
+    "body": "Localiza cámaras IP abiertas en todo el mundo mediante el raspado combinado de directorios y dorking de la deep web con verificación de transmisiones en vivo y enriquecimiento de GeoIP.\nhttps://github.com/Y0oshi/Project-Eyes-On",
+    "url": "https://github.com/Y0oshi/Project-Eyes-On",
+    "github": {
+      "owner": "Y0oshi",
+      "repo": "Project-Eyes-On"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 231
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sztheory-exifcleaner",
+    "type": "repo",
+    "title": "Exifcleaner",
+    "summary": "Antes de compartir una imagen o un video, es posible que tu información esté oculta dentro del archivo. ExifCleaner elimina los datos EXIF y los metadatos con facilidad, y permite procesar cientos de archivos de una sola vez, funcionando localmente en Mac, Windows y Linux.",
+    "body": "Antes de compartir una imagen o un video, es posible que tu información esté oculta dentro del archivo.\nExifCleaner elimina los datos EXIF y los metadatos con facilidad, y permite procesar cientos de archivos de una sola vez, funcionando localmente en Mac, Windows y Linux.\nDe código abierto y gratuito.\nhttps://github.com/szTheory/exifcleaner",
+    "url": "https://github.com/szTheory/exifcleaner",
+    "github": {
+      "owner": "szTheory",
+      "repo": "exifcleaner"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "linux",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 237
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-bagelhole-devops-security-agent-skills",
+    "type": "repo",
+    "title": "DevOps Security Agent Skills",
+    "summary": "Instala más de 160 habilidades listas para producción para Claude Code, Cursor y Codex, que abarcan DevOps, seguridad e infraestructura.",
+    "body": "Instala más de 160 habilidades listas para producción para Claude Code, Cursor y Codex, que abarcan DevOps, seguridad e infraestructura.\nhttps://github.com/BagelHole/DevOps-Security-Agent-Skills",
+    "url": "https://github.com/BagelHole/DevOps-Security-Agent-Skills",
+    "github": {
+      "owner": "BagelHole",
+      "repo": "DevOps-Security-Agent-Skills"
+    },
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "claude-code",
+      "agentes",
+      "seguridad",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 245
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mutonby-openshorts",
+    "type": "repo",
+    "title": "Openshorts",
+    "summary": "¡¿Qué es esto?! OpenShorts convierte un solo prompt en videos de YouTube Shorts y TikTok listos para usar, con: Locución de voz Subtítulos animados Montaje completo Gratis Y lo más potente: ? Sin suscripciones ? Sin marcas de agua ? Código abierto completo Un solo prompt ? Video…",
+    "body": "?? ¡¿Qué es esto?! ????\nOpenShorts convierte un solo prompt en videos de YouTube Shorts y TikTok listos para usar, con:\n??? Locución de voz\n?? Subtítulos animados\n?? Montaje completo\n?? Gratis\nY lo más potente:\n? Sin suscripciones\n? Sin marcas de agua\n? Código abierto completo\nUn solo prompt ? Video listo para publicar.\nhttps://github.com/mutonby/openshorts",
+    "url": "https://github.com/mutonby/openshorts",
+    "github": {
+      "owner": "mutonby",
+      "repo": "openshorts"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "audio",
+      "gratis",
+      "open-source",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 250
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-webadderallorg-recordly",
+    "type": "repo",
+    "title": "Recordly — el estudio de pantalla gratuito.",
+    "summary": "Grabador de pantalla de código abierto con autozoom, cursor suave, superposición de webcam, fondos estilizados y demos pulidos sin un editor de video. (AGPL-3.0)",
+    "body": "1. Recordly — el estudio de pantalla gratuito.\n   Grabador de pantalla de código abierto con autozoom, cursor suave, superposición de webcam, fondos estilizados y demos pulidos sin un editor de video. (AGPL-3.0)\n   https://github.com/webadderallorg/Recordly",
+    "url": "https://github.com/webadderallorg/Recordly",
+    "github": {
+      "owner": "webadderallorg",
+      "repo": "Recordly"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "gratis",
+      "open-source",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 287
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-diolinux-photogimp",
+    "type": "repo",
+    "title": "PhotoGIMP — convierte GIMP en Photoshop.",
+    "summary": "Atajos de Photoshop, diseño y pantalla de inicio parcheados sobre GIMP 3+.",
+    "body": "3. PhotoGIMP — convierte GIMP en Photoshop.\n   Atajos de Photoshop, diseño y pantalla de inicio parcheados sobre GIMP 3+.\n   https://github.com/Diolinux/PhotoGIMP",
+    "url": "https://github.com/Diolinux/PhotoGIMP",
+    "github": {
+      "owner": "Diolinux",
+      "repo": "PhotoGIMP"
+    },
+    "category": "herramientas",
+    "subcategory": "diseno",
+    "tags": [
+      "diseno",
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 295
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-lfnovo-open-notebook",
+    "type": "repo",
+    "title": "Open Notebook — NotebookLM autoalojado.",
+    "summary": "Arrastra PDFs, URLs y enlaces de YouTube. Chatea con ellos, resúmelos e incluso genera podcasts. Soporta 18+ proveedores de IA. (MIT)",
+    "body": "4. Open Notebook — NotebookLM autoalojado.\n   Arrastra PDFs, URLs y enlaces de YouTube. Chatea con ellos, resúmelos e incluso genera podcasts. Soporta 18+ proveedores de IA. (MIT)\n   https://github.com/lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "github": {
+      "owner": "lfnovo",
+      "repo": "open-notebook"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "audio",
+      "self-hosted",
+      "notebooklm"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 299
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-odysseus-dev-odysseus",
+    "type": "repo",
+    "title": "Odysseus",
+    "summary": "Chat, agentes, investigación profunda, documentos, correo electrónico, memoria y más. Primero local, tu hardware, tus datos. (MIT)",
+    "body": "5. Odysseus — el espacio de trabajo de IA autoalojado de PewDiePie.\n   Chat, agentes, investigación profunda, documentos, correo electrónico, memoria y más. Primero local, tu hardware, tus datos. (MIT)\n   https://github.com/odysseus-dev/odysseus",
+    "url": "https://github.com/odysseus-dev/odysseus",
+    "github": {
+      "owner": "odysseus-dev",
+      "repo": "odysseus"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 303
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-digitalplatdev-freedomain",
+    "type": "repo",
+    "title": "FreeDomain — nombres de dominio gratuitos para todos.",
+    "summary": "Registra un dominio, apúntalo a Cloudflare o cualquier proveedor de DNS, y lanza tu sitio sin pagar por el dominio. (AGPL-3.0)",
+    "body": "6. FreeDomain — nombres de dominio gratuitos para todos.\n   Registra un dominio, apúntalo a Cloudflare o cualquier proveedor de DNS, y lanza tu sitio sin pagar por el dominio. (AGPL-3.0)\n   https://github.com/DigitalPlatDev/FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "github": {
+      "owner": "DigitalPlatDev",
+      "repo": "FreeDomain"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "gratis"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 307
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-shiaho777-web-to-app",
+    "type": "repo",
+    "title": "Web To App",
+    "summary": "WebView configurable, firma de APK e incluso runtimes de Node.js, PHP y Python. No se requiere compilación remota.",
+    "body": "8. Web-to-App — convierte cualquier sitio web en una app de Android.\n   WebView configurable, firma de APK e incluso runtimes de Node.js, PHP y Python. No se requiere compilación remota.\n   https://github.com/shiaho777/web-to-app",
+    "url": "https://github.com/shiaho777/web-to-app",
+    "github": {
+      "owner": "shiaho777",
+      "repo": "web-to-app"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "python",
+      "javascript"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 315
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-averygan-reclip",
+    "type": "repo",
+    "title": "Reclip — descargador de video y audio autoalojado.",
+    "summary": "Descarga videos de YouTube, TikTok, X, Instagram y 1000+ otros sitios como MP4 o MP3 usando yt-dlp.",
+    "body": "9. Reclip — descargador de video y audio autoalojado.\n   Descarga videos de YouTube, TikTok, X, Instagram y 1000+ otros sitios como MP4 o MP3 usando yt-dlp.\nhttps://github.com/averygan/reclip",
+    "url": "https://github.com/averygan/reclip",
+    "github": {
+      "owner": "averygan",
+      "repo": "reclip"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "audio",
+      "self-hosted",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 319
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-excalidraw-excalidraw",
+    "type": "repo",
+    "title": "Excalidraw — la pizarra infinita.",
+    "summary": "Reemplaza Miro, FigJam y Lucidchart con diagramas dibujados a mano, wireframes, colaboración en tiempo real y cifrado de extremo a extremo. 120k+ estrellas en GitHub. (MIT)",
+    "body": "10. Excalidraw — la pizarra infinita.\n    Reemplaza Miro, FigJam y Lucidchart con diagramas dibujados a mano, wireframes, colaboración en tiempo real y cifrado de extremo a extremo. 120k+ estrellas en GitHub. (MIT)\nhttps://github.com/excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "github": {
+      "owner": "excalidraw",
+      "repo": "excalidraw"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 323
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-opensourceprojects-dev-336en",
+    "type": "tool",
+    "title": "opensourceprojects.dev",
+    "summary": "SearchPhone es una herramienta OSINT que realiza búsquedas paralelas de números de teléfono a través de múltiples APIs y genera informes automáticos en JSON y PDF. Valida números y obtiene información de la red operadora a través de Numverify.",
+    "body": "SearchPhone es una herramienta OSINT que realiza búsquedas paralelas de números de teléfono a través de múltiples APIs y genera informes automáticos en JSON y PDF.\n- Valida números y obtiene información de la red operadora a través de Numverify.\n- Busca simultáneamente en Google, DuckDuckGo, Reddit y código de GitHub.\n- Verifica contra la base de datos de inteligencia de infostealer de Hudson Rock.\n- Requiere solo tres claves API gratuitas; no se necesita clave para Hudson Rock.\nhttps://www.opensourceprojects.dev/post/searchphone",
+    "url": "https://www.opensourceprojects.dev/post/searchphone",
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "seguridad",
+      "gratis"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 330
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-simplifaisoul-osiris",
+    "type": "repo",
+    "title": "Osiris",
+    "summary": "ESTO ES UN PALANTIR GRATIS Y SE INSTALA EN UN SOLO COMANDO. se llama OSIRIS. abres un globo 3D en tu navegador y ves, en tiempo real: ? +10.000 aviones en el aire ? +2.000 satélites ? cámaras CCTV de todo el mundo ? incendios, terremotos, tráfico marítimo ? 13 zonas de conflicto…",
+    "body": "ESTO ES UN PALANTIR GRATIS Y SE INSTALA EN UN SOLO COMANDO.\nse llama OSIRIS.\nabres un globo 3D en tu navegador y ves, en tiempo real:\n? +10.000 aviones en el aire\n? +2.000 satélites\n? cámaras CCTV de todo el mundo\n? incendios, terremotos, tráfico marítimo\n? 13 zonas de conflicto activas\ntodo en una sola pantalla.\ny no se queda ahí.\ntrae un toolkit OSINT dentro:\nport scanner, DNS, WHOIS, análisis de dominios.\nPalantir cuesta millones.\nesto es:\n? open source\n? MIT\n? docker compose up\n? listo\nla mayoría de fuentes funcionan sin meter ni una API key.\npor qué te importa:\nel tipo de inteligencia que antes solo tenían gobiernos...\nahora la levantas tú en tu portátil en 5 minutos.\nideal para periodismo, seguridad o verificación.\nhttps://github.com/simplifaisoul/osiris",
+    "url": "https://github.com/simplifaisoul/osiris",
+    "github": {
+      "owner": "simplifaisoul",
+      "repo": "osiris"
+    },
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "seguridad",
+      "self-hosted",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 341
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-alexandrosgounis-pdfx",
+    "type": "repo",
+    "title": "Pdfx",
+    "summary": "Combina varios archivos PDF, imágenes y carpetas en un solo archivo.",
+    "body": "Combina varios archivos PDF, imágenes y carpetas en un solo archivo.\nhttps://github.com/AlexandrosGounis/pdfx",
+    "url": "https://github.com/AlexandrosGounis/pdfx",
+    "github": {
+      "owner": "AlexandrosGounis",
+      "repo": "pdfx"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 368
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-copilotkit-openbot",
+    "type": "repo",
+    "title": "HAN LANZADO UN GROK BOT 100% GRATIS",
+    "summary": "Grok Bot es una locura: puede navegar por Internet, usar tu ordenador y ejecutar tareas completas por ti. El problema: cuesta mínimo $30/mes. Por eso han lanzado OpenBot, una alternativa open source que corre directamente en tu máquina.",
+    "body": "HAN LANZADO UN GROK BOT 100% GRATIS\nGrok Bot es una locura: puede navegar por Internet, usar tu ordenador y ejecutar tareas completas por ti.\nEl problema: cuesta mínimo $30/mes.\nPor eso han lanzado OpenBot, una alternativa open source que corre directamente en tu máquina.\nY puede hacer todo lo que hace Grok Bot:\n? Automatizar procesos completos de principio a fin\n? Navegar por Internet y usar un navegador real\n? Manejar tu ordenador y sus archivos\n? Ejecutar comandos y utilizar herramientas MCP\n? Coordinarse con otros agentes para repartir tareas\n? Dejarte tomar el control cuando una tarea necesita intervención humana\nLe das un trabajo y puede encargarse de todo el workflow, usando herramientas y agentes diferentes para llevarlo hasta el final.\nY todo corre en tu propia infraestructura sin coste.\nhttps://github.com/CopilotKit/openbot",
+    "url": "https://github.com/CopilotKit/openbot",
+    "github": {
+      "owner": "CopilotKit",
+      "repo": "openbot"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "mcp",
+      "agentes",
+      "llm",
+      "gratis",
+      "open-source",
+      "automatizacion"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 374
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-danielgatis-rembg",
+    "type": "repo",
+    "title": "Rembg",
+    "summary": "¿Necesitas eliminar el fondo de las imágenes rápidamente? rembg es una herramienta de código abierto que elimina el fondo, y funciona como CLI o biblioteca de Python o servidor HTTP o Docker. Adecuada para el procesamiento individual o lotes grandes de imágenes.",
+    "url": "https://github.com/danielgatis/rembg",
+    "github": {
+      "owner": "danielgatis",
+      "repo": "rembg"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "self-hosted",
+      "python",
+      "linux",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 391
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-opensourceprojects-dev-guiia",
+    "type": "tool",
+    "title": "opensourceprojects.dev",
+    "summary": "Registra en tiempo real las historias de Instagram, las ediciones de biografía y los cambios de seguidores. - Alertas instantáneas ante cualquier cambio en el perfil - Paneles visuales que muestran el historial de seguimiento - Fácil configuración con Python o Docker",
+    "body": "Registra en tiempo real las historias de Instagram, las ediciones de biografía y los cambios de seguidores. - Alertas instantáneas ante cualquier cambio en el perfil - Paneles visuales que muestran el historial de seguimiento - Fácil configuración con Python o Docker\nhttps://www.opensourceprojects.dev/post/instagram-monitor",
+    "url": "https://www.opensourceprojects.dev/post/instagram-monitor",
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "self-hosted",
+      "python",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 398
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-smicallef-spiderfoot",
+    "type": "repo",
+    "title": "Spiderfoot",
+    "summary": "Demasiado potente: introduce un dominio y automáticamente escanea todos los activos de esa empresa expuestos en la red pública. En GitHub tiene 21.000 estrellas, es de código abierto bajo licencia MIT, con más de doscientos módulos.",
+    "body": "??? Demasiado potente: introduce un dominio y automáticamente escanea todos los activos de esa empresa expuestos en la red pública.\nEn GitHub tiene 21.000 estrellas, es de código abierto bajo licencia MIT, con más de doscientos módulos.\nPara hacer un inventario de activos o una autoevaluación de seguridad, antes tenías que encadenar manualmente un montón de herramientas: primero enumerar subdominios, luego consultar DNS, después escanear puertos, capturar banners, y al final organizar manualmente los resultados en una tabla. SpiderFoot automatiza todo esto en una línea de producción; los módulos se comunican mediante un sistema de publicación y suscripción para pasarse datos entre sí. Un dominio descubierto por un módulo se convierte automáticamente en la entrada del siguiente, y al final puedes exportar directamente a CSV o JSON.\nAdemás, incluye un motor de reglas de correlación escrito en YAML que une automáticamente pistas dispersas en una sola conclusión. También puedes integrar herramientas externas como Nmap, WhatWeb o CMSeeK para que corran junto con él.\nLa herramienta en sí es neutral; decidir a quién escanear y si tienes autorización para hacerlo es responsabilidad del usuario.\nhttps://github.com/smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "github": {
+      "owner": "smicallef",
+      "repo": "spiderfoot"
+    },
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "seguridad",
+      "open-source",
+      "automatizacion"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 405
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-osmantic-ods",
+    "type": "repo",
+    "title": "ODS",
+    "summary": "Instala Ollama, Open WebUI, n8n y ComfyUI para ejecutar inferencias de modelos locales y administrar flujos de trabajo de IA privados.",
+    "url": "https://github.com/Osmantic/ODS",
+    "github": {
+      "owner": "Osmantic",
+      "repo": "ODS"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "llm",
+      "automatizacion"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 421
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sooryathejas-metatron",
+    "type": "repo",
+    "title": "METATRON",
+    "summary": "NO DIGAS A NADIE QUE TE DIJE ESTO: ALGUIEN HA METIDO UN HACKER CON IA ENTERO EN TU PROPIO PORTÁTIL Sin nube. Sin API. Sin que salga un solo dato de tu máquina. METATRON es un asistente de pentesting que corre 100% en local.",
+    "body": "NO DIGAS A NADIE QUE TE DIJE ESTO:\nALGUIEN HA METIDO UN HACKER CON IA ENTERO EN TU PROPIO PORTÁTIL ??\nSin nube. Sin API. \nSin que salga un solo dato de tu máquina.\nMETATRON es un asistente de pentesting que corre 100% en local.\nLe das una IP o un dominio y hace el trabajo de reconocimiento solo:\n? Lanza nmap, whois, whatweb, curl, dig y nikto\n? Le pasa TODO el resultado a un modelo de IA que corre en tu equipo con Ollama\n? La IA analiza el objetivo, señala los puntos débiles y busca los CVE\n? Puede pedir más herramientas a mitad del análisis, sola\n? Y lo guarda todo en una base de datos con historial completo\n? Con informes exportables en PDF y HTML\nCorre sobre Parrot OS, en Python, con el modelo por Ollama.\n3.200 ?. 658 forks. MIT.\n?? úsalo SOLO sobre sistemas tuyos o con permiso escrito. Escanear lo que no es tuyo es delito. \nPara montarte un laboratorio y aprender ciberseguridad es una joya. \nhttps://github.com/sooryathejas/METATRON",
+    "url": "https://github.com/sooryathejas/METATRON",
+    "github": {
+      "owner": "sooryathejas",
+      "repo": "METATRON"
+    },
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "seguridad",
+      "llm",
+      "python",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 444
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-itsfatduck-optimizerduck",
+    "type": "repo",
+    "title": "OptimizerDuck",
+    "summary": "Tu ordenador Windows tiene más de 200 servicios ejecutándose en segundo plano ahora mismo. Muchos consumen recursos, recopilan datos y mantienen activadas funciones que probablemente nunca hayas utilizado.",
+    "body": "?? Tu ordenador Windows tiene más de 200 servicios ejecutándose en segundo plano ahora mismo.\nMuchos consumen recursos, recopilan datos y mantienen activadas funciones que probablemente nunca hayas utilizado.\nAlguien se cansó y creó una herramienta gratuita para solucionar este problema.\nSe llama optimizerDuck y permite limpiar Windows 10 y 11, eliminar bloatware y desactivar gran parte de las funciones que afectan al rendimiento y la privacidad.\nEsto es lo que incluye:\n? Más de 35 ajustes para rendimiento, privacidad, batería y sistema\n? Control de más de 200 servicios con etiquetas según su nivel de riesgo\n? Eliminación de bloatware con vista previa antes de borrar nada\n? Optimizaciones específicas para GPUs AMD, NVIDIA e Intel\n? Posibilidad de revertir los cambios si algo no sale como esperabas\nY aquí está una de las mejores partes:\nAntes de modificar el sistema, te obliga a crear un punto de restauración y genera automáticamente archivos para deshacer cada cambio.\nSin instalador, sin anuncios, sin telemetría y sin versiones premium.\nEs completamente gratuita, open-source y funciona incluso sin conexión a Internet.\nhttps://github.com/itsfatduck/optimizerDuck",
+    "url": "https://github.com/itsfatduck/optimizerDuck",
+    "github": {
+      "owner": "itsfatduck",
+      "repo": "optimizerDuck"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "gratis",
+      "open-source",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 464
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-rylena-sshdesk",
+    "type": "repo",
+    "title": "Sshdesk",
+    "summary": "SSHDESK permite utilizar el escritorio gráfico de un ordenador remoto directamente dentro del terminal con soporte para ratón y teclado. Realiza toda la comunicación a través de una única conexión SSH, sin necesidad de VNC/RDP ni puertos adicionales.",
+    "url": "https://github.com/rylena/sshdesk",
+    "github": {
+      "owner": "rylena",
+      "repo": "sshdesk"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 482
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-virattt-ai-hedge-fund",
+    "type": "repo",
+    "title": "AI Hedge Fund — Análisis de mercado multiagente",
+    "summary": "Repositorio virattt/ai-hedge-fund.",
+    "body": "4. AI Hedge Fund — Análisis de mercado multiagente\nhttps://github.com/virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "github": {
+      "owner": "virattt",
+      "repo": "ai-hedge-fund"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 499
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-khoj-ai-khoj",
+    "type": "repo",
+    "title": "Khoj — Segundo cerebro de IA autoalojado",
+    "summary": "Impactante, el proyecto de código abierto Khoj puede convertir todos los documentos acumulados en tu computadora en una IA que responde a cualquier pregunta al instante.",
+    "body": "5. Khoj — Segundo cerebro de IA autoalojado\nhttps://github.com/khoj-ai/khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "github": {
+      "owner": "khoj-ai",
+      "repo": "khoj"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "self-hosted",
+      "agentes",
+      "audio",
+      "llm",
+      "open-source",
+      "productividad"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 502
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-letta-ai-letta",
+    "type": "repo",
+    "title": "Letta — Agentes de IA con memoria persistente",
+    "summary": "Repositorio letta-ai/letta.",
+    "body": "6. Letta — Agentes de IA con memoria persistente\nhttps://github.com/letta-ai/letta",
+    "url": "https://github.com/letta-ai/letta",
+    "github": {
+      "owner": "letta-ai",
+      "repo": "letta"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 505
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-open-webui-open-webui",
+    "type": "repo",
+    "title": "Open WebUI — Interfaz autoalojada para modelos de IA",
+    "summary": "Repositorio open-webui/open-webui.",
+    "body": "7. Open WebUI — Interfaz autoalojada para modelos de IA\nhttps://github.com/open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "github": {
+      "owner": "open-webui",
+      "repo": "open-webui"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "self-hosted"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 508
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-deeplethe-utopia",
+    "type": "repo",
+    "title": "Utopia",
+    "summary": "Deja de alquilar un chatbot y llamarlo el cerebro de tu empresa. Utopia es el primer modelo de mundo empresarial de código abierto que he visto que realmente trata el conocimiento como un sistema, no como una vibra.",
+    "body": "Deja de alquilar un chatbot y llamarlo el cerebro de tu empresa.\nUtopia es el primer modelo de mundo empresarial de código abierto que he visto que realmente trata el conocimiento como un sistema, no como una vibra.\nEs autoalojado, de código abierto y construido alrededor de la única pregunta que todas las demás bases de conocimiento ignoran: cuándo.\nCada hecho en él lleva una fecha de inicio y una fecha de fin. Nada se sobrescribe. Cuando algo cambia, la corrección cierra la versión antigua y abre una nueva. El historial permanece intacto.\nAsí que el grafo ya no es una instantánea. Es una grabación que puedes rebobinar.\nArrastras una línea de tiempo en la pantalla y ves cómo todo se redibuja para mostrar qué era verdad en esa fecha. Quién poseía qué. Qué decía la política antes de que cambiara. Todo ello, reproducible.\nY cada hecho apunta de vuelta a la oración exacta de la que proviene. Nada entra sin un recibo.\nAquí está la parte que me conquistó.\nTodo el sistema es un solo binario y una base de datos Postgres. Eso es todo. Sin Elasticsearch, sin servicio de vectores separado y sin cola de mensajes. La mayoría de las pilas RAG son seis servicios unidos con cinta adhesiva. Esto son dos. Incluso se ejecuta completamente sin conexión en una red aislada con cualquier modelo que desees.\nhttps://github.com/deeplethe/utopia",
+    "url": "https://github.com/deeplethe/utopia",
+    "github": {
+      "owner": "deeplethe",
+      "repo": "utopia"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "self-hosted",
+      "rag",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 514
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-firecrawl-anydoc",
+    "type": "repo",
+    "title": "Anydoc",
+    "summary": "¿No te has dado cuenta de que a nadie le gusta manejar manualmente un montón de documentos de oficina con formatos tan variados? El equipo de Firecrawl desarrolló la librería anydoc en Rust para resolver directamente este dolor de cabeza: convierte de un solo clic 14 formatos…",
+    "body": "¿No te has dado cuenta de que a nadie le gusta manejar manualmente un montón de documentos de oficina con formatos tan variados?\nEl equipo de Firecrawl desarrolló la librería anydoc en Rust para resolver directamente este dolor de cabeza: convierte de un solo clic 14 formatos comunes de oficina como Word, PPT, Excel, PDF, etc., todos en un Markdown limpio y ordenado.\nLa velocidad es su arma secreta: un documento promedio se procesa en solo 4.7 milisegundos, y sin importar el formato de entrada, la estructura del Markdown de salida es altamente uniforme, lista para usarse directamente con modelos grandes sin ningún obstáculo.\nEn cuanto a pruebas de rendimiento, es aún más impresionante: compatible con las 14 formatos, su puntuación general deja atrás con creces a herramientas de conversión tradicionales como LibreOffice o Pandoc.\nEs un proyecto de código abierto, que puedes desplegar completamente en tu propio servidor, usarlo gratis y con una relación calidad-precio altísima.\nhttps://github.com/firecrawl/anydoc",
+    "url": "https://github.com/firecrawl/anydoc",
+    "github": {
+      "owner": "firecrawl",
+      "repo": "anydoc"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "scraping",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 537
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-xytom-snippai",
+    "type": "repo",
+    "title": "Snippai",
+    "summary": "Repositorio xyTom/snippai.",
+    "url": "https://github.com/xyTom/snippai",
+    "github": {
+      "owner": "xyTom",
+      "repo": "snippai"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 549
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-bookorbit-bookorbit",
+    "type": "repo",
+    "title": "Bookorbit",
+    "summary": "Los libros se acumulan cada vez más, ¿por qué no montarte tu propia biblioteca digital de verdad, una que sea completamente tuya? Últimamente vi un proyecto de código abierto llamado BookOrbit, diseñado específicamente para la gestión de lecturas en autoalojamiento.",
+    "body": "Los libros se acumulan cada vez más, ¿por qué no montarte tu propia biblioteca digital de verdad, una que sea completamente tuya?\nÚltimamente vi un proyecto de código abierto llamado BookOrbit, diseñado específicamente para la gestión de lecturas en autoalojamiento. Puedes centralizar ebooks, PDF, cómics y audiolibros, y leerlos directamente desde el navegador.\n?? Completado automático de información de libros\n?? Sincronización de progreso en Kobo / KOReader / web\n?? Estadísticas de lectura, mapa de calor, seguimiento de objetivos\n???????? Multiusuario + OIDC/SSO\n?? Soporte para OPDS, Send-to-Kindle\nSe despliega con Docker, y tú controlas tu biblioteca y datos de lectura. Los fans de NAS y los lectores empedernidos pueden guardarlo para investigarlo.\nhttps://github.com/bookorbit/bookorbit",
+    "url": "https://github.com/bookorbit/bookorbit",
+    "github": {
+      "owner": "bookorbit",
+      "repo": "bookorbit"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "audio",
+      "self-hosted",
+      "data-science",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 568
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-haxl0p4-l0p4map",
+    "type": "repo",
+    "title": "L0p4Map",
+    "summary": "L0p4Map monitorea redes locales utilizando descubrimiento ARP de alta velocidad e integración con nmap para construir un grafo de topología interactivo en tiempo real de los dispositivos conectados mientras observa pasivamente la actividad de nuevos hosts.",
+    "url": "https://github.com/HaxL0p4/L0p4Map",
+    "github": {
+      "owner": "HaxL0p4",
+      "repo": "L0p4Map"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 582
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sunblaze-ucb-vero",
+    "type": "repo",
+    "title": "Vero",
+    "summary": "Agente de codificación con IA que intenta verificar el código generado usando Lean 4.",
+    "body": "1. Vero\nAgente de codificación con IA que intenta verificar el código generado usando Lean 4.\nhttps://github.com/sunblaze-ucb/vero",
+    "url": "https://github.com/sunblaze-ucb/vero",
+    "github": {
+      "owner": "sunblaze-ucb",
+      "repo": "vero"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 588
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-celestoai-agentor",
+    "type": "repo",
+    "title": "Agentor",
+    "summary": "Añade soporte A2A, descubrimiento de agentes, streaming y compartición de artefactos a tus agentes de IA.",
+    "body": "2. Agentor\nAñade soporte A2A, descubrimiento de agentes, streaming y compartición de artefactos a tus agentes de IA.\nhttps://github.com/CelestoAI/agentor",
+    "url": "https://github.com/CelestoAI/agentor",
+    "github": {
+      "owner": "CelestoAI",
+      "repo": "agentor"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 592
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-arteemg-sky-agent",
+    "type": "repo",
+    "title": "Sky-Agent",
+    "summary": "Un framework ligero para construir tu propio superagente de IA con herramientas, memoria y archivos.",
+    "body": "3. Sky-Agent\nUn framework ligero para construir tu propio superagente de IA con herramientas, memoria y archivos.\nhttps://github.com/arteemg/sky-agent",
+    "url": "https://github.com/arteemg/sky-agent",
+    "github": {
+      "owner": "arteemg",
+      "repo": "sky-agent"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 596
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-vectifyai-pageindex",
+    "type": "repo",
+    "title": "PageIndex",
+    "summary": "Un enfoque basado en razonamiento para RAG que ayuda a los agentes a navegar documentos largos.",
+    "body": "4. PageIndex\nUn enfoque basado en razonamiento para RAG que ayuda a los agentes a navegar documentos largos.\nhttps://github.com/VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "github": {
+      "owner": "VectifyAI",
+      "repo": "PageIndex"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes",
+      "rag"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 600
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-hkuds-semantica",
+    "type": "repo",
+    "title": "Semantica",
+    "summary": "Infraestructura basada en grafos para conectar entidades, relaciones y contexto en sistemas de IA.",
+    "body": "5. Semantica\nInfraestructura basada en grafos para conectar entidades, relaciones y contexto en sistemas de IA.\nhttps://github.com/HKUDS/semantica",
+    "url": "https://github.com/HKUDS/semantica",
+    "github": {
+      "owner": "HKUDS",
+      "repo": "semantica"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 604
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-hkuds-nanobot",
+    "type": "repo",
+    "title": "NanoBot",
+    "summary": "Un agente de IA autoalojado ligero con memoria, herramientas, MCP, WebUI y flujos de trabajo multiagente.",
+    "body": "6. NanoBot\nUn agente de IA autoalojado ligero con memoria, herramientas, MCP, WebUI y flujos de trabajo multiagente.\nhttps://github.com/HKUDS/nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "github": {
+      "owner": "HKUDS",
+      "repo": "nanobot"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "mcp",
+      "agentes",
+      "self-hosted"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 608
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-shareai-lab-learn-claude-code",
+    "type": "repo",
+    "title": "Learn Claude Code",
+    "summary": "Recrea un agente al estilo de Claude Code desde cero y aprende cómo funcionan realmente los agentes de codificación.",
+    "body": "7. Learn Claude Code\nRecrea un agente al estilo de Claude Code desde cero y aprende cómo funcionan realmente los agentes de codificación.\nhttps://github.com/shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "github": {
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "claude-code",
+      "agentes",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 612
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-sunblaze-ucb-exploitgym",
+    "type": "repo",
+    "title": "ExploitGym",
+    "summary": "Un entorno para probar agentes de IA en tareas reales de explotación de software.",
+    "body": "10. ExploitGym\nUn entorno para probar agentes de IA en tareas reales de explotación de software.\nhttps://github.com/sunblaze-ucb/exploitgym",
+    "url": "https://github.com/sunblaze-ucb/exploitgym",
+    "github": {
+      "owner": "sunblaze-ucb",
+      "repo": "exploitgym"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 624
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-imsnif-bandwhich",
+    "type": "repo",
+    "title": "Bandwhich",
+    "summary": "bandwhich | Ancho de banda por proceso y conexión en la terminal ¿Quién está consumiendo tu red ahora? bandwhich te lo dice al momento: por proceso, por conexión y por IP o hostname remoto.",
+    "body": "??????? bandwhich | Ancho de banda por proceso y conexión en la terminal\n¿Quién está consumiendo tu red ahora?\nbandwhich te lo dice al momento: por proceso, por conexión y por IP o hostname remoto.\nhttps://github.com/imsnif/bandwhich",
+    "url": "https://github.com/imsnif/bandwhich",
+    "github": {
+      "owner": "imsnif",
+      "repo": "bandwhich"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 632
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-fareedkhan-dev-kimi-k3-in-c",
+    "type": "repo",
+    "title": "Kimi K3 In C",
+    "summary": "Ejecuta una inferencia de Kimi K3 con 2,78 billones de parámetros en una sola CPU con 8,24 GB de RAM, sin GPU, BLAS ni framework.",
+    "body": "Ejecuta una inferencia de Kimi K3 con 2,78 billones de parámetros en una sola CPU con 8,24 GB de RAM, sin GPU, BLAS ni framework.\nhttps://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "github": {
+      "owner": "FareedKhan-dev",
+      "repo": "kimi-k3-in-c"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "llm"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 639
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-pythops-oryx",
+    "type": "repo",
+    "title": "Oryx | eBPF sniffing con TUI en Linux",
+    "summary": "Tráfico de red bajo control sin salir de la terminal. Oryx captura en tiempo real con eBPF, muestra estadísticas completas, métricas y permite filtrar con fuzzy search.",
+    "body": "???????? Oryx | eBPF sniffing con TUI en Linux\nTráfico de red bajo control sin salir de la terminal.\nOryx captura en tiempo real con eBPF, muestra estadísticas completas, métricas y permite filtrar con fuzzy search.\nhttps://github.com/pythops/oryx",
+    "url": "https://github.com/pythops/oryx",
+    "github": {
+      "owner": "pythops",
+      "repo": "oryx"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "data-science",
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 645
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-tencent-weknora",
+    "type": "repo",
+    "title": "WeKnora",
+    "summary": "¡Qué delicia! WeKnora, el proyecto de código abierto de Tencent, puede convertir los documentos de la empresa dispersos en Feishu, Notion y Yuque en una base de conocimientos a la que se le puede preguntar directamente.",
+    "body": "¡Qué delicia! WeKnora, el proyecto de código abierto de Tencent, puede convertir los documentos de la empresa dispersos en Feishu, Notion y Yuque en una base de conocimientos a la que se le puede preguntar directamente.\nWeKnora ya tiene 22.000 estrellas en GitHub, más de 3.200 forks, más de 700 issues abiertos, y el 3 de septiembre acaba de lanzar la versión v0.8.0, a menos de un mes de la anterior. Ya hay gente que ha hecho una versión de desarrollo secundaria basada en él, específicamente para mejorar el OCR de escaneos y la extracción de tablas.\nEn el equipo, para encontrar un documento de procesos, antes había que ir y venir entre Feishu, Yuque y GitLab, y una vez encontrado, había que leerlo completo desde el principio y resumirlo uno mismo.\nDespués de integrarlo, basta con hacer preguntas directamente: para preguntas simples, usa búsqueda para respuestas rápidas; para las complejas, se las pasa al agente para que busque en la base de conocimientos, use herramientas MCP, busque en internet y luego te organice las conclusiones; también puede activar el modo Wiki para refinar un montón de documentos en páginas de conocimiento enlazadas entre sí y que se mantienen solas. El sistema de preguntas y respuestas se integra directamente en WeCom, Feishu y Slack, para que los colegas no tengan que cambiar de herramienta.\nEl modelo se puede cambiar entre más de veinte opciones como DeepSeek, Tongyi Qianwen, Ollama, etc., y se puede desplegar en local o en la nube privada, con licencia MIT de código abierto.\nPor fin, los documentos de la empresa dejan de estar acumulando polvo en la nube.\nhttps://github.com/Tencent/WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "github": {
+      "owner": "Tencent",
+      "repo": "WeKnora"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "mcp",
+      "agentes",
+      "llm",
+      "ocr",
+      "open-source",
+      "productividad"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 663
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-egonex-ai-understand-anything",
+    "type": "repo",
+    "title": "Understand Anything",
+    "summary": "Para quienes se sienten perdidos ante un enorme código por primera vez, ¿por dónde empezar a leer? Understand-Anything, aprox. 83.000. Un OSS que convierte la visión general del código en un «grafo de conocimiento explorable».",
+    "body": "Para quienes se sienten perdidos ante un enorme código por primera vez, ¿por dónde empezar a leer? ??\nUnderstand-Anything, ??aprox. 83.000.\nUn OSS que convierte la visión general del código en un «grafo de conocimiento explorable».\nLo que puede hacer es ??\n·Visualizar las conexiones entre archivos/funciones/clases\n·Seguir las dependencias para entender la estructura\n·Buscar en el grafo y hacer preguntas sobre las partes que te interesan\n·Compatible con Claude Code/Codex/Cursor, etc.\nReduce los casos de «funciona, pero no entiendo cómo».\nIdeal para comprender el código en un nuevo entorno de trabajo o para captar el código generado por IA.\nhttps://github.com/Egonex-AI/Understand-Anything",
+    "url": "https://github.com/Egonex-AI/Understand-Anything",
+    "github": {
+      "owner": "Egonex-AI",
+      "repo": "Understand-Anything"
+    },
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "claude-code",
+      "estudio",
+      "agentes"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 674
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-imputnet-cobalt",
+    "type": "repo",
+    "title": "Cobalt",
+    "summary": "Pega enlaces de TikTok, Instagram, X, YouTube, Reddit, y recupera los archivos. Sin marcas de agua, sin páginas de anuncios. Revisa tú mismo los términos de la plataforma.",
+    "body": "1.Cobalt\nPega enlaces de TikTok, Instagram, X, YouTube, Reddit, y recupera los archivos. Sin marcas de agua, sin páginas de anuncios. Revisa tú mismo los términos de la plataforma.\nhttps://github.com/imputnet/cobalt",
+    "url": "https://github.com/imputnet/cobalt",
+    "github": {
+      "owner": "imputnet",
+      "repo": "cobalt"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 693
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-reactive-resume-reactive-resume",
+    "type": "repo",
+    "title": "Reactive Resume",
+    "summary": "Montas y descargas tu currículum tú mismo. No te obliga a ser miembro para pulsar el botón de descarga.",
+    "body": "3.Reactive Resume\nMontas y descargas tu currículum tú mismo. No te obliga a ser miembro para pulsar el botón de descarga.\nhttps://github.com/reactive-resume/reactive-resume",
+    "url": "https://github.com/reactive-resume/reactive-resume",
+    "github": {
+      "owner": "reactive-resume",
+      "repo": "reactive-resume"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "javascript"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 701
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-dgtlmoon-changedetection-io",
+    "type": "repo",
+    "title": "Changedetection.Io",
+    "summary": "Te notifica cuando una página web cambia. Bajadas de precio, ofertas de empleo, cambios en sitios de la competencia: todo al alcance.",
+    "body": "4. http://changedetection.io\nTe notifica cuando una página web cambia. Bajadas de precio, ofertas de empleo, cambios en sitios de la competencia: todo al alcance.\nhttps://github.com/dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "links": [
+      {
+        "label": "changedetection.io",
+        "url": "http://changedetection.io"
+      }
+    ],
+    "github": {
+      "owner": "dgtlmoon",
+      "repo": "changedetection.io"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 705
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-suwayomi-suwayomi-server",
+    "type": "repo",
+    "title": "Suwayomi",
+    "summary": "Lectura de cómics en tu propio servidor. Tú controlas las fuentes y el cliente. Solo lees lo que tienes permiso para leer.",
+    "body": "5.Suwayomi\nLectura de cómics en tu propio servidor. Tú controlas las fuentes y el cliente. Solo lees lo que tienes permiso para leer.\nhttps://github.com/Suwayomi/Suwayomi-Server",
+    "url": "https://github.com/Suwayomi/Suwayomi-Server",
+    "github": {
+      "owner": "Suwayomi",
+      "repo": "Suwayomi-Server"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 709
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-libretranslate-libretranslate",
+    "type": "repo",
+    "title": "LibreTranslate",
+    "summary": "Traducciones que corren en tu propio ordenador. No pasa por interfaces de Google, no cobra por palabra.",
+    "body": "6.LibreTranslate\nTraducciones que corren en tu propio ordenador. No pasa por interfaces de Google, no cobra por palabra.\nhttps://github.com/LibreTranslate/LibreTranslate",
+    "url": "https://github.com/LibreTranslate/LibreTranslate",
+    "github": {
+      "owner": "LibreTranslate",
+      "repo": "LibreTranslate"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 713
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mikf-gallery-dl",
+    "type": "repo",
+    "title": "gallery-dl",
+    "summary": "Galerías de imágenes, cuentas, archivos: todo con un solo comando. Los metadatos se mantienen intactos.",
+    "body": "7.gallery-dl\nGalerías de imágenes, cuentas, archivos: todo con un solo comando. Los metadatos se mantienen intactos.\nhttps://github.com/mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "github": {
+      "owner": "mikf",
+      "repo": "gallery-dl"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 717
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-archivebox-archivebox",
+    "type": "repo",
+    "title": "ArchiveBox",
+    "summary": "Guarda enlaces como páginas completas, PDF o capturas. Si la página original da 404, aún puedes abrirla localmente.",
+    "body": "8.ArchiveBox\nGuarda enlaces como páginas completas, PDF o capturas. Si la página original da 404, aún puedes abrirla localmente.\nhttps://github.com/ArchiveBox/ArchiveBox",
+    "url": "https://github.com/ArchiveBox/ArchiveBox",
+    "github": {
+      "owner": "ArchiveBox",
+      "repo": "ArchiveBox"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 721
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-localsend-localsend",
+    "type": "repo",
+    "title": "LocalSend",
+    "summary": "Transmite archivos entre Windows, Mac, Linux, Android e iOS. Usa la red local, sin límites de tamaño.",
+    "body": "9.LocalSend\nTransmite archivos entre Windows, Mac, Linux, Android e iOS. Usa la red local, sin límites de tamaño.\nhttps://github.com/localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "github": {
+      "owner": "localsend",
+      "repo": "localsend"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 725
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-dani-garcia-vaultwarden",
+    "type": "repo",
+    "title": "Vaultwarden",
+    "summary": "El servidor de Bitwarden montado por ti mismo. Los clientes oficiales se conectan sin problemas. Soporta archivos adjuntos y llaves de hardware. Descargas, búsquedas, currículos, vigilancia de páginas, traducciones, archivos, transmisión de archivos, gestor de contraseñas.",
+    "body": "10.Vaultwarden\nEl servidor de Bitwarden montado por ti mismo. Los clientes oficiales se conectan sin problemas. Soporta archivos adjuntos y llaves de hardware.\nhttps://github.com/dani-garcia/vaultwarden\n\nDescargas, búsquedas, currículos, vigilancia de páginas, traducciones, archivos, transmisión de archivos, gestor de contraseñas.",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "github": {
+      "owner": "dani-garcia",
+      "repo": "vaultwarden"
+    },
+    "category": "herramientas",
+    "subcategory": "self-hosted",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 729
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-hypit-ai-hypit",
+    "type": "repo",
+    "title": "Hypit",
+    "summary": "CapCut, Pixverse, Higgsfield y los demás se basan en plantillas, @hypitai hace algo diferente: un motor de flujos de trabajo (workflow) para que los agentes escriban videos.",
+    "body": "CapCut, Pixverse, Higgsfield y los demás se basan en plantillas,\n@hypitai\n hace algo diferente:\nun motor de flujos de trabajo (workflow) para que los agentes escriban videos.\nEl problema de las plantillas lo entienden quienes las han usado:\nprompts fijos con uno o dos slots para cambiar caras o sujetos; la creatividad queda encerrada en el diseño del autor de la plantilla;\nlos videos resultantes son todos parecidos, y cuando el modelo se actualiza, las plantillas se quedan obsoletas rápido.\nLos modelos de generación de video son buenos en atmósferas y movimientos de cámara simples, pero no en cosas precisas como «cortar en el segundo 1.5, mantener el rostro centrado en una imagen en imagen» con múltiples componentes sincronizados.\nPero quienes hacen marketing de contenidos lo saben bien:\nlos videos virales son una combinación de material real, edición precisa, efectos en el momento justo y anclajes temporales.\n@hypitai\n es ingeniería inversa de contenidos virales:\nLe das un video exitoso, lo descompone en un workflow estructurado, marca el esqueleto que no se puede tocar, los slots intercambiables (personajes, diálogos, imágenes de producto, etc.) y anclajes temporales precisos hasta el frame.\nEjecuta el workflow en lote con 200 variantes,\nel juicio de «dónde cortar en qué frame, qué piezas no se pueden cambiar» se vuelve cada vez más valioso\ndebería hacer que todos tus modelos trabajen en el workflow.\nY lo más práctico para desarrolladores son tres puntos:\n1?? Abierto (open source).\nScripts SVML, hojas de estilos SVS, runtime, proveedor local;\nEl código fuente del video es texto, se puede meter en git, hacer diff, forkar workflows de otros y cambiar slots para generar videos\n2?? Gratis.\nLas skills y el núcleo open source no cuestan dinero,\nel login no cuesta dinero\nver previews mock en el workbench tampoco cuesta dinero\n3?? BYOK.\nPuedes usar modelos alojados en HypiHub o traer tu propia clave\n4?? Instalación fácil:\nInstálalo en Claude Code o Codex con un comando: npx skills add hypit-ai/hypit -g, luego /hypit clone this video: <ruta local o enlace al video>\nhttps://github.com/hypit-ai/hypit",
+    "url": "https://github.com/hypit-ai/hypit",
+    "github": {
+      "owner": "hypit-ai",
+      "repo": "hypit"
+    },
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "claude-code",
+      "agentes",
+      "video",
+      "diseno",
+      "gratis",
+      "open-source",
+      "automatizacion",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 771
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mbrg-power-pwn",
+    "type": "repo",
+    "title": "Power Pwn",
+    "summary": "ENCONTRÉ 3 HERRAMIENTAS OSINT QUE DESEO HABER CONOCIDO HACE AÑOS Estas pueden hacer el trabajo de OSINT ridículamente más fácil.",
+    "body": "ENCONTRÉ 3 HERRAMIENTAS OSINT QUE DESEO HABER CONOCIDO HACE AÑOS  \nEstas pueden hacer el trabajo de OSINT ridículamente más fácil.\ny todo GRATIS para usar \nosintsearch —> Dale un nombre de usuario, correo electrónico o número de teléfono y busca en cientos de plataformas cuentas públicas coincidentes, incluso detectando cuentas que usan nombres diferentes mediante coincidencia de fotos de perfil.\npower-pwn —> Encuentra agentes de IA expuestos en línea y verifica si están conectados a datos de la empresa.\nworldmonitor — > Un tablero de inteligencia global en vivo que muestra lo que está sucediendo en el mundo en tiempo real — y puedes ejecutarlo tú mismo.\nHerramientas diferentes.\nCasos de uso diferentes.\nMismo objetivo: encontrar información más rápido.\nSi estás en OSINT, ciberseguridad o investigación de seguridad,  \nosintsearch.org\nhttps://github.com/koala73/worldmonitor\nhttps://github.com/mbrg/power-pwn",
+    "url": "https://github.com/mbrg/power-pwn",
+    "github": {
+      "owner": "mbrg",
+      "repo": "power-pwn"
+    },
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "agentes",
+      "seguridad",
+      "gratis",
+      "marketing"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 804
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-sentinelrecon-recon-cloud-automatizado-con-risk-sc-od1cz",
+    "type": "note",
+    "title": "SentinelRecon | Recon cloud automatizado con risk scoring real",
+    "summary": "SentinelRecon | Recon cloud automatizado con risk scoring real Enumera S3, EC2, IAM, VMs y Storage en AWS, Azure y GCP. Detecta misconfigs de cifrado, acceso público, MFA y más.",
+    "body": "??????? SentinelRecon | Recon cloud automatizado con risk scoring real\nEnumera S3, EC2, IAM, VMs y Storage en AWS, Azure y GCP.\nDetecta misconfigs de cifrado, acceso público, MFA y más.\nhttps://x.com/EsGeeks/status/2099937939237028142",
+    "url": "https://x.com/EsGeeks/status/2099937939237028142",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "automatizacion"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 822
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-veops-oneterm",
+    "type": "repo",
+    "title": "Oneterm",
+    "summary": "OneTerm es una herramienta gratuita que permite a las empresas controlar quién puede acceder a sus servidores internos, registrar todo lo que hacen y reproducir esas sesiones más tarde para investigar problemas.",
+    "url": "https://github.com/veops/oneterm",
+    "github": {
+      "owner": "veops",
+      "repo": "oneterm"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "gratis"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 831
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-post-en-x-kav75",
+    "type": "note",
+    "title": "Post en X",
+    "summary": "Post en X",
+    "body": "https://x.com/Jouhatsu_ai/status/2108553959753314314",
+    "url": "https://x.com/Jouhatsu_ai/status/2108553959753314314",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 865
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-anthropic-com-1widm",
+    "type": "tool",
+    "title": "anthropic.com",
+    "summary": "Anthropic lanza OSS Scanner: escáner gratuito de vulnerabilidades para proyectos open source con Claude Mythos. Reportes automáticos sin revisión humana. Solo para maintainers elegibles vía PR.",
+    "body": "??? Anthropic lanza OSS Scanner: escáner gratuito de vulnerabilidades para proyectos open source con Claude Mythos. Reportes automáticos sin revisión humana. Solo para maintainers elegibles vía PR. \nhttps://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+    "category": "herramientas",
+    "subcategory": "seguridad",
+    "tags": [
+      "claude-code",
+      "seguridad",
+      "gratis",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 870
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-post-en-x-oua60",
+    "type": "note",
+    "title": "Post en X",
+    "summary": "Post en X",
+    "body": "https://x.com/Solvaix/status/2083614624423796738",
+    "url": "https://x.com/Solvaix/status/2083614624423796738",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 876
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-ai-manz-dev-17vn9",
+    "type": "tool",
+    "title": "ai.manz.dev",
+    "summary": "Les recuerdo que tienen una maravillosa guía de Opencode V2 por aquí: ? Desde cero: instalación y uso ? Configurar modelos (incluso locales) ? Skills, MCP y CLI ? Comandos personalizados",
+    "body": "Les recuerdo que tienen una maravillosa guía de Opencode V2 por aquí:\n\n? Desde cero: instalación y uso\n? Configurar modelos (incluso locales)\n? Skills, MCP y CLI\n? Comandos personalizados\n\nhttps://ai.manz.dev/learn/setup/opencode/",
+    "url": "https://ai.manz.dev/learn/setup/opencode/",
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "mcp",
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 881
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-midu-link-1f40u",
+    "type": "tool",
+    "title": "midu.link",
+    "summary": "API para extraer datos de cualquier web, incluso con CAPTCHA o que bloquean bots /scrape: parsea la página /crawl: rastrea y sigue enlaces /search: busca en tiempo real /map: lista las URLs 10K reqs/mes gratis y sin poner tarjeta: ?",
+    "url": "https://midu.link/decodo",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "scraping",
+      "gratis"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 894
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-he-creado-3-plugins-para-mejorar-claude-code-182rp",
+    "type": "tool",
+    "title": "He creado 3 plugins para mejorar Claude Code",
+    "summary": "? Image Preview: muestra las imágenes al hacer hover ? Sub Meter: puedes ver en todo momento tu consumo ? Commit: sube tus cambios sin peligro usando Haiku Los uso en mi día a día: ?",
+    "body": "He creado 3 plugins para mejorar Claude Code\n\n? Image Preview: muestra las imágenes al hacer hover\n? Sub Meter: puedes ver en todo momento tu consumo\n? Commit: sube tus cambios sin peligro usando Haiku\n\nLos uso en mi día a día:\n? https://betterclaude.dev",
+    "url": "https://betterclaude.dev",
+    "category": "herramientas",
+    "subcategory": "ia",
+    "tags": [
+      "claude-code"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 907
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "tool-deepseek-v4-1-flash-1017-y-glm-5-3-flash-gratis-xkzs5",
+    "type": "tool",
+    "title": "DeepSeek V4.1 Flash 1017 y GLM 5.3 Flash GRATIS",
+    "summary": "sin tarjeta ni nada, solo inicia sesión y obtienes 10M de tokens de regalo lo que obtienes: deepseek v4.1 flash 1017 gratis glm 5.3 flash gratis glm 5.3 flash sin censura también, barato Compatible con OpenAI y Anthropic, funciona en Cursor también pruébalo:",
+    "body": "DeepSeek V4.1 Flash 1017 y GLM 5.3 Flash GRATIS ??\n\nsin tarjeta ni nada, solo inicia sesión y obtienes 10M de tokens de regalo\n\nlo que obtienes:\n\n- deepseek v4.1 flash 1017 gratis\n- glm 5.3 flash gratis\n- glm 5.3 flash sin censura también, barato\n\n> Compatible con OpenAI y Anthropic, funciona en Cursor también\n\npruébalo: http://larprouter.com/r/909ABC3B25",
+    "url": "http://larprouter.com/r/909ABC3B25",
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "claude-code",
+      "llm",
+      "gratis",
+      "estudio"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 923
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-baairon-torlink",
+    "type": "repo",
+    "title": "Traducido del inglés",
+    "summary": "Busca en varios orígenes curados de torrents a la vez desde tu terminal y descarga lo que elijas, sin nada que configurar.",
+    "body": "Traducido del inglés\nBusca en varios orígenes curados de torrents a la vez desde tu terminal y descarga lo que elijas, sin nada que configurar.\nhttps://github.com/baairon/torlink",
+    "url": "https://github.com/baairon/torlink",
+    "github": {
+      "owner": "baairon",
+      "repo": "torlink"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [
+      "linux"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 942
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-qbittorrent-search-plugins",
+    "type": "repo",
+    "title": "Search Plugins",
+    "summary": "Porque por ahí cae alguno y te dice \"bajate qbittorrent e instalale los plugins\".",
+    "body": "Porque por ahí cae alguno y te dice \"bajate qbittorrent e instalale los plugins\".\nhttps://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins",
+    "url": "https://github.com/qbittorrent/search-plugins",
+    "github": {
+      "owner": "qbittorrent",
+      "repo": "search-plugins"
+    },
+    "category": "herramientas",
+    "subcategory": "productividad",
+    "tags": [],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 950
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-se-acabo-la-era-de-meses-modelando-en-3d-y-disenan-1ilhg",
+    "type": "note",
+    "title": "Se acabó la era de meses modelando en 3D y diseñando entornos.…",
+    "summary": "Se acabó la era de meses modelando en 3D y diseñando entornos. Encontré un repositorio de código abierto fantástico que solo requiere subir un video y lo convierte al instante en un entorno de juego jugable e interactivo.",
+    "body": "Se acabó la era de meses modelando en 3D y diseñando entornos. Encontré un repositorio de código abierto fantástico que solo requiere subir un video y lo convierte al instante en un entorno de juego jugable e interactivo. Ser un equipo de desarrollo de una sola persona ya no es un capital, sino encontrar la herramienta de inteligencia artificial adecuada. Guárdenlo para más tarde, lo van a necesitar sin duda.\nhttps://x.com/himmetagadev/status/2116148330929549602",
+    "url": "https://x.com/himmetagadev/status/2116148330929549602",
+    "category": "herramientas",
+    "subcategory": "multimedia",
+    "tags": [
+      "video",
+      "open-source"
+    ],
+    "source": {
+      "file": "Herramientas.txt",
+      "line": 957
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  }
+]

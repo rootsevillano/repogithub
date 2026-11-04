@@ -1,0 +1,397 @@
+[
+  {
+    "id": "gh-mostafa-nafie-football-object-detection",
+    "type": "repo",
+    "title": "Football Object Detection",
+    "summary": "Repositorio Mostafa-Nafie/Football-Object-Detection.",
+    "body": "***** topic:soccer-analytics topic:computer-vision stars:>50\n\nhttps://github.com/Mostafa-Nafie/Football-Object-Detection\nhttps://github.com/roboflow/sports\nhttps://github.com/mradovic38/football-analysis",
+    "url": "https://github.com/Mostafa-Nafie/Football-Object-Detection",
+    "github": {
+      "owner": "Mostafa-Nafie",
+      "repo": "Football-Object-Detection"
+    },
+    "category": "futbol",
+    "subcategory": "vision-computacional",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 1
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-roboflow-sports",
+    "type": "repo",
+    "title": "Sports",
+    "summary": "Repositorio roboflow/sports.",
+    "body": "***** topic:soccer-analytics topic:computer-vision stars:>50\n\nhttps://github.com/Mostafa-Nafie/Football-Object-Detection\nhttps://github.com/roboflow/sports\nhttps://github.com/mradovic38/football-analysis",
+    "url": "https://github.com/roboflow/sports",
+    "github": {
+      "owner": "roboflow",
+      "repo": "sports"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 1
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-mradovic38-football-analysis",
+    "type": "repo",
+    "title": "Football Analysis",
+    "summary": "Repositorio mradovic38/football-analysis.",
+    "body": "***** topic:soccer-analytics topic:computer-vision stars:>50\n\nhttps://github.com/Mostafa-Nafie/Football-Object-Detection\nhttps://github.com/roboflow/sports\nhttps://github.com/mradovic38/football-analysis",
+    "url": "https://github.com/mradovic38/football-analysis",
+    "github": {
+      "owner": "mradovic38",
+      "repo": "football-analysis"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 1
+    },
+    "status": "review",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-topic-football-data-topic-tracking-data-language-p-qrysc",
+    "type": "note",
+    "title": "topic:football-data topic:tracking-data language:Python",
+    "summary": "topic:soccernet OR topic:action-spotting 0 resultados",
+    "body": "***** topic:football-data topic:tracking-data language:Python\n***** topic:soccernet OR topic:action-spotting\n\n0 resultados",
+    "category": "futbol",
+    "subcategory": "vision-computacional",
+    "tags": [
+      "python",
+      "vision-computacional",
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 8
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-eddwebster-football-analytics",
+    "type": "repo",
+    "title": "Football Analytics",
+    "summary": "Catálogo exhaustivo de librerías, conjuntos de datos y cuadernos de análisis.",
+    "body": "***** Catálogo exhaustivo de librerías, conjuntos de datos y cuadernos de análisis.\nhttps://github.com/eddwebster/football_analytics",
+    "url": "https://github.com/eddwebster/football_analytics",
+    "github": {
+      "owner": "eddwebster",
+      "repo": "football_analytics"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "data-science",
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 14
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-avijit9-awesome-computer-vision-in-sports",
+    "type": "repo",
+    "title": "Awesome Computer Vision In Sports",
+    "summary": "Compilación de artículos académicos con código asociado para visión computacional y modelos tácticos.",
+    "body": "***** Compilación de artículos académicos con código asociado para visión computacional y modelos tácticos.\nhttps://github.com/avijit9/awesome-computer-vision-in-sports\nhttps://github.com/AtomScott/awesome-sports-analytics",
+    "url": "https://github.com/avijit9/awesome-computer-vision-in-sports",
+    "github": {
+      "owner": "avijit9",
+      "repo": "awesome-computer-vision-in-sports"
+    },
+    "category": "futbol",
+    "subcategory": "vision-computacional",
+    "tags": [
+      "vision-computacional",
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 18
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-atomscott-awesome-sports-analytics",
+    "type": "repo",
+    "title": "Awesome Sports Analytics",
+    "summary": "Compilación de artículos académicos con código asociado para visión computacional y modelos tácticos.",
+    "body": "***** Compilación de artículos académicos con código asociado para visión computacional y modelos tácticos.\nhttps://github.com/avijit9/awesome-computer-vision-in-sports\nhttps://github.com/AtomScott/awesome-sports-analytics",
+    "url": "https://github.com/AtomScott/awesome-sports-analytics",
+    "github": {
+      "owner": "AtomScott",
+      "repo": "awesome-sports-analytics"
+    },
+    "category": "futbol",
+    "subcategory": "vision-computacional",
+    "tags": [
+      "data-science",
+      "vision-computacional",
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 18
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-probberechts-soccerdata",
+    "type": "repo",
+    "title": "Soccerdata",
+    "summary": "Cliente en Python para extraer datos agregados de FBref, Transfermarkt, WhoScored, ClubElo y Understat de múltiples ligas.",
+    "body": "***** Cliente en Python para extraer datos agregados de FBref, Transfermarkt, WhoScored, ClubElo y Understat de múltiples ligas.\nhttps://github.com/probberechts/soccerdata",
+    "url": "https://github.com/probberechts/soccerdata",
+    "github": {
+      "owner": "probberechts",
+      "repo": "soccerdata"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "scraping",
+      "python",
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 23
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-hudl-open-data",
+    "type": "repo",
+    "title": "Open Data",
+    "summary": "Datos de eventos gratuitos a nivel de coordenadas (pases, tiros, presiones).",
+    "url": "https://github.com/hudl/open-data",
+    "github": {
+      "owner": "hudl",
+      "repo": "open-data"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 27
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-andrewrowlinson-mplsoccer",
+    "type": "repo",
+    "title": "Mplsoccer",
+    "summary": "Generación de radares de percentiles de jugadores, mapas de calor, redes de pases y matrices de pases progresivos.",
+    "body": "***** Generación de radares de percentiles de jugadores, mapas de calor, redes de pases y matrices de pases progresivos.\nhttps://github.com/andrewRowlinson/mplsoccer",
+    "url": "https://github.com/andrewRowlinson/mplsoccer",
+    "github": {
+      "owner": "andrewRowlinson",
+      "repo": "mplsoccer"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 31
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "gh-pysport-kloppy",
+    "type": "repo",
+    "title": "Kloppy",
+    "summary": "Estandarizador de datos espaciales y de eventos entre distintos proveedores (Opta, StatsBomb, Wyscout, ChyronHego).",
+    "url": "https://github.com/pySport/kloppy",
+    "github": {
+      "owner": "pySport",
+      "repo": "kloppy"
+    },
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Repositorios futbol directos de github.txt",
+      "line": 35
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-como-analizar-a-un-jugador-como-un-scout-profesion-160b7",
+    "type": "note",
+    "title": "Cómo analizar a un jugador como un scout profesional",
+    "summary": "No es solo ver si juega bien. Es entender decisiones, contexto y potencial. Hilo 1 No mires solo acciones aisladas Un gol o una asistencia no bastan.",
+    "body": "⚽ Cómo analizar a un jugador como un scout profesional\nNo es solo ver si juega bien.\nEs entender decisiones, contexto y potencial.\nHilo 🧵👇\n\n1️⃣ No mires solo acciones aisladas\nUn gol o una asistencia no bastan.\nAnaliza patrones:\n👉 Qué repite\n👉 Cómo resuelve\n👉 Qué decisiones toma\n\n2️⃣ El contexto lo cambia todo\nNo es lo mismo destacar en:\n• Bloque bajo\n• Posesión\n• Transición\n• Alta presión\nEvalúa según el modelo de juego.\n\n3️⃣ Mira sin balón\nMuchos solo observan cuando toca el balón.\nPero el scouting real analiza:\n👉 Movimientos\n👉 Vigilancias\n👉 Ocupación de espacios\n👉 Timing\n\n4️⃣ Evalúa la toma de decisiones\n¿Juega rápido o precipitado?\n¿Elige bien bajo presión?\nLa técnica importa…\nla decisión aún más.\n\n5️⃣ Diferencia presente vs potencial\nNo preguntes solo:\n“¿Es bueno?”\nPregunta:\n👉 ¿Qué puede llegar a ser?\n\n6️⃣ Observa el físico… con contexto\nVelocidad, duelos, resistencia.\nPero siempre según posición y función.\nNo todos necesitan lo mismo.\n\n7️⃣ Clave final\nUn scout no busca highlights.\nBusca comportamientos repetibles que transfieran al alto nivel.",
+    "category": "futbol",
+    "subcategory": "scouting",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Apuntes Futbol.txt",
+      "line": 1
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-para-mis-amigos-futboleros-con-carino-cdihz",
+    "type": "note",
+    "title": "Para mis amigos futboleros, con cariño",
+    "summary": "Para el fan Las 48 selecciones agrupadas por confederación y los 12 grupos oficiales. Subes fotos y videos directo desde el navegador con drag-and-drop. Cada gol, cada gesto, cada camiseta queda fichado al jugador. En tu disco. Forever.",
+    "body": "🏆 Para mis amigos futboleros, con cariño.\n📁 Para el fan\nLas 48 selecciones agrupadas por confederación y los 12 grupos oficiales. Subes fotos y videos directo desde el navegador con drag-and-drop. Cada gol, cada gesto, cada camiseta queda fichado al jugador. En tu disco. Forever.\n🎯 Para el técnico\nPizarra táctica 3D reglamentaria FIFA (105 × 68 m) construida en WebGL con Three.js. Fichas con drag físico suave, formaciones independientes para Local y Visita (6 presets), modo perspectiva 3D o cenital con auto-fit al rotar. Encima, un overlay de dibujo: lápiz, flechas curvas con efecto aerodinámico y marching ants animados, goma. Toca el \"blip de radar\" en una flecha para ciclar convex / flat / concave. Drag de la punta o la base para redirigirla.\n🎬 Para presentar\nModo Marquesina: una proyección full-screen dentro de la app con 7 transiciones cinematográficas (ken burns, blur pull, whip pan…) sobre fondo del trofeo del Mundial en efecto cromo vectorizado. Recorre toda la media de un equipo y la entrega con calidad broadcast.\n🔧 Lo técnico\nReact 19 + TypeScript strict + Vite 7. Three.js + react-three-fiber para 3D. Chakra UI v3 + glassmorphism. Zustand para estado. PWA instalable con offline-first. Bilingüe ES/EN. 27 tests unitarios + 12 e2e con Playwright. CI completo con lint + typecheck + tests + bundle budgets + Lighthouse. Branch protection en main. Licencia MIT.\nNo lo voy a deployar. Lo dejo abierto en GitHub para los creadores que quieran bajarlo y armar su propio contenido del Mundial sin depender de plataformas. Clonas, `npm install`, `npm run dev`, listo.\nSi lo usas para crear algo, mándame screenshot — me hace el día.\n\nhttps://github.com/leit0cl/xpendia-mundial-2026",
+    "url": "https://github.com/leit0cl/xpendia-mundial-2026",
+    "category": "futbol",
+    "subcategory": "scouting",
+    "tags": [
+      "video",
+      "diseno",
+      "rag",
+      "javascript",
+      "futbol"
+    ],
+    "source": {
+      "file": "Apuntes Futbol.txt",
+      "line": 54
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-soccerdata-es-una-biblioteca-de-python-que-extrae-1yr3j",
+    "type": "note",
+    "title": "SoccerData es una biblioteca de Python que extrae datos de fútbol de plataformas como FBref, WhoScored,",
+    "summary": "https://github.com/probberechts/soccerdata",
+    "body": "SoccerData es una biblioteca de Python que extrae datos de fútbol de plataformas como FBref, WhoScored, Understat y Club Elo hacia DataFrames de Pandas.\nhttps://github.com/probberechts/soccerdata",
+    "url": "https://github.com/probberechts/soccerdata",
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "scraping",
+      "python",
+      "futbol"
+    ],
+    "source": {
+      "file": "Apuntes Futbol.txt",
+      "line": 69
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-importante-estudiar-este-enlace-ulshk",
+    "type": "note",
+    "title": "IMPORTANTE estudiar este enlace",
+    "summary": "https://getbruin.com/docs/ingestr/supported-sources/platforms.html#sports-games-and-public-data https://getbruin.com/docs/ingestr/supported-sources/api-football.html https://getbruin.com/docs/ingestr/supported-sources/balldontlie.html…",
+    "body": "IMPORTANTE estudiar este enlace\nhttps://getbruin.com/docs/ingestr/supported-sources/platforms.html#sports-games-and-public-data\n\nhttps://getbruin.com/docs/ingestr/supported-sources/api-football.html\nhttps://getbruin.com/docs/ingestr/supported-sources/balldontlie.html\nhttps://getbruin.com/docs/ingestr/supported-sources/espn.html\nhttps://getbruin.com/docs/ingestr/supported-sources/football-data-org.html",
+    "url": "https://getbruin.com/docs/ingestr/supported-sources/platforms.html#sports-games-and-public-data",
+    "links": [
+      {
+        "label": "getbruin.com",
+        "url": "https://getbruin.com/docs/ingestr/supported-sources/api-football.html"
+      },
+      {
+        "label": "getbruin.com",
+        "url": "https://getbruin.com/docs/ingestr/supported-sources/balldontlie.html"
+      },
+      {
+        "label": "getbruin.com",
+        "url": "https://getbruin.com/docs/ingestr/supported-sources/espn.html"
+      },
+      {
+        "label": "getbruin.com",
+        "url": "https://getbruin.com/docs/ingestr/supported-sources/football-data-org.html"
+      }
+    ],
+    "category": "futbol",
+    "subcategory": "datos",
+    "tags": [
+      "futbol",
+      "estudio"
+    ],
+    "source": {
+      "file": "Apuntes Futbol.txt",
+      "line": 73
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  },
+  {
+    "id": "note-para-la-temporada-26-27-estare-haciendo-seguimient-nyns4",
+    "type": "note",
+    "title": "Para la temporada 26/27 estaré haciendo seguimiento con estas apps de todas las ligas",
+    "summary": "Scorely (http://escorely.app) Ya en marcha con datos de la 26/27 aunque con algunos cambios. 11s, listados, alertas, oportunidades de mercado, convocatorias, etc.",
+    "body": "Para la temporada 26/27 estaré haciendo seguimiento con estas apps de todas las ligas:\n- Scorely (http://escorely.app) Ya en marcha con datos de la 26/27 aunque con algunos cambios. 11s, listados, alertas, oportunidades de mercado, convocatorias, etc. Muy útil para procesos iniciales de scouting a partir del rating de jugadores\n- Tikidata. Es la evolución de FifaPhy (https://fifaphy.vercel.app) que pudistéis disfrutar en el mundial pero para ligas. Evidentemente sin datos físicos, pero todo el resto de análisis. La tengo al 50%, ya os compartiré acceso.\n- PenaltiLab. Un centro de análisis de penaltis (tiradores y porteros con más de 150k partidos analizados y cerca de 60k penaltis de cientos de competiciones. Está al 95%. En cuanto la tenga os la comparto pero espero que sea en un par de días. Quiero dejarla fetén. \n\nOtras herramientas que voy a trabajar:\n- AerialLab: Es una herramienta dedicada al análisis de los duelos aéreos. Un duelo aéreo tiene muchos contextos, y en esta web vamos a desgranarlos todos. Está al 5%. En mi TL podéis buscar cuando hablo de esto. \n- GoalkeeperLab: Dedicada al portero con balón. Hay muchas métricas que definen a un portero en función de lo que para. Aquí vamos a ver al portero con balón desde los principios de juego, apoyos, circulaciones, entre centrales, hombre libre, etc. Tengo mucho hecho de análisis que hice para clubes pero toca montarlo a nivel web. \n- TheStrikerLab: Web dedicada a los delanteros desde el punto de vista de los principios de juego, descargas, apoyos por dentro/fuera, etc. Igual que los porteros mucho avanzado a nivel teórico de análisis que ya he hecho, pero toca llevarlo a web.",
+    "url": "http://escorely.app",
+    "links": [
+      {
+        "label": "fifaphy.vercel.app",
+        "url": "https://fifaphy.vercel.app"
+      }
+    ],
+    "category": "futbol",
+    "subcategory": "scouting",
+    "tags": [
+      "futbol"
+    ],
+    "source": {
+      "file": "Apuntes Futbol.txt",
+      "line": 84
+    },
+    "status": "active",
+    "createdAt": "2026-11-04T20:25:11.175Z",
+    "updatedAt": "2026-11-04T20:25:11.175Z"
+  }
+]
