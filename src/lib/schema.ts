@@ -27,6 +27,8 @@ export const EntrySchema = z.object({
   title: z.string().min(1).max(160),
   summary: z.string().max(600),
   body: z.string().optional(),
+  /** "text" (por defecto): texto plano con saltos de línea · "html": contenido con formato del editor enriquecido */
+  bodyFormat: z.enum(["text", "html"]).optional(),
   url: z.string().url().optional(),
   links: z.array(z.object({ label: z.string(), url: z.string().url() })).optional(),
   github: z.object({ owner: z.string(), repo: z.string() }).optional(),

@@ -1,5 +1,6 @@
 import MiniSearch from "minisearch";
 import type { Entry } from "./schema";
+import { htmlToText } from "./html";
 
 const strip = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
@@ -9,6 +10,7 @@ export function buildIndex(entries: Entry[]) {
     storeFields: ["id"],
     extractField: (doc, field) => {
       if (field === "tagsText") return [...doc.tags, doc.subcategory ?? ""].join(" ");
+      if (field === "body") return doc.body && doc.bodyFormat === "html" ? htmlToText(doc.body) : (doc.body ?? "");
       if (field === "repoText") return doc.github ? `${doc.github.owner} ${doc.github.repo}` : (doc.url ?? "");
       return (doc as Record<string, unknown>)[field] as string;
     },

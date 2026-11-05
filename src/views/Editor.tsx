@@ -2,6 +2,8 @@ import { useMemo, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { BY_ID, ENTRIES, IS_DEV, githubEditUrl } from "../lib/data";
 import { CATEGORIES, ENTRY_TYPES, EntrySchema, TYPE_LABELS, type Entry } from "../lib/schema";
+import { sanitizeHtml, textToHtml } from "../lib/html";
+import RichEditor from "../components/RichEditor";
 
 function slugify(s: string) {
   return s
@@ -35,7 +37,9 @@ function toForm(e?: Entry): Form {
     updatedAt: now,
   };
   const { tags, links, ...rest } = base;
-  return { ...rest, tagsText: tags.join(", "), linksText: (links ?? []).map((l) => `${l.label} | ${l.url}`).join("\n") };
+  // El contenido se edita siempre como HTML; el texto plano importado se convierte al abrirlo.
+  const body = rest.body ? (rest.bodyFormat === "html" ? rest.body : textToHtml(rest.body)) : undefined;
+  return { ...rest, body, bodyFormat: body ? "html" : undefined, tagsText: tags.join(", "), linksText: (links ?? []).map((l) => `${l.label} | ${l.url}`).join("\n") };
 }
 
 function fromForm(f: Form): Entry {
@@ -52,6 +56,8 @@ function fromForm(f: Form): Entry {
   return {
     ...clean,
     summary: rest.summary ?? "",
+    body: rest.body ? sanitizeHtml(rest.body) : undefined,
+    bodyFormat: rest.body ? "html" : undefined,
     github: rest.url ? ghOf(rest.url) : undefined,
     tags: [...new Set(tagsText.split(",").map((t) => slugify(t)).filter(Boolean))],
     links: links.length ? links : undefined,
@@ -175,10 +181,12 @@ export default function Editor() {
           Resumen <small>(1–2 frases, se muestra en la tarjeta)</small>
           <textarea rows={3} value={form.summary} onChange={(e) => up("summary", e.target.value)} maxLength={600} />
         </label>
-        <label className="span2">
-          Contenido / prompt completo
-          <textarea rows={10} value={form.body ?? ""} onChange={(e) => up("body", e.target.value || undefined)} />
-        </label>
+        <div className="span2 field">
+          <span className="field-label">
+            Contenido / prompt completo <small>(negrita, subrayado, alineación, listas, enlaces…)</small>
+          </span>
+          <RichEditor value={form.body ?? ""} onChange={(html) => up("body", html || undefined)} placeholder="Desarrolla aquí el contenido de la ficha…" />
+        </div>
         <label className="span2">
           Tags <small>(separados por comas)</small>
           <input value={form.tagsText} onChange={(e) => up("tagsText", e.target.value)} />

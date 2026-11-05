@@ -279,3 +279,50 @@ select {
   .detail-head h1 { font-size: 1.45rem; }
   .toggle { flex-basis: 100%; }
 }
+
+/* ---------- contenido con formato (ficha y editor) ---------- */
+.rich.prose { white-space: normal; }
+.prose > :first-child { margin-top: 0; }
+.prose > :last-child { margin-bottom: 0; }
+.prose p { margin: 0 0 0.8em; }
+.prose h2 { font-size: 1.25rem; margin: 1.2em 0 0.5em; }
+.prose h3 { font-size: 1.08rem; margin: 1.1em 0 0.4em; }
+.prose ul, .prose ol { padding-left: 1.4em; margin: 0 0 0.8em; }
+.prose li > p { margin: 0.15em 0; }
+.prose blockquote { margin: 0 0 0.8em; padding: 4px 14px; border-left: 3px solid var(--accent); color: var(--muted); }
+.prose pre { background: var(--surface-2); padding: 12px 14px; border-radius: 8px; overflow-x: auto; white-space: pre; }
+.prose pre code { background: none; padding: 0; }
+.prose hr { border: 0; border-top: 1px solid var(--border); margin: 1.2em 0; }
+.prose mark { background: #fff1a8; color: #1f2937; padding: 0 2px; border-radius: 2px; }
+.prose a { text-decoration: underline; }
+
+/* ---------- editor enriquecido ---------- */
+.field { display: flex; flex-direction: column; gap: 5px; }
+.field-label { font-weight: 600; font-size: 0.88rem; }
+.field-label small { font-weight: 400; color: var(--muted); }
+.rt { border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+.rt:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.rt-toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 2px;
+  padding: 6px; border-bottom: 1px solid var(--border); background: var(--surface-2);
+  border-radius: 8px 8px 0 0; position: sticky; top: 57px; z-index: 5;
+}
+.rt-btn {
+  min-width: 30px; height: 30px; padding: 0 6px; border: 1px solid transparent; border-radius: 6px;
+  background: transparent; cursor: pointer; display: inline-grid; place-items: center; font-size: 0.9rem; line-height: 1;
+}
+.rt-btn:hover:not(:disabled) { background: var(--surface); border-color: var(--border); }
+.rt-btn.on { background: var(--accent-soft); color: var(--accent); border-color: color-mix(in srgb, var(--accent) 35%, transparent); }
+.rt-btn:disabled { opacity: 0.35; cursor: default; }
+.rt-sep { width: 1px; height: 20px; background: var(--border); margin: 0 4px; }
+.rt-select { height: 30px; padding: 0 6px; font-size: 0.85rem; }
+.rt-mark { background: #fff1a8; color: #1f2937; padding: 0 3px; border-radius: 2px; }
+.rt-colors { display: inline-flex; align-items: center; gap: 3px; margin-left: 2px; }
+.rt-swatch { width: 16px; height: 16px; border-radius: 50%; border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--border); cursor: pointer; padding: 0; }
+.rt-swatch.on { box-shadow: 0 0 0 2px var(--accent); }
+.rt-content .ProseMirror { min-height: 260px; max-height: 70vh; overflow-y: auto; padding: 14px 16px; outline: none; font-size: 0.95rem; }
+.rt-content .ProseMirror p.is-editor-empty:first-child::before {
+  content: attr(data-placeholder); color: var(--muted); float: left; height: 0; pointer-events: none;
+}
+@media (max-width: 860px) { .rt-toolbar { top: 0; position: static; } }
+.form-grid .rt-select, .field .rt-select { width: auto; padding: 0 6px; }

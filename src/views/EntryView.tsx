@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { BY_ID, ENTRIES, IS_DEV, assetUrl, categoryOf, githubEditUrl } from "../lib/data";
 import { TYPE_LABELS } from "../lib/schema";
 import EntryCard, { Thumb, hostOf } from "../components/EntryCard";
+import { htmlToText, sanitizeHtml } from "../lib/html";
 
 const URL_SPLIT = /(https?:\/\/[^\s<>"')\]]+)/g;
 
@@ -43,7 +44,7 @@ export default function EntryView() {
 
   const copy = async () => {
     try {
-      await navigator.clipboard.writeText(e.body ?? e.summary);
+      await navigator.clipboard.writeText(e.body ? (e.bodyFormat === "html" ? htmlToText(e.body) : e.body) : e.summary);
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);
     } catch {
@@ -114,7 +115,7 @@ export default function EntryView() {
       {e.body && (
         <section>
           <h2>{e.type === "prompt" ? "Prompt" : "Contenido"}</h2>
-          <RichText text={e.body} />
+          {e.bodyFormat === "html" ? <div className="rich prose" dangerouslySetInnerHTML={{ __html: sanitizeHtml(e.body) }} /> : <RichText text={e.body} />}
         </section>
       )}
 

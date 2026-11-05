@@ -7592,12 +7592,12 @@
     "id": "gh-souzatharsis-p",
     "type": "repo",
     "title": "Podcastfy",
-    "summary": "Convierte material fuente en conversaciones de podcast generadas por IA, personaliza el diálogo y produce audio en múltiples idiomas.",
-    "body": "9. Podcastfy\n\nConvierte material fuente en conversaciones de podcast generadas por IA, personaliza el diálogo y produce audio en múltiples idiomas.\n\nhttp://github.com/souzatharsis/p…",
-    "url": "https://github.com/souzatharsis/p",
+    "summary": "podcastfy es una biblioteca de código abierto en Python que transforma contenidos multimodales (textos, webs, PDFs o vídeos de YouTube) en conversaciones de audio multilingües y atractivas al estilo podcast, funcionando como una alternativa personalizable y programática a la función de podcast de NotebookLM.",
+    "body": "El objetivo principal de podcastfy es permitir la creación de podcasts conversacionales (dos o más interlocutores debatiendo sobre un tema) de forma modular y automatizada mediante código o terminal (CLI):\n\n-- Ingesta multimodal: Permite alimentar el sistema con múltiples tipos de fuentes de datos (enlaces web, documentos PDF, imágenes, vídeos de YouTube o temas de búsqueda en tiempo real).\n-- Generación del guion conversacional: Emplea modelos de lenguaje (LLMs) para sintetizar la información y estructurar una conversación natural y dinámica con dos voces en diferentes idiomas. Permite personalizar el tono, el nivel de detalle, la duración (desde episodios cortos de 2–5 min hasta formatos largos de más de 30 min) y los estilos de conversación.   Conversión a voz (TTS - Text-to-Speech): Utiliza motores de síntesis de voz para asignar distintas voces realistas a cada locutor, añadiendo pausas e inflexiones conversacionales y generando el archivo final de audio (MP3).   ¿Es totalmente gratuito o requiere pagos/suscripciones?El software podcastfy es 100 % libre, gratuito y de código abierto (licencia Apache 2.0); no cobra ninguna suscripción mensual ni de membresía por utilizar la librería.   Sin embargo, para funcionar necesita dos componentes clave (un LLM para el guion y un motor TTS para el audio), y la necesidad de pagar depende enteramente de los proveedores que decidas configurar:1. Configuración 100 % gratuita (Sin pagar nada)Es posible utilizarlo a coste cero mediante dos vías:Uso de modelos locales: Permite conectar LLMs locales (por ejemplo, modelos de Hugging Face a través de Ollama/vLLM) para generar el guion y utilizar motores TTS gratuitos/abiertos como Microsoft Edge TTS (edge-tts), el cual no requiere clave de API de pago.   Capas gratuitas de APIs: Puedes utilizar la clave gratuita de Google AI Studio (Gemini) dentro de sus límites de cuota gratuita y combinarla con Edge TTS.   2. Configuración con APIs de pago por uso (Opcional)Si deseas la máxima calidad de voz o modelos de lenguaje comerciales en la nube:LLMs comerciales: Si prefieres usar OpenAI (GPT-4o), Anthropic (Claude) o Google Cloud Vertex AI, necesitarás saldo en las plataformas correspondientes (pago por token consumido).   Voces prémium (TTS): Si optas por voces hiperrealistas de servicios como ElevenLabs, OpenAI TTS o Google Cloud TTS, requerirás sus respectivas claves de API y planes de pago/saldo.   En resumen: No requiere suscripciones obligatorias. Puedes usarlo completamente gratis si lo ejecutas con modelos locales/gratuitos y Edge TTS, o pagar únicamente por el consumo de las APIs externas si decides integrar proveedores comerciales prémium.Para ver una demostración audiovisual rápida de lo que es capaz de generar este proyecto, puedes revisar el video Podcastfy Demo & Showcase.Este video es relevante porque muestra el resultado sonoro y el flujo de generación que produce la herramienta a partir de contenido multimodal.",
+    "url": "https://github.com/souzatharsis/podcastfy",
     "github": {
       "owner": "souzatharsis",
-      "repo": "p"
+      "repo": "podcastfy"
     },
     "category": "repos",
     "subcategory": "audio-voz",
@@ -7610,7 +7610,7 @@
     },
     "status": "active",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-05T06:54:35.726Z"
   },
   {
     "id": "gh-langchain-ai-s",

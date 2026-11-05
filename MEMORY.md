@@ -70,6 +70,9 @@ Los **tags** son transversales (ej. `claude-code`, `mcp`, `python`, `open-source
 - **UI:** feed de tarjetas (avatar del owner de GitHub o favicon, badge de tipo con color, tags clicables, enlace directo), barra lateral por categoría con contadores, filtros por subcategoría / tipo / tag, orden (recientes, A–Z, orden original, relevancia), toggle de "pendientes de revisión", paginación "Ver más", ficha detalle tipo wiki (texto original con enlaces, imagen OG de GitHub, enlaces extra, "Copiar prompt", relacionados), tema claro/oscuro (sistema + toggle), responsive (menú lateral deslizante < 860 px).
 - **Edición (contenido vivo):**
   - *Local*: `vite-plugin-admin.ts` añade `PUT /api/entries` y `DELETE /api/entries/:id` **sólo en `vite serve`** (`apply: "serve"`). Escribe en `data/*.json`, valida con zod, gestiona cambios de categoría/id y rechaza ids duplicados. Protección: servidor en 127.0.0.1 + rechazo de peticiones con `Origin` ajeno (anti-CSRF). UI: botón "+ Nueva" y "✎ Editar" → `#/admin/new`, `#/admin/edit/:id`.
+  - *Editor enriquecido* (`src/components/RichEditor.tsx`, TipTap 2): negrita, cursiva, subrayado, tachado, código, resaltado, 6 colores de texto, título/subtítulo/bloque de código, alineación izquierda/centro/derecha/**justificado**, listas, cita, separador, enlaces, deshacer/rehacer y "quitar formato". Se carga con `React.lazy` sólo al abrir `/admin` (≈77 kB gzip aparte del bundle principal).
+  - El contenido con formato se guarda como HTML en `body` con `bodyFormat: "html"`. Las entradas de texto plano (ingesta) se convierten a HTML al abrirlas en el editor (`textToHtml`) y pasan a `html` al guardar.
+  - Seguridad: el HTML se sanea con DOMPurify (`src/lib/html.ts`) al guardar y al mostrar: lista blanca de etiquetas, sólo enlaces http/https/mailto, `style` limitado a `text-align`, `color` y `background-color`.
   - *Publicado*: sólo lectura; "✎ Editar en GitHub" abre `data/<category>.json` en el editor web de GitHub → commit → el workflow redepliega.
 - **Ingesta:** `npm run ingest` (`scripts/ingest.ts`):
   - Decodifica línea a línea UTF-8 → GB18030 → Windows-1252 (`Herramientas.txt` tenía mezcla GB18030 + CP1252; los emojis originales ya se habían perdido como `??`).
@@ -107,7 +110,8 @@ type Entry = {
   type: "repo" | "tool" | "prompt" | "note" | "course";
   title: string;
   summary: string;         // ≤600, se muestra en la tarjeta
-  body?: string;           // texto original / prompt completo (texto plano, enlaces autodetectados)
+  body?: string;           // texto original / prompt completo
+  bodyFormat?: "text" | "html"; // text (defecto): texto plano con enlaces autodetectados · html: editor enriquecido (saneado)
   url?: string;
   links?: { label: string; url: string }[];
   github?: { owner: string; repo: string };
@@ -132,6 +136,8 @@ type Entry = {
 - **2026-11-04** — Propuesta aprobada. Implementado: scaffold Vite/React/TS, esquema zod, ingesta con reparación de codificación, 612 entradas en `/data`, 54 recursos + prompt extraídos de las imágenes, feed/buscador/filtros/detalle, panel de edición local, validación y workflow de GitHub Pages. Verificado en navegador: búsqueda, ficha, edición → escritura en JSON → recarga, re-ingesta conserva la edición, layout móvil sin scroll horizontal. Commit 5f27836 en main.
 - **2026-11-04** — GitHub Pages activado (build_type: workflow). Despliegue OK: https://rootsevillano.github.io/repogithub/ (verificado en navegador, modo sólo lectura).
 
+- **2026-11-05** — Editor de texto enriquecido para el contenido de las fichas (formato, alineación/justificado, colores, listas, enlaces), campo `bodyFormat`, render HTML saneado, búsqueda y "Copiar prompt" sobre texto plano extraído del HTML, editor cargado bajo demanda. Verificado en navegador (guardar → ficha con centrado, color, negrita+subrayado y justificado; scripts/onerror/javascript: eliminados; prompt XML en texto plano se abre literal).
+
 ## 6. Estado y próximos pasos
 
 **Estado:** MVP publicado en https://rootsevillano.github.io/repogithub/ · edición local con `npm run dev`.
@@ -141,4 +147,5 @@ type Entry = {
 3. Reescribir en tono neutro los títulos tipo clickbait de `prompts`/`conceptos` (p. ej. "ÚLTIMA HORA: …").
 4. Opcional: dividir los packs de prompts en prompts individuales copiables.
 5. Opcional: enriquecer repos con estrellas/lenguaje vía API de GitHub en un script (`scripts/enrich.ts`), cacheado en el JSON.
-6. Opcional: code-splitting de `/data` por categoría si el bundle crece (hoy ≈210 kB gzip).
+6. Ingesta: algunos enlaces de origen vienen truncados con «…» (p. ej. `github.com/souzatharsis/p…` → repo «p»); detectarlos y marcarlos `review`.
+7. Opcional: code-splitting de `/data` por categoría si el bundle crece (hoy ≈210 kB gzip).

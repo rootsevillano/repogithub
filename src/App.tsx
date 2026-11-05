@@ -1,10 +1,11 @@
-import { useEffect, useState } from "react";
+import { Suspense, lazy, useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes, useLocation, useNavigate, useSearchParams } from "react-router-dom";
 import { CATEGORIES } from "./lib/schema";
 import { ENTRIES, IS_DEV } from "./lib/data";
 import Feed from "./views/Feed";
 import EntryView from "./views/EntryView";
-import Editor from "./views/Editor";
+// El editor (TipTap) se carga bajo demanda: la web publicada no lo descarga salvo que se abra /admin.
+const Editor = lazy(() => import("./views/Editor"));
 
 function useTheme() {
   const [theme, setTheme] = useState<string | null>(() => {
@@ -123,6 +124,7 @@ export default function App() {
       {menu && <div className="scrim" onClick={() => setMenu(false)} />}
 
       <main className="content">
+        <Suspense fallback={<p className="empty">Cargando…</p>}>
         <Routes>
           <Route path="/" element={<Feed />} />
           <Route path="/c/:cat" element={<Feed />} />
@@ -131,6 +133,7 @@ export default function App() {
           <Route path="/admin/edit/:id" element={<Editor />} />
           <Route path="*" element={<p className="empty">Página no encontrada. <Link to="/">Volver al inicio</Link></p>} />
         </Routes>
+        </Suspense>
       </main>
     </div>
   );
