@@ -48,14 +48,35 @@ export function countBy<T>(items: T[], key: (t: T) => string | string[] | undefi
   return [...m.entries()].sort((a, b) => b[1] - a[1]);
 }
 
+export const OFFLINE_MSG =
+  "No hay conexión con el servidor local de edición. Comprueba que «npm run dev» sigue en marcha (si lo cerraste, vuelve a arrancarlo) y pulsa de nuevo Guardar: tus cambios siguen en el formulario.";
+
+/** fetch a la API local con un mensaje claro si el servidor de desarrollo no responde. */
+export async function apiFetch(url: string, init?: RequestInit): Promise<Response> {
+  try {
+    return await fetch(url, init);
+  } catch {
+    throw new Error(OFFLINE_MSG);
+  }
+}
+
+/** Lee la respuesta JSON de la API; si no es JSON (p. ej. otro servidor), da un error comprensible. */
+export async function apiJson(r: Response) {
+  try {
+    return await r.json();
+  } catch {
+    throw new Error(`La API local respondió ${r.status} sin datos válidos. ${OFFLINE_MSG}`);
+  }
+}
+
 /** Guarda una ficha mediante la API local (sólo en dev). */
 export async function saveEntry(entry: Entry, originalId?: string) {
-  const r = await fetch("/api/entries", {
+  const r = await apiFetch("/api/entries", {
     method: "PUT",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ entry, originalId }),
   });
-  const res = await r.json();
+  const res = await apiJson(r);
   if (!r.ok) throw new Error(res.error + (res.issues ? `: ${res.issues.map((i: { path: string[]; message: string }) => `${i.path.join(".")} ${i.message}`).join(" · ")}` : ""));
   return res.entry as Entry;
 }

@@ -223,6 +223,12 @@
       "label": "Curso / Recurso",
       "icon": "🎓",
       "color": "#c2386f"
+    },
+    {
+      "id": "skill",
+      "label": "Skill",
+      "icon": "•",
+      "color": "#475569"
     }
   ],
   "statuses": [

@@ -38,7 +38,7 @@ export default function ThreadPanel({ entry: e, generateSignal = 0 }: { entry: E
       setDirty(false);
       setMsg({ ok: true, text: okText });
     } catch (err) {
-      setMsg({ ok: false, text: String(err) });
+      setMsg({ ok: false, text: String(err).replace(/^Error: /, "") });
     } finally {
       setBusy(false);
     }

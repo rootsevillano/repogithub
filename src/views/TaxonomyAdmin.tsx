@@ -1,6 +1,6 @@
 import { useMemo, useState, type CSSProperties } from "react";
 import { Link } from "react-router-dom";
-import { ENTRIES, IS_DEV, TAXONOMY } from "../lib/data";
+import { ENTRIES, IS_DEV, TAXONOMY, apiFetch, apiJson } from "../lib/data";
 import { SLUG, TaxonomySchema, type Remap, type Taxonomy } from "../lib/taxonomy";
 
 type Tab = "categories" | "types" | "statuses";
@@ -177,8 +177,8 @@ export default function TaxonomyAdmin() {
     }
     setSaving(true);
     try {
-      const r = await fetch("/api/taxonomy", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ taxonomy: t, remap }) });
-      const res = await r.json();
+      const r = await apiFetch("/api/taxonomy", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ taxonomy: t, remap }) });
+      const res = await apiJson(r);
       if (!r.ok) throw new Error(res.error);
       setMsg({ ok: true, text: `Taxonomía guardada${res.updated ? ` · ${res.updated} fichas reasignadas` : ""}. Recargando…` });
       setRemap({});

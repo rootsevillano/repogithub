@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { BY_ID, CATEGORIES, ENTRIES, IS_DEV, STATUSES, TYPES, categoryOf, githubEditUrl, saveEntry } from "../lib/data";
+import { BY_ID, CATEGORIES, ENTRIES, IS_DEV, STATUSES, TYPES, categoryOf, githubEditUrl, saveEntry, apiFetch, apiJson } from "../lib/data";
 import { EntrySchema, TWITTER_STATES, type Entry } from "../lib/schema";
 import { sanitizeHtml, textToHtml } from "../lib/html";
 import RichEditor from "../components/RichEditor";
@@ -106,16 +106,20 @@ export default function Editor() {
       // Vite recarga la página al cambiar /data; navegamos a la ficha guardada.
       nav(`/e/${entry.id}`);
     } catch (err) {
-      setError(String(err));
+      setError(String(err).replace(/^Error: /, ""));
       setSaving(false);
     }
   };
 
   const remove = async () => {
     if (!existing || !confirm(`¿Eliminar «${existing.title}» de data/${existing.category}.json?`)) return;
-    const r = await fetch(`/api/entries/${encodeURIComponent(existing.id)}`, { method: "DELETE" });
-    if (r.ok) nav(`/c/${existing.category}`);
-    else setError((await r.json()).error);
+    try {
+      const r = await apiFetch(`/api/entries/${encodeURIComponent(existing.id)}`, { method: "DELETE" });
+      if (r.ok) nav(`/c/${existing.category}`);
+      else setError((await apiJson(r)).error);
+    } catch (err) {
+      setError(String(err).replace(/^Error: /, ""));
+    }
   };
 
   return (
