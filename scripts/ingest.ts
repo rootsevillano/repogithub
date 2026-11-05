@@ -14,7 +14,12 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { CATEGORIES, EntryListSchema, type CategoryId, type Entry } from "../src/lib/schema.ts";
+import { EntryListSchema, type Entry } from "../src/lib/schema.ts";
+import { loadTaxonomy, saveTaxonomy } from "./taxonomy-node.ts";
+
+type CategoryId = string;
+const TAX = loadTaxonomy();
+const CATEGORIES = TAX.categories;
 import { curatedEntries } from "./curated.ts";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
@@ -572,6 +577,17 @@ for (const e of generated) {
 for (const [id, e] of existing) if (!final.has(id) && (e.source.file === "manual" || e.updatedAt !== e.createdAt)) final.set(id, e);
 
 const all = EntryListSchema.parse([...final.values()]);
+
+// Registrar en la taxonomía las subcategorías nuevas que produzcan las reglas de clasificación.
+let newSubs = 0;
+for (const e of all) {
+  const c = CATEGORIES.find((x) => x.id === e.category);
+  if (c && e.subcategory && !c.subcategories.some((s) => s.id === e.subcategory)) {
+    c.subcategories.push({ id: e.subcategory, name: e.subcategory.replace(/-/g, " ").replace(/^./, (m) => m.toUpperCase()) });
+    newSubs++;
+  }
+}
+if (newSubs) (saveTaxonomy(TAX), console.log(`Subcategorías nuevas registradas en config/taxonomy.json: ${newSubs}`));
 for (const c of CATEGORIES) {
   const list = all.filter((e) => e.category === c.id);
   fs.writeFileSync(path.join(OUT, `${c.id}.json`), JSON.stringify(list, null, 2) + "\n");

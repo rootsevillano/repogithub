@@ -1,26 +1,26 @@
-/** Valida todos los JSON de /data contra el esquema y comprueba ids únicos. Uso: npm run validate */
-import fs from "node:fs";
-import path from "node:path";
-import { CATEGORIES, EntryListSchema } from "../src/lib/schema.ts";
+/** Valida config/taxonomy.json y todos los JSON de /data (esquema, ids únicos y referencias). Uso: npm run validate */
+import { EntryListSchema } from "../src/lib/schema.ts";
+import { dataCategories, loadTaxonomy, readCat, taxonomyIssues } from "./taxonomy-node.ts";
 
-const DATA = path.resolve(import.meta.dirname, "..", "data");
+const tax = loadTaxonomy(); // lanza si la taxonomía no es válida
 const ids = new Set<string>();
 let errors = 0;
 let total = 0;
-for (const c of CATEGORIES) {
-  const f = path.join(DATA, `${c.id}.json`);
-  const res = EntryListSchema.safeParse(JSON.parse(fs.readFileSync(f, "utf8")));
+const files = [...new Set([...tax.categories.map((c) => c.id), ...dataCategories()])];
+for (const cat of files) {
+  const res = EntryListSchema.safeParse(readCat(cat));
   if (!res.success) {
     errors++;
-    console.error(`✗ ${c.id}.json`, res.error.issues.slice(0, 5));
+    console.error(`✗ ${cat}.json`, res.error.issues.slice(0, 5));
     continue;
   }
   for (const e of res.data) {
     if (ids.has(e.id)) (errors++, console.error(`✗ id duplicado: ${e.id}`));
-    if (e.category !== c.id) (errors++, console.error(`✗ ${e.id} está en ${c.id}.json pero su categoría es ${e.category}`));
+    if (e.category !== cat) (errors++, console.error(`✗ ${e.id} está en ${cat}.json pero su categoría es ${e.category}`));
+    for (const p of taxonomyIssues(e, tax)) (errors++, console.error(`✗ ${e.id}: ${p}`));
     ids.add(e.id);
   }
   total += res.data.length;
 }
-console.log(errors ? `${errors} errores` : `✓ ${total} entradas válidas`);
+console.log(errors ? `${errors} errores` : `✓ ${total} entradas válidas · ${tax.categories.length} categorías · ${tax.types.length} tipos · ${tax.statuses.length} estados`);
 process.exit(errors ? 1 : 0);

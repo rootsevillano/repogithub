@@ -1,11 +1,11 @@
 import { Suspense, lazy, useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes, useLocation, useNavigate, useSearchParams } from "react-router-dom";
-import { CATEGORIES } from "./lib/schema";
-import { ENTRIES, IS_DEV } from "./lib/data";
+import { CATEGORIES, ENTRIES, IS_DEV, isVisible } from "./lib/data";
 import Feed from "./views/Feed";
 import EntryView from "./views/EntryView";
 // El editor (TipTap) se carga bajo demanda: la web publicada no lo descarga salvo que se abra /admin.
 const Editor = lazy(() => import("./views/Editor"));
+const TaxonomyAdmin = lazy(() => import("./views/TaxonomyAdmin"));
 
 function useTheme() {
   const [theme, setTheme] = useState<string | null>(() => {
@@ -82,7 +82,7 @@ export default function App() {
     window.scrollTo(0, 0);
   }, [loc.pathname]);
 
-  const counts = Object.fromEntries(CATEGORIES.map((c) => [c.id, ENTRIES.filter((e) => e.category === c.id && e.status !== "archived").length]));
+  const counts = Object.fromEntries(CATEGORIES.map((c) => [c.id, ENTRIES.filter((e) => e.category === c.id && isVisible(e)).length]));
 
   return (
     <div className="shell">
@@ -91,14 +91,27 @@ export default function App() {
           ☰
         </button>
         <Link to="/" className="brand">
-          <span className="brand-mark">◆</span> TechHub
+          <span className="brand-mark" aria-hidden>
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <path d="M12 2 3 7v10l9 5 9-5V7z" fill="none" stroke="currentColor" strokeWidth="2" strokeLinejoin="round" />
+              <path d="M12 12 3 7m9 5 9-5m-9 5v10" fill="none" stroke="currentColor" strokeWidth="2" strokeLinejoin="round" />
+            </svg>
+          </span>
+          <span className="brand-text">
+            TechHub<small>Radar técnico</small>
+          </span>
         </Link>
         <SearchBox />
         <div className="top-actions">
           {IS_DEV && (
-            <Link to="/admin/new" className="btn btn-primary">
-              + Nueva
-            </Link>
+            <>
+              <Link to="/admin/taxonomy" className="btn btn-ghost hide-sm" title="Tipos, estados, categorías y subcategorías">
+                ⚙ Taxonomía
+              </Link>
+              <Link to="/admin/new" className="btn btn-primary">
+                + Nueva
+              </Link>
+            </>
           )}
           <button className="icon-btn" onClick={toggle} aria-label="Cambiar tema" title="Cambiar tema">
             {dark ? "☀" : "☾"}
@@ -108,17 +121,31 @@ export default function App() {
 
       <aside className={`sidebar ${menu ? "open" : ""}`}>
         <nav>
+          <p className="nav-title">Explorar</p>
           <NavLink to="/" end className="nav-item">
             <span>🗞️</span> Todo <em>{Object.values(counts).reduce((a, b) => a + b, 0)}</em>
           </NavLink>
+          <p className="nav-title">Categorías</p>
           {CATEGORIES.map((c) => (
             <NavLink key={c.id} to={`/c/${c.id}`} className="nav-item">
               <span>{c.icon}</span> {c.name} <em>{counts[c.id]}</em>
             </NavLink>
           ))}
+          {IS_DEV && (
+            <>
+              <p className="nav-title">Administración</p>
+              <NavLink to="/admin/taxonomy" className="nav-item">
+                <span>⚙️</span> Taxonomía
+              </NavLink>
+              <NavLink to="/admin/new" className="nav-item">
+                <span>➕</span> Nueva ficha
+              </NavLink>
+            </>
+          )}
         </nav>
         <p className="sidebar-foot">
-          {IS_DEV ? "Modo edición local activo: los cambios se guardan en /data." : "Sólo lectura. Para editar, usa «Editar en GitHub» o ejecuta el proyecto en local."}
+          <span className={`mode-dot ${IS_DEV ? "on" : ""}`} aria-hidden />
+          {IS_DEV ? "Edición local activa · los cambios se guardan en /data" : "Sólo lectura · edita en local o en GitHub"}
         </p>
       </aside>
       {menu && <div className="scrim" onClick={() => setMenu(false)} />}
@@ -131,6 +158,7 @@ export default function App() {
           <Route path="/e/:id" element={<EntryView />} />
           <Route path="/admin/new" element={<Editor />} />
           <Route path="/admin/edit/:id" element={<Editor />} />
+          <Route path="/admin/taxonomy" element={<TaxonomyAdmin />} />
           <Route path="*" element={<p className="empty">Página no encontrada. <Link to="/">Volver al inicio</Link></p>} />
         </Routes>
         </Suspense>

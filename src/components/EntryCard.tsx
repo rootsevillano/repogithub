@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
-import { TYPE_LABELS, type Entry } from "../lib/schema";
-import { assetUrl, categoryOf } from "../lib/data";
+import type { Entry } from "../lib/schema";
+import { assetUrl, categoryOf, typeOf } from "../lib/data";
+import { StatusBadge, TypeBadge, XBadge, tint } from "./Badges";
 
 export function hostOf(url?: string) {
   if (!url) return "";
@@ -17,33 +18,36 @@ export function Thumb({ entry, size = 40 }: { entry: Entry; size?: number }) {
     : entry.url
       ? `https://www.google.com/s2/favicons?domain=${hostOf(entry.url)}&sz=64`
       : null;
-  if (!src) return <span className="thumb thumb-glyph" style={{ width: size, height: size }}>{categoryOf(entry.category).icon}</span>;
+  if (!src) return <span className="thumb thumb-glyph" style={{ width: size, height: size, fontSize: size * 0.48 }}>{categoryOf(entry.category).icon}</span>;
   return <img className="thumb" src={src} width={size} height={size} alt="" loading="lazy" referrerPolicy="no-referrer" />;
 }
 
 export default function EntryCard({ entry: e, showCategory, onTag }: { entry: Entry; showCategory?: boolean; onTag?: (t: string) => void }) {
   const cat = categoryOf(e.category);
   return (
-    <article className={`card type-${e.type}`}>
+    <article className="card" style={tint(typeOf(e.type).color)}>
       {e.image && (
-        <Link to={`/e/${e.id}`} className="card-image">
+        <Link to={`/e/${e.id}`} className="card-image" tabIndex={-1}>
           <img src={assetUrl(e.image)} alt="" loading="lazy" />
         </Link>
       )}
       <div className="card-head">
         <Thumb entry={e} />
         <div className="card-meta">
-          <span className={`badge badge-${e.type}`}>{TYPE_LABELS[e.type]}</span>
+          <TypeBadge type={e.type} />
+          <StatusBadge status={e.status} />
+          <XBadge entry={e} />
           {showCategory && (
-            <span className="muted">
+            <span className="card-cat">
               {cat.icon} {cat.name}
             </span>
           )}
-          {e.status === "review" && <span className="badge badge-review" title="Entrada importada sin descripción suficiente">revisar</span>}
         </div>
       </div>
       <h3>
-        <Link to={`/e/${e.id}`}>{e.title}</Link>
+        <Link to={`/e/${e.id}`} className="stretched">
+          {e.title}
+        </Link>
       </h3>
       {e.github && (
         <p className="repo-path">

@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "repos",
+      "name": "Repositorios Destacados",
+      "icon": "📦",
+      "description": "Proyectos open source de interés general: agentes IA, Claude Code, MCP, vídeo, voz, seguridad…",
+      "hashtags": [
+        "OpenSource",
+        "GitHub"
+      ],
+      "subcategories": [
+        {
+          "id": "agentes-ia",
+          "name": "Agentes IA"
+        },
+        {
+          "id": "audio-voz",
+          "name": "Audio y voz"
+        },
+        {
+          "id": "claude-code",
+          "name": "Claude Code"
+        },
+        {
+          "id": "dev-tools",
+          "name": "Dev tools"
+        },
+        {
+          "id": "diseno",
+          "name": "Diseño"
+        },
+        {
+          "id": "mcp",
+          "name": "MCP"
+        },
+        {
+          "id": "scraping",
+          "name": "Scraping"
+        },
+        {
+          "id": "seguridad",
+          "name": "Seguridad"
+        },
+        {
+          "id": "self-hosted",
+          "name": "Self-hosted"
+        },
+        {
+          "id": "video",
+          "name": "Vídeo"
+        }
+      ]
+    },
+    {
+      "id": "aprendizaje",
+      "name": "Educación y Aprendizaje",
+      "icon": "🎓",
+      "description": "Rutas de aprendizaje, cursos, libros y repos para formarse.",
+      "hashtags": [
+        "Aprendizaje",
+        "Programación"
+      ],
+      "subcategories": [
+        {
+          "id": "ciberseguridad",
+          "name": "Ciberseguridad"
+        },
+        {
+          "id": "cursos-libros",
+          "name": "Cursos y libros"
+        },
+        {
+          "id": "data-science",
+          "name": "Data science"
+        },
+        {
+          "id": "machine-learning",
+          "name": "Machine learning"
+        },
+        {
+          "id": "programacion",
+          "name": "Programación"
+        }
+      ]
+    },
+    {
+      "id": "herramientas",
+      "name": "Herramientas Web",
+      "icon": "🧰",
+      "description": "Servicios web, apps y utilidades.",
+      "hashtags": [
+        "Herramientas",
+        "Productividad"
+      ],
+      "subcategories": [
+        {
+          "id": "diseno",
+          "name": "Diseño"
+        },
+        {
+          "id": "ia",
+          "name": "IA"
+        },
+        {
+          "id": "multimedia",
+          "name": "Multimedia"
+        },
+        {
+          "id": "productividad",
+          "name": "Productividad"
+        },
+        {
+          "id": "seguridad",
+          "name": "Seguridad"
+        },
+        {
+          "id": "self-hosted",
+          "name": "Self-hosted"
+        }
+      ]
+    },
+    {
+      "id": "prompts",
+      "name": "Prompts IA",
+      "icon": "💬",
+      "description": "Prompts listos para usar con modelos de IA.",
+      "hashtags": [
+        "Prompts",
+        "IA"
+      ],
+      "subcategories": [
+        {
+          "id": "desarrollo",
+          "name": "Desarrollo"
+        },
+        {
+          "id": "estudio",
+          "name": "Estudio"
+        },
+        {
+          "id": "marketing",
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "id": "conceptos",
+      "name": "Conceptos Tech",
+      "icon": "🧠",
+      "description": "Apuntes y notas sobre servicios y conceptos tecnológicos.",
+      "hashtags": [
+        "Tecnología",
+        "Tech"
+      ],
+      "subcategories": [
+        {
+          "id": "arquitectura",
+          "name": "Arquitectura"
+        },
+        {
+          "id": "buenas-practicas",
+          "name": "Buenas prácticas"
+        },
+        {
+          "id": "servicios-ia",
+          "name": "Servicios IA"
+        }
+      ]
+    },
+    {
+      "id": "futbol",
+      "name": "Fútbol & Sports Analytics",
+      "icon": "⚽",
+      "description": "Datos, visión computacional y scouting aplicados al fútbol.",
+      "hashtags": [
+        "Fútbol",
+        "SportsAnalytics"
+      ],
+      "subcategories": [
+        {
+          "id": "datos",
+          "name": "Datos"
+        },
+        {
+          "id": "scouting",
+          "name": "Scouting"
+        },
+        {
+          "id": "vision-computacional",
+          "name": "Visión computacional"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "id": "repo",
+      "label": "Repositorio",
+      "icon": "📦",
+      "color": "#2f5bea"
+    },
+    {
+      "id": "tool",
+      "label": "Herramienta",
+      "icon": "🛠️",
+      "color": "#0f8a6a"
+    },
+    {
+      "id": "prompt",
+      "label": "Prompt",
+      "icon": "💬",
+      "color": "#8a3fd1"
+    },
+    {
+      "id": "note",
+      "label": "Apunte",
+      "icon": "📝",
+      "color": "#b5651d"
+    },
+    {
+      "id": "course",
+      "label": "Curso / Recurso",
+      "icon": "🎓",
+      "color": "#c2386f"
+    }
+  ],
+  "statuses": [
+    {
+      "id": "active",
+      "label": "Publicada",
+      "color": "#0f8a6a",
+      "visible": true,
+      "flag": false
+    },
+    {
+      "id": "review",
+      "label": "Pendiente de revisión",
+      "color": "#b7791f",
+      "visible": true,
+      "flag": true
+    },
+    {
+      "id": "archived",
+      "label": "Archivada",
+      "color": "#6b7280",
+      "visible": false,
+      "flag": true
+    }
+  ]
+}

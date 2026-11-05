@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { BY_ID, ENTRIES, IS_DEV, githubEditUrl } from "../lib/data";
-import { CATEGORIES, ENTRY_TYPES, EntrySchema, TYPE_LABELS, type Entry } from "../lib/schema";
+import { BY_ID, CATEGORIES, ENTRIES, IS_DEV, STATUSES, TYPES, categoryOf, githubEditUrl, saveEntry } from "../lib/data";
+import { EntrySchema, TWITTER_STATES, type Entry } from "../lib/schema";
 import { sanitizeHtml, textToHtml } from "../lib/html";
 import RichEditor from "../components/RichEditor";
 
@@ -26,13 +26,13 @@ function toForm(e?: Entry): Form {
   const now = new Date().toISOString();
   const base: Entry = e ?? {
     id: "",
-    type: "repo",
+    type: TYPES[0].id,
     title: "",
     summary: "",
-    category: "repos",
+    category: CATEGORIES[0].id,
     tags: [],
     source: { file: "manual" },
-    status: "active",
+    status: STATUSES.find((s) => s.visible)!.id,
     createdAt: now,
     updatedAt: now,
   };
@@ -73,7 +73,7 @@ export default function Editor() {
   const [saving, setSaving] = useState(false);
 
   const allTags = useMemo(() => [...new Set(ENTRIES.flatMap((e) => e.tags))].sort(), []);
-  const subs = useMemo(() => [...new Set(ENTRIES.filter((e) => e.category === form.category).map((e) => e.subcategory).filter(Boolean))] as string[], [form.category]);
+  const subs = categoryOf(form.category).subcategories;
 
   if (!IS_DEV) {
     return (
@@ -102,13 +102,7 @@ export default function Editor() {
     }
     setSaving(true);
     try {
-      const r = await fetch("/api/entries", {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ entry, originalId: existing?.id }),
-      });
-      const res = await r.json();
-      if (!r.ok) throw new Error(res.error + (res.issues ? `: ${JSON.stringify(res.issues)}` : ""));
+      await saveEntry(entry, existing?.id);
       // Vite recarga la página al cambiar /data; navegamos a la ficha guardada.
       nav(`/e/${entry.id}`);
     } catch (err) {
@@ -138,25 +132,34 @@ export default function Editor() {
         </label>
         <label>
           Tipo
-          <select value={form.type} onChange={(e) => up("type", e.target.value as Entry["type"])}>
-            {ENTRY_TYPES.map((t) => (
-              <option key={t} value={t}>
-                {TYPE_LABELS[t]}
+          <select value={form.type} onChange={(e) => up("type", e.target.value)}>
+            {TYPES.map((t) => (
+              <option key={t.id} value={t.id}>
+                {t.icon} {t.label}
               </option>
             ))}
           </select>
         </label>
         <label>
           Estado
-          <select value={form.status} onChange={(e) => up("status", e.target.value as Entry["status"])}>
-            <option value="active">Publicada</option>
-            <option value="review">Pendiente de revisión</option>
-            <option value="archived">Archivada (oculta)</option>
+          <select value={form.status} onChange={(e) => up("status", e.target.value)}>
+            {STATUSES.map((s) => (
+              <option key={s.id} value={s.id}>
+                {s.label}
+                {s.visible ? "" : " (oculta)"}
+              </option>
+            ))}
           </select>
         </label>
         <label>
           Categoría
-          <select value={form.category} onChange={(e) => up("category", e.target.value as Entry["category"])}>
+          <select
+            value={form.category}
+            onChange={(e) => {
+              const cat = e.target.value;
+              setForm((f) => ({ ...f, category: cat, subcategory: categoryOf(cat).subcategories.some((s) => s.id === f.subcategory) ? f.subcategory : undefined }));
+            }}
+          >
             {CATEGORIES.map((c) => (
               <option key={c.id} value={c.id}>
                 {c.icon} {c.name}
@@ -165,13 +168,30 @@ export default function Editor() {
           </select>
         </label>
         <label>
-          Subcategoría
-          <input list="subs" value={form.subcategory ?? ""} onChange={(e) => up("subcategory", slugify(e.target.value) || undefined)} />
-          <datalist id="subs">
+          Subcategoría <small><Link to="/admin/taxonomy">gestionar</Link></small>
+          <select value={form.subcategory ?? ""} onChange={(e) => up("subcategory", e.target.value || undefined)}>
+            <option value="">— Sin subcategoría —</option>
             {subs.map((s) => (
-              <option key={s} value={s} />
+              <option key={s.id} value={s.id}>
+                {s.name}
+              </option>
             ))}
-          </datalist>
+            {form.subcategory && !subs.some((s) => s.id === form.subcategory) && <option value={form.subcategory}>{form.subcategory} (no registrada)</option>}
+          </select>
+        </label>
+        <label>
+          Twitter / X
+          <select value={form.twitter ?? "unpublished"} onChange={(e) => up("twitter", e.target.value as Entry["twitter"])}>
+            {Object.entries(TWITTER_STATES).map(([k, l]) => (
+              <option key={k} value={k}>
+                {l}
+              </option>
+            ))}
+          </select>
+        </label>
+        <label>
+          Hilo de X
+          <input readOnly value={form.thread?.length ? `${form.thread.length} posts guardados (se edita desde la ficha)` : "Sin hilo · genéralo desde la ficha"} />
         </label>
         <label className="span2">
           Enlace principal

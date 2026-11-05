@@ -47,9 +47,9 @@ npm run dev        # http://127.0.0.1:5173 · incluye el panel de edición local
 
 | Script | Qué hace |
 |---|---|
-| `npm run dev` | Servidor local con edición (botones «+ Nueva» / «✎ Editar»; guarda en `data/*.json`) |
+| `npm run dev` | Servidor local con edición: «+ Nueva» / «✎ Editar», «⚙ Taxonomía» (tipos, estados, categorías y subcategorías en `config/taxonomy.json`) y «🧵 Generar hilo» para X en cada ficha |
 | `npm run ingest` | Reimporta `archivos/*.txt` → `data/*.json` (no toca entradas editadas a mano) |
-| `npm run validate` | Valida `data/*.json` contra el esquema |
+| `npm run validate` | Valida `config/taxonomy.json` y `data/*.json` (esquema y referencias) |
 | `npm run build` | Genera el sitio estático en `dist/` |
 
 **Publicación:** cada push a `main` despliega en GitHub Pages (`.github/workflows/deploy.yml`). Activa *Settings → Pages → Source: GitHub Actions*. En la versión publicada, «Editar en GitHub» abre el JSON correspondiente.

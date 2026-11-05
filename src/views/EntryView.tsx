@@ -1,9 +1,11 @@
-import { Fragment, useMemo, useState } from "react";
+import { Fragment, Suspense, lazy, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { BY_ID, ENTRIES, IS_DEV, assetUrl, categoryOf, githubEditUrl } from "../lib/data";
-import { TYPE_LABELS } from "../lib/schema";
+import { BY_ID, ENTRIES, IS_DEV, assetUrl, categoryOf, githubEditUrl, isVisible, subcategoryName } from "../lib/data";
+import { StatusBadge, TypeBadge, XBadge } from "../components/Badges";
 import EntryCard, { Thumb, hostOf } from "../components/EntryCard";
 import { htmlToText, sanitizeHtml } from "../lib/html";
+// Panel de hilos de X: sólo en la edición local.
+const ThreadPanel = lazy(() => import("../components/ThreadPanel"));
 
 const URL_SPLIT = /(https?:\/\/[^\s<>"')\]]+)/g;
 
@@ -28,10 +30,11 @@ export default function EntryView() {
   const { id } = useParams();
   const e = id ? BY_ID.get(id) : undefined;
   const [copied, setCopied] = useState(false);
+  const [genSignal, setGenSignal] = useState(0);
 
   const related = useMemo(() => {
     if (!e) return [];
-    return ENTRIES.filter((o) => o.id !== e.id && o.status !== "archived")
+    return ENTRIES.filter((o) => o.id !== e.id && isVisible(o))
       .map((o) => ({ o, score: (o.subcategory === e.subcategory ? 2 : 0) + o.tags.filter((t) => e.tags.includes(t)).length + (o.category === e.category ? 1 : 0) }))
       .filter((x) => x.score >= 3)
       .sort((a, b) => b.score - a.score)
@@ -58,7 +61,7 @@ export default function EntryView() {
         <Link to="/">Inicio</Link> / <Link to={`/c/${cat.id}`}>{cat.name}</Link>
         {e.subcategory && (
           <>
-            {" "}/ <Link to={`/c/${cat.id}?sub=${e.subcategory}`}>{e.subcategory.replace(/-/g, " ")}</Link>
+            {" "}/ <Link to={`/c/${cat.id}?sub=${e.subcategory}`}>{subcategoryName(e.category, e.subcategory)}</Link>
           </>
         )}
       </nav>
@@ -67,8 +70,9 @@ export default function EntryView() {
         <Thumb entry={e} size={56} />
         <div>
           <div className="card-meta">
-            <span className={`badge badge-${e.type}`}>{TYPE_LABELS[e.type]}</span>
-            {e.status === "review" && <span className="badge badge-review">pendiente de revisión</span>}
+            <TypeBadge type={e.type} />
+            <StatusBadge status={e.status} />
+            <XBadge entry={e} />
           </div>
           <h1>{e.title}</h1>
           {e.github && (
@@ -93,9 +97,14 @@ export default function EntryView() {
           </button>
         )}
         {IS_DEV ? (
-          <Link className="btn" to={`/admin/edit/${e.id}`}>
-            ✎ Editar
-          </Link>
+          <>
+            <Link className="btn" to={`/admin/edit/${e.id}`}>
+              ✎ Editar
+            </Link>
+            <button className="btn btn-x" onClick={() => setGenSignal((n) => n + 1)} title="Genera un hilo para X a partir de la ficha">
+              🧵 Generar hilo
+            </button>
+          </>
         ) : (
           <a className="btn" href={githubEditUrl(e)} target="_blank" rel="noopener noreferrer" title={`Busca "${e.id}" en el fichero`}>
             ✎ Editar en GitHub
@@ -133,6 +142,14 @@ export default function EntryView() {
             ))}
           </ul>
         </section>
+      )}
+
+      {IS_DEV && (
+        <div id="hilo-x">
+          <Suspense fallback={null}>
+            <ThreadPanel entry={e} generateSignal={genSignal} />
+          </Suspense>
+        </div>
       )}
 
       <footer className="detail-foot">
