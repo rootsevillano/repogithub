@@ -7215,8 +7215,9 @@
     "id": "gh-maxliu22-motion2mixamorig",
     "type": "repo",
     "title": "Motion2MixamoRig",
-    "summary": "Encontré un proyecto de código abierto que puede convertir directamente videos de movimientos de personas reales en animaciones de personajes 3D.",
-    "body": "Encontré un proyecto de código abierto que puede convertir directamente videos de movimientos de personas reales en animaciones de personajes 3D.\n\nMotion2MixamoRig extrae movimientos de videos de cuerpo completo de una sola persona, los transfiere a personajes de Mixamo, y después de exportar en GLB, aún se puede editar en Blender / Unity.\n\nMe importa más este GLB: no es solo un video para ver, sino material que se puede seguir usando para animaciones de juegos.\nhttps://github.com/MaxLiu22/Motion2MixamoRig",
+    "summary": "Motion2MixamoRig es una herramienta de captura de movimiento (mocap) por vídeo y código abierto que transfiere el movimiento de una persona (o una pose fija de una foto) directamente a cualquier personaje 3D con esqueleto (rig) estándar de Adobe Mixamo. Permite exportar la animación como archivo de personaje 3D (.glb) o usarla directamente en Blender 4.2+ a través de su propia extensión.",
+    "body": "<p>El proyecto elimina la necesidad de trajes de captura de movimiento o hardware especializado, apoyándose en visión por computador y modelos de estimación de pose 3D basados en IA:</p><ol><li><p><strong>Entradas requeridas:</strong></p><ul><li><p><strong>Material visual:</strong> Un vídeo de una persona de cuerpo entero (para movimiento continuo) o una fotografía de cuerpo entero (para recuperar una pose 3D fija).</p></li><li><p><strong>Modelo 3D:</strong> Un archivo <code>.fbx</code> de un personaje descargado de Adobe Mixamo (como el clásico <em>Y Bot</em>) con su esqueleto estándar.</p></li></ul></li><li><p><strong>Pipeline de estimación y retargeting:</strong></p><ul><li><p>Utiliza modelos de IA de estimación de pose como <strong>GVHMR</strong> (World-Grounded Human Motion Recovery), <strong>HMR2</strong>, <strong>ViTPose</strong> y <strong>YOLOv8</strong>.</p></li><li><p>Reconstruye el cuerpo humano tridimensional apoyándose en el modelo de cuerpo paramétrico <strong>SMPL-X</strong> (y opcionalmente <strong>MANO</strong> para la articulación detallada de dedos y manos).</p></li><li><p>Transfiere (<em>retargeting</em>) las rotaciones y traslaciones calculadas directamente a los huesos de Mixamo, ajustando el anclaje de pies al suelo y detectando autointersenciones (por ejemplo, si una mano atraviesa la cabeza).</p></li></ul></li><li><p><strong>Flujos de trabajo e interfaces:</strong></p><ul><li><p><strong>Extensión de Blender (4.2+):</strong> Cuenta con un panel nativo en Blender con instalación en un clic del entorno, visualización de progreso y volcado automático de la animación en la escena.</p></li><li><p><strong>Línea de comandos (CLI):</strong> Comando <code>m2mr</code> ejecutable por terminal en macOS, Linux y Windows para procesamiento por lotes o diagnóstico del entorno (<code>m2mr doctor</code>).</p></li><li><p><strong>Reutilización de datos de esqueleto:</strong> Guarda los movimientos extraídos en formato <code>.npz</code>, lo que permite aplicar el mismo movimiento a diferentes personajes sin tener que repetir el cálculo visual desde el vídeo original.</p></li></ul></li></ol><h3>¿Es totalmente gratuito o requiere pagos y suscripciones?</h3><ul><li><p><strong>El software y el código fuente:</strong> Son <strong>100 % gratuitos y de código abierto</strong>. No tienes que pagar ninguna licencia, ni membresía, ni suscripción para descargar el código, la extensión de Blender o usar la herramienta.</p></li><li><p><strong>¿Requiere pagos en IAs comerciales o suscripciones? NO.</strong></p><ul><li><p>No utiliza APIs comerciales de pago (no requiere OpenAI, ni Anthropic, ni pasarelas de pago por uso).</p></li><li><p>Todos los modelos de visión y cálculo de pose (GVHMR, ViTPose, YOLOv8) se descargan de forma automática y gratuita en tu equipo (~5,6 GB en pesos) y <strong>se ejecutan de manera 100 % local</strong> en tu procesador o tarjeta gráfica.</p></li></ul></li><li><p><strong>Cuentas y dependencias externas requeridas (Todas gratuitas):</strong></p><ol><li><p><strong>Cuenta gratuita de Adobe (Mixamo):</strong> Para descargar cualquier personaje o esqueleto en <code>.fbx</code> desde <code>mixamo.com</code> (no requiere suscripción a Creative Cloud de pago).</p></li><li><p><strong>Registro gratuito en Max Planck Institute (SMPL-X / MANO):</strong> Debido a los términos de distribución del modelo de cuerpo humano SMPL-X (y MANO para manos), el repositorio no puede redistribuir el archivo directamente. Tienes que crearte una cuenta gratuita en su web oficial (<code>smpl-x.is.tue.mpg.de</code>) y descargar el archivo <code>SMPLX_NEUTRAL.npz</code> sin coste económico.</p></li></ol></li><li><p><strong>Restricción de licencia (Uso no comercial):</strong></p><ul><li><p>Aunque es <strong>totalmente gratuito de usar</strong>, los modelos de investigación en los que se apoya (SMPL-X y GVHMR) tienen licencias de uso académico y no comercial. Es libre para proyectos personales, investigación o experimentación, pero no está autorizado para venta comercial directa según las licencias de sus componentes de origen.</p></li></ul></li></ul>",
+    "bodyFormat": "html",
     "url": "https://github.com/MaxLiu22/Motion2MixamoRig",
     "github": {
       "owner": "MaxLiu22",
@@ -7232,16 +7233,17 @@
       "file": "Repositorios.txt",
       "line": 2784
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-06T19:45:40.088Z"
   },
   {
     "id": "gh-inclusionai-ming-3-0-tts",
     "type": "repo",
     "title": "Ming 3.0 Tts",
-    "summary": "Es demasiado fluido, Ming-3.0-tts puede clonar una voz directamente con un segmento de audio de referencia, y además se puede controlar cómo leer con una sola frase. El inclusionAI, de Ant Group, se abrió al código abierto ayer.",
-    "body": "Es demasiado fluido, Ming-3.0-tts puede clonar una voz directamente con un segmento de audio de referencia, y además se puede controlar cómo leer con una sola frase.\n\nEl inclusionAI, de Ant Group, se abrió al código abierto ayer. En la lista de síntesis de voz de octubre de Artificial Analysis, la estabilidad de pronunciación de Ming-3.0-tts se llevó el primer lugar en la tabla general, con una precisión del 93.2%, y el control de timbre es el número uno entre los modelos de código abierto.\n\nAl hacer doblaje y contenido de audio, lo más molesto no es que el timbre no suene parecido, sino que lea mal. Si expandir o no las abreviaturas, si leer los modelos y números exactamente sin errores, antes solo se podía probar frase por frase, detectar el problema y volver a modificar el texto. Ming-3.0-tts obtuvo 96.5% y 90.6% en estos dos aspectos, ambos primeros en la lista, ahorrando así varias rondas de pruebas y errores.\n\nAdemás, integra 14 etiquetas de subidiomas, cosas como risas o suspiros se pueden escribir directamente en el texto y salen; aparte del chino, inglés, alemán, español, francés, coreano y japonés, también puede hablar en dialecto de Sichuan y cantonés. Lo que se lanzó es un modelo denso de 0.5B y un modelo de expertos mixtos tiny con un total de 7.9B parámetros y activación de 1.3B, este último incluso puede generar diálogos multi-persona según el guion. El informe técnico aún no se ha publicado, pero el código de inferencia y la tabla de evaluación están en el repositorio.\n\nLeer con precisión es, en realidad, la parte más difícil de la síntesis de \nhttps://github.com/inclusionAI/Ming-3.0-tts",
+    "summary": "inclusionAI/Ming-3.0-tts es una familia de modelos de síntesis de voz (Text-to-Speech) de código abierto y pesos abiertos que ofrece variantes densas (0.5B) y de mezcla de expertos MoE (7.9B total / 1.3B activos). Permite clonación de voz (zero-shot voice cloning), diseño de voces mediante texto, generación conversacional multiturno y control expresivo mediante instrucciones en lenguaje natural y etiquetas de sonidos no verbales.",
+    "body": "<p>El proyecto destaca por su arquitectura híbrida que combina un modelo de lenguaje autorregresivo con un cabezal de difusión (<em>Diffusion Transformer</em> / DiT) y un tokenizador de audio neuronal:</p><ol><li><p><strong>Modelos disponibles:</strong></p><ul><li><p><code>Ming-3.0-tts-0.5b</code><strong>:</strong> Modelo denso de 500 millones de parámetros, más ligero y optimizado para inferencia rápida y ajuste fino (<em>fine-tuning</em> con LoRA o completo).</p></li><li><p><code>Ming-3.0-tts-tiny</code><strong>:</strong> Arquitectura MoE (Mixture of Experts) con 7.900 millones de parámetros totales y solo 1.300 millones activos por token, basada en Ling V3, orientada a la máxima expresividad y diálogos complejos.</p></li></ul></li><li><p><strong>Capacidades funcionales:</strong></p><ul><li><p><strong>Clonación de voz (<em>Voice Cloning</em>):</strong> Replica un timbre de voz a partir de un fragmento corto de audio de referencia.</p></li><li><p><strong>Diseño de voz desde texto (<em>Voice Design</em>):</strong> Genera una voz sintética única a partir de una descripción en lenguaje natural (ej. \"voz masculina madura de narrador de documental, ritmo pausado\"), sin necesidad de audio previo.</p></li><li><p><strong>Control de habla libre (<em>Freeform control</em>):</strong> Permite guiar la entonación o intención con instrucciones textuales directas (ej. \"habla con calidez y nostalgia\").</p></li><li><p><strong>Etiquetas paralingüísticas (<em>Paralinguistic Tags</em>):</strong> Soporta 14 etiquetas insertables en el texto como <code>[Breathing]</code>, <code>[Cough]</code>, <code>[Sigh]</code>, <code>[Laughter]</code> o expresiones de duda/asombro.</p></li><li><p><strong>Soporte multilingüe:</strong> Sintetiza voz en español, inglés, alemán, francés, coreano, japonés y chino (incluyendo dialectos como el cantonés o sichuanés).</p></li><li><p><strong>Modo Podcast / Diálogo (en la variante Tiny):</strong> Genera conversaciones completas entre múltiples interlocutores a partir de un guion estructurado (<code>speaker_1</code>, <code>speaker_2</code>) y sus respectivas muestras de voz.</p></li></ul></li></ol><h3><span style=\"color: rgb(198, 55, 47)\">¿Es totalmente gratuito o requiere pagos y suscripciones?</span></h3><ul><li><p><strong>El software y los pesos:</strong> Son <strong>100 % gratuitos y de código abierto</strong>. El código se distribuye bajo licencia permisiva <strong>MIT</strong> y los pesos de los modelos (<code>Ming-3.0-tts-0.5b</code> y <code>Ming-3.0-tts-tiny</code>) están disponibles para descarga pública y gratuita en Hugging Face y ModelScope.</p></li><li><p><strong>¿Exige suscripción de pago obligatoria? NO.</strong> No existe ninguna suscripción de pago, cuota recurrente ni membresía asociada al repositorio.</p></li></ul><p><strong>Consideraciones sobre costes de infraestructura:</strong></p><ul><li><p><strong>Ejecución local (100 % gratuita):</strong> Si dispones de hardware con GPU dedicada (NVIDIA con CUDA y suficiente VRAM para el modelo elegido, especialmente para cargar los modelos en precisión <code>bf16</code>), puedes ejecutarlo, generar audio o reentrenarlo de forma local sin pagar absolutamente nada a ningún proveedor de IA ni de APIs.</p></li><li><p><strong>APIs o servicios externos:</strong> No depende obligatoriamente de ninguna API comercial de pago externa (ni de OpenAI, ni de ElevenLabs, etc.); toda la inferencia la realiza el propio modelo del repositorio. Únicamente incurrirías en costes si decides desplegarlo en plataformas de computación en la nube de pago por horas (como RunPod, Lambda Labs, AWS o GCP) en caso de no contar con una GPU en local.</p></li></ul>",
+    "bodyFormat": "html",
     "url": "https://github.com/inclusionAI/Ming-3.0-tts",
     "github": {
       "owner": "inclusionAI",
@@ -7257,16 +7259,17 @@
       "file": "Repositorios.txt",
       "line": 2795
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-06T19:40:05.928Z"
   },
   {
     "id": "gh-somarkai-oxr",
     "type": "repo",
     "title": "OXR",
-    "summary": "¡Convierte documentos en datos aptos para agentes! OXR es un modelo de análisis de documentos de código abierto de 1.3 mil millones de parámetros que transforma PDFs e imágenes de documentos en Markdown o JSON estructurados.",
-    "body": "¡Convierte documentos en datos aptos para agentes!\n\nOXR es un modelo de análisis de documentos de código abierto de 1.3 mil millones de parámetros que transforma PDFs e imágenes de documentos en Markdown o JSON estructurados.\n\nEn lugar de extraer solo texto, reconoce 13 elementos de documentos diferentes, incluyendo tablas, fórmulas, figuras, bloques de código, notas al pie y estructuras químicas, al mismo tiempo que preserva el orden de lectura y las coordenadas de diseño.\n\nEso hace que la salida sea mucho más útil para RAG y agentes, donde saber qué dice el texto es solo una parte del problema. También necesitas saber qué es una tabla, dónde pertenece una fórmula, qué pie de figura corresponde a qué figura y cómo se debe leer realmente el documento.\n\nLa parte técnica que me pareció interesante es cómo se post-entrenó OXR.\n\nUtiliza un bucle de auto-mejora recursiva donde OXR primero analiza documentos sin etiquetar, luego un VLM general revisa las salidas en busca de errores e incertidumbre.\n\nLas discrepancias en múltiples ejecuciones de OXR ayudan a identificar ejemplos inciertos, esos fallos se agrupan por causa y el VLM genera datos de entrenamiento dirigidos para la siguiente ronda.\n\nAsí, en lugar de etiquetar manualmente nuevos datos para cada iteración, los propios fallos de análisis del modelo ayudan a decidir en qué debería entrenarse a continuación.\n\nLa arquitectura también es diferente de la tubería de análisis habitual.\n\nEl análisis de diseño permanece independiente y modular, mientras que el reconocimiento y el orden de lectura consciente del contenido se ejecutan en paralelo dentro del modelo principal. Eso significa que los equipos pueden reemplazar el modelo de diseño por su propia estructura de documentos sin reemplazar el resto de OXR.\n\nY los resultados son sólidos para un modelo de 1.3 mil millones de parámetros.\n\nOXR ocupa el #1 en olmOCR-Bench, OmniDocBench y DocParsingBench. En la prueba de velocidad reportada de 100 páginas en una sola RTX PRO 6000, OXR terminó en aproximadamente 101 segundos frente a 161 segundos para DeepSeek-OCR-2.\n\nEl modelo completo es de código abierto.\nhttps://github.com/SoMarkAI/OXR",
+    "summary": "SoMarkAI/OXR es un modelo fundacional y biblioteca de análisis inteligente de documentos (Document Parsing) de código abierto, diseñado para convertir PDFs e imágenes complejas en datos estructurados (Markdown y JSON) optimizados para canalizaciones RAG y agentes de IA. Destaca por su alta velocidad y tamaño compacto (1,3B parámetros), manteniendo una precisión puntera en la extracción de tablas, fórmulas matemáticas en LaTeX y diagramas químicos.",
+    "body": "<p>OXR aborda los problemas típicos del OCR tradicional y la maquetación desordenada, transformando documentos no estructurados en contenido semánticamente rico y listo para LLMs:</p><ol><li><p><strong>Reconocimiento de 13 tipos de elementos:</strong> Identifica y clasifica con precisión tablas complejas (las exporta a HTML/Markdown limpio), fórmulas matemáticas (LaTeX), ecuaciones químicas (<code>\\ce</code>), estructuras químicas moleculares (formato SMILES), bloques de código, títulos, pies de página, sellos e imágenes.</p></li><li><p><strong>Determinación del orden de lectura:</strong> Reconstruye la jerarquía y el flujo natural de lectura incluso en maquetaciones difíciles como periódicos en columnas, exámenes formato A3, artículos científicos o textos escritos a mano.</p></li><li><p><strong>Módulo de análisis de diseño (<em>Layout Analysis</em>) desacoplable:</strong> Permite usar el analizador de maquetación integrado o sustituirlo fácilmente por un modelo propio adaptado a las necesidades específicas de una empresa.</p></li><li><p><strong>Eficiencia y rendimiento:</strong> Al contar con solo 1.300 millones de parámetros (1.3B), requiere muy poca memoria VRAM en comparación con modelos multimodales gigantescos, permitiendo un rendimiento de alta velocidad en GPUs de consumo o servidores locales.</p></li></ol><h3><span style=\"color: rgb(198, 55, 47)\">¿Es totalmente gratuito o requiere pagos y suscripciones?</span></h3><ul><li><p><strong>El software y los pesos son 100 % gratuitos y de código abierto:</strong></p><ul><li><p>El código del repositorio y los pesos del modelo son de libre acceso.</p></li><li><p><strong>No existe ninguna suscripción obligatoria</strong> ni cuotas mensuales impuestas por el proyecto.</p></li></ul></li><li><p><strong>Estructura de costes y modos de uso:</strong></p><ol><li><p><strong>Modo Local / Autoalojado (100 % gratuito y sin límites):</strong></p><ul><li><p>Al ser un modelo ligero de 1.3B, puedes descargarlo de plataformas como Hugging Face / ModelScope y ejecutarlo directamente en tu propia tarjeta gráfica o servidor local.</p></li><li><p>En esta modalidad no dependes de ninguna API externa ni pagas por páginas procesadas.</p></li></ul></li><li><p><strong>API gratuita oficial (Para pruebas sin coste):</strong></p><ul><li><p>Los creadores proporcionan una API pública y gratuita (<code>[https://free-oxr.somark.ai/api/v1](https://free-oxr.somark.ai/api/v1)</code>) que no requiere registro ni tarjeta de crédito. Funciona con una clave ficticia (<code>--api-key dummy</code>), pensada para pruebas y experimentación.</p></li></ul></li><li><p><strong>API comercial oficial de SoMark (Opcional):</strong></p><ul><li><p>SoMark ofrece una versión SaaS/API oficial de grado empresarial con garantías de disponibilidad y soporte para producción sin colas de espera. Esto es estrictamente opcional y solo aplica si decides usar su infraestructura en la nube en lugar de hospedar el modelo por tu cuenta.</p></li></ul></li></ol></li></ul><p>No requiere pagos ni suscripciones de herramientas externas para funcionar; puedes procesar documentos de forma ilimitada y a coste cero ejecutándolo localmente en tu propia infraestructura.</p>",
+    "bodyFormat": "html",
     "url": "https://github.com/SoMarkAI/OXR",
     "github": {
       "owner": "SoMarkAI",
@@ -7286,16 +7289,17 @@
       "file": "Repositorios.txt",
       "line": 2811
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-06T19:40:24.736Z"
   },
   {
     "id": "gh-sylhetyhackvenger-nombrehunt",
     "type": "repo",
     "title": "NombreHUNT",
-    "summary": "NombreHUNT | OSINT de números con 35+ módulos y 250+ plataformas Cuando el único dato es un teléfono, necesitas inteligencia completa y rápida.",
-    "body": "📱🕵️⚡ NombreHUNT | OSINT de números con 35+ módulos y 250+ plataformas\n\nCuando el único dato es un teléfono, necesitas inteligencia completa y rápida.\nhttps://github.com/sylhetyhackvenger/NombreHUNT",
+    "summary": "NombreHUNT es un framework de ciberinteligencia y OSINT en Python enfocado en la investigación forense de números de teléfono, diseñado para rastrear la huella digital asociada a un número mediante el escaneo de más de 250 plataformas sociales, bases de datos de filtraciones (leaks), operadores de telecomunicaciones y la dark web.",
+    "body": "<p>El proyecto está orientado a analistas de inteligencia sobre amenazas (<em>Threat Intelligence</em>), peritos forenses y pentesters, estructurando su operativa en varios módulos clave:</p><ol><li><p><strong>Inteligencia de telefonía y red:</strong></p><ul><li><p>Validación del formato internacional (E.164) y detección de país/código de área.</p></li><li><p>Identificación del tipo de línea (móvil, fija, VoIP, números temporales o desechables).</p></li><li><p>Detección de portabilidad numérica entre operadores y análisis de riesgo de <em>SIM Swapping</em>.</p></li></ul></li><li><p><strong>Rastreo en redes y plataformas sociales (250+ servicios):</strong></p><ul><li><p>Emplea peticiones asíncronas concurrentes para verificar si el número o sus derivados están registrados en apps de mensajería (WhatsApp, Telegram, Signal), redes sociales (X, Instagram, LinkedIn, Facebook, TikTok), plataformas de empleo (GitHub, Freelancer) y foros.</p></li><li><p>Intenta extraer metadatos públicos como nombres de usuario, fotos de perfil, biografías y fecha de última actividad.</p></li></ul></li><li><p><strong>Inteligencia sobre brechas de datos (<em>Breach Intelligence</em>) y Dark Web:</strong></p><ul><li><p>Conecta con bases de datos de filtraciones históricas (como HaveIBeenPwned, DeHashed, LeakCheck, Snusbase o BreachDirectory) para comprobar si el número figura en contraseñas filtradas o vertederos de credenciales de la red oscura.</p></li></ul></li><li><p><strong>Evaluación de riesgo y reputación:</strong></p><ul><li><p>Genera una puntuación de riesgo y nivel de spam basada en listas negras (DNSBL), si se trata de un número virtual/VoIP y el volumen de exposición pública encontrado.</p></li></ul></li><li><p><strong>Generación de informes:</strong></p><ul><li><p>Consolida las correlaciones y evidencias recogidas en formatos exportables estructurados como JSON, CSV o bases de datos SQLite locales.</p></li></ul></li></ol><h3><span style=\"color: rgb(198, 55, 47)\">¿Es totalmente gratuito o requiere pagos y suscripciones?</span></h3><ul><li><p><strong>El código del repositorio:</strong> Es <strong>100 % gratuito y de código abierto</strong> (licencia MIT). Puedes clonarlo y ejecutar el script <code>main.py</code> sin pagar nada a los autores.</p></li><li><p><strong>¿Exige suscripción obligatoria para funcionar? NO.</strong> Puedes ejecutarlo en su modo básico sin cuotas fijas.</p></li></ul><p>Sin embargo, <strong>para desbloquear toda su potencia operativa, depende de APIs externas comerciales (algunas de pago)</strong>:</p><p>1. Módulos que funcionan 100 % gratis</p><ul><li><p>Las comprobaciones de formato telefónico, código de país y operador local (vía librerías como <code>phonenumbers</code>).</p></li><li><p>Los escaneos de presencia en plataformas públicas mediante endpoints abiertos o web scraping directo.</p></li><li><p>Las consultas básicas de reputación y búsquedas automatizadas mediante Google Dorking.</p></li></ul><p>2. Módulos que requieren suscripciones o pagos por API</p><ul><li><p><strong>Bases de datos de brechas y filtraciones (Breach Intelligence):</strong></p><ul><li><p>Servicios integrados como <strong>DeHashed</strong>, <strong>Snusbase</strong>, <strong>LeakCheck</strong> o la API de búsqueda de <strong>Have I Been Pwned</strong> son servicios de pago que requieren suscripciones activas o saldo de créditos para consultar nombres, credenciales o contraseñas en claro.</p></li></ul></li><li><p><strong>APIs de telecomunicaciones avanzadas (HLR Lookup / SIM Swap):</strong></p><ul><li><p>Para obtener datos en tiempo real de si un número ha cambiado de SIM recientemente o su estado de red exacto en operadora, se suelen emplear pasarelas de HLR Lookup de pago por petición (como Twilio Lookup, Numverify comercial, etc.).</p></li></ul></li></ul><p>No necesitas pagar una suscripción para descargar ni probar el script, pero <strong>si deseas que las comprobaciones de brechas de seguridad o datos profundos de operadora devuelvan resultados reales, necesitarás introducir claves de API de servicios comerciales de terceros (que suelen ser de suscripción mensual o pago por consulta)</strong>. En caso de no configurarlas, la herramienta simplemente omitirá esos módulos y ejecutará los escaneos públicos gratuitos.</p>",
+    "bodyFormat": "html",
     "url": "https://github.com/sylhetyhackvenger/NombreHUNT",
     "github": {
       "owner": "sylhetyhackvenger",
@@ -7310,9 +7314,9 @@
       "file": "Repositorios.txt",
       "line": 2843
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-04T20:25:11.175Z"
+    "updatedAt": "2026-11-06T19:40:34.095Z"
   },
   {
     "id": "gh-joasasantos-rea-prompts",
@@ -7333,9 +7337,9 @@
       "file": "Repositorios.txt",
       "line": 2852
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T09:11:12.105Z"
+    "updatedAt": "2026-11-06T19:40:44.047Z"
   },
   {
     "id": "gh-keygraphhq-shannon",
@@ -7360,9 +7364,9 @@
       "file": "Repositorios.txt",
       "line": 2895
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:58:28.311Z"
+    "updatedAt": "2026-11-06T19:40:53.790Z"
   },
   {
     "id": "gh-manimcommunity-manim",
@@ -7385,9 +7389,9 @@
       "file": "Repositorios.txt",
       "line": 2931
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:41:20.461Z"
+    "updatedAt": "2026-11-06T19:42:02.020Z"
   },
   {
     "id": "gh-wshuyi-remotion-video-skill",
@@ -7410,9 +7414,9 @@
       "file": "Repositorios.txt",
       "line": 2937
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:38:47.002Z"
+    "updatedAt": "2026-11-06T19:42:38.819Z"
   },
   {
     "id": "tool-aitmpl-com-1roms",
@@ -7432,9 +7436,9 @@
       "file": "Repositorios.txt",
       "line": 2970
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:37:04.857Z"
+    "updatedAt": "2026-11-06T19:42:47.418Z"
   },
   {
     "id": "gh-krillinai-open",
@@ -7457,9 +7461,9 @@
       "file": "Repositorios.txt",
       "line": 2992
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:28:39.410Z"
+    "updatedAt": "2026-11-06T19:43:02.410Z"
   },
   {
     "id": "tool-social-media-research-skills-18hbo",
@@ -7484,9 +7488,9 @@
       "file": "Repositorios.txt",
       "line": 2998
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:28:56.402Z"
+    "updatedAt": "2026-11-06T19:42:54.917Z"
   },
   {
     "id": "tool-local-deep-research-2vmxd",
@@ -7507,9 +7511,9 @@
       "file": "Repositorios.txt",
       "line": 3004
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:24:33.955Z"
+    "updatedAt": "2026-11-06T19:43:09.661Z"
   },
   {
     "id": "tool-flux-2-1y0pf",
@@ -7532,9 +7536,9 @@
       "file": "Repositorios.txt",
       "line": 3010
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:20:30.242Z"
+    "updatedAt": "2026-11-06T19:43:30.663Z"
   },
   {
     "id": "gh-ace-step-ace-s",
@@ -7557,9 +7561,9 @@
       "file": "Repositorios.txt",
       "line": 3022
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:22:02.001Z"
+    "updatedAt": "2026-11-06T19:43:19.685Z"
   },
   {
     "id": "gh-yils-lin-short",
@@ -7582,9 +7586,9 @@
       "file": "Repositorios.txt",
       "line": 3028
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T08:01:58.136Z"
+    "updatedAt": "2026-11-06T19:43:37.882Z"
   },
   {
     "id": "gh-anil-matcha-ai",
@@ -7608,9 +7612,9 @@
       "file": "Repositorios.txt",
       "line": 3034
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T07:56:14.329Z"
+    "updatedAt": "2026-11-06T19:43:44.086Z"
   },
   {
     "id": "gh-souzatharsis-p",
@@ -7633,9 +7637,9 @@
       "file": "Repositorios.txt",
       "line": 3040
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T07:24:37.730Z"
+    "updatedAt": "2026-11-06T19:43:52.364Z"
   },
   {
     "id": "gh-langchain-ai-s",
@@ -7661,9 +7665,9 @@
       "file": "Repositorios.txt",
       "line": 3046
     },
-    "status": "active",
+    "status": "revisada",
     "createdAt": "2026-11-04T20:25:11.175Z",
-    "updatedAt": "2026-11-05T07:07:46.391Z"
+    "updatedAt": "2026-11-06T19:44:00.718Z"
   },
   {
     "id": "claude-code-resource-bible",

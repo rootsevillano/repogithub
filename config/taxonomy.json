@@ -235,14 +235,14 @@
     {
       "id": "active",
       "label": "Publicada",
-      "color": "#0f8a6a",
+      "color": "#432de6",
       "visible": true,
-      "flag": false
+      "flag": true
     },
     {
       "id": "review",
       "label": "Pendiente de revisión",
-      "color": "#b7791f",
+      "color": "#f83030",
       "visible": true,
       "flag": true
     },
@@ -250,7 +250,14 @@
       "id": "archived",
       "label": "Archivada",
       "color": "#6b7280",
-      "visible": false,
+      "visible": true,
+      "flag": true
+    },
+    {
+      "id": "revisada",
+      "label": "Revisada",
+      "color": "#90f46c",
+      "visible": true,
       "flag": true
     }
   ]
